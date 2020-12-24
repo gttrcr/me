@@ -1,4 +1,4 @@
-#This is my personal website made with Gitfolio
+## This is my personal website made with Gitfolio
 
 <img src="https://i.imgur.com/eA6clZr.png">
 
