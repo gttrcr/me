@@ -1,4 +1,5 @@
-## This is my personal website made with Gitfolio
+## This is my personal website using Gitfolio generated css and custom html
+# https://gttrcr.github.io/me/
 
 <img src="https://i.imgur.com/eA6clZr.png">
 
