@@ -206,7 +206,7 @@ body {
   color: var(--text-color) !important;
   text-decoration: none;
   font-family: "Questrial", sans-serif;
-  font-weight: bold;
+  font-weight: lighter;
 }
 
 #footer {
@@ -219,7 +219,7 @@ body {
   color: var(--text-color) !important;
   text-decoration: none;
   font-family: "Questrial", sans-serif;
-  font-weight: bold;
+  font-weight: lighter;
 }
 
 #profile_img {
