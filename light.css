@@ -73,7 +73,7 @@ body {
 }
 
 #display h1 {
-  font-size: 50px;
+  font-size: 46px;
   color: var(--text-color);
   font-weight: bold;
   font-family: "Questrial", sans-serif;
@@ -93,19 +93,19 @@ body {
 }
 
 #username_blog {
-  font-size: 18px;
+  font-size: 14px;
   color: var(--text-color);
   font-family: "Poppins", sans-serif;
   font-weight: bold;
 }
 
 #username_blog span {
-  font-size: 24px;
+  font-size: 20px;
   font-family: "Questrial", sans-serif !important;
 }
 
 #username_blog b {
-  font-size: 12px;
+  font-size: 8px;
   font-family: "Poppins", sans-serif;
   font-weight: bold;
 }
@@ -147,7 +147,7 @@ body {
 }
 
 #blog-display h1 {
-  font-size: 50px;
+  font-size: 46px;
   color: var(--text-color);
   font-weight: bold;
   font-family: "Questrial", sans-serif;
@@ -163,7 +163,7 @@ body {
 }
 
 #blog p {
-  font-size: 17px;
+  font-size: 13px;
   line-height: 25px;
   word-spacing: 1.2px;
   margin: 5vh 0px;
@@ -206,7 +206,7 @@ body {
   color: var(--text-color) !important;
   text-decoration: none;
   font-family: "Questrial", sans-serif;
-  font-weight: bold;
+  font-weight: lighter;
 }
 
 #footer {
@@ -219,7 +219,7 @@ body {
   color: var(--text-color) !important;
   text-decoration: none;
   font-family: "Questrial", sans-serif;
-  font-weight: bold;
+  font-weight: lighter;
 }
 
 #profile_img {
@@ -240,22 +240,22 @@ body {
 }
 
 #username {
-  font-size: 18px;
+  font-size: 14px;
   font-weight: bold;
 }
 
 #username span {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 #userbio {
-  font-size: 26px;
+  font-size: 22px;
   font-family: "Questrial", sans-serif;
   width: 100%;
 }
 
 #about {
-  font-size: 18px;
+  font-size: 14px;
   font-family: "Questrial", sans-serif;
 }
 
@@ -277,7 +277,7 @@ body {
 }
 
 #about span i {
-  font-size: 16px;
+  font-size: 12px;
 }
 
 #work {
@@ -324,7 +324,7 @@ body {
 }
 
 .section_title {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: bold;
   margin: 1vh 0px;
   padding: 0px 1px;
@@ -332,16 +332,16 @@ body {
 }
 
 .about_section {
-  font-size: 18px;
+  font-size: 14px;
   font-family: "Questrial", sans-serif;
   margin: 2vh 0px;
-  font-weight: bold;
+  font-weight: lighter;
   word-wrap: break-word;
 }
 
 .bottom_section {
   margin: 1vh 0px;
-  font-size: 14px;
+  font-size: 10px;
   word-wrap: break-word;
 }
 
@@ -351,7 +351,7 @@ body {
 }
 
 .bottom_section span i {
-  font-size: 15px;
+  font-size: 13px;
 }
 
 .socials {
@@ -380,7 +380,7 @@ body {
 }
 
 #blog_title {
-  font-size: 50px;
+  font-size: 46px;
 }
 
 #blog_sub_title {
@@ -420,7 +420,7 @@ body {
 .go_back {
   position: absolute;
   color: var(--text-color);
-  font-size: 26px;
+  font-size: 22px;
   margin-left: 5vw;
   margin-top: 4vh;
 }
@@ -499,7 +499,7 @@ body {
   }
 
   #blog_sub_title {
-    font-size: 24px;
+    font-size: 20px;
     margin-top: -1vh;
   }
 
@@ -519,7 +519,7 @@ body {
   .go_back {
     position: relative;
     color: var(--text-color);
-    font-size: 26px;
+    font-size: 22px;
     margin-left: 5vw;
     top: 5vh;
   }
