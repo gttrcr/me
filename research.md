@@ -1,5 +1,3 @@
-# Research
-
 ## Number theory and discrete mathematics
 
 ## Entropy and information theory
