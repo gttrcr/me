@@ -7,7 +7,3 @@ header_pages:
   - portfolio.md
   - research.md
   - oeis.md
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
-    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
