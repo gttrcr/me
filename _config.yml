@@ -3,3 +3,5 @@ description: physics studies the universe, mathematics ideas, philosophy the spi
 theme: minima
 header_pages:
   - portfolio.md
+  - research.md
+  - oeis.md
