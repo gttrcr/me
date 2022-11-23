@@ -21,13 +21,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |416|Number of 6-dimensional partitions of n.|
 |421|Number of isomorphism classes of connected 3-regular (trivalent, cubic) loopless multigraphs of order 2n.|
 |427|Number of 7-dimensional partitions of n.|
-|438|Number of 1-factorizations of complete graph K_{2n}.|
+|438|Number of 1-factorizations of complete graph K_ 2n .|
 |445|Latest possible occurrence of the first consecutive pair of n-th power residues, modulo any prime.|
-|474|Number of nonisomorphic 1-factorizations of complete graph K_{2n}.|
+|474|Number of nonisomorphic 1-factorizations of complete graph K_ 2n .|
 |509|Size of second largest n-arc in PG(2,q), where q runs through the primes and prime powers >= 7.|
 |510|Maximal number of points in PG(2,q) with at most 3 on a line (next term is 21 or 22).|
-|528|Number of types of Latin squares of order n. Equivalently, number of nonisomorphic 1-factorizations of K_{n,n}.|
-|530|Let p(n, s, x) be predicate that number of occurrences of s's in x >= 2*n - the length of the longest sequence of s's in x. Then a(n)=#{x in {0,1}* | x ends in 0 and p(n,0,x) and (there is no prefix y of x such that p(n,0,y) or p(n,1,y))}.|
+|528|Number of types of Latin squares of order n. Equivalently, number of nonisomorphic 1-factorizations of K_ n,n .|
+|530|Let p(n, s, x) be predicate that number of occurrences of s's in x >= 2*n - the length of the longest sequence of s's in x. Then a(n)=# x in  0,1 * | x ends in 0 and p(n,0,x) and (there is no prefix y of x such that p(n,0,y) or p(n,1,y)) .|
 |576|a(n) is the number of (n-2) X n normalized Latin rectangles.|
 |577|Number of triangular polyominoes (or triangular polyforms, or polyiamonds) with n cells (turning over is allowed, holes are allowed, must be connected along edges).|
 |608|Number of connected partially ordered sets with n unlabeled elements.|
@@ -56,13 +56,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |791|Ramsey numbers R(3,n).|
 |794|Permanent of projective plane of order n.|
 |882|Number of twin prime pairs <= product of first n primes.|
-|935|Number of free planar polyenoids with 2n nodes and symmetry point group C_{2h}.|
-|936|Number of free planar polyenoids with n nodes and symmetry point group C_{2v}.|
+|935|Number of free planar polyenoids with 2n nodes and symmetry point group C_ 2h .|
+|936|Number of free planar polyenoids with n nodes and symmetry point group C_ 2v .|
 |937|Length of longest simple cycle without chords in the n-dimensional hypercube graph. Also called n-coil or closed n-snake-in-the-box problem.|
 |941|Number of free planar polyenoids with n nodes and symmetry point group C_s.|
 |942|Number of free planar polyenoids with n nodes.|
 |944|Number of polyhedra (or 3-connected simple planar graphs) with n nodes.|
-|947|Number of free nonplanar polyenoids with n nodes and symmetry point group C_{2v}.|
+|947|Number of free nonplanar polyenoids with n nodes and symmetry point group C_ 2v .|
 |948|Number of free nonplanar polyenoids with n nodes and symmetry point group C_s.|
 |952|Numbers n == 2 (mod 4) that are the orders of conference matrices.|
 |953|Number of free nonplanar polyenoids with n nodes.|
@@ -227,7 +227,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |2958|Numbers n such that 2*25^n - 1 is prime.|
 |2966|Egyptian fractions: number of solutions of 1 = 1/x_1 + ... + 1/x_n where 0 < x_1 <= ... <= x_n.|
 |2967|Egyptian fractions: number of solutions of 1 = 1/x_1 + ... + 1/x_n in positive integers.|
-|2968|Number of pairings {(b[1],c[1]),(b[2],c[2]),...,(b[n],c[n])} of the first 2n positive integers satisfying b[i] < c[i] and such that the 2n numbers c[i]+b[i] and c[i]-b[i] are all distinct.|
+|2968|Number of pairings  (b[1],c[1]),(b[2],c[2]),...,(b[n],c[n])  of the first 2n positive integers satisfying b[i] < c[i] and such that the 2n numbers c[i]+b[i] and c[i]-b[i] are all distinct.|
 |2974|Number of restricted solid partitions of n.|
 |2976|Number of certain self-avoiding walks with n steps on square lattice (see reference for precise definition).|
 |2979|Low-temperature series in exp(4J/kT) for antiferromagnetic susceptibility for the Ising model on square lattice.|
@@ -256,7 +256,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |3104|Number of hexagonal n-element polyominoes whose graph is a path.|
 |3109|a(n) = number of special even permutations of 2*n+1.|
 |3110|a(n) = number of special odd permutations of 2*n+1.|
-|3111|Number of complete mappings of the cyclic group Z_{2n+1}.|
+|3111|Number of complete mappings of the cyclic group Z_ 2n+1 .|
 |3112|Permanent of Schur's matrix of order 2n+1.|
 |3119|Susceptibility for diamond.|
 |3135|n! is a nontrivial product of factorials. It is conjectured that the list is complete.|
@@ -297,18 +297,18 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |3291|Number of n-step self-avoiding walks on hexagonal lattice from (0,0) to (1,1).|
 |3322|Necklace permutations.|
 |3400|Number of asymmetric (not necessarily connected) graphs with n nodes.|
-|3419|Values of m in the discriminant D = 4*m leading to a new minimum of the L-function of the Dirichlet series L(1) = Sum_{k>0} Kronecker(D,k)/k.|
-|3420|Values of m in the discriminant D = -4*m leading to a new maximum of the L-function of the Dirichlet series L(1) = Sum_{k=1..oo} Kronecker(D,k)/k.|
+|3419|Values of m in the discriminant D = 4*m leading to a new minimum of the L-function of the Dirichlet series L(1) = Sum_ k>0  Kronecker(D,k)/k.|
+|3420|Values of m in the discriminant D = -4*m leading to a new maximum of the L-function of the Dirichlet series L(1) = Sum_ k=1..oo  Kronecker(D,k)/k.|
 |3427|Number of trees by stability index.|
 |3428|Number of trees by stability index.|
 |3429|Number of trees with stability index n.|
 |3431|Number of isomorphism classes of connected irreducible posets with n labeled points.|
-|3432|Hadamard maximal determinant problem: largest determinant of a (real) {0,1}-matrix of order n.|
+|3432|Hadamard maximal determinant problem: largest determinant of a (real)  0,1 -matrix of order n.|
 |3505|Number of simple tournaments with n nodes.|
 |3507|Number of rigid tournaments with n nodes.|
-|3509|Let k(m) denote the least integer such that every m X m (0,1)-matrix with exactly k(m) ones in each row and in each column contains a 2 X 2 submatrix without zeros. The sequence gives the index n of the first term in each string of equal entries in the {k(m)} sequence (see A155934).|
+|3509|Let k(m) denote the least integer such that every m X m (0,1)-matrix with exactly k(m) ones in each row and in each column contains a 2 X 2 submatrix without zeros. The sequence gives the index n of the first term in each string of equal entries in the  k(m)  sequence (see A155934).|
 |3513|Number of regular sequences of length n.|
-|3521|Values of m in the discriminant D = -4*m leading to a new minimum of the L-function of the Dirichlet series L(1) = Sum_{k>=1} Kronecker(D,k)/k.|
+|3521|Values of m in the discriminant D = -4*m leading to a new minimum of the L-function of the Dirichlet series L(1) = Sum_ k>=1  Kronecker(D,k)/k.|
 |3829|Maximal number of unit circles through n points in plane, each circle containing 3 of the points.|
 |4023|Indices of prime repunits: numbers n such that 11...111 (with n 1's) = (10^n - 1)/9 is prime.|
 |4026|Number of perfect quadratic forms or lattices in dimension n.|
@@ -317,7 +317,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |4029|Number of n-dimensional space groups.|
 |4031|Number of n-dimensional crystal systems.|
 |4035|The coding-theoretic function A(n,4,5).|
-|4044|The classic football pool problem: size of minimal covering code in {0,1,2}^n with covering radius 1.|
+|4044|The classic football pool problem: size of minimal covering code in  0,1,2 ^n with covering radius 1.|
 |4045|Minimal size of binary code of length n such that every vector is within distance 1 of at least 2 codewords.|
 |4075|Number of Skolem sequences of order n.|
 |4076|Number of hooked Skolem sequences of order n.|
@@ -381,8 +381,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |5432|Number of permutation groups of degree n (or, number of distinct subgroups of symmetric group S_n, counting conjugates as distinct).|
 |5441|Isonemal fabrics of period exactly n.|
 |5470|Number of unlabeled planar simple graphs with n nodes.|
-|5488|Maximal number of edges in a b^{hat} graceful graph with n nodes.|
-|5519|Let T(n,d) = number of distinct d-dimensional polyominoes (or polycubes) with n cells (A049429, A049430); sequence gives Sum_{d} T(n,d).|
+|5488|Maximal number of edges in a b^ hat  graceful graph with n nodes.|
+|5519|Let T(n,d) = number of distinct d-dimensional polyominoes (or polycubes) with n cells (A049429, A049430); sequence gives Sum_ d  T(n,d).|
 |5524|k-arcs on elliptic curves over GF(q).|
 |5526|Maximal number of rational points that a (smooth, geometrically irreducible) curve of genus 3 over the finite field GF(q) can have, where q is the n-th prime power >= 2.|
 |5527|Rational points on curves of genus n over GF(2).|
@@ -405,11 +405,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |5853|The coding-theoretic function A(n,8,7).|
 |5864|The coding-theoretic function A(n,4).|
 |5924|From solution to a difference equation.|
-|5952|Theta series of P_{12a} packing.|
+|5952|Theta series of P_ 12a  packing.|
 |5966|Number of trivalent planar loopless multigraphs with 2n nodes.|
 |5980|Let F(x) = 1 + x + 4x^2 + 9x^3 + ... = g.f. for A002835 (solid partitions restricted to two planes) and expand (1-x)(1-x^2)(1-x^3)...*F(x) in powers of x.|
 |5984|Related to recurrences over rings.|
-|5991|Let k(m) denote the least integer such that every m X m (0,1)-matrix with exactly k(m) ones in each row and in each column contains a 2 X 2 submatrix without zeros. The sequence gives the index n of the last term in each string of equal entries in the {k(m)} sequence (see A155934).|
+|5991|Let k(m) denote the least integer such that every m X m (0,1)-matrix with exactly k(m) ones in each row and in each column contains a 2 X 2 submatrix without zeros. The sequence gives the index n of the last term in each string of equal entries in the  k(m)  sequence (see A155934).|
 |6016|The nim value for the game of Sym with n tails and 1 head.|
 |6018|Periods for game of Third One Lucky.|
 |6029|Numbers k such that the k-th tetrahedral number k*(k+1)*(k+2)/6 is palindromic.|
@@ -466,7 +466,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |6439|Number of tree-rooted toroidal maps with 2 faces and n vertices and without separating loops.|
 |6440|Number of tree-rooted toroidal maps with 3 faces and n vertices and without separating loops.|
 |6441|Number of nonseparable toroidal tree-rooted maps with n + 4 edges and n + 1 vertices.|
-|6455|Number of partial orders on {1,2,...,n} that are contained in the usual linear order (i.e., xRy => x<y).|
+|6455|Number of partial orders on  1,2,...,n  that are contained in the usual linear order (i.e., xRy => x<y).|
 |6459|Number of elements in Z[ sqrt(-2) ] whose 'smallest algorithm' is <= n.|
 |6479|From variance of Fibonacci search.|
 |6535|Number of one-sided hexagonal polyominoes with n cells.|
@@ -495,10 +495,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |6626|Zarankiewicz's problem k_4(n,n+1).|
 |6663|Number of projective meanders.|
 |6717|Number of ways of arranging 2n+1 nonattacking semi-queens on a (2n+1) X (2n+1) toroidal board.|
-|6754|The generalized Conway-Guy sequence w^{0}.|
-|6755|The generalized Conway-Guy sequence w^{1}.|
-|6756|The generalized Conway-Guy sequence w^{2}.|
-|6757|The generalized Conway-Guy sequence w^{3}.|
+|6754|The generalized Conway-Guy sequence w^ 0 .|
+|6755|The generalized Conway-Guy sequence w^ 1 .|
+|6756|The generalized Conway-Guy sequence w^ 2 .|
+|6757|The generalized Conway-Guy sequence w^ 3 .|
 |6759|Number of one-sided 3-dimensional polyominoes with n cells.|
 |6760|Number of one-sided 4-dimensional polyominoes with n cells.|
 |6761|Number of one-sided 5-dimensional polyominoes with n cells.|
@@ -530,10 +530,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |6815|Related to self-avoiding walks on square lattice.|
 |6818|Trails of length n on hexagonal lattice.|
 |6821|Number of connected regular graphs of degree 5 (or quintic graphs) with 2n nodes.|
-|6828|From fundamental unit of Z[ (-n)^{1/4} ].|
-|6829|From fundamental unit of Z[ (-n)^{1/4} ].|
+|6828|From fundamental unit of Z[ (-n)^ 1/4  ].|
+|6829|From fundamental unit of Z[ (-n)^ 1/4  ].|
 |6830|From fundamental unit of Z[ (-n)^1/4 ].|
-|6831|From fundamental unit of Z[ (-n)^{1/4} ].|
+|6831|From fundamental unit of Z[ (-n)^ 1/4  ].|
 |6853|Balanced colorings of n-cube.|
 |6855|Maximum number of edges in an n-node squarefree graph, or, in a graph containing no 4-cycle, or no C_4.|
 |6856|Maximal number of edges in n-node graph of girth at least 5.|
@@ -541,7 +541,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |6870|Number of quasi-orders with n elements.|
 |6889|Exponent of least power of 2 having n consecutive 0's in its decimal representation.|
 |6901|Number of caskets of order n.|
-|6916|Theta series of laminated lattice LAMBDA_13^{mid}.|
+|6916|Theta series of laminated lattice LAMBDA_13^ mid .|
 |6923|Number of connected trivalent graphs with 2n nodes and with girth exactly 3.|
 |6924|Number of connected trivalent graphs with 2n nodes and girth exactly 4.|
 |6925|Number of connected trivalent graphs with 2n nodes and girth exactly 5.|
@@ -608,8 +608,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |7673|Number of coins needed for ApSimon's mints problem.|
 |7687|Number of 4-colorings of cyclic group of order n.|
 |7688|Number of 5-colorings of cyclic group of order n.|
-|7711|Number of unreformed permutations of {1,...,n}.|
-|7712|Number of once reformable permutations of {1,2,...,n}.|
+|7711|Number of unreformed permutations of  1,...,n .|
+|7712|Number of once reformable permutations of  1,2,...,n .|
 |7756|Number of irreducible indecomposable spherical curves with n crossings (only ordinary double points), the circle is oriented, the sphere is not oriented (OU case).|
 |7760|Number of solid partitions of height n in a cube of side n.|
 |7762|Number of domino tilings of a certain region.|
@@ -681,10 +681,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |13575|Minimal scope of an (n,3) difference triangle.|
 |13578|Maximal size of equidistant permutation array R(n,2).|
 |13579|Number of inequivalent Mendelsohn triple systems (MTS(n,1)) of order n and index 1.|
-|13588|Smallest positive integer not the determinant of an n X n {0,1}-matrix.|
+|13588|Smallest positive integer not the determinant of an n X n  0,1 -matrix.|
 |13630|Irregular triangle read by rows, giving coefficients of polynomials arising as numerators of certain Hilbert series.|
 |13659|Initialized continued fraction for sqrt(n-th nonsquare) has period (1,a(n)).|
-|13927|Begin with 2n cards in n piles of 2, the piles being {1,1},{2,2},{3,3},...,{n,n}. How many transpositions of adjacent (single) cards are needed to reverse the order of the piles?|
+|13927|Begin with 2n cards in n piles of 2, the piles being  1,1 , 2,2 , 3,3 ,..., n,n . How many transpositions of adjacent (single) cards are needed to reverse the order of the piles?|
 |14109|Number of possible circular rhymes of n strophes.|
 |14127|Mirimanoff primes: primes p such that p^2 divides 3^(p-1) - 1.|
 |14224|Numbers n such that 3^n - 2 is prime.|
@@ -697,7 +697,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |14377|Number of connected regular graphs of degree 7 with 2n nodes.|
 |14381|Number of connected regular graphs of degree 9 with 2n nodes.|
 |14384|Number of connected regular graphs of degree 11 with 2n nodes.|
-|14425|From table of maximal epacts e(p) and corresponding primes p, for x_0=2, x_{m+1} = (x_m)^2-1; sequence gives e(p).|
+|14425|From table of maximal epacts e(p) and corresponding primes p, for x_0=2, x_ m+1  = (x_m)^2-1; sequence gives e(p).|
 |14529|Largest convex area that can be tiled with n equilateral triangles whose sides s_k are relatively prime, i.e., gcd(s_1,...,s_n) = 1.|
 |14540|Rectilinear crossing number of complete graph on n nodes.|
 |14543|Toroidal crossing number of complete graph.|
@@ -725,7 +725,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |16045|a(n) is the smallest prime p(k) such that the gaps between the primes p(k), p(k+1), p(k+2), ..., p(k+n) are 2, 4, 6, ... 2n.|
 |16070|Numbers k such that k^2 contains exactly 2 different digits, excluding 10^m, 2*10^m, 3*10^m.|
 |16078|Smallest number that is sum of 2 positive n-th powers in 2 different ways.|
-|16088|a(n) = smallest prime p such that Sum_{primes q = 2, ..., p} 1/q exceeds n.|
+|16088|a(n) = smallest prime p such that Sum_ primes q = 2, ..., p  1/q exceeds n.|
 |16115|Number of prime palindromes with n digits.|
 |16729|Highest minimal Hamming distance of any Type 4^H+ Hermitian additive self-dual code over GF(4) of length n.|
 |18195|Possible numbers of complements of topologies on 4 points.|
@@ -1085,7 +1085,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |19533|Let I_c(n,d) be the maximal number of independent sets in d-regular simple connected graphs with n vertices; sequence gives I_c(n,4).|
 |19534|Let I_c(n,d) be the maximal number of independent sets in d-regular simple connected graphs with n nodes; sequence gives I_c(2n,5).|
 |19535|Let I_c(n,d) be the maximal number of independent sets in d-regular simple connected graphs with n nodes; sequence gives I_c(n,6).|
-|19568|a(n) = smallest k >= 1 such that {1^n, 2^n, 3^n, ..., k^n} can be partitioned into two sets with equal sum.|
+|19568|a(n) = smallest k >= 1 such that  1^n, 2^n, 3^n, ..., k^n  can be partitioned into two sets with equal sum.|
 |19589|Number of nondecreasing sequences that are differences of two permutations of 1,2,...,n.|
 |19654|Consider problem of placing N queens on an n X n board so that each queen attacks precisely k others. Here k=4 and sequence gives number of different solutions when N takes its maximal value.|
 |19988|Number of ways of embedding a connected graph with n edges in the square lattice.|
@@ -1126,15 +1126,15 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |23687|Discriminants of totally complex sextic fields.|
 |23815|Number of binary operations on an n-set that are commutative and associative; labeled commutative semigroups.|
 |24011|Numbers k such that the k-th prime divides the sum of the first k primes.|
-|24415|Position of max{s(n,k): k=1,2,...,n} in A024412, n >= 1, where s(n,k) = Stirling numbers of the second kind.|
+|24415|Position of max s(n,k): k=1,2,...,n  in A024412, n >= 1, where s(n,k) = Stirling numbers of the second kind.|
 |24416|a(n) = position of next-to-largest s(n,k), for k=1,2,...,n, in A024412, n >= 3, where s(n,k) = Stirling numbers of the second kind.|
 |24607|Number of connected triangle-free graphs on n unlabeled nodes.|
 |24815|a(n) = least k such that tan(k) < tan(a(n-1)), for n >= 1, with a(0) = 0.|
-|24829|a(n) = least m such that if r and s in {F(2*h-1)/F(2*h): h = 1,2,...,n} satisfy r < s, then r < k/m < s for some integer k, where F = A000045 (Fibonacci numbers).|
-|24830|a(n) = least m such that if r and s in {F(2*h)/F(2*h+1): h = 1,2,...,n} satisfy r < s, then r < k/m < s for some integer k, where F = A000045 (Fibonacci numbers).|
-|24849|a(n) = least m such that if r and s in {|F(h+1)-tau*F(h)|: h = 1,2,...,n} satisfy r < s, then r < k/m < s for some integer k, where F = A000045 (Fibonacci numbers) and tau = (1+sqrt(5))/2 (golden ratio).|
-|24851|Least m such that if r and s in {-F(2*h) + tau*(F(2*h-1): h = 1,2,...,n} satisfy r < s, then r < k/m < s for some integer k, where F = A000045 (Fibonacci numbers) and tau = (1+sqrt(5))/2 (golden ratio).|
-|25204|[ 4th elementary symmetric function of {log(k)} ], k = 2,3,...,n.|
+|24829|a(n) = least m such that if r and s in  F(2*h-1)/F(2*h): h = 1,2,...,n  satisfy r < s, then r < k/m < s for some integer k, where F = A000045 (Fibonacci numbers).|
+|24830|a(n) = least m such that if r and s in  F(2*h)/F(2*h+1): h = 1,2,...,n  satisfy r < s, then r < k/m < s for some integer k, where F = A000045 (Fibonacci numbers).|
+|24849|a(n) = least m such that if r and s in  |F(h+1)-tau*F(h)|: h = 1,2,...,n  satisfy r < s, then r < k/m < s for some integer k, where F = A000045 (Fibonacci numbers) and tau = (1+sqrt(5))/2 (golden ratio).|
+|24851|Least m such that if r and s in  -F(2*h) + tau*(F(2*h-1): h = 1,2,...,n  satisfy r < s, then r < k/m < s for some integer k, where F = A000045 (Fibonacci numbers) and tau = (1+sqrt(5))/2 (golden ratio).|
+|25204|[ 4th elementary symmetric function of  log(k)  ], k = 2,3,...,n.|
 |25282|Smallest number requiring n Fibonacci numbers to build using + and *.|
 |27567|Number of distinct (modulo rotation and reflection) n X n panmagic = pandiagonal = diabolic = Nasik squares.|
 |27579|Numbers n such that n^2 + (n+1)^2 + (n+2)^2 + (n+3)^2 + (n+4)^2 is palindromic.|
@@ -1144,23 +1144,23 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |27624|Number of independent vertex sets in the n-hypercube graph Q_n.|
 |27667|Number of independent subsets of nodes of 3^n cube (P_3 X ... X P_3).|
 |27668|Number of independent subsets of nodes of 4^n cube (P_4 X ... X P_4).|
-|27675|When squared gives number composed of digits {1,4,9}.|
+|27675|When squared gives number composed of digits  1,4,9 .|
 |27680|Number of independent subsets of 5^n cube (P_5 X ... X P_5).|
 |27681|Number of independent subsets of Hamming graph H(n,3).|
 |27682|Number of independent subsets of Hamming graph H(n,4).|
 |27724|Numbers k such that k^2+k+8 is a palindrome.|
 |27763|Smallest k such that 2^^n is not congruent to 2^^(n-1) mod k, where 2^^n denotes the power tower 2^2^...^2 (in which 2 appears n times).|
 |28305|Triangle of numbers of permutations eliminating just k cards out of n in game of Mousetrap.|
-|28311|Odd numbers k such that {1..k-1} can be partitioned into disjoint sets I, J with 2I == -J (mod k) such that I, J are unions of cyclotomic cosets mod k.|
-|28312|Odd numbers k such that {1..k-1} cannot be partitioned into disjoint sets I, J such that 2I == -J (mod k) and I, J are unions of cyclotomic cosets mod k.|
+|28311|Odd numbers k such that  1..k-1  can be partitioned into disjoint sets I, J with 2I == -J (mod k) such that I, J are unions of cyclotomic cosets mod k.|
+|28312|Odd numbers k such that  1..k-1  cannot be partitioned into disjoint sets I, J such that 2I == -J (mod k) and I, J are unions of cyclotomic cosets mod k.|
 |28406|Number of types of Boolean functions of n variables under a certain group.|
 |28408|Number of types of Boolean functions of n variables under a certain group.|
 |28409|Number of types of Boolean functions of n variables under a certain group.|
 |28410|Number of types of Boolean functions of n variables under a certain group.|
 |28411|Number of types of Boolean functions of n variables under a certain group.|
-|28446|Number of perfect matchings in graph P_{2n} X P_{2n} X P_{2n}.|
+|28446|Number of perfect matchings in graph P_ 2n  X P_ 2n  X P_ 2n .|
 |28491|Numbers k such that (3^k - 1)/2 is prime.|
-|28497|Maximum number of facets of n-dimensional polytope with {0,1}-coordinates.|
+|28497|Maximum number of facets of n-dimensional polytope with  0,1 -coordinates.|
 |28499|6-hyperperfect numbers: n = 6*(sigma(n) - n - 1) + 1.|
 |28500|12-hyperperfect numbers: n = 12*(sigma(n) - n - 1) + 1.|
 |28501|18-hyperperfect numbers: n = 18*(sigma(n)-n-1) + 1.|
@@ -1357,7 +1357,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |33310|Incrementally largest terms in continued fraction for Copeland-Erdős constant.|
 |33311|Positions of incrementally largest terms in continued fraction for Copeland-Erdős constant.|
 |33323|Configurations of linear chains in a square lattice.|
-|33535|Number of matchings in graph P_{n} X P_{n} X P_{n}.|
+|33535|Number of matchings in graph P_ n  X P_ n  X P_ n .|
 |33689|Number of extreme quadratic forms or lattices in dimension n.|
 |33692|Theta series of lattice D_4 tensor D_4 (dimension 16, det. 65536, min. norm 4).|
 |33693|Theta series of lattice D3 tensor D3 (dimension 9, det. 4096, min. norm 4).|
@@ -1385,7 +1385,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |33982|Integers n such that 2^n == 11 (mod n).|
 |33983|Integers n such that 2^n == 15 (mod n).|
 |34006|Number of n-step self-avoiding walks on the 4-dimensional hypercubic lattice with no non-contiguous adjacencies.|
-|34094|(-1)sigma perfect numbers: (-1)sigma(a) = m*a for some integer m, where if a = Product p(i)^r(i) then (-1)sigma(a) = Product_{i} (-1 + Sum_{s=1..r(i)} p(i)^s).|
+|34094|(-1)sigma perfect numbers: (-1)sigma(a) = m*a for some integer m, where if a = Product p(i)^r(i) then (-1)sigma(a) = Product_ i  (-1 + Sum_ s=1..r(i)  p(i)^s).|
 |34095|Indices of (-1)sigma perfect numbers.|
 |34166|Maximum length of 'zig-zag' self avoiding walk on an n X n lattice from a corner to opposite one.|
 |34173|a(n) is minimal such that prime factorizations of a(n), ..., a(n)+n-1 have same exponents.|
@@ -1420,10 +1420,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |34900|a(n) is square mod a(i), i < n; a(n) prime; a(1) = 2.|
 |34902|a(i) is square mod a(j), i <> j; a(n) prime; a(1) = 2.|
 |34916|31752-hyperperfect numbers: n = 31752*(sigma(n)-n-1) + 1.|
-|34917|Minimal determinant (negated) of n X n persymmetric matrix with entries {-1,0,+1}.|
-|34918|Maximal determinant of n X n persymmetric matrix with entries {-1,0,+1}.|
-|34919|Minimal consecutive determinant (negated) of n X n persymmetric matrix with entries {-1,0,+1}.|
-|34921|Number of different determinants of n X n persymmetric matrices with entries {-1,0,+1}.|
+|34917|Minimal determinant (negated) of n X n persymmetric matrix with entries  -1,0,+1 .|
+|34918|Maximal determinant of n X n persymmetric matrix with entries  -1,0,+1 .|
+|34919|Minimal consecutive determinant (negated) of n X n persymmetric matrix with entries  -1,0,+1 .|
+|34921|Number of different determinants of n X n persymmetric matrices with entries  -1,0,+1 .|
 |34922|Numbers k such that 17^k - 16 is prime.|
 |34923|Numbers n such that 43^n-42 is prime.|
 |34924|Numbers k such that 47^k-46 is prime.|
@@ -1500,7 +1500,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |37075|Number of eutactic lattices in dimension n.|
 |37100|Lexically first set of (even) numbers, beginning with 4, such that for any two different terms, a(i) + a(j) + 1 is prime.|
 |37138|Numbers k such that sigma(totient(k)) + sigma(cototient(k)) = 2k.|
-|37172|Numbers n such that sigma(n) - n = {number of primes <= n}.|
+|37172|Numbers n such that sigma(n) - n =  number of primes <= n .|
 |37185|Number of ways of placing 2n points on n X n grid so no 3 are in a line (solutions with no symmetry).|
 |37186|Number of ways of placing 2n points on n X n grid so no 3 are in a line (solutions with symmetry about one main diagonal).|
 |37187|Number of ways of placing 2n points on n X n grid so no 3 are in a line (solutions with 180 deg rotational symmetry).|
@@ -1534,7 +1534,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |38362|Two different numbers a, b which satisfy sigma(a)=sigma(b)=(a+b)^3/(a^2+b^2) are called a rational amicable pair; sequence gives a numbers.|
 |38363|Two different numbers a, b which satisfy sigma(a)=sigma(b)=(a+b)^3/(a^2+b^2) are called a rational amicable pair; sequence gives b numbers.|
 |38375|Maximal number of spanning paths in a tournament on n nodes.|
-|38379|Number of real {0,1} n X n matrices A such that M = A + A' has 2's on the main diagonal, 0's and 1's elsewhere and is positive semi-definite.|
+|38379|Number of real  0,1  n X n matrices A such that M = A + A' has 2's on the main diagonal, 0's and 1's elsewhere and is positive semi-definite.|
 |38386|Number of "connected animals" formed from n 4-gon or 6-gon connected truncated octahedra in the b.c.c. lattice, allowing only translation of the lattice.|
 |38460|Maximal value of difference between successive primes among numbers < 10^n.|
 |38515|Number of self-avoiding walks on a tetrahedral (diamond) net, having 2n steps and forming a closed loop.|
@@ -1585,7 +1585,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |39930|Height of lattice of parameters of mixed orthogonal arrays with n runs and strength 2.|
 |39931|Number of different sets of parameters for mixed orthogonal arrays with n runs and strength 2.|
 |39951|a(n) is the smallest prime p such that p^2 divides n^(p-1) - 1.|
-|40018|(Number of permutations of {1,2,...,n} for which sums of adjacent numbers are all distinct)/2n.|
+|40018|(Number of permutations of  1,2,...,n  for which sums of adjacent numbers are all distinct)/2n.|
 |40025|a(n) is the number of prime palindromes with 2n+1 digits.|
 |40173|Numerator of probability that 2 elements of S_n chosen at random (with replacement) generate S_n.|
 |40174|Denominator of probability that 2 elements of S_n chosen at random (with replacement) generate S_n.|
@@ -1607,7 +1607,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |45882|Smallest term of first run of (at least) n consecutive integers which are not squarefree.|
 |45903|Number of nonisomorphic systems of catafusenes in an example in Cyvin et al. (1994) with two appendages to the core indexed by the total number of hexagons in the appendages.|
 |45990|a(n) = A034997(n)/2.|
-|46024|a(n) = smallest k such that Sum_{ i = 1..k } 1/prime(i) exceeds n.|
+|46024|a(n) = smallest k such that Sum_  i = 1..k   1/prime(i) exceeds n.|
 |46029|Numbers n such that (n!)^2 + 1 is prime.|
 |46052|Number of prime factors of Fermat number F(n).|
 |46057|Smallest order m > 0 for which there are n nonisomorphic finite groups of order m, or 0 if no such order exists.|
@@ -1680,7 +1680,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |48123|Smallest n-digit Carmichael numbers.|
 |48143|Number of labeled connected simplicial complexes with n nodes.|
 |48175|Size of range 1..m generatable from the digits of an n-digit integer and + - x /.|
-|48177|Primes p = d_1 d_2 ... d_k in base 10 such that for some base b, p = Sum_{i = 1..k} b^d_i.|
+|48177|Primes p = d_1 d_2 ... d_k in base 10 such that for some base b, p = Sum_ i = 1..k  b^d_i.|
 |48178|Bases b associated with A048177.|
 |48192|Number of connected chordal graphs on n vertices.|
 |48193|Number of chordal graphs (or triangulated graphs) on n vertices.|
@@ -1737,7 +1737,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |48545|a(n) is the smallest value of m such that A002378(m), the m-th oblong number, contains exactly n 8's.|
 |48547|a(n) is the smallest value of m such that A002378(m), the m-th oblong number, contains exactly n 9's.|
 |48661|Number of n-digit dihedral primes for which the 4 numbers (n, n upside-down, n in a mirror, n upside-down and mirrored) are distinct.|
-|48674|Fixed points of A048673 and A064216: Numbers n such that if n = product_{k >= 1} (p_k)^(c_k), then Product_{k >= 1} (p_{k+1})^(c_k) = (2*n)-1, where p_k indicates the k-th prime, A000040(k).|
+|48674|Fixed points of A048673 and A064216: Numbers n such that if n = product_ k >= 1  (p_k)^(c_k), then Product_ k >= 1  (p_ k+1 )^(c_k) = (2*n)-1, where p_k indicates the k-th prime, A000040(k).|
 |48744|Numbers k such that 2^k - k is prime.|
 |48756|Prime repunits in ascending prime bases (written in decimal).|
 |48774|Numerators of coefficients in a formula for the n-th composite number.|
@@ -1782,11 +1782,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |49420|Composite numbers n such that (n!/n#)+1 is prime, where n# = primorial numbers A034386.|
 |49430|Triangle read by rows: T(n,d) is the number of distinct properly d-dimensional polyominoes (or polycubes) with n cells (n >= 1, d >= 0).|
 |49500|Smallest prime p such that p + 4^k is also prime for all k = 1, ..., n.|
-|49507|Number of perfect matchings in graph P_{6} x P_{6} x P_{n}.|
+|49507|Number of perfect matchings in graph P_ 6  x P_ 6  x P_ n .|
 |49512|Number of quasi-initially connected digraphs on n unlabeled nodes.|
 |49522|Smallest starting index for a run of at least n consecutive equal digits in decimal expansion of Pi.|
 |49523|Smallest starting index for a run of exactly n consecutive equal digits in decimal expansion of Pi.|
-|49526|Number of possible sets {{row sums}, {column sums}} of a 2n X 2n matrix with entries from {0,1,-1} and all row and column sums distinct.|
+|49526|Number of possible sets   row sums ,  column sums   of a 2n X 2n matrix with entries from  0,1,-1  and all row and column sums distinct.|
 |50142|Square array T(n,k) giving maximal numbers of codewords in mixed code with n binary coordinates and k ternary coordinates with Hamming distance 3, read by antidiagonals (n >= 0, k >= 0).|
 |50180|Numbers m such that prime(m) + Fibonacci(m) is prime.|
 |50237|a(n) = the smallest number m such that there are exactly n sets of consecutive primes, each of which has an arithmetic mean of m.|
@@ -1858,10 +1858,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |51446|Integers n such that 2^n == 13 (mod n).|
 |51447|Integers n such that 2^n == 9 (mod n).|
 |51453|Prime powers such that 1 + lcm(1,2,...,p^w) is prime.|
-|51465|Order of group G_{1,n}.|
-|51483|Order of group H_{1,n}.|
-|51526|Order of group G_{1,n}^{8}.|
-|51527|Order of group H_{1,n}^{8}.|
+|51465|Order of group G_ 1,n .|
+|51483|Order of group H_ 1,n .|
+|51526|Order of group G_ 1,n ^ 8 .|
+|51527|Order of group H_ 1,n ^ 8 .|
 |51567|Consider problem of placing N queens on an n X n board so that each queen attacks precisely k others. Here k=1 and sequence gives number of inequivalent solutions when N is equal to the upper bound 2*floor(2n/3).|
 |51568|Let M(n) (A051755) be the maximal number of queens that can be placed on an n X n chessboard so that each queen attacks exactly two other queens; a(n) is the number of non-equivalent solutions. "Non-equivalent" means none of the a(n) solutions can be mapped onto any other solution by board rotations through 90, 180 or 270 degrees or mirror operations along the two diagonals or center lines.|
 |51569|Consider the problem of placing N = A051756(n) queens on an n X n board so that each queen attacks precisely 3 others; a(n) gives the number of inequivalent solutions.|
@@ -1973,60 +1973,60 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |53706|Primes p such that between p and the next prime, 2 prime powers (A025475) occur.|
 |53709|Prime balanced factorials: numbers k such that k! is the mean of its 2 closest primes.|
 |53711|Numbers d such that, for some k, the upper and lower primes closest to k! are k! + d and k! - d.|
-|53732|Number of ways to partition {1,...,n} into arithmetic progressions of length >= 1.|
+|53732|Number of ways to partition  1,...,n  into arithmetic progressions of length >= 1.|
 |53740|Prime triangle partitions of order n.|
 |53773|Number of n X n binary matrices of order dividing 8 (i.e., number of solutions of X^8=I in GL(n,2)).|
 |53873|Numbers n such that OEIS sequence A_n contains n.|
-|53882|Numbers k such that k^2 contains only digits {1,2,6}.|
-|53884|Numbers k such that k^2 contains only digits {1,2,7}.|
-|53885|Squares composed of digits {1,2,7}.|
-|53888|Numbers k such that k^2 contains only digits {1,2,9}.|
-|53890|Numbers k such that k^2 contains only digits {1,3,4}.|
-|53892|Numbers k such that k^2 contains only digits {1,3,6}.|
-|53894|Numbers k such that k^2 contains only digits {1,3,8}.|
-|53895|Squares composed of digits {1,3,8}.|
-|53896|Numbers k such that k^2 contains only digits {1,4,5}.|
-|53897|Squares composed of digits {1,4,5}.|
-|53898|Numbers k such that k^2 contains only digits {1,4,7}.|
-|53904|Numbers k such that k^2 contains only digits {1,5,8}.|
-|53906|Numbers k such that k^2 contains only digits {1,6,7}.|
-|53907|Squares composed of digits {1,6,7}.|
-|53910|Numbers k such that k^2 contains only digits {1,6,9}.|
-|53912|Numbers k such that k^2 contains only digits {1,7,8}.|
-|53913|Squares composed of digits {1,7,8}.|
-|53914|Numbers k such that k^2 contains only digits {1,8,9}.|
-|53915|Squares composed of digits {1,8,9}.|
-|53916|Numbers k such that k^2 contains only digits {2,3,4}.|
-|53917|Squares composed of digits {2,3,4}.|
-|53918|Numbers k such that k^2 contains only digits {2,3,5}.|
-|53920|Numbers k such that k^2 contains only digits {2,3,9}.|
-|53922|Numbers k such that k^2 contains only digits {2,4,6}.|
-|53926|Numbers k such that k^2 contains only digits {2,5,8}.|
-|53932|Numbers k such that k^2 contains only digits {2,7,9}.|
-|53933|Squares composed of digits {2,7,9}.|
-|53934|Numbers k such that k^2 contains only digits {2,8,9}.|
-|53935|Squares composed of digits {2,8,9}.|
-|53936|Numbers k such that k^2 contains only digits {3,4,5}.|
-|53938|Numbers k such that k^2 contains only digits {3,4,6}.|
-|53940|Numbers k such that k^2 contains only digits {3,4,8}.|
-|53942|Numbers k such that k^2 contains only digits {3,4,9}.|
-|53943|Squares composed of digits {3,4,9}.|
-|53946|Numbers k such that k^2 contains only digits {3,6,7}.|
-|53947|Squares composed of digits {3,6,7}.|
-|53948|Numbers k such that k^2 contains only digits {3,6,9}.|
-|53950|Numbers k such that k^2 contains only digits {4,5,7}.|
-|53951|Squares composed of digits {4,5,7}.|
-|53952|Numbers k such that k^2 contains only digits {4,5,8}.|
-|53953|Squares composed of digits {4,5,8}.|
-|53954|Numbers k such that k^2 contains only digits {4,5,9}.|
-|53956|Numbers k such that k^2 contains only digits {4,6,7}.|
-|53962|Numbers k such that k^2 contains only digits {4,7,8}.|
-|53964|Numbers k such that k^2 contains only digits {4,7,9}.|
-|53965|Squares composed of digits {4,7,9}.|
-|53968|Numbers k such that k^2 contains only digits {5,6,7}.|
-|53970|Numbers k such that k^2 contains only digits {5,6,9}.|
-|53972|Numbers k such that k^2 contains only digits {6,7,9}.|
-|53974|Numbers k such that k^2 contains only digits {6,8,9}.|
+|53882|Numbers k such that k^2 contains only digits  1,2,6 .|
+|53884|Numbers k such that k^2 contains only digits  1,2,7 .|
+|53885|Squares composed of digits  1,2,7 .|
+|53888|Numbers k such that k^2 contains only digits  1,2,9 .|
+|53890|Numbers k such that k^2 contains only digits  1,3,4 .|
+|53892|Numbers k such that k^2 contains only digits  1,3,6 .|
+|53894|Numbers k such that k^2 contains only digits  1,3,8 .|
+|53895|Squares composed of digits  1,3,8 .|
+|53896|Numbers k such that k^2 contains only digits  1,4,5 .|
+|53897|Squares composed of digits  1,4,5 .|
+|53898|Numbers k such that k^2 contains only digits  1,4,7 .|
+|53904|Numbers k such that k^2 contains only digits  1,5,8 .|
+|53906|Numbers k such that k^2 contains only digits  1,6,7 .|
+|53907|Squares composed of digits  1,6,7 .|
+|53910|Numbers k such that k^2 contains only digits  1,6,9 .|
+|53912|Numbers k such that k^2 contains only digits  1,7,8 .|
+|53913|Squares composed of digits  1,7,8 .|
+|53914|Numbers k such that k^2 contains only digits  1,8,9 .|
+|53915|Squares composed of digits  1,8,9 .|
+|53916|Numbers k such that k^2 contains only digits  2,3,4 .|
+|53917|Squares composed of digits  2,3,4 .|
+|53918|Numbers k such that k^2 contains only digits  2,3,5 .|
+|53920|Numbers k such that k^2 contains only digits  2,3,9 .|
+|53922|Numbers k such that k^2 contains only digits  2,4,6 .|
+|53926|Numbers k such that k^2 contains only digits  2,5,8 .|
+|53932|Numbers k such that k^2 contains only digits  2,7,9 .|
+|53933|Squares composed of digits  2,7,9 .|
+|53934|Numbers k such that k^2 contains only digits  2,8,9 .|
+|53935|Squares composed of digits  2,8,9 .|
+|53936|Numbers k such that k^2 contains only digits  3,4,5 .|
+|53938|Numbers k such that k^2 contains only digits  3,4,6 .|
+|53940|Numbers k such that k^2 contains only digits  3,4,8 .|
+|53942|Numbers k such that k^2 contains only digits  3,4,9 .|
+|53943|Squares composed of digits  3,4,9 .|
+|53946|Numbers k such that k^2 contains only digits  3,6,7 .|
+|53947|Squares composed of digits  3,6,7 .|
+|53948|Numbers k such that k^2 contains only digits  3,6,9 .|
+|53950|Numbers k such that k^2 contains only digits  4,5,7 .|
+|53951|Squares composed of digits  4,5,7 .|
+|53952|Numbers k such that k^2 contains only digits  4,5,8 .|
+|53953|Squares composed of digits  4,5,8 .|
+|53954|Numbers k such that k^2 contains only digits  4,5,9 .|
+|53956|Numbers k such that k^2 contains only digits  4,6,7 .|
+|53962|Numbers k such that k^2 contains only digits  4,7,8 .|
+|53964|Numbers k such that k^2 contains only digits  4,7,9 .|
+|53965|Squares composed of digits  4,7,9 .|
+|53968|Numbers k such that k^2 contains only digits  5,6,7 .|
+|53970|Numbers k such that k^2 contains only digits  5,6,9 .|
+|53972|Numbers k such that k^2 contains only digits  6,7,9 .|
+|53974|Numbers k such that k^2 contains only digits  6,8,9 .|
 |53976|Least number such that a(n) and nextprime(a(n)) differ by at least a power of 10, 10^m, where m >= n.|
 |53991|Number of distinct residues of generalized Catalan number 1/((n^2-1)*k + 1)*binomial(n^2*k, k) modulo n^2 as k runs through the positive integers.|
 |54133|T(2n-1,n) where T is the array in A054126.|
@@ -2047,7 +2047,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |54692|Endpoints for runs of consecutive primes mentioned in A054691.|
 |54736|Smallest losing position after your opponent has taken k stones in a variation of "Fibonacci Nim".|
 |54760|Table T(n,k) = order of (n,k)-cage (smallest n-regular graph of girth k), n >= 2, k >= 3, read by antidiagonals.|
-|54769|Number of integer n-tuples {x(1},x(2),...,x(n)} with the following properties: (1) x(1)=1 and, for k>1, if d=x(k)-x(k-1), then (2) d is relatively prime to x(k-1) and (3) d=x(i) for some i in {1,2,...,k-1}.|
+|54769|Number of integer n-tuples  x(1 ,x(2),...,x(n)  with the following properties: (1) x(1)=1 and, for k>1, if d=x(k)-x(k-1), then (2) d is relatively prime to x(k-1) and (3) d=x(i) for some i in  1,2,...,k-1 .|
 |54859|Smallest positive integer that can be expressed as the sum of consecutive primes in exactly n ways.|
 |54862|(+2)-unitary sigma 3-multiple perfect number: numbers k such that (+2)usigma(k) = 3*k, where (+2)usigma(k) = A107759(k).|
 |54866|Incrementally largest terms in the continued fraction for Khinchin's constant.|
@@ -2077,7 +2077,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |55382|Smallest prime starting a sequence of 2n consecutive odd primes with symmetrical gaps about the center.|
 |55458|a(n) = smallest composite solution x to the equation phi(x+2n) = phi(x)+2n.|
 |55545|Number of matroids on n points.|
-|55547|Number of normal n X n matrices with entries {0,1}.|
+|55547|Number of normal n X n matrices with entries  0,1 .|
 |55548|Number of normal n X n (-1,1)-matrices.|
 |55549|Number of normal n X n (-1,0,1)-matrices.|
 |55550|Number of Poulet numbers (or pseudoprimes to base 2, A001567) less than 10^n.|
@@ -2093,7 +2093,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |55726|Number of lucky 2,6 triples <= 10^n.|
 |55727|Number of lucky 4,6 triples <= 10^n.|
 |55728|Number of prime lucky numbers <10^n.|
-|55737|Number of prime triples < 10^n, where a prime triple means 3 successive primes of the form {p, p+2, p+4} or {p, p+4, p+6}.|
+|55737|Number of prime triples < 10^n, where a prime triple means 3 successive primes of the form  p, p+2, p+4  or  p, p+4, p+6 .|
 |55919|Number of directed site animals on hexagonal net (honeycomb) with n sites.|
 |56006|Numbers n such that n | sigma(n) + 2.|
 |56075|Numbers n such that n divides sigma(n) - d(n).|
@@ -2120,7 +2120,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |56265|Indices of primes in sequence defined by A(0) = 99, A(n) = 10*A(n-1) - 61 for n > 0.|
 |56266|Indices of primes in sequence defined by A(0) = 99, A(n) = 10*A(n-1) - 1 for n > 0.|
 |56287|Maximal AND-OR formula complexity (operator count) for n-input Boolean functions|
-|56550|Numbers n such that sum_{k=1..n} sigma(k) is divisible by n, where sigma(k) = sum of divisors of k (A000203).|
+|56550|Numbers n such that sum_ k=1..n  sigma(k) is divisible by n, where sigma(k) = sum of divisors of k (A000203).|
 |56600|a(n) is smallest number A such that there is an equality of the form (A=Product of n distinct primes) = (B=Product of n distinct primes) + (C=Product of n distinct primes) with gcd(A,B) = gcd(B,C) = gcd(A,C) = 1, B < C.|
 |56602|Numbers A such that there is an equation of the form (A = Product of m + 1 primes) = (B = Product of m primes) + (C = Product of m primes), where A*B*C is a primorial number (A002110).|
 |56613|Number of n-celled pseudo still lifes in Conway's Game of Life, up to rotation and reflection.|
@@ -2128,7 +2128,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |56637|a(n) is the least prime of class n-, according to the Erdős-Selfridge classification of primes.|
 |56642|Number of linear spaces on n (labeled) points.|
 |56661|Numbers k such that 40*R_k + 3 is prime, where R_k = 11...1 is the repunit (A002275) of length k.|
-|56679|Primes p such that 1 + x + Sum_{q prime <= p} x^q is irreducible over GF(2).|
+|56679|Primes p such that 1 + x + Sum_ q prime <= p  x^q is irreducible over GF(2).|
 |56684|Numbers k such that 50*R_k + 1 is prime, where R_k = 11...1 is the repunit (A002275) of length k.|
 |56695|Numbers k such that 80*R_k + 7 is prime, where R_k = 11...1 is the repunit (A002275) of length k.|
 |56698|Numbers k such that 10^k + 3*R_k is prime, where R_k = 11...1 is the repunit (A002275) of length k.|
@@ -2190,7 +2190,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |57221|Numbers n such that 2^n + 19 is prime.|
 |57230|Numbers k such that k = p+q = r+s with p*q = r*s = primorial number(A002110) (p*q) < (r*s).|
 |57241|Circuit cost of the hardest Boolean function of n variables; metric: 2-input AND-gates cost 1, NOT is free, fanout is free, inputs are free, no feedback allowed.|
-|57245|Numbers n such that n | Sum_{k=1..n} k!.|
+|57245|Numbers n such that n | Sum_ k=1..n  k!.|
 |57246|s=0; d is divisor of n [here d<= n/d)]; if gcd(d,n/d)=1 or gcd(d,n/d)=d then s=s+d+(n/d); [if d=n/d then s=s+d]: The sequence contains composite n for which s = 2*n.|
 |57330|First member of a prime n-tuplet in a 2p-1 progression.|
 |57331|a(n) = smallest prime p such that the first n iterates of p under x->2x+1 are all primes.|
@@ -2363,7 +2363,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |58237|Numbers n such that x^n + x^4 + 2 is irreducible over GF(3).|
 |58238|Numbers n such that x^n + x^5 + 2 is irreducible over GF(3).|
 |58240|Numbers n such that x^n + x^6 + 2 is irreducible over GF(3).|
-|58241|Number of sets of n positive integers that can be placed along a circle such that the set of sums of adjacent integers forms { 1, 2, ..., n^2-n+1 }.|
+|58241|Number of sets of n positive integers that can be placed along a circle such that the set of sums of adjacent integers forms   1, 2, ..., n^2-n+1  .|
 |58242|Numbers n such that x^n + x^7 + 2 is irreducible over GF(3).|
 |58243|Numbers n such that x^n + x^8 + 1 is irreducible over GF(3).|
 |58259|Number of split semiorders on n points.|
@@ -2374,49 +2374,49 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |58343|Number of connected 4-regular simple graphs on n vertices with girth at least 5.|
 |58348|Number of connected 4-regular simple graphs on n vertices with girth at least 6.|
 |58378|Number of trivalent 2-connected planar graphs with 2n nodes.|
-|58415|Numbers k such that k^2 contains only digits {0,1,5}, not ending with zero.|
-|58416|Squares composed of digits {0,1,5}, not ending with zero.|
-|58417|Numbers k such that k^2 contains only digits {0,1,6}, not ending with zero.|
-|58419|Numbers k such that k^2 contains only digits {0,1,7}, not ending with zero.|
-|58420|Squares composed of digits {0,1,7}, not ending with zero.|
-|58423|Numbers k such that k^2 contains only digits {0,2,4}, not ending with zero.|
-|58427|Numbers k such that k^2 contains only digits {0,2,9}, not ending with zero.|
-|58431|Numbers k such that k^2 contains only digits {0,3,6}, not ending with zero.|
-|58432|Squares composed of digits {0,3,6}, not ending with zero.|
-|58433|Numbers k such that k^2 contains only digits {0,3,9}, not ending with zero.|
-|58434|Squares composed of digits {0,3,9}, not ending with zero.|
-|58435|Numbers k such that k^2 contains only digits {0,4,5}, not ending with zero.|
-|58437|Numbers k such that k^2 contains only digits {0,4,6}, not ending with zero.|
-|58439|Numbers k such that k^2 contains only digits {0,4,7}, not ending with zero.|
-|58440|Squares composed of digits {0,4,7}, not ending with zero.|
-|58445|Numbers k such that k^2 contains only digits {0,5,6}, not ending with zero.|
-|58446|Squares composed of digits {0,5,6}, not ending with zero.|
-|58447|Numbers k such that k^2 contains only digits {0,5,9}, not ending with zero.|
-|58448|Squares composed of digits {0,5,9}, not ending with zero.|
-|58449|Numbers k such that k^2 contains only digits {0,6,7}, not ending with zero.|
-|58450|Squares composed of digits {0,6,7}, not ending with zero.|
-|58451|Numbers k such that k^2 contains only digits {0,6,9}, not ending with zero.|
-|58452|Squares composed of digits {0,6,9}, not ending with zero.|
-|58453|Numbers k such that k^2 contains only digits {0,7,9}, not ending with zero.|
-|58454|Squares composed of digits {0,7,9}, not ending with zero.|
-|58455|Numbers k such that k^2 contains only digits {0,8,9}, not ending with zero.|
-|58456|Squares composed of digits {0,8,9}, not ending with zero.|
-|58457|Numbers k such that k^2 contains only digits {2,3,6}.|
-|58458|Squares composed of digits {2,3,6}.|
-|58459|Numbers k such that k^2 contains only digits {2,4,7}.|
-|58460|Squares composed of digits {2,4,7}.|
-|58461|Numbers k such that k^2 contains only digits {2,6,7}.|
-|58463|Numbers k such that k^2 contains only digits {3,4,7}.|
-|58465|Numbers k such that k^2 contains only digits {3,6,8}.|
-|58466|Squares composed of digits {3,6,8}.|
-|58467|Numbers k such that k^2 contains only digits {3,8,9}.|
-|58468|Squares composed of digits {3,8,9}.|
-|58469|Numbers k such that k^2 contains only digits {5,8,9}.|
-|58470|Squares composed of digits {5,8,9}.|
-|58471|Numbers k such that k^2 contains only digits {7,8,9}.|
-|58472|Squares composed of digits {7,8,9}.|
-|58473|Numbers k such that k^2 contains only digits {0,1,9}, not ending with zero.|
-|58474|Squares composed of digits {0,1,9}, not ending with zero.|
+|58415|Numbers k such that k^2 contains only digits  0,1,5 , not ending with zero.|
+|58416|Squares composed of digits  0,1,5 , not ending with zero.|
+|58417|Numbers k such that k^2 contains only digits  0,1,6 , not ending with zero.|
+|58419|Numbers k such that k^2 contains only digits  0,1,7 , not ending with zero.|
+|58420|Squares composed of digits  0,1,7 , not ending with zero.|
+|58423|Numbers k such that k^2 contains only digits  0,2,4 , not ending with zero.|
+|58427|Numbers k such that k^2 contains only digits  0,2,9 , not ending with zero.|
+|58431|Numbers k such that k^2 contains only digits  0,3,6 , not ending with zero.|
+|58432|Squares composed of digits  0,3,6 , not ending with zero.|
+|58433|Numbers k such that k^2 contains only digits  0,3,9 , not ending with zero.|
+|58434|Squares composed of digits  0,3,9 , not ending with zero.|
+|58435|Numbers k such that k^2 contains only digits  0,4,5 , not ending with zero.|
+|58437|Numbers k such that k^2 contains only digits  0,4,6 , not ending with zero.|
+|58439|Numbers k such that k^2 contains only digits  0,4,7 , not ending with zero.|
+|58440|Squares composed of digits  0,4,7 , not ending with zero.|
+|58445|Numbers k such that k^2 contains only digits  0,5,6 , not ending with zero.|
+|58446|Squares composed of digits  0,5,6 , not ending with zero.|
+|58447|Numbers k such that k^2 contains only digits  0,5,9 , not ending with zero.|
+|58448|Squares composed of digits  0,5,9 , not ending with zero.|
+|58449|Numbers k such that k^2 contains only digits  0,6,7 , not ending with zero.|
+|58450|Squares composed of digits  0,6,7 , not ending with zero.|
+|58451|Numbers k such that k^2 contains only digits  0,6,9 , not ending with zero.|
+|58452|Squares composed of digits  0,6,9 , not ending with zero.|
+|58453|Numbers k such that k^2 contains only digits  0,7,9 , not ending with zero.|
+|58454|Squares composed of digits  0,7,9 , not ending with zero.|
+|58455|Numbers k such that k^2 contains only digits  0,8,9 , not ending with zero.|
+|58456|Squares composed of digits  0,8,9 , not ending with zero.|
+|58457|Numbers k such that k^2 contains only digits  2,3,6 .|
+|58458|Squares composed of digits  2,3,6 .|
+|58459|Numbers k such that k^2 contains only digits  2,4,7 .|
+|58460|Squares composed of digits  2,4,7 .|
+|58461|Numbers k such that k^2 contains only digits  2,6,7 .|
+|58463|Numbers k such that k^2 contains only digits  3,4,7 .|
+|58465|Numbers k such that k^2 contains only digits  3,6,8 .|
+|58466|Squares composed of digits  3,6,8 .|
+|58467|Numbers k such that k^2 contains only digits  3,8,9 .|
+|58468|Squares composed of digits  3,8,9 .|
+|58469|Numbers k such that k^2 contains only digits  5,8,9 .|
+|58470|Squares composed of digits  5,8,9 .|
+|58471|Numbers k such that k^2 contains only digits  7,8,9 .|
+|58472|Squares composed of digits  7,8,9 .|
+|58473|Numbers k such that k^2 contains only digits  0,1,9 , not ending with zero.|
+|58474|Squares composed of digits  0,1,9 , not ending with zero.|
 |58488|Total number of interior nodes in all essentially parallel series-parallel networks with n unlabeled edges, multiple edges not allowed.|
 |58494|Total number of interior nodes in all essentially parallel series-parallel networks with n unlabeled edges, multiple edges allowed.|
 |58495|Total number of multiple edges in all essentially parallel series-parallel networks with n unlabeled edges, multiple edges allowed.|
@@ -2447,7 +2447,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |58792|Number of covers of an unlabeled n-set such that every point of the set is covered by exactly 5 subsets of the cover and that intersection of every 5 subsets of the cover contains at most one point.|
 |58793|Number of covers of an unlabeled n-set such that every point of the set is covered by exactly 6 subsets of the cover and that intersection of every 6 subsets of the cover contains at most one point.|
 |58800|Vertically indecomposable lattices on n unlabeled nodes.|
-|58811|Number of terms on the n-th level of the Inverse-Totient-Tree (ITT). The 0th, 1st, 2nd and 3rd levels are {1}, {2}, {3, 4, 6}, {5, 7, 8, 9, 10, 12, 14, 18} with 1, 1, 3, 8 entries resp. The (n+1)-st level is obtained from the n-th level as the union of the inverse phi sets of the terms occurring earlier on the n-th level.|
+|58811|Number of terms on the n-th level of the Inverse-Totient-Tree (ITT). The 0th, 1st, 2nd and 3rd levels are  1 ,  2 ,  3, 4, 6 ,  5, 7, 8, 9, 10, 12, 14, 18  with 1, 1, 3, 8 entries resp. The (n+1)-st level is obtained from the n-th level as the union of the inverse phi sets of the terms occurring earlier on the n-th level.|
 |58829|Numbers n such that 6^n - n is prime.|
 |58845|Numbers n such that the sum of the first n odd primes is palindromic.|
 |58846|Numbers k such that the sum of odd primes up to k is palindromic.|
@@ -2471,7 +2471,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |58958|Numbers n such that 3^n + 4 is prime.|
 |58959|Numbers n such that 3^n - 4 is prime.|
 |58960|Numbers k such that (3^k + 5)/2 is prime.|
-|58961|Number of possible sets {sum(T) : T contained in S}, where S is a multiset of elements of Z/nZ.|
+|58961|Number of possible sets  sum(T) : T contained in S , where S is a multiset of elements of Z/nZ.|
 |58965|Continued fraction expansion of series-parallel constant.|
 |58982|Increasing values of the Improperly Reduced Fibonacci Sequence (A058981).|
 |58986|Sorting by prefix reversal (or "flipping pancakes"). You can only reverse segments that include the initial term of the current permutation; a(n) is the number of reversals that are needed to transform an arbitrary permutation of n letters to the identity permutation.|
@@ -2657,7 +2657,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |62447|Prime numbers at large subscripts: a(n) = prime(q(n)), where q(n) = A002110(n).|
 |62530|Smallest prime p such that there is a gap of 2^n between p and previous prime.|
 |62536|Increasing values for the radius of the inner Soddy circle associated with three unequal kissing circles, the four radii of the system forming a primitive quadruple.|
-|62571|a(n) = minimum over nonnegative integers m of the size of the largest subset of pairwise relatively prime numbers in {m+1, m+2, ..., m+n}.|
+|62571|a(n) = minimum over nonnegative integers m of the size of the largest subset of pairwise relatively prime numbers in  m+1, m+2, ..., m+n .|
 |62572|Numbers k such that 6^k - 5^k is prime.|
 |62580|Numbers k such that 14^k - 13^k is prime.|
 |62582|Numbers k such that 16^k - 15^k is prime.|
@@ -2671,7 +2671,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |62661|Numbers k such that 95^k - 94^k is prime.|
 |62663|Numbers k such that 97^k - 96^k is a strong pseudoprime.|
 |62701|Index of factorial primes of the form k! + 1.|
-|62714|Minimal length of a sequence with terms from {1, 2, 3, ..., n} which contains, as a subsequence, each possible ordering of the n symbols 1, 2, 3, ..., n.|
+|62714|Minimal length of a sequence with terms from  1, 2, 3, ..., n  which contains, as a subsequence, each possible ordering of the n symbols 1, 2, 3, ..., n.|
 |62766|Number of nonisomorphic cyclic subgroups of general affine group AGL(n,2).|
 |62826|Square nialpdromes not ending in 0.|
 |62841|Palindromes of the form k^3-1.|
@@ -2740,7 +2740,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |64227|From Recamán's sequence (A005132): record values in A057167.|
 |64237|Numbers k such that k! + 1 is divisible by a square.|
 |64295|Numbers n such that every (prime) factor of n!+1 is one more than a multiple of n.|
-|64384|Primes p such that p divides 0!-1!+2!-3!+...+(-1)^{p-1}(p-1)!.|
+|64384|Primes p such that p divides 0!-1!+2!-3!+...+(-1)^ p-1 (p-1)!.|
 |64392|Numbers in A064383 that are squarefree.|
 |64401|Numbers n such that n! - prime(n) is prime.|
 |64420|Numbers n such that A064413(n+1) = n. Probably complete.|
@@ -2748,7 +2748,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |64431|Numbers n such that |A053222(n)| = tau(n).|
 |64456|A064434(n) = 0.|
 |64486|Period of continued fraction for square roots of primorials.|
-|64493|List of distinct greatest common divisors of { k! and k! - (k-1)! + (k-2)! - ... + (-1)^k*0!, k = 0 .. n}.|
+|64493|List of distinct greatest common divisors of   k! and k! - (k-1)! + (k-2)! - ... + (-1)^k*0!, k = 0 .. n .|
 |64513|Maximal number of nodes in graph of degree <= n and diameter 2 (another version).|
 |64534|If p >= 11 is prime, n is a power of one of the primes in this sequence but n is not a power of p, then the equation x^p + y^p = n*z^p has no solution in integers x,y,z.|
 |64539|Numbers n such that 2^n + n^2 is prime.|
@@ -2815,16 +2815,16 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |65758|Numbers n divided by n - phi(n) in approximately the golden ratio, i.e., n such that for some r, n is an r-digit minimizer of abs(k / (k - EulerPhi(k)) - (golden ratio phi)).|
 |65797|Numbers k such that k^k - k + 1 is prime.|
 |65798|Numbers k such that k^k - k - 1 is prime.|
-|65825|Smallest k such that n numbers may be picked in {1,...,k} with no three terms in arithmetic progression.|
+|65825|Smallest k such that n numbers may be picked in  1,...,k  with no three terms in arithmetic progression.|
 |65832|Numbers k such that the first k binary digits found in the base-10 expansion of Pi form a prime (when the decimal point is ignored).|
-|65844|Let u be any string of n digits from {0,1,2}; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
-|65845|Let u be any string of n digits from {0,...,3}; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
-|65846|Let u be any string of n digits from {0,...,4}; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
-|65847|Let u be any string of n digits from {0,...,5}; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
-|65848|Let u be any string of n digits from {0,...,6}; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
-|65849|Let u be any string of n digits from {0,...,7}; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
-|65850|Let u be any string of n digits from {0,...,8}; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
-|65851|Let u be any string of n digits from {0,...,9}; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
+|65844|Let u be any string of n digits from  0,1,2 ; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
+|65845|Let u be any string of n digits from  0,...,3 ; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
+|65846|Let u be any string of n digits from  0,...,4 ; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
+|65847|Let u be any string of n digits from  0,...,5 ; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
+|65848|Let u be any string of n digits from  0,...,6 ; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
+|65849|Let u be any string of n digits from  0,...,7 ; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
+|65850|Let u be any string of n digits from  0,...,8 ; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
+|65851|Let u be any string of n digits from  0,...,9 ; let f(u) = number of distinct primes, not beginning with 0, formed by permuting the digits of u; then a(n) = max_u f(u).|
 |65914|Number of primes in the interval [ 1/2 * q(n), 3/2 * q(n) - 1 ] where q(n) is prime(n)#, the n-th primorial.|
 |65957|This is the case k = 3 of the number of orbits of the group of units of Z/(n) acting naturally on the k-subsets of Z/(n).|
 |65965|Numbers k that divide A039916(k).|
@@ -2840,13 +2840,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |66037|Number of (undirected) Hamiltonian cycles in the binary n-cube, or the number of cyclic n-bit Gray codes.|
 |66040|Triangle of covering numbers T(n,k) = C(n,k,k-3), n >= 4, 4 <= k <= n.|
 |66041|Triangle of covering numbers T(n,k) = C(n,k,k-4), n >= 5, 5 <= k <= n.|
-|66062|Number of distinct subsets S of T={0,1,2,...,n} such that each element of T is the sum of two elements of S.|
-|66063|Size of the smallest subset S of T={0,1,2,...,n} such that each element of T is the sum of two elements of S.|
+|66062|Number of distinct subsets S of T= 0,1,2,...,n  such that each element of T is the sum of two elements of S.|
+|66063|Size of the smallest subset S of T= 0,1,2,...,n  such that each element of T is the sum of two elements of S.|
 |66103|Smallest m such that A001221(A001159(m)) = n.|
 |66144|In base 2: n sets a new record for the number of 'Reverse and Add' steps needed to reach a palindrome starting with n.|
 |66145|In base 2, records for the number of 'Reverse and Add' steps needed to reach a palindrome.|
 |66175|Numbers n such that sigma(phi(sigma(n))) = n.|
-|66218|Numbers k such that sigma(k) = Sum_{j|k, j<k} sigma(j).|
+|66218|Numbers k such that sigma(k) = Sum_ j|k, j<k  sigma(j).|
 |66225|Covering numbers C(n,n-4,n-5).|
 |66226|The sigma(EulerPhi)-perfect numbers, where the set of f-perfect numbers for an arithmetical function f is defined in A066218.|
 |66228|The EulerPhi(sigma(EulerPhi))-perfect numbers, where the f-perfect numbers for an arithmetical function f are defined in A066218.|
@@ -2910,7 +2910,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |67193|Numbers k such that sigma(k) == 4 (mod phi(k)).|
 |67213|Number of n X n 0..5 matrices with all row and column sums equal.|
 |67214|Number of n X n 0..6 matrices with all row and column sums equal.|
-|67247|Number of difference sets of subsets of {1,2,...,n}, i.e., the size of {A-A : A \subset [n] }, where A-A={a_i-a_j : a_i>a_j and a_i,a_j \in A}.|
+|67247|Number of difference sets of subsets of  1,2,...,n , i.e., the size of  A-A : A \subset [n]  , where A-A= a_i-a_j : a_i>a_j and a_i,a_j \in A .|
 |67250|Numbers n such that prime(n) = floor(n*log(n*omega(n))).|
 |67309|Number of symmetric unlabeled digraphs (unlabeled digraphs with nontrivial automorphism group).|
 |67317|Numbers k such that 1 + binomial(k,j) is prime for only 2 values of j (0 <= j <= k).|
@@ -2920,11 +2920,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |67498|Maximum number of reflections for a ray of light which reflects at n points (reflecting more than once at most or all points).|
 |67526|Numbers n such that n - 2^k is a prime or 1 for all k satisfying 0 < k, 2^k < n.|
 |67527|n - 3^k is a prime for all k > 0 such that 3^k < n.|
-|67564|Numbers n such that determinant[{{n, phi(n), sigma(n)}, {n+1, phi(n+1), sigma(n+1)}, {n+2, phi(n+2), sigma(n+2)}] is a nonnegative cube.|
+|67564|Numbers n such that determinant[  n, phi(n), sigma(n) ,  n+1, phi(n+1), sigma(n+1) ,  n+2, phi(n+2), sigma(n+2) ] is a nonnegative cube.|
 |67568|Numbers n such that A000009(n) divides A022629(n).|
 |67569|Numbers n such that A000041(n) divides A006906(n).|
 |67570|Numbers n such that A000009(n) divides A067553(n).|
-|67601|a(n) is the number of inequivalent permutations of {0..2n-1}, such that the first differences (modulo 2n) are a permutation of {1..2n-1}.|
+|67601|a(n) is the number of inequivalent permutations of  0..2n-1 , such that the first differences (modulo 2n) are a permutation of  1..2n-1 .|
 |67651|Numbers n such that sigma(n) = phi(prime(n)-1).|
 |67665|The start of a record-setting run of consecutive integers i with distinct A001222(i).|
 |67670|Smallest prime of additive persistence n.|
@@ -2952,10 +2952,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |67931|Numbers k that divide the alternating sum sigma(1) - sigma(2) + sigma(3) - sigma(4) + ... + ((-1)^(k+1))*sigma(k).|
 |67933|Primes p such that p == -1 (mod phi(p-1)).|
 |67949|Smallest primes not generated by Buss's function up to n=603 (see A067836).|
-|67950|a(n) = number of 3-times (but not 4-times) reformable permutation of {1,...,n}.|
+|67950|a(n) = number of 3-times (but not 4-times) reformable permutation of  1,...,n .|
 |67976|Primes of the form 1+n^phi(n).|
 |67999|Numbers k such that (k! - 1) == 0 (mod prime(k)).|
-|68063|Maximum cardinality of a nondividing subset of {1, 2, ..., n}.|
+|68063|Maximum cardinality of a nondividing subset of  1, 2, ..., n .|
 |68069|a(n) is the least k which is the start of n consecutive integers each with a different number, 1 through n, of distinct prime factors.|
 |68072|Number of Pluperfect Digital Invariants base n.|
 |68077|Numbers n such that sigma(n)+sigma(n+1)=4n.|
@@ -3055,8 +3055,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |70525|Numbers n such that n-th cyclotomic polynomial evaluated at phi(n) is a prime number.|
 |70527|Numbers k such that cyclotomic(k, 2^k) is a prime number.|
 |70594|Numbers in A070938 that set a new record for digital sums and ending digits.|
-|70735|Let r, s, t be three permutations of the set { 1, 2, 3, ..., n }; a(n) = minimal value of Sum_{i=1..n} r(i) s(i) t(i).|
-|70736|Let r, s, t, u be four permutations of the set { 1, 2, 3, ..., n }; a(n) = minimal value of Sum_{i=1..n} r(i) s(i) t(i) u(i).|
+|70735|Let r, s, t be three permutations of the set   1, 2, 3, ..., n  ; a(n) = minimal value of Sum_ i=1..n  r(i) s(i) t(i).|
+|70736|Let r, s, t, u be four permutations of the set   1, 2, 3, ..., n  ; a(n) = minimal value of Sum_ i=1..n  r(i) s(i) t(i) u(i).|
 |70743|n sets a new record for the index of the (presumably) last palindrome in the 'Reverse and Add' trajectory of n.|
 |70744|Records for the index of the (presumably) last palindrome in the 'Reverse and Add' trajectory of n.|
 |70746|Numbers k such that k 1's followed by k is a prime.|
@@ -3070,14 +3070,14 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |71012|a(1)=1, a(n) is the smallest number >= a(n-1) such that the simple continued fraction for S(n) = 1/a(1) + 1/a(2) + ... + 1/a(n) contains exactly n elements.|
 |71102|Determinant of KK* where K is Kasteleyn-Percus matrix for fool's diamond of order n.|
 |71104|Number of perfect matchings in variant of 2n-1 X 2n Aztec rectangle graph.|
-|71115|a(1) = 1; a(n+1) is the smallest integer > 0 that cannot be obtained from the integers {a(1), ..., a(n)} using each number at most once and the operators +, -, *, /, where intermediate subexpressions must be integers.|
+|71115|a(1) = 1; a(n+1) is the smallest integer > 0 that cannot be obtained from the integers  a(1), ..., a(n)  using each number at most once and the operators +, -, *, /, where intermediate subexpressions must be integers.|
 |71219|Numbers m such that the largest prime factor of prime(m) + prime(m+1) equals m.|
 |71261|Smallest k such that |p(k)-c(k)| is an n-digit number where p(k) is the k-th prime and c(k) is the k-th composite number.|
 |71303|1/2 times the number of n X n 0..3 matrices M with MM' mod 4 = I, where M' is the transpose of M and I is the n X n identity matrix.|
 |71307|1/2 number of n X n 0..8 matrices with MM' mod 9 = I.|
 |71310|a(n) = (1/4) * (number of n X n 0..11 matrices with MM' mod 12 = I).|
-|71313|a(n) is the smallest number that cannot be obtained from the numbers {1,3,...,2*n-1} using each number at most once and the operators +, -, *, /, where intermediate subexpressions must be integers.|
-|71314|a(n) is the smallest number that cannot be obtained from the numbers {2^0,2^1,...,2^n} using each number at most once and the operators +, -, *, /. Parentheses are allowed, intermediate fractions are not allowed.|
+|71313|a(n) is the smallest number that cannot be obtained from the numbers  1,3,...,2*n-1  using each number at most once and the operators +, -, *, /, where intermediate subexpressions must be integers.|
+|71314|a(n) is the smallest number that cannot be obtained from the numbers  2^0,2^1,...,2^n  using each number at most once and the operators +, -, *, /. Parentheses are allowed, intermediate fractions are not allowed.|
 |71352|Numbers n such that the sum of two consecutive primes prime(n+1) + prime(n) is a prime power, say q^w. The w values are in A071087.|
 |71373|Least number X such that the numbers from X to X+n-1 are, in some order, 1 * a prime, 2 * a prime, ..., n * a prime.|
 |71380|Numbers n such that (26^n+1)/27 is a prime.|
@@ -3085,9 +3085,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |71382|Numbers n such that (30^n+1)/31 is a prime.|
 |71573|a(1) = 1; a(n) = a(n-1)-th nontotient number.|
 |71576|a(n) = least k such that 2ik + 1 is prime for all 1 <= i <= n.|
-|71603|Number of different positive integers that we can obtain from the integers {1,2,...,n} using each number at most once and the operators +, -, *, /, where intermediate subexpressions must be integers.|
+|71603|Number of different positive integers that we can obtain from the integers  1,2,...,n  using each number at most once and the operators +, -, *, /, where intermediate subexpressions must be integers.|
 |71605|Number of ordered pairs (a,b) of elements of the symmetric group S_n such that the pair a,b generates S_n.|
-|71607|Number of strong complete mappings of the cyclic group Z_{2n+1}.|
+|71607|Number of strong complete mappings of the cyclic group Z_ 2n+1 .|
 |71612|a(n) is the smallest prime that is the first of n consecutive primes which are all emirps.|
 |71613|a(n) is the smallest prime that is the first of n consecutive primes with equal digit sum.|
 |71614|a(n) is the smallest emirp that is the first of n consecutive emirps with equal digit sum.|
@@ -3095,22 +3095,22 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |71645|a(n) = A051193(A072109(n))/A018804(A072109(n)).|
 |71682|Least m such that A060207(m) = n.|
 |71710|Highly Wilsonian primes: smallest primes p such that w(p)=n where w(n) denote the number of nonnegative integers k such that k! = +1 or -1 (mod n).|
-|71711|Let s(k) denote the k-th term of an integer sequence such that s(0)=0 and s(i) for all i>0 is the least natural number such that no four elements of {s(0),..,s(i)} are in arithmetic progression. Then it appears that there are many set of 3 consecutive integers in s(k). Sequence gives the smallest element in those triples.|
+|71711|Let s(k) denote the k-th term of an integer sequence such that s(0)=0 and s(i) for all i>0 is the least natural number such that no four elements of  s(0),..,s(i)  are in arithmetic progression. Then it appears that there are many set of 3 consecutive integers in s(k). Sequence gives the smallest element in those triples.|
 |71713|a(n) = smallest value of |x^n + y^n + z^n| for x,y,z distinct nonzero integers.|
-|71794|a(n) is the smallest integer > 0 that cannot be obtained from the integers {1, ..., n} using each number at most once and the operators +, -, *, /, ^.|
-|71819|a(n) is the difference between the two smallest positive integers that you cannot obtain using the integers {1,2,...,n} at most once and the four operators +, -, *, /.|
+|71794|a(n) is the smallest integer > 0 that cannot be obtained from the integers  1, ..., n  using each number at most once and the operators +, -, *, /, ^.|
+|71819|a(n) is the difference between the two smallest positive integers that you cannot obtain using the integers  1,2,...,n  at most once and the four operators +, -, *, /.|
 |71848|a(n) = smallest positive integer that cannot be obtained using the number n at most n times and the operations +, -, *, /, where intermediate subexpressions must be integers.|
 |71852|Smallest k such that 2^k + 1 has exactly n distinct prime factors.|
 |71880|Number of combinatorial types of n-dimensional parallelohedra.|
 |71882|Number of contraction types of n-dimensional parallelohedra.|
 |71887|Conjectured values of n whose trajectory under map x -> A002487(x)*A002487(x+1) does not go into a cycle.|
-|71893|a(n) = Min_{k | A071891(k) = n}.|
+|71893|a(n) = Min_ k | A071891(k) = n .|
 |71900|1/4 times the number of n X n 0..7 matrices with MM' mod 8 = I, where M' is the transpose of M and I is the n X n identity matrix.|
-|71905|a(n) is the smallest positive integer (which is a polynomial of degree 0) that cannot be obtained using the polynomials {x, x+1, ..., x+n} using each polynomial at most once and the operations +, -, *, /.|
+|71905|a(n) is the smallest positive integer (which is a polynomial of degree 0) that cannot be obtained using the polynomials  x, x+1, ..., x+n  using each polynomial at most once and the operations +, -, *, /.|
 |71962|Number of double points of the map that, for each term t of a sequence, counts the preceding terms that are greater than or equal to t.|
 |71983|Square chains: the number of permutations (reversals not counted as different) of the numbers 1 to n such that the sum of any two consecutive numbers is a square.|
 |71984|Square loops: the number of circular permutations (reversals not counted as different) of the numbers 1 to n such that the sum of any two consecutive numbers is a square.|
-|71985|a(n) is the smallest positive integer that cannot be obtained using at most n-1 of the integers {1, 2, ..., n} using each number at most once and the operators +, -, *, /.|
+|71985|a(n) is the smallest positive integer that cannot be obtained using at most n-1 of the integers  1, 2, ..., n  using each number at most once and the operators +, -, *, /.|
 |71997|a(n) is the smallest positive integer that cannot be obtained by using the number 2 at most n times and the operators +, -, *, /.|
 |72002|Highest prime dividing the least n-multiperfect number (A007539).|
 |72033|Smallest x > 0 such that gcd(2^x, A004086(2^x)) = 2^n.|
@@ -3139,9 +3139,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |72396|Index of smallest Fibonacci number with n prime factors when counted with multiplicity.|
 |72415|a(1) = 2; a(n) = a(n-1)-th even nontotient number.|
 |72440|3-smooth numbers k with decimal digits <= 3.|
-|72444|Number of subsets S of the power set P{1,2,...,n} such that: {1}, {2},..., {n} are all elements of S; if X and Y are elements of S and X and Y have a nonempty intersection, then the union of X and Y is an element of S. The sets S are counted modulo permutations on the elements 1,2,...,n.|
-|72445|Number of subsets S of the power set P{1,2,...,n} such that: {1}, {2},..., {n} are all elements of S; {1,2,...,n} is an element of S; if X and Y are elements of S and X and Y have a nonempty intersection, then the union of X and Y is an element of S. The sets S are counted modulo permutations on the elements 1,2,...,n.|
-|72447|Number of subsets S of the power set P{1,2,...,n} such that: {1}, {2},..., {n} are all elements of S; {1,2,...n} is an element of S; if X and Y are elements of S and X and Y have a nonempty intersection, then the union of X and Y is an element of S.|
+|72444|Number of subsets S of the power set P 1,2,...,n  such that:  1 ,  2 ,...,  n  are all elements of S; if X and Y are elements of S and X and Y have a nonempty intersection, then the union of X and Y is an element of S. The sets S are counted modulo permutations on the elements 1,2,...,n.|
+|72445|Number of subsets S of the power set P 1,2,...,n  such that:  1 ,  2 ,...,  n  are all elements of S;  1,2,...,n  is an element of S; if X and Y are elements of S and X and Y have a nonempty intersection, then the union of X and Y is an element of S. The sets S are counted modulo permutations on the elements 1,2,...,n.|
+|72447|Number of subsets S of the power set P 1,2,...,n  such that:  1 ,  2 ,...,  n  are all elements of S;  1,2,...n  is an element of S; if X and Y are elements of S and X and Y have a nonempty intersection, then the union of X and Y is an element of S.|
 |72507|Smallest start of n consecutive integers with n divisors, or 0 if no such number exists.|
 |72540|Numbers that are not differences between successive Ulam numbers (A002858).|
 |72552|Number of connected planar regular graphs of degree 4 with n nodes.|
@@ -3150,7 +3150,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |72599|Numbers n such that (n!)^2 - prime(n) is prime.|
 |72606|Number of pretzel (stellar or prismatic) knots and links.|
 |72632|Solutions to A072631[n]=0.|
-|72663|Numbers m such that Sum_{k=1..m} (-1)^k*k*floor(m/k)) = 0.|
+|72663|Numbers m such that Sum_ k=1..m  (-1)^k*k*floor(m/k)) = 0.|
 |72665|Center of smallest run of 2n+1 consecutive numbers with exactly n+1,n,...,2,1,2,...,n,n+1 distinct prime factors, respectively.|
 |72687|Number of primes with prime length names in range 1 -> 10^n.|
 |72712|Primes p such that p divides the (right) concatenation of all numbers from 1 to p written in base 10 (most significant digit on left).|
@@ -3158,13 +3158,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |72752|Maximum gap in one-stage prime-sieves.|
 |72753|Maximum gap in two-stage prime-sieves.|
 |72825|Numbers k such that k^2 - 1 is a highly composite number.|
-|72842|Largest m such that we can partition the set {1,2,...,m} into n subsets with the property that we never have a+b=c for any distinct elements a, b, c in one subset.|
+|72842|Largest m such that we can partition the set  1,2,...,m  into n subsets with the property that we never have a+b=c for any distinct elements a, b, c in one subset.|
 |72847|The a(n)-th highly-composite number (A002182) is the first one divisible by 2^n.|
 |72868|Numbers n such that sigma(sigma(n)-n) = n.|
 |72875|Smallest start for a run of n consecutive numbers of which the i-th has exactly i prime factors.|
 |72934|Length of longest non-crossing walk along vertices of n-dimensional hypercubes.|
-|72986|Least k such that Product_{i=1..k} (prime(i) + 1) >= n*Product_{i=1..k} prime(i).|
-|72997|Smallest prime p such that Product_{primes q <= p} q+1 >= n*Product_{primes q <= p} q.|
+|72986|Least k such that Product_ i=1..k  (prime(i) + 1) >= n*Product_ i=1..k  prime(i).|
+|72997|Smallest prime p such that Product_ primes q <= p  q+1 >= n*Product_ primes q <= p  q.|
 |73001|Decimal expansion of Bernstein's constant.|
 |73043|Number of nonisomorphic (finite) groups with n conjugacy classes.|
 |73048|Starting term of the first length-n chain of equidigital numbers (A046758).|
@@ -3233,7 +3233,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |74063|a(n) is the number of essentially different ways in which the integers 1,2,3,...,n can be arranged in a sequence such that (1) adjacent integers sum to a prime number and (2) squares of adjacent numbers sum to a prime number. Rotations and reversals are counted only once.|
 |74098|Where records occur in A074078.|
 |74114|Largest n-digit number of the form p^a*q^b... with the maximum value of a+b+.... where p, q etc. are primes.|
-|74178|Records of the coefficients of the continued fraction for the Product_{p prime} (1 - 2/p^2).|
+|74178|Records of the coefficients of the continued fraction for the Product_ p prime  (1 - 2/p^2).|
 |74195|Sum of the primes from smallest prime factor of n to the largest prime factor of n = largest difference between consecutive divisors of n (ordered by size).|
 |74200|a(n) = m, the smallest number such that (m+k)/k is prime for k=1, 2, ..., n.|
 |74201|Let b(1) = 1, b(2) = 2, b(n+2) = (b(n+1)+1)/(b(n)+1); then a(n) = 1 if b(n) >= 1 and a(n) = 0 otherwise (also a(n) = floor(b(n)) for n > 2).|
@@ -3249,8 +3249,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |74382|Difference between (1+3^n)-th and (3^n)-th primes.|
 |74383|Difference between (1+10^n)-th and (10^n)-th primes.|
 |74386|Numbers n such that sigma(n) is the square of a prime.|
-|74468|Subscript m such that Sigma-Harmonic sequence, ssi[m]=Sum[1/sigma[k],{k,1,m}] >= n.|
-|74469|Subscript m such that SigmaComposite-Harmonic series cd[m]=Sum[1/A000203[A002808(k)],{k,1,m}]>=n.|
+|74468|Subscript m such that Sigma-Harmonic sequence, ssi[m]=Sum[1/sigma[k], k,1,m ] >= n.|
+|74469|Subscript m such that SigmaComposite-Harmonic series cd[m]=Sum[1/A000203[A002808(k)], k,1,m ]>=n.|
 |74486|Encoding of topologies generated by classes of sets.|
 |74698|Numbers k that divide the number of divisors of Fibonacci(k).|
 |74699|a(n) = tau(Fibonacci(24*2^n))/(24*2^n) where tau(x) is the number of divisors of x (A000005(x)).|
@@ -3305,7 +3305,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |75767|Least m such that A(m) = -10^n, where A(n) = sigma(n) - 2n, the abundance of n.|
 |75833|a(n) is the least k such that for any p prime dividing n, p does not divide binomial((n+1)*k, k+1), or -1 if no such k exists.|
 |75863|phi(phi(n)) = sum of prime factors of n.|
-|75866|Number of permutations s of {1,2,...,n} such that |s(i)-i| for i=1,2,...,n are all distinct.|
+|75866|Number of permutations s of  1,2,...,n  such that |s(i)-i| for i=1,2,...,n are all distinct.|
 |75898|Numbers k such that 3^k + k^2 is prime.|
 |75902|Primes p = prime(k) such that the decimal representation of p contains k as a substring.|
 |75985|Numbers k such that k^5 + 6^k is prime.|
@@ -3319,7 +3319,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |76130|Out of all the n-digit primes, which one takes the longest time to appear in the digits of Pi (ignoring the initial 3)? The answer is A076106(n) and the position where this prime appears is a(n).|
 |76133|Numbers k such that 2*k! - 1 is prime.|
 |76134|Numbers k such that 3*k! - 1 is prime.|
-|76143|Number of permutations p(1),...,p(n) of 1,...,n such that gcd(Sum_{k=1..m} p(k), p(m+1)) = 1 for all positive integers m <= n-1.|
+|76143|Number of permutations p(1),...,p(n) of 1,...,n such that gcd(Sum_ k=1..m  p(k), p(m+1)) = 1 for all positive integers m <= n-1.|
 |76146|a(1) = 1; a(n) = a(n-1)*prime(a(n-1)).|
 |76172|Triangular numbers with a triangular number of divisors which set a new record for number of divisors.|
 |76185|Numbers n such that n!! + 2 is prime.|
@@ -3377,7 +3377,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |76683|Numbers k such that 7*k! + 1 is prime.|
 |76696|Triangle read by rows: n-th row contains n numbers whose product is a square; all numbers in triangle are distinct.|
 |76730|Maximum number of (distinct) primes that an n-digit number may shelter (i.e., primes contained among all digital substrings' permutations).|
-|76751|a(n) is the smallest composite k such that Sum_{composites j = 4, ..., k} 1/j exceeds n.|
+|76751|a(n) is the smallest composite k such that Sum_ composites j = 4, ..., k  1/j exceeds n.|
 |76779|Maximum number of disjoint maximum-size antichains in partition lattice Par(n).|
 |76804|a(n) = least positive integer k satisfying Omega(k) = Omega(k+1)+Omega(k+2)....+Omega(k+n), where Omega = A001222 = number of prime factors, counting multiplicity.|
 |76834|Number of inequivalent projective binary linear [n,k] codes of any dimension k <= n. Also the number of simple binary matroids on n points.|
@@ -3499,8 +3499,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |78941|Flipping burnt pancakes. Maximum number of spatula flips to sort a stack of n pancakes of different sizes, each burnt on one side, so that the smallest ends up on top, ..., the largest at the bottom and each has its burnt side down.|
 |78942|Flipping burnt pancakes. Given a sorted stack of n burnt pancakes of different sizes (smallest on top, ..., largest at the bottom), each with its burnt side up, a(n) is the number of spatula flips needed to restore them to their initial order but with the burnt sides down.|
 |79009|Least k such that the 2^n successive values of phi(k+j) (j=0..2^n-1) are all distinct.|
-|79012|Least prime p introducing prime-difference pattern {d, 2*d, 4*d}, where d = 2*n, i.e., {p, p+2*n, p+6*n, p+14*n} are consecutive primes.|
-|79013|Least prime p introducing prime-difference pattern {d, 2*d, 4*d, 8*d}, where d = 2*n, i.e., {p, p+2*n, p+6*n, p+14*n, p+30*n} are consecutive primes.|
+|79012|Least prime p introducing prime-difference pattern  d, 2*d, 4*d , where d = 2*n, i.e.,  p, p+2*n, p+6*n, p+14*n  are consecutive primes.|
+|79013|Least prime p introducing prime-difference pattern  d, 2*d, 4*d, 8*d , where d = 2*n, i.e.,  p, p+2*n, p+6*n, p+14*n, p+30*n  are consecutive primes.|
 |79014|a(n) is the least prime initiating consecutive prime difference pattern consisting of n increasing consecutive powers of 2 started with 2.|
 |79022|Suppose p and q = p + 2*n are primes. Define the difference pattern of (p, q) to be the successive differences of the primes in the range p to q. There are a(n) possible difference patterns.|
 |79038|Fractional part of sinh(n) decreases monotonically to zero.|
@@ -3587,10 +3587,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |79917|Solution to the Dancing School Problem with 12 girls and n+12 boys: f(12,n).|
 |79918|Solution to the Dancing School Problem with 13 girls and n+13 boys: f(13,n).|
 |79925|Solution to the Dancing School Problem with n girls and n+6 boys: f(n,6).|
-|79937|Greedy frac multiples of Pi^2/6: a(1)=1, Sum_{n>=1} frac(a(n)*x) = 1 at x = Pi^2/6.|
-|79938|Greedy frac multiples of Pi: a(1)=1, Sum_{n>=1} frac(a(n)*x) = 1 at x = Pi.|
+|79937|Greedy frac multiples of Pi^2/6: a(1)=1, Sum_ n>=1  frac(a(n)*x) = 1 at x = Pi^2/6.|
+|79938|Greedy frac multiples of Pi: a(1)=1, Sum_ n>=1  frac(a(n)*x) = 1 at x = Pi.|
 |79939|Greedy frac multiples of e: a(1)=1, sum(n>0,frac(a(n)*x))=1 at x=e.|
-|79940|Greedy fractional multiples of 1/e: a(1)=1, sum_{n>0} fractional_part(a(n)/e)).|
+|79940|Greedy fractional multiples of 1/e: a(1)=1, sum_ n>0  fractional_part(a(n)/e)).|
 |80019|Positive integers such that the smallest real solution to x^n + x = 2*Pi*a(n) forms a monotonically increasing sequence as n grows.|
 |80072|Values of n such that Pi^n is farther from its closest integer than any Pi^k for 1 <= k < n.|
 |80090|a(n) is the index of the first occurrence of n in A080071, or 0 for those n>0 which never occur in A080071.|
@@ -3603,7 +3603,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |80173|Final 2 digits of n-th Mersenne prime A000668(n).|
 |80201|Numbers that do not occur as differences between terms of the Mian-Chowla variant A051788.|
 |80203|Steffi sequence; the numbers of pairs of unequal permutations of all the digits 1, ..., b-1 in base b whose ratio is an integer.|
-|80207|Let F(x) = 1 + x + 4x^2 + 9x^3 + ... = g.f. for A002835 (solid partitions restricted to two planes) and write F(x) = 1/Product_{n>=1} (1-x^n)^a(n).|
+|80207|Let F(x) = 1 + x + 4x^2 + 9x^3 + ... = g.f. for A002835 (solid partitions restricted to two planes) and write F(x) = 1/Product_ n>=1  (1-x^n)^a(n).|
 |80208|a(n) is the least k such that the generalized Fermat number (k+1)^(2^n) + k^(2^n) is prime.|
 |80279|Numbers n such that 1/G^n is closer to its nearest integer than any value of 1/G^k for 1 <= k < n, where G is Catalan's constant.|
 |80280|Numbers n such that Pi^(n*e)-e^n is closer to its nearest integer than any value of Pi^(k*e)-e^k for 1 <= k < n.|
@@ -3769,7 +3769,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |82930|Even elements of A080435.|
 |82946|Palindromes in A082945.|
 |82984|Numbers k for which the 3x+1 problem takes at least k halving and tripling steps to reach 1.|
-|83006|Numbers k such that Sum_{j=0..k-1} Bernoulli(j)*binomial(k,j)^2 is an integer.|
+|83006|Numbers k such that Sum_ j=0..k-1  Bernoulli(j)*binomial(k,j)^2 is an integer.|
 |83029|Triangle read by rows: T(n,k), n >=1, 0 <= k <= C(n,k), = number of n X n symmetric positive semi-definite matrices with 2's on the main diagonal and 1's and 0's elsewhere and with k 1's above the diagonal.|
 |83111|Diagonal of A083110.|
 |83148|a(n) = A083147(n+1)/A083147(n).|
@@ -3839,7 +3839,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |84295|n is such that pi(n*prime(n))/n is an integer.|
 |84297|Primes p=prime(m) such that pi(m*p)/m is integer.|
 |84298|Integer quotients pi(m*prime(m))/m.|
-|84299|Smallest primes such that the subsequent terms of consecutive prime differences[A001223] modulo 6 [A054763] displays repeatedly n times a {0,2,4} pattern of remainders of differences.|
+|84299|Smallest primes such that the subsequent terms of consecutive prime differences[A001223] modulo 6 [A054763] displays repeatedly n times a  0,2,4  pattern of remainders of differences.|
 |84428|Numbers n such that n 7's followed by n is prime.|
 |84443|Primes that can be written in more than one way as 1+p+p^k, p prime and k>0.|
 |84559|Smallest a(n) > n such that concatenation of numbers from n to a(n) is a prime or 0 if no such number exists.|
@@ -3854,11 +3854,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |84746|Smallest k such that n^k - k is a prime, or 0 if no such number exists.|
 |84749|Numbers n such that n! + p is a prime, where p is the smallest prime > n.|
 |84750|Numbers n such that n! - p is a prime, where p is the smallest prime > n.|
-|84814|Least integers that satisfy Sum_{n>=1} 1/a(n)^z = 0, where a(1)=1, a(n+1) > a(n) and z = i*Pi/2.|
-|84815|Least integers that satisfy Sum_{n>=1} 1/a(n)^z = 0, where a(1)=1, a(n+1) > a(n) and z = i*Pi/4.|
+|84814|Least integers that satisfy Sum_ n>=1  1/a(n)^z = 0, where a(1)=1, a(n+1) > a(n) and z = i*Pi/2.|
+|84815|Least integers that satisfy Sum_ n>=1  1/a(n)^z = 0, where a(1)=1, a(n+1) > a(n) and z = i*Pi/4.|
 |84817|Least integers that satisfy sum(n>0,1/a(n)^z)=0, where a(1)=1, a(n+1)>a(n) and z=I/log(2).|
 |84818|Least integers that satisfy sum(n>0,1/a(n)^z)=0, where a(1)=1, a(n+1)>a(n) and z=I/log(3).|
-|84819|Least integers that satisfy Sum_{n>=1} 1/a(n)^z = 0, where a(1)=1, a(n+1) > a(n) and z = i*Pi/(4*log(2)).|
+|84819|Least integers that satisfy Sum_ n>=1  1/a(n)^z = 0, where a(1)=1, a(n+1) > a(n) and z = i*Pi/(4*log(2)).|
 |84824|Maximum number of spheres of diameter one that can be packed in a cube of volume n (i.e., with edge length n^(1/3)).|
 |84825|Maximum number of spheres of diameter one that can be packed in a cube of edge length n.|
 |84826|Best packing of m>1 equal spheres in a cube setting a new density record.|
@@ -3869,7 +3869,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |84852|Numbers n such that n^(n+1)+(n+1)^n-n(n+1) is prime.|
 |84853|Numbers n such that n^(n+1)+(n+1)^n+n(n+1) is prime.|
 |84898|Numbers k such that k^k*k! + 1 is prime.|
-|84911|Decimal expansion of linear asymptotic constant B in Sum_{k=1..n} 1/A000688(k) = ~B*n + ...|
+|84911|Decimal expansion of linear asymptotic constant B in Sum_ k=1..n  1/A000688(k) = ~B*n + ...|
 |84914|Numbers k such that k^k*k! - 1 is prime.|
 |84954|Initial prime of a prime chain of length n under the iteration x->2x+3.|
 |84955|Initial prime of a prime chain of length n under the iteration x->2x+5.|
@@ -3883,7 +3883,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |85000|Maximal determinant of an n X n matrix using the integers 1 to n^2.|
 |85019|a(n) = A083752(A085018(n)).|
 |85092|Numerators of constant term in a formal analog of Bernoulli numbers.|
-|85098|a(n) = number of solutions (x_1, x_2, ..., x_n) to Product_{i=1..n} (1 + 1/x_i) = 2.|
+|85098|a(n) = number of solutions (x_1, x_2, ..., x_n) to Product_ i=1..n  (1 + 1/x_i) = 2.|
 |85123|Smallest member of A002473 whose digital product = A002473(n), or 0 if no such number exists.|
 |85266|Numbers having a unique representation as sum of a squarefree number and a square.|
 |85285|Positions where records occur in A072340.|
@@ -3895,7 +3895,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |85408|Total number of cycles in the binary n-cube.|
 |85430|a(n) is the minimal m such that the group GL(m,2) has an element of order n.|
 |85452|Triangle T(n,k) read by rows: T(n,k) = number of cycles of length 2k in the binary n-cube, for n >= 2, k = 2, 3, ..., 2^(n-1).|
-|85506|Number of {-1,0,1} n X n matrices that have (real and) positive eigenvalues.|
+|85506|Number of  -1,0,1  n X n matrices that have (real and) positive eigenvalues.|
 |85515|Order of first occurrence of a sequence of exactly n consecutive primes of the form 6*k+1.|
 |85516|Order of first occurrence of a sequence of exactly n consecutive primes of the form 6*k-1.|
 |85544|n-th partition number (A000041) sets a new record for number of divisors.|
@@ -3933,7 +3933,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |86260|Number of symmetric n X n conference matrices.|
 |86261|Number of antisymmetric n X n conference matrices.|
 |86262|Number of n X n conference matrices (including both symmetric and antisymmetric).|
-|86264|Number of real {0,1} n X n matrices having determinant=1.|
+|86264|Number of real  0,1  n X n matrices having determinant=1.|
 |86265|Numerators of mean number of s-clusters in an n X n (0,1)-matrix.|
 |86266|Triangle of counts of s-clusters in n X n (0,1)-matrices for s=0, 1, ....|
 |86268|Decimal expansion of mean s-cluster density for p=1/2.|
@@ -3949,7 +3949,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |86560|Start of first run of n successive numbers in which i-th number has exactly i distinct prime divisors for i = 1..n.|
 |86564|Smallest k such that 10^k + 1 has n distinct prime divisors.|
 |86565|Smallest k such that (10^k - 1)/9 has n distinct prime divisors. Or a(n)= smallest value of k such that A000042(k) has exactly n distinct prime divisors.|
-|86596|An invariant of the set {Log(2), Log(3), Log(5),..., Log(Prime(2n)), Log(Prime(2n+1))}.|
+|86596|An invariant of the set  Log(2), Log(3), Log(5),..., Log(Prime(2n)), Log(Prime(2n+1)) .|
 |86641|Permanents of the character tables that appear in A085805.|
 |86642|Maximal number of zeros in a column of the character table of the symmetric group S_n.|
 |86643|Number of zeros in the character table of the group GL(2,Z_n).|
@@ -4015,7 +4015,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |87663|Indices of records in A087666.|
 |87667|Records in A087664.|
 |87668|Indices of records in A087664.|
-|87671|Number of subsets S of {0,1,2,...,n-1} which are idempotent under squaring modulo n, where S*S mod n = {x*y mod n|x,y in S}.|
+|87671|Number of subsets S of  0,1,2,...,n-1  which are idempotent under squaring modulo n, where S*S mod n =  x*y mod n|x,y in S .|
 |87714|Primes p = prime(i) such that p(i)# - p(i+1) and p(i)# + p(i+1) are both primes, where p# = A002110.|
 |87716|Base-2 pseudoprimes (see A001567) of the form j*p(i)# - p(k) or j*p(i)# + p(k), p(i) and p(k) primes with p(i) < p(k) < p(i+1)^2 and 0 < j < p(i+1).|
 |87725|Maximal number of moves required for the n X n generalization of the sliding block 15-puzzle (or fifteen-puzzle).|
@@ -4062,8 +4062,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |88416|A088415 indexed by A000040.|
 |88430|a(n) = the least positive d such that for p=prime(n), the numbers p+0d, p+1d, p+2d, ..., p+(p-1)d are all primes.|
 |88495|a(1)=0 and, for n>1, a(n) is the largest integer such that each integer in 0,1,2,...,2*a(n) is expressible as the sum of five integers from a(1),a(2),...,a(n), with repetitions allowed.|
-|88532|"Patterns of permutations": Define the "pattern" formed by k positions in a permutation to be the permutation of {1..k} specifying the relative order of the elements in those positions; a(n) = largest number of different patterns that can occur in a permutation of n letters.|
-|88600|Number of simple loops with n elements: loops with no real substructure, every subset which is closed under the operation is either {E} or the whole set.|
+|88532|"Patterns of permutations": Define the "pattern" formed by k positions in a permutation to be the permutation of  1..k  specifying the relative order of the elements in those positions; a(n) = largest number of different patterns that can occur in a permutation of n letters.|
+|88600|Number of simple loops with n elements: loops with no real substructure, every subset which is closed under the operation is either  E  or the whole set.|
 |88616|a(n) = number of n X n (0,1) matrices A such that the 2n vectors consisting of the rows and the columns of the matrix A are all distinct.|
 |88650|a(n) = smallest value of x pertaining to A020498, or the smallest x such that A020498(k) + x is prime for all k = 1 to n.|
 |88672|Number of n X n (0,1)-matrices with zero permanent.|
@@ -4096,7 +4096,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |89015|Least odd short leg of n primitive Pythagorean triangles.|
 |89046|Least edge-length of a square dissectable into at least n squares in the Mrs. Perkins's quilt problem.|
 |89047|Edge length of largest square dissectable into up to n squares in Mrs. Perkins's quilt problem.|
-|89150|a(1) = 1; for > 1, a(n) = smallest m such that n^m - {(n-1)^a(n-1)} is a positive prime.|
+|89150|a(1) = 1; for > 1, a(n) = smallest m such that n^m -  (n-1)^a(n-1)  is a positive prime.|
 |89180|a(n) is the smallest number m such that d(m) = d(m+1) = ... = d(m+n), where d(k) = prime(k+1) - prime(k) (A001223).|
 |89187|a(n) is the minimal area of a convex lattice polygon with 2n sides.|
 |89243|Number of partitions into strokes of the star graph with n edges on the plane, up to rotations and reflections around the center node.|
@@ -4104,7 +4104,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |89458|Number of n-celled polyominoes with exactly 6 holes.|
 |89472|Number of different values taken by the determinant of a real (0,1)-matrix of order n.|
 |89475|Number of different values taken by the permanent of a real nonsingular (0,1)-matrix of order n.|
-|89477|Smallest positive integer not the permanent of a real {0,1}-matrix of order n.|
+|89477|Smallest positive integer not the permanent of a real  0,1 -matrix of order n.|
 |89485|Numbers n such that n^4 + 4^n = A001589(n) is a semiprime.|
 |89586|Number of arborescent (stellar-rational or prysmatic-rational) knots and links.|
 |89588|a(n)=A089588(2^n+1) for n>=0.|
@@ -4112,7 +4112,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |89673|a(n) = number of n X n (0,1) matrices A such that the 2n+2 vectors consisting of the rows and the columns of the matrix A, as well as the main diagonal and the main antidiagonal, are all distinct.|
 |89674|a(n) = number of n X n (0,1) matrices A such that the 2n+2 vectors consisting of the rows and the columns of the matrix A, as well as the main diagonal read in the upward direction and the main antidiagonal, are all distinct.|
 |89675|Numbers k such that 10^k - 3 is prime.|
-|89676|a(n) is the maximal size of a set S of points in {0,1}^n in real n-dimensional Euclidean space such that every angle determined by three points in S is acute.|
+|89676|a(n) is the maximal size of a set S of points in  0,1 ^n in real n-dimensional Euclidean space such that every angle determined by three points in S is acute.|
 |89694|Number of palindromes < 10^n in A088753.|
 |89695|Numbers m such that placing as many possible '+' signs anywhere in between the digits yields a prime in every case. Let abcd... be the digits of m; then abcd, a + bcd, ab + cd, abc + d, a + b + cd, a + bc + d, ab + c + d, a + b + c + d, ... are all prime.|
 |89696|Numbers k such that the numbers obtained by placing as many '*' signs as possible anywhere between the digits and then adding 1 yields a prime in every case: let abc.. be the digits of k, then abc+1, a*bc+1, ab*c+1, a*b*c+1, ... must all be primes.|
@@ -4250,12 +4250,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |91462|a(n) is the smallest j such that 1/3 + 1/6 + 1/9 + ... + 1/j exceeds n.|
 |91463|a(n) is the smallest j such that 1/1 + 1/4 + 1/7 + ... + 1/j exceeds n.|
 |91464|a(n) is the smallest j such that 1/2 + 1/5 + 1/8 + ... + 1/j exceeds n.|
-|91470|Number of n X n matrices with entries {-1,0,1} that are diagonalizable over the complex numbers.|
-|91471|Number of n X n matrices with entries {-1,1} that are diagonalizable over the complex numbers.|
-|91472|Number of n X n matrices with entries {0,1} that are diagonalizable over the complex numbers.|
-|91502|Number of n X n matrices with entries {-1,0,1} that are diagonalizable over the real numbers.|
-|91503|Number of n X n matrices with entries {-1,1} that are diagonalizable over the real numbers.|
-|91504|Number of n X n matrices with entries {0,1} that are diagonalizable over the real numbers.|
+|91470|Number of n X n matrices with entries  -1,0,1  that are diagonalizable over the complex numbers.|
+|91471|Number of n X n matrices with entries  -1,1  that are diagonalizable over the complex numbers.|
+|91472|Number of n X n matrices with entries  0,1  that are diagonalizable over the complex numbers.|
+|91502|Number of n X n matrices with entries  -1,0,1  that are diagonalizable over the real numbers.|
+|91503|Number of n X n matrices with entries  -1,1  that are diagonalizable over the real numbers.|
+|91504|Number of n X n matrices with entries  0,1  that are diagonalizable over the real numbers.|
 |91521|Number of configurations of a variant of the 3-dimensional 3 X 3 X 3 sliding cube puzzle that require a minimum of n moves to be reached, starting with the empty space at the center of one of the 6 faces of the combination cube.|
 |91560|Fractional part of e^a(n) is the largest yet.|
 |91587|Records in A091579.|
@@ -4295,10 +4295,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |92052|Numbers n such that prime(n) == -10 (mod n).|
 |92061|Numbers n such that primorial(n)^2 + 1 is prime.|
 |92088|Number of spanning trees with degrees 1 and 3 in K_5 X P_2n.|
-|92095|a(n) = Sum_{i=0,1,2,..; n-k*i >= -n} |n-k*i| for k=4.|
+|92095|a(n) = Sum_ i=0,1,2,..; n-k*i >= -n  |n-k*i| for k=4.|
 |92103|Number of values of k for which prime(n) divides A001008(k), the numerator of the k-th harmonic number.|
 |92121|Minimum sum of absolute values of coefficients of a product of n binomials.|
-|92122|Let R_{k}(m) = the digit reversal of m in base k (R_{k}(m) is written in base 10). Sequence gives numbers m such that m = Sum_{d|m, d>1} R_{d}(m).|
+|92122|Let R_ k (m) = the digit reversal of m in base k (R_ k (m) is written in base 10). Sequence gives numbers m such that m = Sum_ d|m, d>1  R_ d (m).|
 |92132|Indices k of Bernoulli numbers B(k) whose numerators are primes.|
 |92133|Prime numerators of Bernoulli numbers, i.e., numerators of Bernoulli numbers with indices A092132.|
 |92179|Number of partitions of n^2 into squares providing no dissections of the square n X n into smaller squares.|
@@ -4310,8 +4310,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |92284|Number of nonterminal symbols in a certain "divide-and-conquer" context-free grammar in Chomsky normal form that generates all permutations of n symbols.|
 |92304|Number of cusped hyperbolic 3-manifolds obtained from n ideal tetrahedra.|
 |92328|Solutions of x^2 = ceiling(x*r*floor(x/r)) where r=Pi.|
-|92358|Let R_{k}(m) = the digit reversal of m in base k (R_{k}(m) is written in base 10). a(n) is the smallest x such that there are exactly n bases {k} (k >= 2 and (x < y)) solutions of the equation: R_{k}(x) = y and R_{k}(y) = x.|
-|92359|Let R_{k}(m) = the digit reversal of m in base k (R_{k}(m) is written in base 10). a(n) is the smallest y such that there are exactly n bases {k} (k >= 2 and (x < y)) solutions of the equation: R_{k}(x) = y and R_{k}(y) = x.|
+|92358|Let R_ k (m) = the digit reversal of m in base k (R_ k (m) is written in base 10). a(n) is the smallest x such that there are exactly n bases  k  (k >= 2 and (x < y)) solutions of the equation: R_ k (x) = y and R_ k (y) = x.|
+|92359|Let R_ k (m) = the digit reversal of m in base k (R_ k (m) is written in base 10). a(n) is the smallest y such that there are exactly n bases  k  (k >= 2 and (x < y)) solutions of the equation: R_ k (x) = y and R_ k (y) = x.|
 |92591|Exponents n such that 1-A065395(2^n) is a power of 2, where A065395(n) = sigma(phi(n)) - phi(sigma(n)).|
 |92636|Number of consecutive prime runs of 1 prime congruent to 1 mod 4 below 10^n.|
 |92637|Number of consecutive prime runs of 1 prime congruent to 3 mod 4 below 10^n.|
@@ -4386,9 +4386,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |93299|a(n) is the largest number such that all of a(n)'s length-n substrings are distinct and divisible by 99.|
 |93300|Maximal values of m=a^2+b^2=c^2+d^2 for each x=a+b+c+d=6*p (p=any odd prime).|
 |93301|Earliest positive integer having embedded exactly k distinct primes.|
-|93313|Number of permutations s_1,s_2,...,s_n of 1,2,...,n with s_1 = 2 and such that for all j=1,2,...,n, s_j divides Sum_{i=1..j} s_i.|
-|93314|Number of permutations s_1,s_2,...,s_n of 1,2,...,n with s_1 = 3 and such that for all j=1,2,...,n, s_j divides Sum_{i=1..j} s_i.|
-|93315|Number of permutations s_1,s_2,...,s_n of 1,2,...,n with s_1 = 4 and such that for all j=1,2,...,n, s_j divides Sum_{i=1..j} s_i.|
+|93313|Number of permutations s_1,s_2,...,s_n of 1,2,...,n with s_1 = 2 and such that for all j=1,2,...,n, s_j divides Sum_ i=1..j  s_i.|
+|93314|Number of permutations s_1,s_2,...,s_n of 1,2,...,n with s_1 = 3 and such that for all j=1,2,...,n, s_j divides Sum_ i=1..j  s_i.|
+|93315|Number of permutations s_1,s_2,...,s_n of 1,2,...,n with s_1 = 4 and such that for all j=1,2,...,n, s_j divides Sum_ i=1..j  s_i.|
 |93324|a(n) is the smallest natural number m such that n^m + m is prime.|
 |93364|Gaps associated with the arithmetic progressions of primes in A005115.|
 |93366|Gaps associated with the arithmetic progressions in A093365.|
@@ -4461,7 +4461,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |94032|Number of n-crossing 3 component links with alternating braids of 3 strands.|
 |94087|Domination number of the Cartesian product of two n-cycles.|
 |94095|a(n)^2 is the smallest square associated with the n-th term of A090943.|
-|94096|Min{m: n = Sum((m mod (1+k*L(n)!))*2^(k-1): 1<=k<=L(n))}, where L(n) = length of binary representation of n, cf. A070939, A000142.|
+|94096|Min m: n = Sum((m mod (1+k*L(n)!))*2^(k-1): 1<=k<=L(n)) , where L(n) = length of binary representation of n, cf. A070939, A000142.|
 |94098|Number of divisor chains of length n in which the first term is a divisor of n(n+1)/2 ("cyclic" divisor chains).|
 |94099|Number of divisor chains of length 2n+1 which are both cyclic and anchored.|
 |94106|a(n) is the maximal length L of a "power floor prime" sequence, i.e., a sequence of the form floor(x^k), k = 1, 2, ..., L such that floor(x) = prime(n).|
@@ -4524,7 +4524,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |95688|Numbers k such that 10^k + 13 is prime.|
 |95707|Total number of distinct winning paths across an n X n Hex board.|
 |95708|Tau-functions of the q-discrete Painlevé I equation, f(n+1) = (A*q^n*f(n) + B)/(f(n)^2*f(n-1)), for q=2 and A=B=1, with f(n) = a(n+1)*a(n-1)/a(n)^2.|
-|95724|Fixed points of 1+Phi power sigma function 1PhiPsigma: if j = Product p_i^r_i then 1PhiPsigma(j) = Product {Sum p_i^r_i, 0 <= s_i < r_i, s_i is 0 or coprime to r_i} 1PhiPsigma(j) = j.|
+|95724|Fixed points of 1+Phi power sigma function 1PhiPsigma: if j = Product p_i^r_i then 1PhiPsigma(j) = Product  Sum p_i^r_i, 0 <= s_i < r_i, s_i is 0 or coprime to r_i  1PhiPsigma(j) = j.|
 |95829|Numbers n such that n^(n+2) + (n+1)^(n+3) is prime.|
 |95853|Number of simple graphs g on n nodes with |Aut(g)| = 12.|
 |95854|Number of simple graphs g on n nodes with |Aut(g)| = 16.|
@@ -4575,7 +4575,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |96347|Least number with n preimages (or immediate predecessors) under f(n) = n + (product of nonzero digits of n).|
 |96355|Number of unattainables <= 10^n, where unattainables are A063425.|
 |96368|Number of unlabeled regular tournaments with 2n+1 nodes.|
-|96390|Maximal determinant of an n X n persymmetric matrix with entries from {0,1}.|
+|96390|Maximal determinant of an n X n persymmetric matrix with entries from  0,1 .|
 |96393|Least primitive root of n-th Mersenne prime.|
 |96445|Number of reduced primitive positive definite binary quadratic forms of determinant n^2.|
 |96446|Number of reduced primitive positive definite binary quadratic forms of determinant n.|
@@ -4594,7 +4594,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |96576|Number of solid partitions asymmetric under rotation operation.|
 |96577|Number of fixed points of solid partitions under 'time-lapse' operation.|
 |96578|Number of solid partitions with period (cycle length) two under 'time-lapse' operation.|
-|96580|a(n) = smallest m >= 2 such that Sum_{k=2..m} 1/(k*log(k)) >= n.|
+|96580|a(n) = smallest m >= 2 such that Sum_ k=2..m  1/(k*log(k)) >= n.|
 |96581|Number of solid partitions non-symmetric under L^2 (L= 'time-lapse' symmetry operation) on solid partitions.|
 |96594|Numbers n such that 100^n + 10^n - 1 is prime.|
 |96621|Numbers of distinct minimal toss sequences modulo rotation and conjugation.|
@@ -4649,7 +4649,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |97394|Number of emirpimes < 10^n.|
 |97402|Numbers k such that 6*10^k + 2*R_k + 5 is prime, where R_k = 11...1 is the repunit (A002275) of length k.|
 |97483|Number of Gorenstein Schubert varieties in the (type A) flag variety Flags(C^n).|
-|97486|A relationship between Pi and the Mandelbrot set. a(n) = number of iterations of z^2 + c that c-values -0.75 + x*i go through before escaping, where x = 10^(-n). Lim_{n->inf} a(n) * x = Pi.|
+|97486|A relationship between Pi and the Mandelbrot set. a(n) = number of iterations of z^2 + c that c-values -0.75 + x*i go through before escaping, where x = 10^(-n). Lim_ n->inf  a(n) * x = Pi.|
 |97507|24*a(n) counts the solid partitions of n that have no symmetry under any single or combined operations built from mirroring (F), rotation (T) or 4-D rotation (L).|
 |97521|Difference between F(n) = 2^(2^n)+1 and nextprime(F(n)) where F(n) is the n-th Fermat Number.|
 |97584|Number of well-rounded minimal classes of lattices in dimension n.|
@@ -4664,14 +4664,14 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |97695|Largest achievable determinant of a 4 X 4 matrix whose elements are 16 distinct integers chosen from the range -n...n.|
 |97699|Records in the numbers of antichains in the divisor lattice D(n) (A096827).|
 |97824|Gaps associated with the arithmetic progressions of semiprimes in A096003.|
-|97878|Decimal expansion of Sum_{k>=1} k/prime(k)^4.|
-|97879|Decimal expansion of Sum_{k>=1} k/prime(k)^3.|
+|97878|Decimal expansion of Sum_ k>=1  k/prime(k)^4.|
+|97879|Decimal expansion of Sum_ k>=1  k/prime(k)^3.|
 |97880|Decimal expansion of the sum for 1 to infinity of fraction sequence with numerator triangular numbers and denominator sum of 4th power of primes.|
 |97881|Decimal expansion of the sum from 1 to infinity of fraction sequence with numerator triangular numbers and denominator sum of prime cubes.|
-|97906|Decimal expansion of Sum_{i >= 1} i/prime(i)^2.|
-|97907|Decimal expansion of Sum_{i >= 1} t(i)/g(i), where t(i) = triangular number(i) and g(i) = (sum of first i primes)^2.|
-|97908|Decimal expansion of Sum_{i >= 1} f(i)/g(i), where f(i) = triangular number(i) and g(i) = (sum of first i primes)^3.|
-|97909|Decimal expansion of Sum_{i >= 1} t(i)/g(i), where t(i) = triangular number(i) and g(i) = (sum of first i primes)^4.|
+|97906|Decimal expansion of Sum_ i >= 1  i/prime(i)^2.|
+|97907|Decimal expansion of Sum_ i >= 1  t(i)/g(i), where t(i) = triangular number(i) and g(i) = (sum of first i primes)^2.|
+|97908|Decimal expansion of Sum_ i >= 1  f(i)/g(i), where f(i) = triangular number(i) and g(i) = (sum of first i primes)^3.|
+|97909|Decimal expansion of Sum_ i >= 1  t(i)/g(i), where t(i) = triangular number(i) and g(i) = (sum of first i primes)^4.|
 |97911|Minimal order of a graph containing as induced subgraphs isomorphic copies of all graphs on n unlabeled nodes.|
 |97914|Number of points in a certain complex manifold associated with the Hilbert modular group of the totally real field Q(sqrt(n)), n squarefree, that arise from isotropy groups of order 2.|
 |97915|Number of points in a certain complex manifold associated with the Hilbert modular group of the totally real field Q(sqrt(n)), n squarefree, that arise from isotropy groups of order 3.|
@@ -4749,7 +4749,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |98915|Least k such that k*Mersenne-prime(n)*Mersenne-prime(n+1) - 1 is prime.|
 |98917|Least k such that k*Mersenne-prime(n)*Mersenne-prime(n+1) + 1 is prime.|
 |98919|Least k such that k*M#(n) - 1 is prime where M#(n) is the product of the first n Mersenne primes.|
-|98920|Least k such that k*M#(n) + 1 is prime where M#(n) is the product of the first n Mersenne primes = Product_{j=1..n} A000668(j).|
+|98920|Least k such that k*M#(n) + 1 is prime where M#(n) is the product of the first n Mersenne primes = Product_ j=1..n  A000668(j).|
 |98930|Numbers k such that 2*10^k + 5*R_k - 4 is prime, where R_k = 11...1 is the repunit (A002275) of length k.|
 |98937|Number of cyclic numbers, primes with primitive root 10, (A001913) in the first 10^n primes (A000040).|
 |98959|Numbers k such that 2*10^k + 6*R_k - 3 is prime, where R_k = 11...1 is the repunit (A002275) of length k.|
@@ -4821,7 +4821,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |100003|Prime numbers p such that the concatenation of all odd primes up through p in decreasing order is prime.|
 |100054|Records in A100053.|
 |100055|Where records occur in A100053.|
-|100083|Numbers n such that n divides Sum_{m=1..n} (m+1)!.|
+|100083|Numbers n such that n divides Sum_ m=1..n  (m+1)!.|
 |100108|Primes in A005150.|
 |100243|a(n) is the length of a side of triangle A068619(n) or a(n) = (sqrt(8*A068619(n) + 1) - 1)/2.|
 |100264|Decimal expansion of Chaitin's constant.|
@@ -4860,7 +4860,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |100603|Numbers k such that (prime(k)-1)! + prime(k)^4 is prime.|
 |100604|Numbers k such that (prime(k)-1)! + prime(k)^3 is prime.|
 |100605|Numbers k such that (prime(k)-1)! + prime(k)^2 is prime.|
-|100614|Numbers n such that (!n)/2 is prime, where !n = Sum_{k=0..n-1} k!.|
+|100614|Numbers n such that (!n)/2 is prime, where !n = Sum_ k=0..n-1  k!.|
 |100632|Number of Shapes(n, d) for a given number of polyhypercubes / polytopominoes n in a given dimensional space d.|
 |100664|Number of inequivalent ways to dissect a square into n rectangles of equal perimeter.|
 |100804|Smallest prime P such that n*P# -1 and n*P# +1 are twin primes, where P#=primorial P, or 0 if no such prime exists.|
@@ -5054,7 +5054,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |101739|Indices of primes in sequence defined by A(0) = 43, A(n) = 10*A(n-1) + 63 for n > 0.|
 |101740|Indices of primes in sequence defined by A(0) = 47, A(n) = 10*A(n-1) + 27 for n > 0.|
 |101750|Number of integers <= 10^n that are the sum of 2 distinct nonzero squares.|
-|101753|Numbers m such that Sum_{k=0..m} m^k is prime.|
+|101753|Numbers m such that Sum_ k=0..m  m^k is prime.|
 |101757|Indices of semiprime tribonacci numbers.|
 |101759|Iccanobif prime indices: Indices of prime numbers in A001129.|
 |101760|Iccanobif prime indices: indices of prime numbers in A014258.|
@@ -5086,7 +5086,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |101847|Indices of primes in sequence defined by A(0) = 39, A(n) = 10*A(n-1) - 1 for n > 0.|
 |101848|Indices of primes in sequence defined by A(0) = 31, A(n) = 10*A(n-1) + 81 for n > 0.|
 |101849|Indices of primes in sequence defined by A(0) = 37, A(n) = 10*A(n-1) + 27 for n > 0.|
-|101877|a(n) = k implies that there exists a set S of positive integers such that Sum_{ s_i in S } 1/s_i = n, max(S) = k and no set S' exists with the same sum and a smaller maximal element.|
+|101877|a(n) = k implies that there exists a set S of positive integers such that Sum_  s_i in S   1/s_i = n, max(S) = k and no set S' exists with the same sum and a smaller maximal element.|
 |101930|Number of Pythagorean triples with hypotenuse <= 10^n.|
 |101951|Indices of primes in sequence defined by A(0) = 23, A(n) = 10*A(n-1) - 27 for n > 0.|
 |101952|Indices of primes in sequence defined by A(0) = 29, A(n) = 10*A(n-1) - 81 for n > 0.|
@@ -5170,10 +5170,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |102265|Smallest prime for which 2^n exactly divides the class number h(8p) and X^2 - 2pY^2 = -1 is solvable.|
 |102266|Smallest prime for which 2^n exactly divides the class number h(8p) and X^2 - 2pY^2 = 2 is solvable.|
 |102267|Smallest prime for which 2^n exactly divides the class number h(8p) and X^2 - 2pY^2 = -2 is solvable.|
-|102269|Primes p such that Q(sqrt(-21p)) has genus characters chi_{-3} = +1, chi_{-7} = +1.|
+|102269|Primes p such that Q(sqrt(-21p)) has genus characters chi_ -3  = +1, chi_ -7  = +1.|
 |102270|2-class number of Q(sqrt(-21p)) as p runs through primes in A102269.|
 |102272|2-class number of Q(sqrt(-21p)) as p runs through primes in A102271.|
-|102274|Primes p such that Q(sqrt(-21p)) has genus characters chi_{-3} = -1, chi_{-7} = -1.|
+|102274|Primes p such that Q(sqrt(-21p)) has genus characters chi_ -3  = -1, chi_ -7  = -1.|
 |102278|Numbers n such that 78*10^n + 217 is prime.|
 |102388|Number of ways of placing n nonattacking Queens of the Night on an n X n board.|
 |102474|Number of congruence subgroups of PSL(2,Z) of genus n, up to conjugacy in PSL(2,Z).|
@@ -5411,12 +5411,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |103477|Positive integers k for which 1 + 3*2^(k+2) divides the Fermat number 1 + 2^2^k.|
 |103478|Positive integers k for which 1 + 5*2^(k+2) divides the Fermat number 1 + 2^2^k.|
 |103479|Positive integers k for which 1 + 6*2^(k+2) divides the Fermat number 1 + 2^2^k.|
-|103482|Least k such that d(k) > product_{i=1..n} d(k-i)*d(k+i), where d(k) is the number of divisors of k.|
+|103482|Least k such that d(k) > product_ i=1..n  d(k-i)*d(k+i), where d(k) is the number of divisors of k.|
 |103536|Number of nets in a regular pyramid.|
 |103538|Numbers k such that prime(k)*prime(k)# - 1 is prime, where prime(k)# is the k-th primorial.|
 |103539|Numbers n such that prime(n)*prime(n)#+1 is prime where prime(n) is the n-th prime.|
 |103547|a(n) is the smallest n-digit zeroless prime such that the sum of the two numbers that result from splitting a(n) between any two of its digits is a distinct prime, or 0 if there is no such n-digit prime.|
-|103591|Smallest number m such that Sum_{k=1..m} 1/prime(k) >= n/2.|
+|103591|Smallest number m such that Sum_ k=1..m  1/prime(k) >= n/2.|
 |103656|a(n) = (1/2)*number of non-degenerate triangular pyramids that can be formed using 4 distinct points chosen from an (n+1) X (n+1) X (n+1) lattice cube.|
 |103658|Number of configurations of 4 distinct points chosen from an (n+1) X (n+1) X (n+1) lattice cube resulting in objects with volume=0.|
 |103659|(1/6) * most frequently occurring volume assumed by triangular pyramids with their 4 vertices chosen from distinct points of an (n+1)X(n+1)X(n+1) lattice cube.|
@@ -5452,7 +5452,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |104368|Number of distinct prime factors of A104365(n) = A104350(n) + 1.|
 |104373|Numbers m such that (A104350(m)-1, A104350(m)+1) is a twin prime pair.|
 |104386|Numbers k such that the average of the k-th and (k+1)-th primes is a repdigit.|
-|104429|Number of ways to split {1, 2, 3, ..., 3n} into n arithmetic progressions each with 3 terms.|
+|104429|Number of ways to split  1, 2, 3, ..., 3n  into n arithmetic progressions each with 3 terms.|
 |104430|Number of ways to split 1, 2, 3, ..., 4n into n arithmetic progressions each with 4 terms.|
 |104431|Number of ways to split 1, 2, 3, ..., 5n into n arithmetic progressions each with 5 terms.|
 |104433|Number of ways to split 1, 2, 3, ..., 7n into n arithmetic progressions each with 7 terms.|
@@ -5476,9 +5476,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |105180|Numbers k such that 2^(2*k+1) + 2^k + 1 is prime.|
 |105181|Numbers k such that 2^(2*(k+1)) + 2^k - 1 is prime.|
 |105182|Numbers k such that 2^(2*(k+1)) + 2^k + 1 is prime.|
-|105230|Number of n-dimensional polytopes with vertices from {0,1}^n.|
-|105231|Number of n-dimensional polytopes with vertices from {0,1}^n up to (0,1)-equivalence.|
-|105232|Number of n-dimensional polytopes with vertices from {0,1}^n up to combinatorial equivalence.|
+|105230|Number of n-dimensional polytopes with vertices from  0,1 ^n.|
+|105231|Number of n-dimensional polytopes with vertices from  0,1 ^n up to (0,1)-equivalence.|
+|105232|Number of n-dimensional polytopes with vertices from  0,1 ^n up to combinatorial equivalence.|
 |105288|Numbers k such that prime(k+1) == 3 (mod k).|
 |105308|Indices n of primes p(n), p(n+2) such that p(n)-1 and p(n+2)-1 have the same largest prime factor.|
 |105318|Starting prime for the smallest prime Pythagorean sequence for n triangles.|
@@ -5497,9 +5497,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |105466|Number of irregular primes less than or equal to the m-th prime, where m = floor(exp(n)).|
 |105467|Number of irregular primes less than or equal to the 3^n-th prime.|
 |105468|Number of irregular primes less than or equal to the 10^n-th prime.|
-|105492|Number of partitions of {1,...,n} containing 2 strings of 3 consecutive integers such that only v-strings of consecutive integers can appear in a block, where v = 1,2,3.|
-|105493|Number of partitions of {1,...,n} containing 3 strings of 3 consecutive integers such that only v-strings of consecutive integers can appear in a block, where v = 1,2,3.|
-|105494|Number of partitions of {1,...,n} containing 4 strings of 3 consecutive integers such that only v-strings of consecutive integers can appear in a block, where v = 1,2,3.|
+|105492|Number of partitions of  1,...,n  containing 2 strings of 3 consecutive integers such that only v-strings of consecutive integers can appear in a block, where v = 1,2,3.|
+|105493|Number of partitions of  1,...,n  containing 3 strings of 3 consecutive integers such that only v-strings of consecutive integers can appear in a block, where v = 1,2,3.|
+|105494|Number of partitions of  1,...,n  containing 4 strings of 3 consecutive integers such that only v-strings of consecutive integers can appear in a block, where v = 1,2,3.|
 |105496|A "Fractal Jump Sequence" (FJS) that reappears twice (itself and itself + 1; see the Comments section).|
 |105510|Number of indecomposable self-dual ternary codes of length 4n.|
 |105647|Increasing numbers whose digits satisfy the" Fractal Jump" rule: keep the first digit "d" of the sequence, then jump over the next "d" digits and keep the digit "e" on which you have landed. Jump now over the next "e" digits and keep the digit "f" on which you have landed, etc. The succession "def..." of kept digits is the sequence itself, whose digits are concatenated to form increasing numbers.|
@@ -5605,13 +5605,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |108066|Number of distinct ways to dissect a square into n rectangles of equal area.|
 |108159|Numbers n such that (initial n digits of decimal expansion of 1/243)-1 is prime.|
 |108180|Numbers n such that n^n * (n!/n#) + 1 is prime, where n# = primorial numbers (A034386).|
-|108235|Number of partitions of {1,2,...,3n} into n triples (X,Y,Z) each satisfying X+Y=Z.|
+|108235|Number of partitions of  1,2,...,3n  into n triples (X,Y,Z) each satisfying X+Y=Z.|
 |108239|Number of triangulated surfaces with n vertices.|
 |108240|Numbers n such that (10^n)^2 + 5*(10^n) - 1 is prime.|
 |108270|Numbers n such that n*n! + (smallest prime >= n) is prime.|
 |108294|a(n) = the least prime p such that p-6n-3 is a power of 2 and 2p-6n-3 is prime, or -1 if no such prime exists.|
 |108295|Values of 2p-6n-3 associated with A108294.|
-|108298|Sum of the first 10^n terms in A097975. a(n) = sum_{m=1..10^n} t(m), where t(m) is the sum of the prime divisors of m that are greater than or equal to sqrt(m).|
+|108298|Sum of the first 10^n terms in A097975. a(n) = sum_ m=1..10^n  t(m), where t(m) is the sum of the prime divisors of m that are greater than or equal to sqrt(m).|
 |108312|Integers n such that 10^n + 27 is prime.|
 |108318|Numbers n such that (n+1)*n^n-1 is prime.|
 |108320|Numbers n such that 609 * 10^n - 1 is prime.|
@@ -5701,13 +5701,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |109505|Consider the smallest pair of consecutive squarefree numbers (r,s) with gcd(r,s) = n; sequence gives values of r, or -1 if n is not squarefree.|
 |109513|Let k be an m-digit integer. Then k is a Pithy number if the k-th m-tuple in the decimal digits of Pi (after the decimal point) is the string k.|
 |109514|Let n be an integer consisting of m digits. Then n is a Pithy number if the n-th m-tuple in the decimal digits of Pi is string n.|
-|109542|a(n) = number of labeled 3-regular (trivalent) multi-graphs without self-loops on 2n vertices with a maximum of 2 edges between any pair of nodes. Also a(n) = number of labeled symmetric 2n X 2n matrices with {0,1,2}-entries with row sum equal to 3 for each row and trace 0.|
+|109542|a(n) = number of labeled 3-regular (trivalent) multi-graphs without self-loops on 2n vertices with a maximum of 2 edges between any pair of nodes. Also a(n) = number of labeled symmetric 2n X 2n matrices with  0,1,2 -entries with row sum equal to 3 for each row and trace 0.|
 |109547|Admirable oblong numbers.|
 |109616|Numbers k such that (10's complement factorial of k) + 1 is prime.|
 |109617|Numbers n such that (10's complement factorial of n) - 1 is prime.|
 |109618|Half the number of nXnXn triangular binary arrays with the sum of each element's NW E SW neighbors unequal to the sum of its NE W SE neighbors|
-|109621|Numbers n such that the numerator of Sum_{k=0..n} 1/k!, in reduced form, is prime.|
-|109628|Numbers n such that the numerator of sum_{k=1..n} 1/prime{k), in reduced form, is prime.|
+|109621|Numbers n such that the numerator of Sum_ k=0..n  1/k!, in reduced form, is prime.|
+|109628|Numbers n such that the numerator of sum_ k=1..n  1/prime k), in reduced form, is prime.|
 |109640|Values of n which are incrementally the largest values of the function: Smallest number m such that n divides (10's complement factorial of m).|
 |109651|Numbers n such that A109631(n) + A109631(n+1) = A109631(n+2).|
 |109658|Numbers k such that the sum of the digits of k^sigma(k) is divisible by k.|
@@ -5759,7 +5759,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |110215|Inequivalent coverings of a cubic board with the minimal number of knights.|
 |110278|Values of n such that the perfect deficiency (A109883) of n and n+1 are both squares.|
 |110285|Numbers n such that n*10^n + n - 1 is prime.|
-|110306|Number of inequivalent (indecomposable or decomposable) self-dual codes of Type {4^H+}_II and length 2n.|
+|110306|Number of inequivalent (indecomposable or decomposable) self-dual codes of Type  4^H+ _II and length 2n.|
 |110312|Minimal number of polygonal pieces in a dissection of a regular n-gon to a square (conjectured).|
 |110336|Smallest prime of the form 2n*(2n+2)*(2n+4)*...*(2n+2k) + 1 where k is a nonnegative integer.|
 |110409|Number of times repeated reverse concatenation of n followed by n gives a prime, where n == 1,3,7 or 9 (mod 10), or 0 if no such prime exists.|
@@ -5826,7 +5826,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |111190|Numbers k such that floor(Pi^k - e^k) is prime.|
 |111191|Numbers n such that ceiling(Pi^n - e^n) is prime.|
 |111193|Numbers k such that floor(Pi^k + e^k) is prime.|
-|111233|Number of nonempty subsets of {1, 1/2, 1/3, ..., 1/n} that sum to an integer.|
+|111233|Number of nonempty subsets of  1, 1/2, 1/3, ..., 1/n  that sum to an integer.|
 |111247|Numbers k such that (31*10^k - 121) / 9 is prime.|
 |111259|Number of inequivalent codes with the minimal distance given in A066016.|
 |111263|Number of inequivalent codes with the minimal norm given in A105682.|
@@ -5841,7 +5841,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |111391|Numbers n such that 11*10^n - 1 is prime.|
 |111441|Numbers k such that the sum of the squares of the first k primes is divisible by k.|
 |111456|Pandigitals in some base (A061845) with an extra property: each number formed by the first i digits is divisible by i (digits in the pandigital base).|
-|111479|a(n) = least positive number such that (2 Concat Concat_{k=1}^n Repeat(A045572(n), a(n))) is a prime. A045572 = odd numbers not divisible by 5.|
+|111479|a(n) = least positive number such that (2 Concat Concat_ k=1 ^n Repeat(A045572(n), a(n))) is a prime. A045572 = odd numbers not divisible by 5.|
 |111576|Number of minimal non-2-stack-sortable permutations of length n.|
 |111731|Minimal size of a complete cap in (Z/nZ)^2.|
 |111788|Order of the domain D_n (n >= 0) in the inverse limit domain D_infinity.|
@@ -5878,7 +5878,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |112809|Positions of records in A110566.|
 |112819|Numbers k such that lcm(1,2,3,...,k)/15 equals the denominator of the k-th harmonic number H(k).|
 |112821|Numbers n such that lcm(1,2,3,...,n)/19 equals the denominator of the n-th harmonic number H(n).|
-|112822|Least number k such that lcm{1,2,...,k}/denominator of harmonic number H(k) = 2n-1.|
+|112822|Least number k such that lcm 1,2,...,k /denominator of harmonic number H(k) = 2n-1.|
 |112827|Least value k which is the beginning of a null Goldbach chain of length exactly n..|
 |112871|Triangle T(h, q) = number of rotes of height h and quench q.|
 |112881|Indices of prime Perrin numbers; values of n such that A001608(n) is prime.|
@@ -5923,7 +5923,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |113862|Expansion of Molien series for representation Sym^2(R^n) of the automorphism group of the lattice D_4.|
 |113863|Expansion of Molien series for representation Sym^2(R^n) of the automorphism group of the lattice E_8.|
 |113864|Expansion of Molien series for representation Sym^2(R^n) of the automorphism group of the Leech lattice.|
-|113878|a(1)=0; a(n+1) is the least number > a(n) such that Sum_{k=1..n+1} 2^a(k) is not composite.|
+|113878|a(1)=0; a(n+1) is the least number > a(n) such that Sum_ k=1..n+1  2^a(k) is not composite.|
 |113900|Number of partitions of 2n X 2n checkerboard into two congruent edgewise-connected sets, counting partitions equal under rotation or reflection only once.|
 |113913|Number of distinct prime factors of 3^(3^n)+1.|
 |113959|Where n appears in A093903.|
@@ -6021,7 +6021,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |115973|Number of distinct prime factors of p^p + 1 where p is prime(n).|
 |115987|Numbers m such that 3^m is the average of two primes p and nextprime(p).|
 |115989|Numbers k such that the average of primes p(k) and p(k+1) is a power of 3.|
-|115992|Number of non-attacking queens that can be placed on a "hyper-chessboard" = hypercube of size 3, dimension n. That is, the size of the largest subset S of {0,1,2}^n such that for each pair (x0,y0,...), (x1,y1,...) of distinct elements of S, the absolute differences vector (|x1-x0|, |y1-y0|, ...) has at least two distinct non-null coordinates.|
+|115992|Number of non-attacking queens that can be placed on a "hyper-chessboard" = hypercube of size 3, dimension n. That is, the size of the largest subset S of  0,1,2 ^n such that for each pair (x0,y0,...), (x1,y1,...) of distinct elements of S, the absolute differences vector (|x1-x0|, |y1-y0|, ...) has at least two distinct non-null coordinates.|
 |116068|Numbers k such that k has nondecreasing digits and the k-th prime has nonincreasing digits.|
 |116070|The digits of pi(n)=A000720(n) are obtained by adding pairs of adjacent digits of n.|
 |116087|Number of distinct prime factors of P(F(n)) where F(n) is the Fibonacci number and P(n) is the unrestricted partition number.|
@@ -6032,14 +6032,14 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |116431|The number of n-almost primes less than or equal to 12^n, starting with a(0)=1.|
 |116434|Consider the array T(r,c), the number of c-almost primes less than or equal to r^c. This is the diagonal T(r,r-1).|
 |116435|Number of n-almost primes less than or equal to n^n.|
-|116446|Let Sq(n) denote the square grid consisting of all lattice points (x,y) such that x,y are in {0,1,...,n}. a(n) is the minimum number t such that there are t of the (n+1)^2 lattice points in Sq(n) so that the binomial(t,2) lines that they determine cover all points in Sq(n).|
+|116446|Let Sq(n) denote the square grid consisting of all lattice points (x,y) such that x,y are in  0,1,...,n . a(n) is the minimum number t such that there are t of the (n+1)^2 lattice points in Sq(n) so that the binomial(t,2) lines that they determine cover all points in Sq(n).|
 |116474|Equal divisions of the octave with progressively increasing consistency levels.|
 |116480|Maximum number of subpartitions for any partition of n.|
 |116486|Numbers k such that both k and k + 1 are logarithmically smooth.|
-|116506|Number of singular n X n rational {0,1}-matrices with no zero rows.|
-|116507|Number of singular n X n rational {0,1}-matrices with no zero rows or columns.|
-|116527|Number of singular n X n rational {0,1}-matrices with no zero rows or columns and with all rows distinct and all columns distinct, up to permutation of rows.|
-|116532|Number of singular n X n rational {0,1}-matrices with no zero rows or columns and with all rows distinct, up to permutation of rows.|
+|116506|Number of singular n X n rational  0,1 -matrices with no zero rows.|
+|116507|Number of singular n X n rational  0,1 -matrices with no zero rows or columns.|
+|116527|Number of singular n X n rational  0,1 -matrices with no zero rows or columns and with all rows distinct and all columns distinct, up to permutation of rows.|
+|116532|Number of singular n X n rational  0,1 -matrices with no zero rows or columns and with all rows distinct, up to permutation of rows.|
 |116620|Positive integers n such that 13^n == 10 (mod n).|
 |116622|Positive integers n such that 13^n == 2 (mod n).|
 |116630|Positive integers n such that 13^n == 4 (mod n).|
@@ -6054,11 +6054,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |116899|Numbers k such that (k concatenated k times) + 1 = A000461(k) + 1 is a prime number.|
 |116904|Number of n-step self-avoiding walks on the upper 4 octants grid starting at origin.|
 |116976|Number of nonsingular n X n matrices with rational entries equal to 0 or 1, up to row and column permutations.|
-|116977|Number of n X n rational {0,1}-matrices of determinant 0, up to row and column permutations.|
+|116977|Number of n X n rational  0,1 -matrices of determinant 0, up to row and column permutations.|
 |116988|Sum of digits of (10^n)!.|
 |116999|Numbers k such that 2^k - prime(k)^2 is prime.|
 |117065|Primes that are not the sum of 3 pentagonal numbers.|
-|117107|Number of permutations in S_n avoiding 21{bar 3}54 (i.e., every occurrence of 2154 is contained in an occurrence of a 21354) and such that the graph corresponding to the permutation is connected (see "Forest-like permutations" below).|
+|117107|Number of permutations in S_n avoiding 21 bar 3 54 (i.e., every occurrence of 2154 is contained in an occurrence of a 21354) and such that the graph corresponding to the permutation is connected (see "Forest-like permutations" below).|
 |117130|Maximal number of cycles in complete graph on n nodes that can be unknotted when the graph is embedded in three-dimensional Euclidean space.|
 |117196|Prime numbers p such that the decimal expansion of p/pi(p) has only prime digits.|
 |117233|Decimal expansion of solution to problem #3 in the Trefethen challenge.|
@@ -6073,8 +6073,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |117529|Indices of Fibonacci numbers with 14 distinct prime factors.|
 |117538|Locations of the increasing peak values of the integral of the absolute value of the Riemann zeta function between successive zeros on the critical line. This can also be defined in terms of the Z function; if t and s are successive zeros of a renormalized Z function, z(x) = Z(2 Pi x/log(2)), then take the integral between t and s of |z(x)|. For each successively higher value of this integral, the corresponding term of the integer sequence is r = (t+s)/2 rounded to the nearest integer.|
 |117539|Integrals of the absolute value of the Z function between successive zeros greater than or equal to the integral corresponding to 12. If we define the normalized Z function by z(x) = Z(2*Pi*x/log(2)), then the 33rd and 34th zeros are approximately 11.82 and 12.25. Integrating |z(x)| between these values gives a quantity I and the above sequence is defined as the midpoints of all successive zeros of z(x) such that the integral of |z(x)| is greater than or equal to I.|
-|117548|Values of n for which there exist d(1),...,d(n), each in {0,1,2} and an r in {1,2} such that Sum[d(i)d(i+k),i=1,n-k]=r (mod 3) for all k=0,...,n-1. (Such a sequence is called a very(3,r) sequence. See the link.).|
-|117549|Values of n for which there exist d(1),...,d(n), each in {0,1,...,4} and an r in {1,...,4} such that Sum[d(i)d(i+k),i=1,n-k]=r (mod 5) for all k=0,...,n-1. (Such a sequence is called a very(5,r) sequence. See the link.).|
+|117548|Values of n for which there exist d(1),...,d(n), each in  0,1,2  and an r in  1,2  such that Sum[d(i)d(i+k),i=1,n-k]=r (mod 3) for all k=0,...,n-1. (Such a sequence is called a very(3,r) sequence. See the link.).|
+|117549|Values of n for which there exist d(1),...,d(n), each in  0,1,...,4  and an r in  1,...,4  such that Sum[d(i)d(i+k),i=1,n-k]=r (mod 5) for all k=0,...,n-1. (Such a sequence is called a very(5,r) sequence. See the link.).|
 |117550|Indices of Fibonacci numbers with 16 distinct prime factors.|
 |117551|Indices of Fibonacci numbers with 15 distinct prime factors.|
 |117554|Equal divisions of the octave of decreasing 5-limit Pepper ambiguity.|
@@ -6109,12 +6109,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |118053|Number of partitions of n which do not contain their signature as a subpartition.|
 |118064|Decimal expansion of the sum of the reciprocals of the palindromic primes A002385 (Honaker's constant).|
 |118068|Numbers k such that A103557(k)*((prime(k)#)^2) - 1 is a Sophie Germain prime, where prime(k)# is the k-th primorial.|
-|118077|Number of edges in the representation of all linear extensions of the inclusion ordering on P({1,...,n}) as distributive lattice contained in P(P({1,...,n})).|
+|118077|Number of edges in the representation of all linear extensions of the inclusion ordering on P( 1,...,n ) as distributive lattice contained in P(P( 1,...,n )).|
 |118086|Number of ways 3/2 is a product of n superparticular ratios, without regard to order. A superparticular ratio is a ratio of the form m/(m-1).|
 |118126|Lucky numbers (A000959) at which records in first differences (A031883) occur.|
 |118129|Numbers n such that the sum of the first n odd composites is palindromic in base 3.|
 |118143|Numbers n for which there exists a perfect n X n parity pattern with 8-fold symmetry.|
-|118219|Smallest number k>1 such that Sum_{i=1..k} Prime[i]^n divides Product_{i=1..k} Prime[i]^n.|
+|118219|Smallest number k>1 such that Sum_ i=1..k  Prime[i]^n divides Product_ i=1..k  Prime[i]^n.|
 |118257|Numbers n such that A118255(n) is prime.|
 |118288|Decimal expansion of the Embree-Trefethen constant.|
 |118305|Numbers n such that 3*n^n-1 is prime.|
@@ -6138,12 +6138,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |118539|Adjacent generalized Fermat primes.|
 |118560|Face-pairing graphs (see reference for precise definition).|
 |118569|Lucky numbers with consecutive digits.|
-|118582|Decimal expansion of Sum_{k>=3} 1/(k log k (log log k)^2).|
+|118582|Decimal expansion of Sum_ k>=3  1/(k log k (log log k)^2).|
 |118641|Number of nonisomorphic finite non-associative, invertible loops of order n.|
 |118642|Two finite groups are conformal if they have the same number of elements of each order. A natural number n is said to be a conformal order if there exist two conformal groups of order n which are not isomorphic to each other. The sequence lists the conformal orders.|
 |118710|Smallest positive integer k such that k^k + F(n) is prime, where F(n) is the n-th Fibonacci number.|
 |118767|Fixed points of permutations A118763, A118764, A118765 and A118766.|
-|118771|Let a "sum" be a set {x,y,z} of distinct natural numbers such that x+y=z and let N_m={1,2,...m}. a(n) is the smallest s such that there is no partition of N_s into n sum-free parts.|
+|118771|Let a "sum" be a set  x,y,z  of distinct natural numbers such that x+y=z and let N_m= 1,2,...m . a(n) is the smallest s such that there is no partition of N_s into n sum-free parts.|
 |118797|Number of cells in smallest polyomino with n holes.|
 |118840|Primes corresponding to indices A059303.|
 |118855|Even terms in A118854.|
@@ -6176,88 +6176,88 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |119008|Number of n X n real symmetric (0,1)-matrices with determinant = 1.|
 |119009|Number of n X n real symmetric (0,1)-matrices with permanent = 1.|
 |119010|Number of symmetric n X n (+1,-1)-matrices over the reals with zero permanent.|
-|119042|Numbers k such that the k-th triangular number contains only digits {0,1,6}.|
-|119044|Numbers k such that the k-th triangular number contains only digits {0,1,7}.|
-|119054|Numbers k such that the k-th triangular number contains only digits {0,2,6}.|
-|119057|Triangular numbers composed of digits {0,2,9}.|
-|119058|Numbers k such that the k-th triangular number contains only digits {0,2,9}.|
-|119060|Numbers k such that the k-th triangular number contains only digits {0,3,4}.|
-|119066|Numbers k such that the k-th triangular number contains only digits {0,3,7}.|
-|119067|Triangular numbers composed of digits {0,3,8}.|
-|119068|Numbers k such that the k-th triangular number contains only digits {0,3,8}.|
-|119074|Numbers k such that the k-th triangular number contains only digits {0,4,6}.|
-|119075|Triangular numbers composed of digits {0,4,8}.|
-|119076|Numbers k such that the k-th triangular number contains only digits {0,4,8}.|
-|119077|Triangular numbers composed of digits {0,4,9}.|
-|119078|Numbers k such that the k-th triangular number contains only digits {0,4,9}.|
-|119088|Numbers k such that the k-th triangular number contains only digits {0,6,7}.|
-|119089|Triangular numbers composed of digits {0,6,8}.|
-|119090|Numbers k such that the k-th triangular number contains only digits {0,6,8}.|
-|119092|Numbers k such that the k-th triangular number contains only digits {0,6,9}.|
-|119095|Triangular numbers composed of digits {0,8,9}.|
-|119096|Numbers k such that the k-th triangular number contains only digits {0,8,9}.|
-|119111|Triangular numbers composed of digits {1,3,4}.|
-|119112|Numbers k such that the k-th triangular number contains only digits {1,3,4}.|
-|119118|Numbers k such that the k-th triangular number contains only digits {1,3,7}.|
-|119120|Numbers k such that the k-th triangular number contains only digits {1,3,8}.|
-|119122|Numbers k such that the k-th triangular number contains only digits {1,3,9}.|
-|119124|Numbers k such that the k-th triangular number contains only digits {1,4,5}.|
-|119127|Numbers k such that the k-th triangular number contains only digits {1,4,7}.|
-|119129|Numbers k such that the k-th triangular number contains only digits {1,4,8}.|
-|119131|Numbers k such that the k-th triangular number contains only digits {1,4,9}.|
-|119139|Numbers k such that the k-th triangular number contains only digits {1,5,9}.|
-|119148|Triangular numbers composed of digits {1,7,9}.|
-|119149|Numbers k such that the k-th triangular number contains only digits {1,7,9}.|
-|119153|Numbers k such that the k-th triangular number contains only digits {2,3,5}.|
-|119155|Numbers k such that the k-th triangular number contains only digits {2,3,6}.|
-|119156|Triangular numbers composed of digits {2,3,8}.|
-|119157|Numbers k such that the k-th triangular number contains only digits {2,3,8}.|
-|119158|Triangular numbers composed of digits {2,4,5}.|
-|119159|Numbers k such that the k-th triangular number contains only digits {2,4,5}.|
-|119160|Triangular numbers composed of digits {2,4,6}.|
-|119161|Numbers k such that the k-th triangular number contains only digits {2,4,6}.|
-|119162|Triangular numbers composed of digits {2,4,8}.|
-|119163|Numbers k such that the k-th triangular number contains only digits {2,4,8}.|
-|119166|Triangular numbers composed of digits {2,5,7}.|
-|119167|Numbers k such that the k-th triangular number contains only digits {2,5,7}.|
-|119169|Numbers k such that the k-th triangular number contains only digits {2,5,8}.|
-|119170|Triangular numbers composed of digits {2,5,9}.|
-|119171|Numbers k such that the k-th triangular number contains only digits {2,5,9}.|
-|119172|Triangular numbers composed of digits {2,6,7}.|
-|119173|Numbers k such that the k-th triangular number contains only digits {2,6,7}.|
-|119175|Numbers k such that the k-th triangular number contains only digits {2,6,8}.|
-|119176|Triangular numbers composed of digits {2,6,9}.|
-|119177|Numbers k such that the k-th triangular number contains only digits {2,6,9}.|
-|119180|Triangular numbers composed of digits {2,8,9}.|
-|119181|Numbers k such that the k-th triangular number contains only digits {2,8,9}.|
-|119185|Numbers k such that the k-th triangular number contains only digits {3,4,6}.|
-|119188|Triangular numbers composed of digits {3,5,7}.|
-|119189|Numbers k such that the k-th triangular number contains only digits {3,5,7}.|
-|119190|Triangular numbers composed of digits {3,5,8}.|
-|119191|Numbers k such that the k-th triangular number contains only digits {3,5,8}.|
-|119192|Triangular numbers composed of digits {3,5,9}.|
-|119193|Numbers k such that the k-th triangular number contains only digits {3,5,9}.|
-|119194|Triangular numbers composed of digits {3,6,7}.|
-|119195|Numbers k such that the k-th triangular number contains only digits {3,6,7}.|
-|119197|Numbers k such that the k-th triangular number contains only digits {3,6,8}.|
-|119204|Triangular numbers composed of digits {4,5,7}.|
-|119205|Numbers k such that the k-th triangular number contains only digits {4,5,7}.|
-|119206|Triangular numbers composed of digits {4,5,8}.|
-|119207|Numbers k such that the k-th triangular number contains only digits {4,5,8}.|
-|119210|Triangular numbers composed of digits {4,6,7}.|
-|119211|Numbers k such that the k-th triangular number contains only digits {4,6,7}.|
-|119214|Triangular numbers composed of digits {4,6,9}.|
-|119215|Numbers k such that the k-th triangular number contains only digits {4,6,9}.|
-|119219|Numbers k such that the k-th triangular number contains only digits {5,6,7}.|
-|119221|Numbers k such that the k-th triangular number contains only digits {5,6,8}.|
-|119223|Numbers k such that the k-th triangular number contains only digits {5,6,9}.|
-|119226|Triangular numbers composed of digits {5,7,9}.|
-|119227|Numbers k such that the k-th triangular number contains only digits {5,7,9}.|
-|119229|Numbers k such that the k-th triangular number contains only digits {5,8,9}.|
-|119232|Triangular numbers composed of digits {6,7,9}.|
-|119233|Numbers k such that the k-th triangular number contains only digits {6,7,9}.|
-|119234|Triangular numbers composed of digits {6,8,9}.|
-|119235|Numbers k such that the k-th triangular number contains only digits {6,8,9}.|
+|119042|Numbers k such that the k-th triangular number contains only digits  0,1,6 .|
+|119044|Numbers k such that the k-th triangular number contains only digits  0,1,7 .|
+|119054|Numbers k such that the k-th triangular number contains only digits  0,2,6 .|
+|119057|Triangular numbers composed of digits  0,2,9 .|
+|119058|Numbers k such that the k-th triangular number contains only digits  0,2,9 .|
+|119060|Numbers k such that the k-th triangular number contains only digits  0,3,4 .|
+|119066|Numbers k such that the k-th triangular number contains only digits  0,3,7 .|
+|119067|Triangular numbers composed of digits  0,3,8 .|
+|119068|Numbers k such that the k-th triangular number contains only digits  0,3,8 .|
+|119074|Numbers k such that the k-th triangular number contains only digits  0,4,6 .|
+|119075|Triangular numbers composed of digits  0,4,8 .|
+|119076|Numbers k such that the k-th triangular number contains only digits  0,4,8 .|
+|119077|Triangular numbers composed of digits  0,4,9 .|
+|119078|Numbers k such that the k-th triangular number contains only digits  0,4,9 .|
+|119088|Numbers k such that the k-th triangular number contains only digits  0,6,7 .|
+|119089|Triangular numbers composed of digits  0,6,8 .|
+|119090|Numbers k such that the k-th triangular number contains only digits  0,6,8 .|
+|119092|Numbers k such that the k-th triangular number contains only digits  0,6,9 .|
+|119095|Triangular numbers composed of digits  0,8,9 .|
+|119096|Numbers k such that the k-th triangular number contains only digits  0,8,9 .|
+|119111|Triangular numbers composed of digits  1,3,4 .|
+|119112|Numbers k such that the k-th triangular number contains only digits  1,3,4 .|
+|119118|Numbers k such that the k-th triangular number contains only digits  1,3,7 .|
+|119120|Numbers k such that the k-th triangular number contains only digits  1,3,8 .|
+|119122|Numbers k such that the k-th triangular number contains only digits  1,3,9 .|
+|119124|Numbers k such that the k-th triangular number contains only digits  1,4,5 .|
+|119127|Numbers k such that the k-th triangular number contains only digits  1,4,7 .|
+|119129|Numbers k such that the k-th triangular number contains only digits  1,4,8 .|
+|119131|Numbers k such that the k-th triangular number contains only digits  1,4,9 .|
+|119139|Numbers k such that the k-th triangular number contains only digits  1,5,9 .|
+|119148|Triangular numbers composed of digits  1,7,9 .|
+|119149|Numbers k such that the k-th triangular number contains only digits  1,7,9 .|
+|119153|Numbers k such that the k-th triangular number contains only digits  2,3,5 .|
+|119155|Numbers k such that the k-th triangular number contains only digits  2,3,6 .|
+|119156|Triangular numbers composed of digits  2,3,8 .|
+|119157|Numbers k such that the k-th triangular number contains only digits  2,3,8 .|
+|119158|Triangular numbers composed of digits  2,4,5 .|
+|119159|Numbers k such that the k-th triangular number contains only digits  2,4,5 .|
+|119160|Triangular numbers composed of digits  2,4,6 .|
+|119161|Numbers k such that the k-th triangular number contains only digits  2,4,6 .|
+|119162|Triangular numbers composed of digits  2,4,8 .|
+|119163|Numbers k such that the k-th triangular number contains only digits  2,4,8 .|
+|119166|Triangular numbers composed of digits  2,5,7 .|
+|119167|Numbers k such that the k-th triangular number contains only digits  2,5,7 .|
+|119169|Numbers k such that the k-th triangular number contains only digits  2,5,8 .|
+|119170|Triangular numbers composed of digits  2,5,9 .|
+|119171|Numbers k such that the k-th triangular number contains only digits  2,5,9 .|
+|119172|Triangular numbers composed of digits  2,6,7 .|
+|119173|Numbers k such that the k-th triangular number contains only digits  2,6,7 .|
+|119175|Numbers k such that the k-th triangular number contains only digits  2,6,8 .|
+|119176|Triangular numbers composed of digits  2,6,9 .|
+|119177|Numbers k such that the k-th triangular number contains only digits  2,6,9 .|
+|119180|Triangular numbers composed of digits  2,8,9 .|
+|119181|Numbers k such that the k-th triangular number contains only digits  2,8,9 .|
+|119185|Numbers k such that the k-th triangular number contains only digits  3,4,6 .|
+|119188|Triangular numbers composed of digits  3,5,7 .|
+|119189|Numbers k such that the k-th triangular number contains only digits  3,5,7 .|
+|119190|Triangular numbers composed of digits  3,5,8 .|
+|119191|Numbers k such that the k-th triangular number contains only digits  3,5,8 .|
+|119192|Triangular numbers composed of digits  3,5,9 .|
+|119193|Numbers k such that the k-th triangular number contains only digits  3,5,9 .|
+|119194|Triangular numbers composed of digits  3,6,7 .|
+|119195|Numbers k such that the k-th triangular number contains only digits  3,6,7 .|
+|119197|Numbers k such that the k-th triangular number contains only digits  3,6,8 .|
+|119204|Triangular numbers composed of digits  4,5,7 .|
+|119205|Numbers k such that the k-th triangular number contains only digits  4,5,7 .|
+|119206|Triangular numbers composed of digits  4,5,8 .|
+|119207|Numbers k such that the k-th triangular number contains only digits  4,5,8 .|
+|119210|Triangular numbers composed of digits  4,6,7 .|
+|119211|Numbers k such that the k-th triangular number contains only digits  4,6,7 .|
+|119214|Triangular numbers composed of digits  4,6,9 .|
+|119215|Numbers k such that the k-th triangular number contains only digits  4,6,9 .|
+|119219|Numbers k such that the k-th triangular number contains only digits  5,6,7 .|
+|119221|Numbers k such that the k-th triangular number contains only digits  5,6,8 .|
+|119223|Numbers k such that the k-th triangular number contains only digits  5,6,9 .|
+|119226|Triangular numbers composed of digits  5,7,9 .|
+|119227|Numbers k such that the k-th triangular number contains only digits  5,7,9 .|
+|119229|Numbers k such that the k-th triangular number contains only digits  5,8,9 .|
+|119232|Triangular numbers composed of digits  6,7,9 .|
+|119233|Numbers k such that the k-th triangular number contains only digits  6,7,9 .|
+|119234|Triangular numbers composed of digits  6,8,9 .|
+|119235|Numbers k such that the k-th triangular number contains only digits  6,8,9 .|
 |119242|Least number k such that there are exactly n powerful numbers between k^2 and (k+1)^2.|
 |119249|Indices of Fibonacci numbers in A081952.|
 |119266|Number of 3-dimensional partitions of n up to conjugacy.|
@@ -6289,14 +6289,14 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |119479|Length of longest run of consecutive integers having exactly n divisors.|
 |119485|Number of children for which any subset can be generated by a counting-out game.|
 |119486|Numbers of children for which there is a subset which cannot be generated by a counting-out game.|
-|119529|Numbers k such that Sum_{j=1..k-1} j*2^(j-1) is prime.|
+|119529|Numbers k such that Sum_ j=1..k-1  j*2^(j-1) is prime.|
 |119535|Primeval primes: primes in A072857.|
 |119550|Prime numbers of the form 2^(2^n) + 2^n - 1.|
 |119551|Number of ordered finite sequences a_1 <= a_2 <= ... <= a_n of length n of positive integers less than or equal to n whose product is n! and whose sum is n * (n + 1) / 2.|
 |119559|Inverse Euler transform of A119268.|
 |119598|Numbers that are repunits in four or more bases.|
 |119602|Number of nonisomorphic polytetrahedra with n identical regular tetrahedra connected face-to-face or edge-to-edge (chiral shapes counted twice).|
-|119611|Number of free polyominoes in {4,5} tessellation of the hyperbolic plane.|
+|119611|Number of free polyominoes in  4,5  tessellation of the hyperbolic plane.|
 |119642|Indices of prime numbers of trees with n unlabeled nodes.|
 |119650|Numbers k such that (2^67 - 1) * 10^k + (2^257 - 1) is prime.|
 |119654|a(n) is the smallest number that starts a consecutive block of n numbers with at least n prime divisors (counting multiplicity) each.|
@@ -6323,20 +6323,20 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |120044|The 10^n-th 3-almost prime.|
 |120045|The (10^n)-th 4-almost prime.|
 |120046|The 10^n-th 5-almost prime.|
-|120055|a(n) is the least semiprime s such that the Sum_{semiprime i <= s} 1/i exceeds n.|
+|120055|a(n) is the least semiprime s such that the Sum_ semiprime i <= s  1/i exceeds n.|
 |120094|Rows of Pascal's triangle which contain no terms numerically adjacent to odd primes (the 1's at either end are of course numerically adjacent to the even prime 2).|
 |120120|Number of n-digit prime quadruplets.|
 |120300|Numbers n such that 10^n + 11131719 is prime.|
 |120302|Last term of arithmetic progression of primes described in A130791, A007918, A061558.|
-|120355|a(n) = min{k>0: the n-th convergent to e equals m/k! for some m}.|
+|120355|a(n) = min k>0: the n-th convergent to e equals m/k! for some m .|
 |120375|Integers k such that 2*5^k - 1 is prime.|
 |120378|Integers n such that 2*11^n-1 is prime.|
 |120402|a(1)=2; a(n)=first even number greater than a(n-1) such that 2*a(n)-1 is prime and a(i)+a(n)-1 is prime for all 1<=i<=n-1.|
 |120403|a(1)=3; a(n)=first odd number greater than a(n-1) such that 2*a(n)-1 is prime and a(i)+a(n)-1 is prime for all 1<=i<=n-1.|
 |120411|If A is a set of integers, the (2-fold) sumset consists of all the numbers which can be written as the sum of two (not necessarily distinct) elements in A. a(n) is the number of subsets of [1,2n] which are sumsets for some set of positive integers.|
-|120488|Number of nonisomorphic perfect 1-factorizations of complete graph K_{2n}.|
-|120489|Number of nonisomorphic perfect 1-factorizations of complete bipartite graph K_{n,n}.|
-|120563|Prime numbers of the form Product_{k=1..m} prime(k)^k + 1.|
+|120488|Number of nonisomorphic perfect 1-factorizations of complete graph K_ 2n .|
+|120489|Number of nonisomorphic perfect 1-factorizations of complete bipartite graph K_ n,n .|
+|120563|Prime numbers of the form Product_ k=1..m  prime(k)^k + 1.|
 |120587|Number of inequivalent (under the group of permutations and "inversion of variables") nondegenerate monotone Boolean functions of n variables.|
 |120608|Number of inequivalent (under the "inversion of variables") monotone Boolean nondegenerate functions of n variables.|
 |120618|Number of inequivalent (under "inversion of variables") monotone Boolean functions of n or fewer variables.|
@@ -6369,7 +6369,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |121337|Number of idempotent relations on n labeled elements.|
 |121370|Least number k such that (k*M(n))^2 + k*M(n) - 1 is prime with M(i)=i-th Mersenne prime.|
 |121371|Least number k such that (k*M(n))^2 + k*M(n) - 1 and (k*M(n))^2 + k*M(n) + 1 are twin primes where M(n) is the n-th Mersenne prime.|
-|121385|Minimal number of monochromatic three-term arithmetic progressions that a two-coloring of {1,...,n} can contain.|
+|121385|Minimal number of monochromatic three-term arithmetic progressions that a two-coloring of  1,...,n  can contain.|
 |121410|Positions of A121409(n) in A119405.|
 |121501|Positions n of A121500 where the minimal relative error associated with the polygon problem described there decreases.|
 |121502|Companion sequence for A121501 used in a unit circle area approximation problem.|
@@ -6381,7 +6381,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |121871|Triangle read by rows: see DeTemple et al. reference for definition.|
 |121877|Numbers k such that (5^k - 3^k)/2 = A005059(k) is prime.|
 |121894|Van der Waerden numbers: A005346(n) - 1.|
-|121914|Numbers n such that (partial sums of n times (n 1's)) + 1 is prime; or n such that Sum_{k=1..n} A053422(k) + 1 is prime.|
+|121914|Numbers n such that (partial sums of n times (n 1's)) + 1 is prime; or n such that Sum_ k=1..n  A053422(k) + 1 is prime.|
 |121931|Numbers n such that (n!)^8 + 1 is prime.|
 |121932|Enumeration of Cayley graphs. See page 24 of Marni Mishna's Master's thesis for details.|
 |121947|Positive numbers that are sums of proper substrings of their reversals.|
@@ -6391,7 +6391,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |122003|Numbers n such that A024152(n) = 12^n - n^12 is prime.|
 |122004|Primes p that divide A123373(p-1).|
 |122027|Largest integer m such that every n-tournament contains a transitive (i.e., acyclic) sub-tournament with at least m vertices.|
-|122035|Primes p = Prime[m] such that polynomial (1 + Sum[x^Prime[k],{k,1,m}]) factors over the integers.|
+|122035|Primes p = Prime[m] such that polynomial (1 + Sum[x^Prime[k], k,1,m ]) factors over the integers.|
 |122036|Odd abundant numbers (A005231) which are not in A136446, i.e., not sum of some of their proper divisors > 1.|
 |122042|Numbers n such that (2^n+n)/(n+2) is prime.|
 |122054|Least positive number with exactly n partitions into a square and a cube.|
@@ -6419,7 +6419,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |122528|Minimal number k such that (2k)^(2^n) + 1 is prime, but (2k)^(2^m) + 1 is composite for m < n.|
 |122534|Numbers n such that Fibonacci(prime(prime(n))) is prime.|
 |122540|Primes that can be written in n ways as the sum of three fourth powers.|
-|122554|Let S(1) = {1} and, for n>1 let S(n) be the smallest set containing x, 2x and x+2 for each element x in S(n-1). a(n) is the number of elements in S(n).|
+|122554|Let S(1) =  1  and, for n>1 let S(n) be the smallest set containing x, 2x and x+2 for each element x in S(n-1). a(n) is the number of elements in S(n).|
 |122594|a(0) = 2; a(1) = 5; a(n) = prime(a(n-1)) + prime(a(n-2)) if n > 1.|
 |122599|Maximal number of iterations required for analog of 3x+1 problem applied to polynomials of degree n over GF(2) to reach 1.|
 |122660|Number of knot polyhedra with 2n nodes.|
@@ -6442,9 +6442,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |122980|Number of distributive sublattices of the lattice of k-tuples less than the n-th partition (in Mathematica order), that include the maximum element.|
 |122981|Number of distributive sublattices of the lattice of k-tuples less than the n-th partition (in Abramowitz and Stegun order).|
 |122982|Number of distributive sublattices of the lattice of k-tuples less than the n-th partition (in Mathematica order).|
-|122989|Decimal expansion of Sum_{n >= 1} 1/A007504(n), where A007504(n) is the sum of the first n primes.|
-|122990|Numbers m such that (1/99)*Sum_{k=1..m} k! = A007489(m)/99 is prime.|
-|122998|Decimal expansion of Sum_{n>=1} 1/A051349(n).|
+|122989|Decimal expansion of Sum_ n >= 1  1/A007504(n), where A007504(n) is the sum of the first n primes.|
+|122990|Numbers m such that (1/99)*Sum_ k=1..m  k! = A007489(m)/99 is prime.|
+|122998|Decimal expansion of Sum_ n>=1  1/A051349(n).|
 |123047|Numbers k that divide 5^k + 4.|
 |123062|Numbers k that divide 5^k + 2.|
 |123124|Sequence gives values of k in A122483.|
@@ -6455,7 +6455,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |123216|Concatenated index primes. Primes whose indices are the concatenation of the consecutive integers.|
 |123233|Difference between the (10^n)-th prime and the Riemann-Gram approximation of the (10^n)-th prime.|
 |123234|Number of n X n Latin squares up to row and column permutation (or "RC-equivalence").|
-|123247|Let S(1)={1} and, for n>1 let S(n) be the smallest set containing x, x+1, 2x and 3x for each element x in S(n-1). a(n) is the number of elements in S(n).|
+|123247|Let S(1)= 1  and, for n>1 let S(n) be the smallest set containing x, x+1, 2x and 3x for each element x in S(n-1). a(n) is the number of elements in S(n).|
 |123248|Largest prime factor in A071576 starting from 4th position.|
 |123256|Dimension of the invariant subspace in modules over the symmetric groups S_n of dimension n*(n+1)^(n-1).|
 |123271|Sign of the penultimate term of the Lucas-Lehmer sequence modulo the n-th Mersenne prime.|
@@ -6566,7 +6566,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |123848|Number of ways to build a contiguous building with n LEGO blocks of size 5 X 5 on top of a fixed block of the same size so that the building is symmetric after a rotation by 180 degrees.|
 |123849|Number of ways to build a contiguous building with n LEGO blocks of size 5 X 5 on top of a fixed block of the same size so that the building is symmetric after a rotation by 90 degrees.|
 |123850|Triangle read by rows: T(n,k) = orientable embedding number gamma_k for bouquet B_n, n >= 0, 0 <= k <= [n/2].|
-|123857|Composite numbers m that divide A123855(m-1) = Sum_{i=1..m-1} Sum_{j=1..m-1} prime(i)^j.|
+|123857|Composite numbers m that divide A123855(m-1) = Sum_ i=1..m-1  Sum_ j=1..m-1  prime(i)^j.|
 |123872|Start with the seed a(0)=2. The minimum number, different from 1, that multiplied by 2 (seed) produces a number with 2 as its rightmost digit is a(1)=6. Then 6*2=12. Again, the minimum number that multiplied by 12 produces 12 as its rightmost digits is a(2)=26 (12*26=312). And so on.|
 |123873|Similar to A123872 but with a(0)=4 as seed.|
 |123874|Similar to A123872 but with a(0)=6 as seed.|
@@ -6574,15 +6574,15 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |123905|Number of slim perfect graphs on n nodes.|
 |123910|Numbers k such that k!!-4 is prime.|
 |123911|Numbers n such that if you multiply the primes that are indexed by the digits of n and add the sum of digits of n you get n.|
-|123938|Ramsey number r(K_{2,2}, K_{2,n}).|
-|123939|Ramsey number r(K_{2,2}, K_{3,n}).|
+|123938|Ramsey number r(K_ 2,2 , K_ 2,n ).|
+|123939|Ramsey number r(K_ 2,2 , K_ 3,n ).|
 |123994|Smallest number k such that prime(n)^k is a sum of 3 consecutive primes.|
 |124002|Triangle T(n,k) of the number of unlabeled graphs on n nodes with existential reconstruction number k, 3<=k<=n. ERN(G) is the minimum number of vertex-deleted subgraphs of G required to uniquely reconstruct G up to isomorphism.|
 |124003|Triangle T(n,k) of the number of unlabeled graphs on n nodes with universal reconstruction number k, 3<=k<=n. URN(G) is the minimum size for which all multisubsets of vertex-deleted subgraphs of G can uniquely reconstruct G up to isomorphism.|
 |124006|Number of Othello positions with unique realization at the end of the n-th ply.|
-|124012|Decimal expansion of Sum_{k>=1} 1/(k*prime(k)).|
+|124012|Decimal expansion of Sum_ k>=1  1/(k*prime(k)).|
 |124016|Number of connected d-complete posets with n elements.|
-|124045|Numbers n such that n^2 divide A123269(n) = Sum[ i^j^k, {i,1,n}, {j,1,n}, {k,1,n} ].|
+|124045|Numbers n such that n^2 divide A123269(n) = Sum[ i^j^k,  i,1,n ,  j,1,n ,  k,1,n  ].|
 |124059|Number of connected asymmetric graphs with n nodes.|
 |124067|Numbers k such that 2*F(k) + 1 is a prime, where F = A000045.|
 |124082|Numbers k such that prime(k)!/prime(k)# - 1 is prime.|
@@ -6600,13 +6600,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |124238|Terms of A123857 that are not powers of 2.|
 |124248|Numbers n such that n!!+2^n is prime.|
 |124249|Numbers n such that n!! - 2^n is prime.|
-|124272|Primes in A124271, or primes of the form Sum_{i=1..n} (prime(i)^n - 1)/(prime(i) - 1).|
-|124274|Nonprime numbers n that divide A124271(n) = Sum_{i=1..n} (prime(i)^n - 1) / (prime(i) - 1).|
+|124272|Primes in A124271, or primes of the form Sum_ i=1..n  (prime(i)^n - 1)/(prime(i) - 1).|
+|124274|Nonprime numbers n that divide A124271(n) = Sum_ i=1..n  (prime(i)^n - 1) / (prime(i) - 1).|
 |124275|Terms of A123856 that are not terms of A124273.|
 |124289|Unstable twins = pairs of consecutive numbers in A124288 (indices of unstable zeros of the Riemann zeta function).|
 |124301|Smallest number m such that A124300(m) >= n.|
 |124375|Numbers k such that A003422(k+1)/2 is prime.|
-|124391|Numbers m that divide A123269(m) = Sum_{i=1..m, j=1..m, k=1..m} i^j^k.|
+|124391|Numbers m that divide A123269(m) = Sum_ i=1..m, j=1..m, k=1..m  i^j^k.|
 |124393|Numbers whose shortest addition chains unavoidably contain 3.|
 |124417|a(n) = least k such that 2^i*k+1 is prime for 1<=i<=n.|
 |124480|Number of hook length posets with n elements.|
@@ -6639,20 +6639,20 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |124962|Sum of automorphism group orders for all simple graphs of order n.|
 |124963|Sum of numbers of (directed) Hamiltonian paths for all simple graphs of order n.|
 |124964|Total counts of distinct (directed) Hamiltonian cycles for all simple graphs of order n.|
-|124987|Primes of the form 12k+5 generated recursively. Initial prime is 5. General term is a(n)=Min {p is prime; p divides 4+Q^2; Mod[p,12]=5}, where Q is the product of previous terms in the sequence.|
-|124988|Primes of the form 12k+7 generated recursively. Initial prime is 7. General term is a(n)=Min {p is prime; p divides 3+4Q^2; Mod[p,12]=7}, where Q is the product of previous terms in the sequence.|
-|124990|Primes of the form 12k+1 generated recursively. Initial prime is 13. General term is a(n)=Min {p is prime; p divides Q^4-Q^2+1}, where Q is the product of previous terms in the sequence.|
-|124992|Primes of the form 14k+1 generated recursively. Initial prime is 29. General term is a(n)=Min {p is prime; p divides (R^7 - 1)/(R - 1); Mod[p,7]=1}, where Q is the product of previous terms in the sequence and R = 7Q.|
-|124993|Primes of the form 22k+1 generated recursively. Initial prime is 23. General term is a(n)=Min {p is prime; p divides (R^11 - 1)/(R - 1); Mod[p,11]=1}, where Q is the product of previous terms in the sequence and R = 11Q.|
+|124987|Primes of the form 12k+5 generated recursively. Initial prime is 5. General term is a(n)=Min  p is prime; p divides 4+Q^2; Mod[p,12]=5 , where Q is the product of previous terms in the sequence.|
+|124988|Primes of the form 12k+7 generated recursively. Initial prime is 7. General term is a(n)=Min  p is prime; p divides 3+4Q^2; Mod[p,12]=7 , where Q is the product of previous terms in the sequence.|
+|124990|Primes of the form 12k+1 generated recursively. Initial prime is 13. General term is a(n)=Min  p is prime; p divides Q^4-Q^2+1 , where Q is the product of previous terms in the sequence.|
+|124992|Primes of the form 14k+1 generated recursively. Initial prime is 29. General term is a(n)=Min  p is prime; p divides (R^7 - 1)/(R - 1); Mod[p,7]=1 , where Q is the product of previous terms in the sequence and R = 7Q.|
+|124993|Primes of the form 22k+1 generated recursively. Initial prime is 23. General term is a(n)=Min  p is prime; p divides (R^11 - 1)/(R - 1); Mod[p,11]=1 , where Q is the product of previous terms in the sequence and R = 11Q.|
 |125000|Integers n such that 2^n == 19 (mod n).|
 |125025|Lengths of rows in A124570.|
-|125038|Primes of the form 34k+1 generated recursively. Initial prime is 103. General term is a(n)=Min {p is prime; p divides (R^17 - 1)/(R - 1); Mod[p,17]=1}, where Q is the product of previous terms in the sequence and R = 17Q.|
-|125040|Primes of the form 16k+1 generated recursively. Initial prime is 17. General term is a(n)=Min {p is prime; p divides (2Q)^8 + 1}, where Q is the product of previous terms in the sequence.|
-|125042|Primes of the form 48k+17 generated recursively. Initial prime is 17. General term is a(n)=Min {p is prime; p divides (2Q)^8 + 1; Mod[p,48]=17}, where Q is the product of previous terms in the sequence.|
-|125043|Primes of the form 18k+1 generated recursively. Initial prime is 19. General term is a(n) = Min {p is prime; p divides (R^9 - 1)/(R^3 - 1); p == 1 (mod 9)}, where Q is the product of previous terms in the sequence and R = 3*Q.|
+|125038|Primes of the form 34k+1 generated recursively. Initial prime is 103. General term is a(n)=Min  p is prime; p divides (R^17 - 1)/(R - 1); Mod[p,17]=1 , where Q is the product of previous terms in the sequence and R = 17Q.|
+|125040|Primes of the form 16k+1 generated recursively. Initial prime is 17. General term is a(n)=Min  p is prime; p divides (2Q)^8 + 1 , where Q is the product of previous terms in the sequence.|
+|125042|Primes of the form 48k+17 generated recursively. Initial prime is 17. General term is a(n)=Min  p is prime; p divides (2Q)^8 + 1; Mod[p,48]=17 , where Q is the product of previous terms in the sequence.|
+|125043|Primes of the form 18k+1 generated recursively. Initial prime is 19. General term is a(n) = Min  p is prime; p divides (R^9 - 1)/(R^3 - 1); p == 1 (mod 9) , where Q is the product of previous terms in the sequence and R = 3*Q.|
 |125108|Column sums of a Gaussian polynomial-shaped array. Row sums generate the Eulerian array A008292.|
 |125149|Least integer k such that the n-th-almost prime count is equal to the (n-1)th-almost prime.|
-|125193|Smallest prime p such that p^2 divides the numerator of generalized harmonic number H((p-1)/2,2n) = Sum[ 1/k^(2n), {k,1,(p-1)/2} ].|
+|125193|Smallest prime p such that p^2 divides the numerator of generalized harmonic number H((p-1)/2,2n) = Sum[ 1/k^(2n),  k,1,(p-1)/2  ].|
 |125195|Records in A127885.|
 |125220|Numbers k such that binomial(3k, k) - 1 is prime.|
 |125221|Numbers k such that binomial(3k, k) + 1 is prime.|
@@ -6666,23 +6666,23 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |125283|Primes p for which there exists no integer n with 1 < n^2 < p such that n^4 - n^2 + p is prime (i.e., primes that don't arise as q's in A126769).|
 |125284|Lower indices of duplicate terms in A125204, i.e., k such that A125204(k) = A125204(k + 1).|
 |125288|a(n) = number of integers k such that for all integers greater than k, 2*Pi(n,k) is always greater than Pi(n,2*k).|
-|125297|Number of nonempty subsets S of {1,2,3,...,n} such that each member of S divides the sum of all members of S.|
+|125297|Number of nonempty subsets S of  1,2,3,...,n  such that each member of S divides the sum of all members of S.|
 |125303|Each number in this sequence is the reversal of the sum of its proper substrings.|
-|125314|Smallest number k>1 such that Sum_{i=1..k} i^n divides Product_{i=1..k} i^n.|
-|125503|Smallest number k such that the numerator of the generalized harmonic number H(k,n) = Sum_{i=1..k} 1/i^n is a prime.|
-|125504|Smallest number k such that the numerator of alternating generalized harmonic number H'(k,n) = Sum[ (-1)^(i+1) * 1/i^n, {i,1,k} ] is a prime.|
+|125314|Smallest number k>1 such that Sum_ i=1..k  i^n divides Product_ i=1..k  i^n.|
+|125503|Smallest number k such that the numerator of the generalized harmonic number H(k,n) = Sum_ i=1..k  1/i^n is a prime.|
+|125504|Smallest number k such that the numerator of alternating generalized harmonic number H'(k,n) = Sum[ (-1)^(i+1) * 1/i^n,  i,1,k  ] is a prime.|
 |125517|Number of prime 5-tuples up to 10^n.|
-|125567|Numbers k such that Sum_{x=2..k} (x-1)*3^(x-2) = ((2*k-3)*3^(k-1)+1)/4 is prime.|
-|125569|Numbers k such that Sum_{j=1..k-1} j*5^(j-1) is prime.|
+|125567|Numbers k such that Sum_ x=2..k  (x-1)*3^(x-2) = ((2*k-3)*3^(k-1)+1)/4 is prime.|
+|125569|Numbers k such that Sum_ j=1..k-1  j*5^(j-1) is prime.|
 |125570|Numbers n such that Sum_(x=1..n) (x-1)*6^(x-1))/6 is prime.|
 |125581|Numbers n such that n does not divide the denominator of the n-th harmonic number nor the denominator of the n-th alternating harmonic number.|
 |125582|Smallest positive integer with multiplicative persistence n in base 12.|
-|125584|Maximum number of divisors of Product(a_i) + Product(b_j) over all (disjoint) partitions of {1..n} into {a_i} and {b_j}.|
-|125587|Call an n X n matrix robust if the top left i X i submatrix is invertible for all i = 1..n. Sequence gives number of n X n robust real {0,1}-matrices.|
+|125584|Maximum number of divisors of Product(a_i) + Product(b_j) over all (disjoint) partitions of  1..n  into  a_i  and  b_j .|
+|125587|Call an n X n matrix robust if the top left i X i submatrix is invertible for all i = 1..n. Sequence gives number of n X n robust real  0,1 -matrices.|
 |125619|Minimal number of blocks in any uniform (n,3)-splitting system.|
 |125620|Minimal number of blocks in any (n,3)-splitting system.|
 |125621|Minimal number of blocks in any disjunct (n,3)-splitting system.|
-|125622|Minimal number of blocks in any splitting system ex(n, {123}, {124}, {134}).|
+|125622|Minimal number of blocks in any splitting system ex(n,  123 ,  124 ,  134 ).|
 |125642|Divide the circle into ten "decants" (each of 36 degrees). Let z = 1/2 + i*14.134725142... be the first nontrivial zero of the Riemann zeta function. Then a(n) is the decant containing  the argument of 1/n^z.|
 |125660|Number of 3-noncrossing tangled-diagrams.|
 |125686|Where records occur in A127885.|
@@ -6719,7 +6719,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |125956|Numbers k such that (2^k + 9^k)/11 is prime.|
 |125957|Numbers n such that (2^n + 11^n)/13 is prime.|
 |125990|Number of partisan games for which A106486-encoding of the minimal representation is less than 2^n.|
-|126025|Number of mappings f:{1,2,3,...,n} -> {1,2,3,...,n} such that gcd(f(x),f(y)) = f(gcd(x,y)) for all x,y in {1,2,3,...,n}.|
+|126025|Number of mappings f: 1,2,3,...,n  ->  1,2,3,...,n  such that gcd(f(x),f(y)) = f(gcd(x,y)) for all x,y in  1,2,3,...,n .|
 |126045|Exponents p of the Mersenne primes 2^p - 1 (see A000043) read mod 5.|
 |126046|Exponents p of the Mersenne primes 2^p - 1 (see A000043) read mod 6.|
 |126049|Exponents p of the Mersenne primes 2^p - 1 (see A000043) read mod 9.|
@@ -6745,7 +6745,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |126196|Numbers k such that gcd(A001008(k), A001008(floor(k/2))) > 1.|
 |126197|GCDs arising in A126196.|
 |126201|Number of rooted connected unlabeled planar graphs on n nodes.|
-|126225|Least number k > 0 such that the numerator of Sum_{i=1..k} 1/prime(i)^n is a prime.|
+|126225|Least number k > 0 such that the numerator of Sum_ i=1..k  1/prime(i)^n is a prime.|
 |126278|a(n) = number of decimal digits of Pi, starting after the decimal point, that give an average value exactly equal to a whole number.|
 |126281|a(n) is the least m to satisfy the requirements of A052130.|
 |126282|Median of the largest prime dividing the first 10^n numbers greater than 1.|
@@ -6760,7 +6760,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |126563|Numbers n such that the ratio of A117731(n) and A082687(n) is composite.|
 |126570|Triangle read by rows: row n gives coefficients (ignoring the alternating signs) of the characteristic polynomial of the n X n circulant matrix with first two rows [2,1,0,...,0,1], [1,2,1,0,...,0].|
 |126591|Coordination sequence of a point in the sphere packing 4/3/c27 of Fischer, or the lcv-a net.|
-|126603|Number of real {0,1}-matrices of size n X n which are not robust (cf. A125587).|
+|126603|Number of real  0,1 -matrices of size n X n which are not robust (cf. A125587).|
 |126612|a(n) is the least K such that K*6*M(n) - 1 and K*6*M(n) + 1 are twin primes, where M(n) = n-th Mersenne prime.|
 |126659|Least number k > 0 such that ((2n-1)^k + 1)/(2n) is prime, or 0 if no such prime exists.|
 |126668|A036983 + A036984.|
@@ -6812,8 +6812,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |127821|a(n) = least k such that the remainder of 13^k divided by k is n.|
 |127835|(Order of Galois group of Chebyshev polynomial)/(order of polynomial); or A124827(n)/n.|
 |127837|Numbers n such that ((n+1)^n-1)/n^2 is a prime.|
-|127936|Numbers n such that 1 + Sum_{i=1..n} 2^(2i-1) is prime.|
-|127966|a(n) = number of 4-times (but not 5-times) reformable permutation of {1,...,n}.|
+|127936|Numbers n such that 1 + Sum_ i=1..n  2^(2i-1) is prime.|
+|127966|a(n) = number of 4-times (but not 5-times) reformable permutation of  1,...,n .|
 |127995|Numbers k such that (20^k - 1)/19 is prime.|
 |127996|Numbers n such that (21^n - 1)/20 is prime.|
 |127997|Numbers n such that (22^n - 1)/21 is prime.|
@@ -6833,8 +6833,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |128031|Numbers n such that (17^n - 3^n)/14 is prime.|
 |128032|Numbers k such that (19^k - 3^k)/16 is prime.|
 |128033|Least number k>0 such that ((n+3)^k - 3^k)/n is prime, or 0 if no such prime exists.|
-|128036|Maximal possible number of vectors in {0,1,2}^n such that the Hamming distance between every two is odd.|
-|128037|Maximal possible number of vectors in {0,1,2,3}^n such that the Hamming distance between every two is odd.|
+|128036|Maximal possible number of vectors in  0,1,2 ^n such that the Hamming distance between every two is odd.|
+|128037|Maximal possible number of vectors in  0,1,2,3 ^n such that the Hamming distance between every two is odd.|
 |128066|Numbers k such that (3^k + 4^k)/7 is prime.|
 |128067|Numbers k such that (3^k + 7^k)/10 is prime.|
 |128068|Numbers k such that (3^k + 8^k)/11 is prime.|
@@ -6936,13 +6936,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |128947|Main diagonal of polygonal lucky array defined in A128511.|
 |128953|Number of 3-connected bipartite graphs on n unlabeled nodes.|
 |128976|Number of cycles for the map LL:x->x^2-2 acting on Z/(2^n-1).|
-|128981|Numbers k such that k divides Sum_{j=1..k} j^j = A001923(k).|
+|128981|Numbers k such that k divides Sum_ j=1..k  j^j = A001923(k).|
 |129021|A129017 with the third term from each triple omitted.|
 |129022|Isomer numbers for the fluorenoid/fluoranthenoid constant-isomer series.|
 |129043|Number of n-node triangulations of the projective plane N_1 in which every node has degree >= 3.|
 |129060|Number of n-node triangulations of the nonorientable surface N_5 in which every node has degree >= 6.|
 |129061|Number of n-node triangulations of the nonorientable surface N_5 in which every node has degree >= 7.|
-|129118|For each permutation p of {1,2,...,n} define minabsjump(p) = min(|p(i) - i|, 1<=i<=n); a(n) is the sum of minabsjumps of all p.|
+|129118|For each permutation p of  1,2,...,n  define minabsjump(p) = min(|p(i) - i|, 1<=i<=n); a(n) is the sum of minabsjumps of all p.|
 |129125|Prune the tree structure defined in sequence A129129 yielding a new irregular table with shape sequence A027336.|
 |129244|Least K such that K*(prime(10*n)^(10*n))-1 is prime with prime(n)=n-th prime.|
 |129245|Least K such that K*(prime(100*n)^(100*n))-1 is prime with prime(n)=n-th prime.|
@@ -6987,20 +6987,20 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |129874|Sequence h_n arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition).|
 |129875|Sequence t_n arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition).|
 |129876|Sequence i_n arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition).|
-|129877|Sequence i_{a_n} arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where i_n is A129876, a_n is A129878.|
+|129877|Sequence i_ a_n  arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where i_n is A129876, a_n is A129878.|
 |129878|Sequence a_n arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition).|
-|129879|Sequence a_{a_n} arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where a_n is A129878.|
-|129881|Sequence i_{s_n} arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where i_n = A129876, s_n = A129873.|
-|129882|Sequence i_{t_n} arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where i_n = A129876, t_n = A129875.|
-|129883|Sequence i_{h_n} arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where i_n = A129876, h_n = A129874.|
-|129884|Sequence a_{s_n} arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where a_n = A129878, s_n = A129873.|
-|129885|Sequence a_{t_n} arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where a_n = A129878, t_n = A129875.|
-|129886|Sequence a_{h_n} arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where a_n = A129878, h_n = A129874.|
-|129907|Greatest prime factor of the number of subsets S of the power set P{1,2,...,n} such that: {1}, {2},..., {n} are all elements of S; if X and Y are elements of S and X and Y have a nonempty intersection, then the union of X and Y is an element of S.|
+|129879|Sequence a_ a_n  arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where a_n is A129878.|
+|129881|Sequence i_ s_n  arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where i_n = A129876, s_n = A129873.|
+|129882|Sequence i_ t_n  arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where i_n = A129876, t_n = A129875.|
+|129883|Sequence i_ h_n  arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where i_n = A129876, h_n = A129874.|
+|129884|Sequence a_ s_n  arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where a_n = A129878, s_n = A129873.|
+|129885|Sequence a_ t_n  arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where a_n = A129878, t_n = A129875.|
+|129886|Sequence a_ h_n  arising in enumeration of arrays of directed blocks (see Quaintance reference for precise definition), where a_n = A129878, h_n = A129874.|
+|129907|Greatest prime factor of the number of subsets S of the power set P 1,2,...,n  such that:  1 ,  2 ,...,  n  are all elements of S; if X and Y are elements of S and X and Y have a nonempty intersection, then the union of X and Y is an element of S.|
 |129947|Smallest possible side length for a simple perfect squared square of order n; or 0 if no such square exists.|
-|129976|Numbers k such that the numerator of Sum_{j=0..k} k^j/j! is a prime number.|
-|129977|Numbers m such that A119029(m) = numerator(Sum_{k=1..m} m^(k-1)/k!) is prime.|
-|129978|Numbers k such that A120265(k) = numerator(Sum_{j=1..k} 1/j!) is a prime.|
+|129976|Numbers k such that the numerator of Sum_ j=0..k  k^j/j! is a prime number.|
+|129977|Numbers m such that A119029(m) = numerator(Sum_ k=1..m  m^(k-1)/k!) is prime.|
+|129978|Numbers k such that A120265(k) = numerator(Sum_ j=1..k  1/j!) is a prime.|
 |129990|Primes p such that the smallest integer whose sum of decimal digits is p is prime.|
 |130000|Composite solutions to the equation reversal(x) - phi(x) = 1.|
 |130001|Numbers n such that phi(n) is the arithmetic mean of n and reversal(n).|
@@ -7040,11 +7040,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |131262|a(n) = least index k such that A130654(k) = n.|
 |131263|Numbers k such that k divides 2^9 + 3^9 + 5^9 + ... + prime(k)^9.|
 |131264|Numbers k such that k divides 2^10 + 3^10 + 5^10 + ... + prime(k)^10.|
-|131273|Numbers k that divide Sum_{j=1..k} prime(j)^13.|
-|131274|Numbers m such that m divides Sum_{k=1..m} prime(k)^14.|
-|131275|Numbers k such that k divides Sum_{j=1..k} prime(j)^15.|
-|131276|Numbers m such that m divides Sum_{k=1..m} prime(k)^16.|
-|131277|Numbers m that divide Sum_{k=1..m} prime(k)^17.|
+|131273|Numbers k that divide Sum_ j=1..k  prime(j)^13.|
+|131274|Numbers m such that m divides Sum_ k=1..m  prime(k)^14.|
+|131275|Numbers k such that k divides Sum_ j=1..k  prime(j)^15.|
+|131276|Numbers m such that m divides Sum_ k=1..m  prime(k)^16.|
+|131277|Numbers m that divide Sum_ k=1..m  prime(k)^17.|
 |131278|Numbers m such that m divides the sum of the 18th powers of the first m primes.|
 |131284|Numbers n such that difference between prime factors of n-th semiprime is n.|
 |131286|First Russian version of A131744.|
@@ -7066,7 +7066,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |131495|Values of n such that n^n starts with the digits of n.|
 |131501|Xm/CV where Xm is a point of maximum error using an approximation method for x^(1/2) which I have found and CV is the population coefficient of variation from my list of error values.|
 |131514|Number of ways to design a set of three n-sided dice (using nonnegative numbers) such that summing the faces can give any integer from 0 to n^3-1.|
-|131529|Number of permutations of {1,2,...n} for which differences of adjacent numbers are all distinct.|
+|131529|Number of permutations of  1,2,...n  for which differences of adjacent numbers are all distinct.|
 |131535|Least power of 2 having exactly n consecutive 1's in its decimal representation.|
 |131536|Least power of 2 having exactly n consecutive 2's in its decimal representation.|
 |131537|Least exponent k such that 2^k has exactly n consecutive 3's in its decimal representation.|
@@ -7089,13 +7089,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |131559|Indices of records in A078571.|
 |131625|Numbers k such that decimal expansion of 3^k contains no 2.|
 |131628|Maximal size of an n-distance set in the plane.|
-|131747|Number of morphically primitive words w in {1,2,3,...}^* of length n (modulo renaming), also the number of words (length n) which are fixed points of nontrivial morphisms, also the number of succinct patterns of length n in canonical form, also the number of words which have an unambiguous morphic image in {a,b}^*.|
+|131747|Number of morphically primitive words w in  1,2,3,... ^* of length n (modulo renaming), also the number of words (length n) which are fixed points of nontrivial morphisms, also the number of succinct patterns of length n in canonical form, also the number of words which have an unambiguous morphic image in  a,b ^*.|
 |131811|Number of symbolic sequences on n symbols that can be realized by the arrangement of the real roots of some polynomial of degree n and its derivatives.|
-|131849|Cardinality of largest subset of {1,...,n} such that the difference between any two elements of the subset is never one less than a prime.|
+|131849|Cardinality of largest subset of  1,...,n  such that the difference between any two elements of the subset is never one less than a prime.|
 |131886|Rearrange the rows of array A077569 by sorting the values on each row by noting the odd part of each signature and sorting as in A131822.|
 |131931|Smallest number containing exactly n prime factors in its decimal representation.|
 |131935|a(n) is the number of Khalimsky-continuous functions with four-point codomain and an n-point range.|
-|131959|Numbers k such that 1 + Product_{j=1..k} prime(j)^prime(k-j+1) is prime.|
+|131959|Numbers k such that 1 + Product_ j=1..k  prime(j)^prime(k-j+1) is prime.|
 |131997|Array read by rows in which the n-th row contains odd numbers of all possible prime signatures with n divisors.|
 |132098|Numerators of Blandin-Diaz compositional Bernoulli numbers (B^Z^2)_1,n.|
 |132099|Denominators of Blandin-Diaz compositional Bernoulli numbers (B^Z^2)_1,n.|
@@ -7279,7 +7279,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |135240|Numbers n such that phi(sigma(n))=2n.|
 |135242|Numbers n such that sigma(n)=2*(n-reversal(n)).|
 |135327|Number of genus-surfaces with n vertices.|
-|135410|Number of permutations of {1,2,3,...,n} each with the same up-down signature as its inverse permutation.|
+|135410|Number of permutations of  1,2,3,...,n  each with the same up-down signature as its inverse permutation.|
 |135415|Van der Waerden numbers for 3-arithmetic progressions with n colors.|
 |135434|a(n) is the smallest odd number that makes a(n)*2^N(n)-1 prime, where N(n) is the n-th Mersenne number that makes 2^N(n)-1 prime.|
 |135442|Number of partitions into "bus routes" of n X n grid.|
@@ -7309,7 +7309,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |136033|a(n) = smallest number k such that number of prime factors of 2^k-1 is exactly n (counted with multiplicity).|
 |136034|a(n) = smallest number k such that number of distinct prime factors of numbers 2^k-1 A000225 is exactly n.|
 |136041|Largest prime p such that phi^n(p) = 2, where phi^n means n iterations of Euler's totient function.|
-|136094|a(n) is the smallest number consisting of digits {1,...,n} that contains all the permutations of {1,...,n} as subsequences.|
+|136094|a(n) is the smallest number consisting of digits  1,...,n  that contains all the permutations of  1,...,n  as subsequences.|
 |136106|a(n) = smallest prime p such that in the sequence of n numbers p, p+1, p+2, ..., p+n-1, the i-th term is the product of i distinct primes, for i = 1, ..., n.|
 |136257|Number of possible plays on the n-th move in Mirror Chess in which Black's play is always the mirror image of White (White must either mate or play such that Black can mirror the move).|
 |136341|Fibonacci primes or semiprimes F(k) such that F(k+1) is again prime or semiprime.|
@@ -7360,28 +7360,28 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |137279|Number of ways of placing ceiling(n/2) nonattacking queens on an n X n Mobius chessboard.|
 |137315|a(n) is the least number m such that any finite group of order at least m has at least n automorphisms.|
 |137353|Minimal number of edges in an n-stable graph.|
-|137371|a(n) = least semiprime such that all subsets of {a(1),...,a(n)} have a different sum.|
+|137371|a(n) = least semiprime such that all subsets of  a(1),...,a(n)  have a different sum.|
 |137390|Numbers k for which (9 + k!)/9 is prime.|
 |137438|Number of conjugate-congruent partitions of n.|
 |137468|Fifth powers whose digits are all odd.|
-|137534|Number of permutations in S_n avoiding 352{bar 4}1 (i.e., every occurrence of 3521 is contained in an occurrence of a 35241).|
-|137535|Number of permutations in S_n avoiding 1{bar 4}235 (i.e., every occurrence of 1235 is contained in an occurrence of a 14235).|
-|137536|Number of permutations in S_n avoiding {bar 4}2153 (i.e., every occurrence of 2153 is contained in an occurrence of a 42153).|
-|137537|Number of permutations in S_n avoiding 5134{bar 2} (i.e., every occurrence of 5134 is contained in an occurrence of a 51342).|
-|137539|Number of permutations in S_n avoiding 1{bar 5}324 (i.e., every occurrence of 1324 is contained in an occurrence of a 15324).|
-|137540|Number of permutations in S_n avoiding {bar 4}1253 (i.e., every occurrence of 1253 is contained in an occurrence of a 41253).|
-|137541|Number of permutations in S_n avoiding 1{bar 5}234 (i.e., every occurrence of 1234 is contained in an occurrence of a 15234).|
-|137542|Number of permutations in S_n avoiding {bar 1}3425 (i.e., every occurrence of 3425 is contained in an occurrence of a 13425).|
-|137543|Number of permutations in S_n avoiding {bar 1}3245 (i.e., every occurrence of 3245 is contained in an occurrence of a 13245).|
-|137544|Number of permutations in S_n avoiding {bar 5}1342 (i.e., every occurrence of 1342 is contained in an occurrence of a 51342).|
-|137545|Number of permutations in S_n avoiding {bar 5}2143 (i.e., every occurrence of 2143 is contained in an occurrence of a 52143).|
-|137546|Number of permutations in S_n avoiding 5234{bar 1} (i.e., every occurrence of 5234 is contained in an occurrence of a 52341).|
-|137547|Number of permutations in S_n avoiding {bar 5}1243 (i.e., every occurrence of 1243 is contained in an occurrence of a 51243).|
-|137548|Number of permutations in S_n avoiding {bar 5}1234 (i.e., every occurrence of 1234 is contained in an occurrence of a 51234).|
-|137552|Number of permutations in S_n avoiding {bar 1}5{bar 2}43 (i.e., every occurrence of 543 is contained in an occurrence of 15243).|
-|137555|Number of permutations in S_n avoiding {bar 4}{bar 5}123 (i.e., every occurrence of 123 is contained in an occurrence of a 45123).|
-|137556|Number of permutations in S_n avoiding {bar 1}432{bar 5} (i.e., every occurrence of 432 is contained in an occurrence of a 14325).|
-|137557|Number of permutations in S_n avoiding 345{bar 2}{bar 1} (i.e., every occurrence of 345 is contained in an occurrence of a 34521).|
+|137534|Number of permutations in S_n avoiding 352 bar 4 1 (i.e., every occurrence of 3521 is contained in an occurrence of a 35241).|
+|137535|Number of permutations in S_n avoiding 1 bar 4 235 (i.e., every occurrence of 1235 is contained in an occurrence of a 14235).|
+|137536|Number of permutations in S_n avoiding  bar 4 2153 (i.e., every occurrence of 2153 is contained in an occurrence of a 42153).|
+|137537|Number of permutations in S_n avoiding 5134 bar 2  (i.e., every occurrence of 5134 is contained in an occurrence of a 51342).|
+|137539|Number of permutations in S_n avoiding 1 bar 5 324 (i.e., every occurrence of 1324 is contained in an occurrence of a 15324).|
+|137540|Number of permutations in S_n avoiding  bar 4 1253 (i.e., every occurrence of 1253 is contained in an occurrence of a 41253).|
+|137541|Number of permutations in S_n avoiding 1 bar 5 234 (i.e., every occurrence of 1234 is contained in an occurrence of a 15234).|
+|137542|Number of permutations in S_n avoiding  bar 1 3425 (i.e., every occurrence of 3425 is contained in an occurrence of a 13425).|
+|137543|Number of permutations in S_n avoiding  bar 1 3245 (i.e., every occurrence of 3245 is contained in an occurrence of a 13245).|
+|137544|Number of permutations in S_n avoiding  bar 5 1342 (i.e., every occurrence of 1342 is contained in an occurrence of a 51342).|
+|137545|Number of permutations in S_n avoiding  bar 5 2143 (i.e., every occurrence of 2143 is contained in an occurrence of a 52143).|
+|137546|Number of permutations in S_n avoiding 5234 bar 1  (i.e., every occurrence of 5234 is contained in an occurrence of a 52341).|
+|137547|Number of permutations in S_n avoiding  bar 5 1243 (i.e., every occurrence of 1243 is contained in an occurrence of a 51243).|
+|137548|Number of permutations in S_n avoiding  bar 5 1234 (i.e., every occurrence of 1234 is contained in an occurrence of a 51234).|
+|137552|Number of permutations in S_n avoiding  bar 1 5 bar 2 43 (i.e., every occurrence of 543 is contained in an occurrence of 15243).|
+|137555|Number of permutations in S_n avoiding  bar 4  bar 5 123 (i.e., every occurrence of 123 is contained in an occurrence of a 45123).|
+|137556|Number of permutations in S_n avoiding  bar 1 432 bar 5  (i.e., every occurrence of 432 is contained in an occurrence of a 14325).|
+|137557|Number of permutations in S_n avoiding 345 bar 2  bar 1  (i.e., every occurrence of 345 is contained in an occurrence of a 34521).|
 |137567|Number of chromatically nonunique simple graphs on n nodes.|
 |137568|Number of chromatically unique simple graphs on n nodes.|
 |137598|Numbers n such that phi(n)=reversal(n)+1.|
@@ -7412,7 +7412,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |137906|Least k such that k*(2^p-1)*(k*(2^p-1)-1)-1 is prime, where 2^p-1 runs through the Mersenne primes.|
 |137907|Least k such that k*(2^p-1)*(k*(2^p-1)-1)+1 is prime, where 2^p-1 runs through the Mersenne primes.|
 |137909|Least k such that k*(2^p-1)*(k*(2^p-1)+1)+1 is prime, where 2^p-1 runs through the Mersenne primes.|
-|137994|a(n) is the smallest integer > a(n-1) such that {Pi^a(n)} < {Pi^a(n-1)}, where {x} = x - floor(x), a(1)=1.|
+|137994|a(n) is the smallest integer > a(n-1) such that  Pi^a(n)  <  Pi^a(n-1) , where  x  = x - floor(x), a(1)=1.|
 |137995|Nearest integer to 1/frac(Pi^A137994(n)), where frac(x) = x - floor(x).|
 |137999|Primes p such that (p^p-p!)/p is prime.|
 |138004|Numbers n for which all nontrivial cycles of the Ducci map have the same length.|
@@ -7431,7 +7431,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |138246|Composite members of sequence A138244.|
 |138289|Row sums of A138060.|
 |138297|Rows of triangle A138060 converge to this sequence.|
-|138313|Decimal expansion of constant 'kappa' = lim_{n -> infinity} (F_n - H_n), where H_n are harmonic numbers, F_n are squarefree totient analogs of H_n.|
+|138313|Decimal expansion of constant 'kappa' = lim_ n -> infinity  (F_n - H_n), where H_n are harmonic numbers, F_n are squarefree totient analogs of H_n.|
 |138327|Nonsquares not representable as p+g, where p is a prime and g is a primitive root of p.|
 |138390|Record values in A138385.|
 |138391|Where record values occur in A138385.|
@@ -7444,14 +7444,14 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |138651|Number of distinct values obtained when each of the operators # in the expression 1#2#3#...#n is replaced by + (add) or x (multiply) in all possible ways, for n=1,2,3,...|
 |138699|Numbers k such that 4^k - 3^k - 2^k is prime.|
 |138717|Average k of twin primes such that k = p1^2 + p2^3, where p1 and p2 are consecutive primes, and p1 < p2.|
-|138743|Let r_1 = 1. Let r_{m+1} = r_1 + 1/(r_2 + 1/(r_3 +...(r_{m-1} + 1/r_m)...)), a continued fraction of rational terms. Then a(n) is the number of (positive integer) terms in the simple continued fraction of r_n.|
-|138744|Let r_1 = 1. Let r_{m+1} = r_1 + 1/(r_2 + 1/(r_3 +...(r_{m-1} + 1/r_m)...)), a continued fraction of rational terms. Then a(n) is the sum of the (positive integer) terms in the simple continued fraction of r_n.|
+|138743|Let r_1 = 1. Let r_ m+1  = r_1 + 1/(r_2 + 1/(r_3 +...(r_ m-1  + 1/r_m)...)), a continued fraction of rational terms. Then a(n) is the number of (positive integer) terms in the simple continued fraction of r_n.|
+|138744|Let r_1 = 1. Let r_ m+1  = r_1 + 1/(r_2 + 1/(r_3 +...(r_ m-1  + 1/r_m)...)), a continued fraction of rational terms. Then a(n) is the sum of the (positive integer) terms in the simple continued fraction of r_n.|
 |138756|Indices of record values in A138753 (a "prime" variation of the Collatz (3n+1) problem).|
 |138762|Average of twin primes k such that k = p1^3 + p2^2, where p1 and p2 are consecutive primes, and p1 < p2.|
 |138769|a(n)=least positive integer k such that k^2+3 is divisible by at least n distinct primes.|
 |138788|Number of monomials in discriminant of symbolic polynomial of prime degree with all nonzero coefficients.|
 |138790|a(n) = indices n for which A138793(n) is prime.|
-|138800|Number of monomials in discriminant of polynomial x^n + a_{n-2} x^{n-2} + ... + a_0.|
+|138800|Number of monomials in discriminant of polynomial x^n + a_ n-2  x^ n-2  + ... + a_0.|
 |138816|Concatenation of initial digit of n-th Mersenne prime A000668(n), initial digit of n-th even superperfect number A061652(n) and initial digit of n-th perfect number A000396(n).|
 |138818|Concatenation of initial digit of n-th even superperfect number A061652(n), initial digit of n-th Mersenne prime A000668(n) and initial digit of n-th perfect number A000396(n).|
 |138838|Concatenation of initial and final digits of n-th even superperfect number A061652(n), divided by 2.|
@@ -7539,8 +7539,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |140667|Odd composite numbers n for which n = A140607((n-1)/2).|
 |140688|List of numbers which are both amicable and friendly.|
 |140708|Prime chain of 128 terms, including 104 distinct primes, consisting of the output of eight equations that alternate sequentially within a procedural expression of a single polynomial. The equations are either subsequences of x^2 - 79x + 1601 or transforms with one exception: 100x^2 - 2260x + 12959. The other four distinct equations are Euler-derived: 25x^2 - 1185x + 14083, 25x^2 - 775x + 6047, 100x^2 - 2280x + 13159, 100x^2 - 4160x + 43427.|
-|140713|Triangle read by rows: T(n,k) is the number of white corners of rank k in all the permutations of {1,2,...,n} (n>=2, 0<=k<=n-2; for definitions see the Eriksson-Linusson references).|
-|140714|Triangle read by rows: T(n,k) is the number of white corners of rank k in all 321-avoiding permutations of {1,2,...,n} (n>=2, 0<=k<=n-2; for definitions see the Eriksson-Linusson references).|
+|140713|Triangle read by rows: T(n,k) is the number of white corners of rank k in all the permutations of  1,2,...,n  (n>=2, 0<=k<=n-2; for definitions see the Eriksson-Linusson references).|
+|140714|Triangle read by rows: T(n,k) is the number of white corners of rank k in all 321-avoiding permutations of  1,2,...,n  (n>=2, 0<=k<=n-2; for definitions see the Eriksson-Linusson references).|
 |140745|Smallest prime p such that the Mersenne number A000225(p) = 2^p - 1 has exactly n prime factors (counted with multiplicity).|
 |140746|Numbers n such that n^2 + 3 is powerful, (i.e., is of the form a^2*b^3, with a>=1, b>=1).|
 |140752|Indices of elements of A005179 that belong to A134865 (in order of their appearance in A134865). The sorted version of this sequence is given by A138394.|
@@ -7569,7 +7569,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |141283|Record values for number of divisors from A084260.|
 |141320|Both n and the smallest number with n divisors are in A002182.|
 |141323|Number of groups of order L(n).|
-|141347|Size of the Hilbert basis of the cone { x in Z+^n : (a,x)=0 } where a=(-1,1,2,...,n-2,-(n-1)).|
+|141347|Size of the Hilbert basis of the cone   x in Z+^n : (a,x)=0   where a=(-1,1,2,...,n-2,-(n-1)).|
 |141348|Number of extreme n-breakable vectors.|
 |141349|Size of the reduced Groebner basis of the ideal < x*y(1)^vj(1)*...*y(n-2)^vj(n-2) - z(j) : j=1,2,...,m >, where vj is the j-th extreme n-breakable vector, m=A141348(n), w.r.t. the degree of x and graded reverse lexicographic ordering of the variables y(1), ..., y(n-2), z(1), ..., z(m).|
 |141399|A positive integer k is included if all the distinct primes that divide k and k+1 together are members of a set of consecutive primes. In other words, k is included if and only if k*(k+1) is contained in sequence A073491.|
@@ -7609,7 +7609,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |142869|Number of permutation symbols of type .r(n) for hyperbolic archimedean tessellations of rank 2n.|
 |142870|Number of permutation symbols of type *a(n) for hyperbolic archimedean tessellations of rank n.|
 |142871|Number of permutation symbols of type *r(n) for hyperbolic archimedean tessellations of rank n.|
-|143015|a(1) = 1. a(n) = the smallest integer >=2 such that (product{k=1 to n} a(k)) in binary is a palindrome.|
+|143015|a(1) = 1. a(n) = the smallest integer >=2 such that (product k=1 to n  a(k)) in binary is a palindrome.|
 |143027|Sturdy prime numbers: p such that in binary notation k*p has at least as many 1-bits as p for all k>0.|
 |143040|10^n-th number divisible by exactly two distinct primes.|
 |143041|10^n-th number divisible by exactly 3 distinct primes.|
@@ -7699,17 +7699,17 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |144705|An example of a sequence produced by the Basveo Algorithm.|
 |144709|Integers m > 1 such that there is not a pair of primes (m^2+m-k, m^2+m+k), 1 <= k < m, between successive squares m^2 and (m+1)^2.|
 |144855|Number of paths from (1,1) to (n,n) in an n X n grid using only the steps +(1,0), -(1,0), +(0,1) and -(0,1) which do not self-intersect and which avoid any point (p,q) satisfying "(p-1)*n + q is prime".|
-|144857|Numbers k that divide Sum_{i=1..k} phi(i)^2, where phi(i) = totient function A000010.|
+|144857|Numbers k that divide Sum_ i=1..k  phi(i)^2, where phi(i) = totient function A000010.|
 |144876|Maximal number of distinct polyominoes into which an n X n square can be divided.|
 |145044|Primes p (A000043) such that 2^p-1 is prime (A000668) and congruent to 271 mod 6!|
 |145053|One-third of the number of n X n nonnegative integer arrays with every 3 X 3 subblock summing to 2.|
-|145074|Coefficient of x^(4^n) in Q(x)^(n+1) where Q(x) = Sum_{k>=0} (x^(4^k) + x^(2*4^k) + x^(3*4^k)).|
-|145075|Coefficient of x^(5^n) in Q(x)^(n+1), where Q(x) = Sum_{k>=0} (x^(5^k) + x^(2*5^k) + x^(3*5^k) + x^(4*5^k)).|
-|145076|Coefficient of x^(6^n) in Q(x)^(n+1), where Q(x) = Sum_{k>=0} x^(6^k)*(1 - x^(5*6^k))/(1 - x^(6^k)).|
+|145074|Coefficient of x^(4^n) in Q(x)^(n+1) where Q(x) = Sum_ k>=0  (x^(4^k) + x^(2*4^k) + x^(3*4^k)).|
+|145075|Coefficient of x^(5^n) in Q(x)^(n+1), where Q(x) = Sum_ k>=0  (x^(5^k) + x^(2*5^k) + x^(3*5^k) + x^(4*5^k)).|
+|145076|Coefficient of x^(6^n) in Q(x)^(n+1), where Q(x) = Sum_ k>=0  x^(6^k)*(1 - x^(5*6^k))/(1 - x^(6^k)).|
 |145078|Minimal value of cycle of trajectory of n described in A098282, or -1 if no cycle is ever reached.|
 |145079|Length of cycle of trajectory of n described in A098282, or -1 if no cycle is ever reached.|
 |145110|Number of elements in the Redheffer matrix that contribute to the Moebius function.|
-|145191|Numbers m such that Sum_{i=1..m} omega(i)^2 is divisible by m, where omega is A001221.|
+|145191|Numbers m such that Sum_ i=1..m  omega(i)^2 is divisible by m, where omega is A001221.|
 |145269|Number of simple nonplanar graphs on n nodes.|
 |145270|Number of simple connected nonplanar graphs on n nodes.|
 |145293|a(n) is the smallest nonnegative x such that the Euler polynomial x^2 + x + 41 has exactly n distinct prime proper divisors.|
@@ -7816,7 +7816,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |151539|Number of 1-sided triangular polyedges with n cells.|
 |151540|Number of 1-sided triangular strip polyedges with n cells.|
 |151541|Number of 2-sided triangular strip polyedges with n cells.|
-|151613|Consider a permutation K = (k(1),k(2),...,k(A000005(n))) of the positive divisors of n. Consider the partial sums S = Sum_{j=1..m} k(j), 1 <= m <= A000005(n). Then a(n) is the maximum number, for any permutation K, of partial sums S that are coprime to n.|
+|151613|Consider a permutation K = (k(1),k(2),...,k(A000005(n))) of the positive divisors of n. Consider the partial sums S = Sum_ j=1..m  k(j), 1 <= m <= A000005(n). Then a(n) is the maximum number, for any permutation K, of partial sums S that are coprime to n.|
 |151686|Row sums of A082640.|
 |151710|First differences of A160715.|
 |151834|Number of fixed 8-dimensional polycubes with n cells.|
@@ -7836,18 +7836,18 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |152052|Number of cousin primes < 10^n.|
 |152068|Exceptional Ucycles on 2n+1 nodes.|
 |152069|Total number of Ucycles on 2n+1 nodes.|
-|152086|a(n) = Sum_{k=1..n-1} k*A110971(n,k).|
+|152086|a(n) = Sum_ k=1..n-1  k*A110971(n,k).|
 |152093|Numbers of intervals for the pruning-grafting lattices of size n.|
 |152097|Least k(n) such that 3*2^k(n)*M(n)-1 or 3*2^k(n)*M(n)+1 is prime (or both primes) with M(i)=i-th Mersenne prime.|
 |152112|Number of increasing initial sequences of bases of order 3.|
 |152123|3^a(n) is the order of the free commutative Moufang loop of exponent 3 on n generators.|
 |152125|Consider a square grid with side n consisting of n^2 cells (or points); a(n) is the minimal number of points that can be painted black so that, out of any four points forming a square with sides parallel to the sides of the grid, at least one of the four is black.|
-|152138|a(n) is the smallest N such that the {n,n+1}-leaper graph with 2n+1 rows and N columns has a Hamiltonian cycle.|
+|152138|a(n) is the smallest N such that the  n,n+1 -leaper graph with 2n+1 rows and N columns has a Hamiltonian cycle.|
 |152165|Largest number which is not the sum of an n-almost prime and a prime.|
 |152177|Smallest prime factor of G+n, where G is any sufficiently large power tower of 3, e.g., Graham's number.|
 |152213|Numbers n such that 7^n + 12 is prime.|
 |152217|Primes p == 1 (mod 3) such that ((p-1)/3)! == 1 (mod p).|
-|152396|Let f(M,k) denote the decimal concatenation of k numbers starting with M: M | M-1 | M-2 | ... | M-k+1, k > 1. Then a(n) is the smallest M such that for all m in {1,..,n} an m-th prime occurs as f(M,k) for the smallest possible k, order prioritized m = 1 through n.|
+|152396|Let f(M,k) denote the decimal concatenation of k numbers starting with M: M | M-1 | M-2 | ... | M-k+1, k > 1. Then a(n) is the smallest M such that for all m in  1,..,n  an m-th prime occurs as f(M,k) for the smallest possible k, order prioritized m = 1 through n.|
 |152397|Similar to A152396, but here the requirement is for finding any n primes, not necessarily from the shortest concatenations.|
 |152413|Generalized Wilson primes of order 17; or primes p such that p^2 divides 16!(p-17)! + 1.|
 |152523|Multiplicities of distinct terms in A152522.|
@@ -7968,7 +7968,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |154411|a(n) = period of the sequence [ x(k+1) := floor(2*cos(2*Pi/7)*x(k)) - x(k-1), with x(0) := cosh(n)^2, x(1) := sinh(n)^2 ].|
 |154424|Continue with summing & priming the A154423 (Level 5) list to level 6.|
 |154526|Primes p such that lcm(1,2,3,...,p-2,p-1,p) -+ 1 are both primes.|
-|154586|Numbers n for which abs((-1)^k*Sum_{k=1..n} ((n-k+1) mod k)) = 0.|
+|154586|Numbers n for which abs((-1)^k*Sum_ k=1..n  ((n-k+1) mod k)) = 0.|
 |154587|Numbers that can be expressed both as the sum of first prime numbers and as the sum of first nonprime numbers.|
 |154639|a(n) is the number of reduced words of length n (i.e., all possible length-reducing cancellations have been applied) in the generators of the "Apollonian reflection group" in three dimensions. This is a Coxeter group with five generators, satisfying the identities (S_i)^2 = (S_i S_j)^3 = I.|
 |154640|a(n) is the number of spheres that are added in the n-th generation of Apollonian packing of three-dimensional spheres, starting with five mutually tangent spheres and using "strategy (a)" to count them (see the reference).|
@@ -7994,7 +7994,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |155126|Indices of Bernoulli numbers of the form 4k+2 whose fractional part is < 2/3 and is incrementally smallest.|
 |155149|Numbers n such that n^4 has exactly 3 different decimal digits.|
 |155219|Number of ways to place zero or more nonadjacent 0,0 1,0 2,0 polyhexes in any orientation on a planar nXnXn triangular grid.|
-|155520|Triangle read by rows: A(n,k) is the number of ordered trees with n edges having k drawings. A drawing of an ordered tree T with n edges is a sequence of trees (T_0, T_1, T_2, ..., T_n), such that T_n = T and T_{i-1} arises from T_i by deleting a leaf of T_i.|
+|155520|Triangle read by rows: A(n,k) is the number of ordered trees with n edges having k drawings. A drawing of an ordered tree T with n edges is a sequence of trees (T_0, T_1, T_2, ..., T_n), such that T_n = T and T_ i-1  arises from T_i by deleting a leaf of T_i.|
 |155778|Primes p such that 2^p + p + 6 is also prime.|
 |155780|Primes p such that 2^p+11 is a prime|
 |155838|Primes p such that p^2 divides A085606(2p-2) = (2p-3)^(2p-2) - 1.|
@@ -8019,7 +8019,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |156235|Number of irreflexive binary relations on the power set P(N) of an n-element set N as restricted below.|
 |156314|Smallest prime p such that p mod prime(k+1) = prime(k) for exactly n distinct k.|
 |156585|Numbers such that (2^(n^2)-1)/(2^n-1) is prime.|
-|156622|Values of register a when register b becomes 0 for the two-register machine {i[1], i[1], i[1], d[2,1], d[1,6], i[2], d[1,5], d[2,3]}.|
+|156622|Values of register a when register b becomes 0 for the two-register machine  i[1], i[1], i[1], d[2,1], d[1,6], i[2], d[1,5], d[2,3] .|
 |156744|Coefficients for estimation of derivative from equally spaced numerical data using the Lagrange interpolating polynomial|
 |156761|Tribonacci primes that are also primes when their digits are reversed.|
 |156804|Number of distinct interlace polynomials q of connected graphs of order n.|
@@ -8032,7 +8032,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |156871|Number of nondecreasing sequences of n positive integers with reciprocals adding up to an integer.|
 |156925|FP2 polynomials related to the generating functions of the left hand columns of the A156920 triangle.|
 |156972|Number of universes with n entities, exactly one being the empty set, which satisfy the Axiom of Extensionality (two sets are identical when they have the same elements) and are closed under taking subsets.|
-|156989|Largest size of a subset of {1,2,3}^n that does not contain any combinatorial lines (i.e., strings formed by 1, 2, 3, and at least one instance of a wildcard x, with x then substituted for 1, 2, or 3, e.g. 12x3x gives the combinatorial line 12131, 12232, 12333.)|
+|156989|Largest size of a subset of  1,2,3 ^n that does not contain any combinatorial lines (i.e., strings formed by 1, 2, 3, and at least one instance of a wildcard x, with x then substituted for 1, 2, or 3, e.g. 12x3x gives the combinatorial line 12131, 12232, 12333.)|
 |157030|Triangle read by rows, A156834 * A054521|
 |157034|Shorthand for A157033, the smallest prime with 2^n digits.|
 |157036|Shorthand for A157035, the largest prime with 2^n digits.|
@@ -8054,27 +8054,27 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |157650|Number of minimum geometric construction etches with compass of fixed opening and straight-edge to find the centroid of n points.|
 |157656|Maximal possible number of states in a minimal deterministic automaton, equivalent to an n-state nondeterministic automaton over 1-symbol alphabet.|
 |157755|Primes that hit the value suggested by the prime number theorem "on the nose" according to Kontorovich.|
-|157795|Largest subset of the discrete triangular grid { (a,b,c): a+b+c = n, a,b,c >= 0 } that does not contain any upward-pointing triangles (i.e., triples (a+r,b,c), (a,b+r,c), (a,b,c+r) with r positive).|
-|157833|Numbers k such that 1 + Sum_{j=0..k} (-1)^j*(k-j)! is prime.|
+|157795|Largest subset of the discrete triangular grid   (a,b,c): a+b+c = n, a,b,c >= 0   that does not contain any upward-pointing triangles (i.e., triples (a+r,b,c), (a,b+r,c), (a,b,c+r) with r positive).|
+|157833|Numbers k such that 1 + Sum_ j=0..k  (-1)^j*(k-j)! is prime.|
 |157851|Number of possible Fischer Random Chess games at the end of the n-th ply.|
 |157885|Least prime that starts a run of exactly n consecutive primes, where between successive primes exactly one digit changes and the resulting digits may be permuted.|
 |157887|The domatic number of the n-cube.|
 |157903|a(n) is the smallest number in Spanish with n consonants.|
 |157979|Least nonnegative k such that 3^(2^n)+k is prime.|
-|158006|Numbers of pattern-matching permutations of (1342) for the permutations of {1, 2, ..., n} on n = 4, 5, 6, ... elements.|
-|158009|Numbers of pattern-matching permutations of (1324) for the permutations of {1, 2, ..., n} on n = 4, 5, 6, ... elements.|
+|158006|Numbers of pattern-matching permutations of (1342) for the permutations of  1, 2, ..., n  on n = 4, 5, 6, ... elements.|
+|158009|Numbers of pattern-matching permutations of (1324) for the permutations of  1, 2, ..., n  on n = 4, 5, 6, ... elements.|
 |158206|Number of irreducible numerical semigroups with Frobenius number n; that is, irreducible numerical semigroups for which the largest integer not belonging to them is n.|
 |158247|Record-breaking occurrences of consecutive prime digits in the decimal expansion of Pi.|
 |158278|Number of symmetric numerical semigroups with Frobenius number 2*n-1; that is, symmetric numerical semigroups for which the largest integer not belonging to them is 2*n-1.|
 |158279|Number of pseudo-symmetric numerical semigroups with Frobenius number 2*n; that is, pseudo-symmetric numerical semigroups for which the largest integer not belonging to them is 2*n.|
-|158291|The number of numerical sets S with atom monoid A(S) equal to {0,n+1,n+2,n+3,n+4,...}|
+|158291|The number of numerical sets S with atom monoid A(S) equal to  0,n+1,n+2,n+3,n+4,... |
 |158341|A013928(A002110)|
 |158357|a(n) is the smallest number that is greater than a(n-1) and whose name in Spanish contains n vowels.|
 |158415|Number of different (by numeric value, not by structure) expressions, consisting of N symbols, each of them is one of: nullary 1, unary sqrt(), binary +.|
-|158423|Number of permutations of 1..n containing the relative rank sequence { 23145 } at any spacing.|
-|158434|Number of permutations of 1..n containing the relative rank sequence { 51342 } at any spacing.|
-|158448|a(n) equals the number of admissible pairs of subsets of {1,2,...,n} in the notation of Marzuola-Miller.|
-|158449|The number of sigma-admissible subsets of {1,2,...,n} as defined by Marzuola-Miller.|
+|158423|Number of permutations of 1..n containing the relative rank sequence   23145   at any spacing.|
+|158434|Number of permutations of 1..n containing the relative rank sequence   51342   at any spacing.|
+|158448|a(n) equals the number of admissible pairs of subsets of  1,2,...,n  in the notation of Marzuola-Miller.|
+|158449|The number of sigma-admissible subsets of  1,2,...,n  as defined by Marzuola-Miller.|
 |158576|a(n) = number of components of the graph P(n,10) (defined in Comments).|
 |158577|a(n) = size of the n-th term in S(10) (defined in Comments).|
 |158649|Number of integral solutions to the equation (x_1)^3 + ... + (x_n)^3 = (x_1 + ... + x_n)^2 with 1 <= x_1 <= ... <= x_n.|
@@ -8103,9 +8103,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |159243|Number of elements in the continued fraction for sum(k=0..n, 1/(1+2^2^k)).|
 |159298|Numbers k such that k * 10^k * (10^k - 1)/9 + 1 is prime.|
 |159344|Number of Hamiltonian cycles in the n-hypercube up to automorphism.|
-|159458|Numbers m such that m^2 divides A159068(m), where A159068(m) = Sum_{k=1..m} binomial(m,k) * gcd(m,k).|
+|159458|Numbers m such that m^2 divides A159068(m), where A159068(m) = Sum_ k=1..m  binomial(m,k) * gcd(m,k).|
 |159464|Indices of "Pithagorean" (not Pythagorean!) triples with prime initial terms.|
-|159555|Numbers m where m^2 divides A159553(m), where A159553(m) = Sum_{k=0..m} binomial(m,k) * gcd(m,k).|
+|159555|Numbers m where m^2 divides A159553(m), where A159553(m) = Sum_ k=0..m  binomial(m,k) * gcd(m,k).|
 |159611|Indices of the Fermat primes in the sequence of primes.|
 |159625|Numbers n such that 2^x + 3^y is never prime when max(x,y) = n|
 |159743|If an array is made of columns of -nacci sequences, fibo-, tribo- etc. all starting w. 1,1,2 etc, the NW to SE diagonals can be extended by computation. The above is diagonal 7. See A159741 for details.|
@@ -8161,7 +8161,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |160762|Convolved with the toothpick sequence A139250 = (2*n - 1): (1, 3, 5, 7, ...).|
 |160773|Numbers k such that 3^k + 5^k + 7^k is prime.|
 |160789|Y-toothpick number A160120(n) minus toothpick number A139250(n).|
-|160804|Consider a permutation K = (k(1),k(2),...k(A000005(n))) of the positive divisors of n. Consider the partial sums S= sum{j=1 to m} k(j), 1<=m<=A000005(n). Then, a(n) = the minimum number, for any permutation K, of partial sums S that are coprime to n.|
+|160804|Consider a permutation K = (k(1),k(2),...k(A000005(n))) of the positive divisors of n. Consider the partial sums S= sum j=1 to m  k(j), 1<=m<=A000005(n). Then, a(n) = the minimum number, for any permutation K, of partial sums S that are coprime to n.|
 |160860|The least possible number of pieces resulting from cutting a convex n-gon along all its diagonals.|
 |160881|Regular coverings having dihedral voltage groups (see Kwak-Lee reference for precise definition).|
 |160910|Decimal expansion of c = sum over twin primes (p, p+2) of (1/p^2 + 1/(p+2)^2).|
@@ -8178,7 +8178,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |161214|a(n) = A161210(n)*3.|
 |161216|a(n) = A161210(n)*4.|
 |161218|Primes in A161206.|
-|161324|Let b(m,k) be the k-th binary digit (starting at k=1, reading right to left) in the base-2 representation of m. (So: n = Sum_{k>=0} b(k+1)*2^k.) A positive integer m is included in this sequence if and only if m = Product_{k>=1} k^b(m,k).|
+|161324|Let b(m,k) be the k-th binary digit (starting at k=1, reading right to left) in the base-2 representation of m. (So: n = Sum_ k>=0  b(k+1)*2^k.) A positive integer m is included in this sequence if and only if m = Product_ k>=1  k^b(m,k).|
 |161326|Sequence to which the rows of the triangle of A160121 converge.|
 |161327|a(n) = A161326(n)/3.|
 |161369|a(n) = A161359(n) - n.|
@@ -8228,10 +8228,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |162160|Indices m such that A123112(n)^n is a sum of n consecutive primes starting at prime(m).|
 |162253|Smallest value of the n-fold nesting prime(prime(...(k)...) with a prime digital sum.|
 |162468|Integers n such that A000009(n) (the number of partitions of n into distinct parts) == 1 (mod n).|
-|162542|Primes p such that for the cyclic group Zp of a prime order p there exist a perfect 4-shift code {+-1,+-a,+-a^2,+-b} in Zp.|
+|162542|Primes p such that for the cyclic group Zp of a prime order p there exist a perfect 4-shift code  +-1,+-a,+-a^2,+-b  in Zp.|
 |162544|Triangle giving number L(k,n) of isotopy classes of Latin rectangles.|
 |162545|Triangle giving number L(k,n) of normalized Latin rectangles which are lexicographically minimum of its isotopy class.|
-|162570|Positive integers n such that the polynomial P(n,t) = t^{2^{n-1}} * (t+1)^{2^{n-1}-1} + 1 of GF(2)[t] is irreducible, where GF(2) = {0,1} is the binary finite field with two elements.|
+|162570|Positive integers n such that the polynomial P(n,t) = t^ 2^ n-1   * (t+1)^ 2^ n-1 -1  + 1 of GF(2)[t] is irreducible, where GF(2) =  0,1  is the binary finite field with two elements.|
 |162662|Sequence of alternating increasing odd and increasing even numbers such that the sum of any two terms of opposite parity is a prime number.|
 |162712|Primes p such that 3^p-2^p-2 is also prime.|
 |162761|Minimal total number of floors an elevator must move to transport n people initially waiting at floors i = 1, ..., n to their destination floors n-i+1 (= n, ..., 1), when the elevator can hold at most one person at a time and starts at floor 1, and no passenger may get off the elevator before reaching his/her destination.|
@@ -8301,8 +8301,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |164947|Numbers n such that A004090(n)/A060384(n) is an integer.|
 |164950|1 if there is a winning strategy for misère Sprouts with n initial points, else 0.|
 |164951|Number of different canonical trees in game trees obtained from a starting position with n initial points in misere Sprouts.|
-|164962|a(n) is the least prime from the union {2,3} and A164333, beginning with which the n-th prime p_n is obtained by some number of iterations of the S operator g(see A164960).|
-|164966|Primes which are obtained at least by two ways using the iterations of the S operator (see A164960) beginning with primes of the union of {2,3} and A164333.|
+|164962|a(n) is the least prime from the union  2,3  and A164333, beginning with which the n-th prime p_n is obtained by some number of iterations of the S operator g(see A164960).|
+|164966|Primes which are obtained at least by two ways using the iterations of the S operator (see A164960) beginning with primes of the union of  2,3  and A164333.|
 |165132|Primes whose logarithms are known to possess ternary BBP formulas|
 |165134|Number of directed Hamiltonian paths in the n X n knight graph.|
 |165143|Length of longest cyclic knight path on an n X n chessboard that is determined (up to starting point and direction) by the fields visited.|
@@ -8347,7 +8347,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |166489|Number of standard SOLSSOMs of order n.|
 |166490|Number of SOLSSOMs of order n.|
 |166507|Least n-comma number: smallest nonnegative integer that occurs in the sequence S[k+1]=S[k]+10*last_digit(S[k-1])+first_digit(S[k]) for at least n different splittings a(n)=concat(S[0],S[1]).|
-|166510|Nearest integer to 1 / Sum_{p prime, 2^n < p <= 2^(n+1)} (Kronecker(-1/p)/p).|
+|166510|Nearest integer to 1 / Sum_ p prime, 2^n < p <= 2^(n+1)  (Kronecker(-1/p)/p).|
 |166678|a(n) = pi((sqrt(P(n))+1)^2) - pi(P(n)), where pi(n) = number of primes <= n and P(n) = n-th primorial.|
 |166708|Squares in A105720.|
 |166746|Count of propositional theorems up to 10^n in Richard C. Schroeppel's Goedelization of A101273.|
@@ -8381,20 +8381,20 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |167812|Number of admissible basis in the postage stamp problem for n denominations and h = 5 stamps.|
 |167813|Number of admissible basis in the postage stamp problem for n denominations and h = 6 stamps.|
 |167814|Number of admissible basis in the postage stamp problem for n denominations and h = 7 stamps.|
-|167917|Mersenne primes that belong to Cunningham chains = {3, 7} U {Mp | 2Mp - 1 is prime. (Mp a Mersenne prime)}.|
+|167917|Mersenne primes that belong to Cunningham chains =  3, 7  U  Mp | 2Mp - 1 is prime. (Mp a Mersenne prime) .|
 |167984|Number of n-cycles on the graph of the regular 120-cell, 3 <= n <= 600.|
 |167985|Number of n-cycles on the graph of the regular 600-cell, 3 <= n <= 120.|
-|167995|Total number of permutations on {1,2,...,n} that have a unique longest increasing subsequence.|
+|167995|Total number of permutations on  1,2,...,n  that have a unique longest increasing subsequence.|
 |167999|A permutation pi on [1,2,....n] has k(pi) longest increasing subsequences associated with it; 1<= k(pi)<= f(n) for some function f. The given sequence enumerates sum_pi k(pi).|
 |168078|Number of matrices with elements 1..n in which every pair of adjacent elements are relatively prime|
 |168117|Primes whose indices are perfect numbers.|
-|168127|Numbers k such that Sum_{j=1..k} sigma(j) / sigma(k) is an integer.|
+|168127|Numbers k such that Sum_ j=1..k  sigma(j) / sigma(k) is an integer.|
 |168128|Numbers Sum_(j=1..k) sigma(j) / sigma(k) when this expression is an integer.|
 |168129|Numbers sigma(k) when Sum_(j=1..k) sigma(j) / sigma(k) is an integer.|
 |168130|Numbers Sum_(j=1..k) sigma(j) when Sum_(j=1..k) sigma(j) / sigma(k) is an integer.|
 |168368|Number of stable connected piles of n bricks.|
 |168382|Least number k having n distinct representations as the sum of a nonzero Fibonacci number and a prime.|
-|168502|For each permutation of {1,2,...,n} one or more integers might not be part of any longest increasing subsequence (LIS) of that permutation. The sequence lists the number of permutations for which ceiling(n/2) is not part of any LIS. For example, if n=4, 2 is not in any LIS of the two permutations (1342) and (3421).|
+|168502|For each permutation of  1,2,...,n  one or more integers might not be part of any longest increasing subsequence (LIS) of that permutation. The sequence lists the number of permutations for which ceiling(n/2) is not part of any LIS. For example, if n=4, 2 is not in any LIS of the two permutations (1342) and (3421).|
 |168548|Least number k requiring n iterations to reach 14 using map n -> sum of largest digit of all divisors of n (A168239).|
 |168553|a(n) = 1 if it is possible to place n sets of n queens on an n X n chessboard with no two queens of the same set attacking each other.|
 |168654|The sum of the proper divisors of n, weighted by divisor multiplicity, equals n.|
@@ -8406,7 +8406,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |169781|a(n) = A169780(2^n).|
 |169790|Least number k having n unordered partitions into a nonzero Fibonacci number and a prime.|
 |169791|Least number k having n distinct representations as the sum of a nonzero Fibonacci number and a prime.|
-|169816|Triangle read by rows: T(n,k) is the number of down-up permutations of {1,2,...,n} having genus k.|
+|169816|Triangle read by rows: T(n,k) is the number of down-up permutations of  1,2,...,n  having genus k.|
 |169864|The sequence S of a pair S, T generalizing Golomb's sequence A001462 and the pair A093848, A169863. See Comments for definition.|
 |169865|The sequence T of a pair S, T generalizing Golomb's sequence A001462 and the pair A093848, A169863. See Comments for definition.|
 |169866|The sequence S of a pair of complementary sequences (S, T) which are similar to the pairs (A093848, A169863), (A169864, A169865), except that here the lengths of the equal-parity runs of one sequence are given by the other.|
@@ -8429,7 +8429,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |169944|Maximal entry in row n of triangle in A169940.|
 |169949|Maximal entry in row n of triangle in A169945.|
 |169954|Maximal entry in row n of triangle in A169950.|
-|169970|Size of the largest set of transversals of the n X n matrix M defined by M_{ij} = i+j, where all transversals in the set must use the same set of symbols.|
+|169970|Size of the largest set of transversals of the n X n matrix M defined by M_ ij  = i+j, where all transversals in the set must use the same set of symbols.|
 |169978|The individual digits in A104056.|
 |169982|Maximal number of lunar divisors of any 9-ish number with n digits.|
 |169983|Number of lunar divisors of the number 999...9 (with n 9's).|
@@ -8452,10 +8452,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |171227|Numbers n such that 9+10^n+9*100^n is prime.|
 |171249|Numbers n such that 10^n*(2+3*10^n)+3 is prime.|
 |171269|Intersection of A171267 and A171268.|
-|171336|Number of 0..30 integer arrays v[1..n] of length n with all autocorrelation values sum(i){v[i]*v[i-k]} distinct for k in 0..n-1.|
+|171336|Number of 0..30 integer arrays v[1..n] of length n with all autocorrelation values sum(i) v[i]*v[i-k]  distinct for k in 0..n-1.|
 |171376|Numbers n such that 1 + 3*10^n + 100^n is prime.|
 |171398|`X(n,k)' triangle read by rows. X(n,k) is the number of k-subsets of Z_n up to (u,z)-equivalence.|
-|171399|Prime(k), where k is such that (Sum_{i=1..k} prime(i)) / k is an integer.|
+|171399|Prime(k), where k is such that (Sum_ i=1..k  prime(i)) / k is an integer.|
 |171402|Smallest number m such that exactly n editing steps (insert or substitute) are necessary to transform the binary representation of m into the least prime not less than m.|
 |171411|Numbers n such that 1+5*10^n+100^n is prime.|
 |171459|Numbers n such that 1+6*10^n+100^n is prime.|
@@ -8513,7 +8513,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |172514|First prime not the middle of a prime two digits longer in base n.|
 |172974|Degrees of completeness of Łukasiewicz logics.|
 |172993|Maximal number of 4-tree rows in n-tree orchard problem in which the coordinates of trees may be complex numbers.|
-|172994|a(n), starting at n=4, is the smallest positive integral x with an n-th prime in {x^2k+x^k-1} occurring for k < A096594(n).|
+|172994|a(n), starting at n=4, is the smallest positive integral x with an n-th prime in  x^2k+x^k-1  occurring for k < A096594(n).|
 |172995|Numbers k such that (3^k + 7)/2 is prime.|
 |173053|Numbers n such that 2^(2*n)+2*n+1 is a prime.|
 |173061|Arises in classification of base sequences.|
@@ -8641,12 +8641,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |175033|Numbers n such that (ceiling(sqrt(n*n/2)))^2 - n*n/2 = 17/2.|
 |175039|Minimum number of integer-sided squares needed to tile an n-row staircase (a figure with n unit squares in the n-th row, and the leftmost squares of each row vertically aligned).|
 |175041|Length of longest A181391-suffix other than 11...1 with entries (0 <= a(n) <= d).|
-|175079|The smallest natural numbers m with first occurrence 0, 1, 2, 3, ... for number of steps of iterations of {r mod (max prime p < r)} needed to reach 1 or 2 starting at r = m.|
+|175079|The smallest natural numbers m with first occurrence 0, 1, 2, 3, ... for number of steps of iterations of  r mod (max prime p < r)  needed to reach 1 or 2 starting at r = m.|
 |175094|a(1) = 1, a(2) = 3, for n >= 3, a(n) = smallest prime > a(n-1) such that a(n) mod a(n-1) = a(n-2).|
 |175100|Length of longest A181391-suffix other than 11...1 with entries (1 <= a(n) <= d).|
 |175125|a(n) is the number of numbers m such that the number of iterations of r -> r - (largest divisor d < r) needed to reach 1 starting at r = m is equal to n.|
 |175133|Sum of first n consecutive primes gives a triangular number.|
-|175134|Define a(n) as the number of ways to achieve n from the following procedure. Let R={r(k)} and S={s(k)} each be some permutation of (1,2,3,...,j) for some nonnegative integer j (with R and S being empty sets if j=0). Define (b(0),b(1),...,b(j)) as follows. b(0)=1. b(m) = b(m-1)*r(m) + s(m), for 1<= m <= j. Does b(j) = n? If so, add 1 to the count. Calculate the b(j)'s by taking j over all nonnegative integers, and taking R and S over all permutations for a given j. The total count equals a(n).|
+|175134|Define a(n) as the number of ways to achieve n from the following procedure. Let R= r(k)  and S= s(k)  each be some permutation of (1,2,3,...,j) for some nonnegative integer j (with R and S being empty sets if j=0). Define (b(0),b(1),...,b(j)) as follows. b(0)=1. b(m) = b(m-1)*r(m) + s(m), for 1<= m <= j. Does b(j) = n? If so, add 1 to the count. Calculate the b(j)'s by taking j over all nonnegative integers, and taking R and S over all permutations for a given j. The total count equals a(n).|
 |175135|Positive integers equal to some b(j) by the procedure defined at A175134. (A175134(a(n)) is >= 1.)|
 |175147|a(n) = number of primes p, p <= 2^n, where 2^n + p is prime.|
 |175148|a(n) = number of primes p, p <= 2^n, where 2^n + p is composite.|
@@ -8661,7 +8661,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |175303|a(n) = number of finite sequences using numbers drawn from (1,2,3,...,n), using each number at most once, where each number in a finite sequence is not coprime to the previous number, and each finite sequence must continued if possible. (See example.)|
 |175309|a(n) = the smallest prime prime(k) such that prime(k+j) - prime(k+j-1) = prime(n+k+1-j) - prime(n+k-j) for all j with 1 <= j <= n.|
 |175340|Numbers that can be written as a product of k consecutive composite numbers and also of k+1 consecutive composite numbers, for some k>1, with no factor used twice.|
-|175403|a(n) is the smallest number m requiring n iterations {((((D_1^D_2)^D_3)^D_4)^...)^D_k to reach a one-digit number starting at r = n, where D_k is the k-th digit D of the number r and k is the digit number of the number r in the decimal expansion of r (A055642)}.|
+|175403|a(n) is the smallest number m requiring n iterations  ((((D_1^D_2)^D_3)^D_4)^...)^D_k to reach a one-digit number starting at r = n, where D_k is the k-th digit D of the number r and k is the digit number of the number r in the decimal expansion of r (A055642) .|
 |175404|Numbers n with property that n + Fibonacci(n) is prime.|
 |175426|Starting values for which iteration of the map x->A175420(x) never reaches a single-digit value.|
 |175427|Starting values which reach a single-digit number after a finite number of iterations of the map x->A175429(x).|
@@ -8696,7 +8696,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |176090|Numbers n such that 2(10^n-1)/3 * 10^ceiling(log_10(n+1)) + n is prime.|
 |176091|Numbers n such that (10^n-1) * 10^ceiling(log_10(n+1)) + n is prime.|
 |176117|Primes p such that T(p) is prime in Juricevic conjecture on classification of Lehmer triples.|
-|176127|The number of permutations of {1,2,...,n,1,2,...,n} with the property that there are k numbers between the two k's in the set for k=1,...,n.|
+|176127|The number of permutations of  1,2,...,n,1,2,...,n  with the property that there are k numbers between the two k's in the set for k=1,...,n.|
 |176245|Primes of the form A174881(k)+1.|
 |176296|Irregular triangle read by rows: eigenvalues of Laplacian of parity's landscape graph.|
 |176336|Total number of configurations that appear in the cycles, in the glass worms (or vers de verres) game with n glasses.|
@@ -8712,7 +8712,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |176694|Hilbert series related to measurement of quantum entanglement - see Hero and Willenbring for precise definition|
 |176786|Last nonzero digit of A000043(n)!.|
 |176874|Minimal nonnegative integer that cannot be represented as the sum of an m-gonal and a k-gonal number for any k,m less than n.|
-|176914|List of pairs of primes p_i < p_j such that p_i*p_j = p_i + p_{i+1} + p_{i+2} + ... + p_j.|
+|176914|List of pairs of primes p_i < p_j such that p_i*p_j = p_i + p_ i+1  + p_ i+2  + ... + p_j.|
 |176933|Primes of the form 3^n + 100^n.|
 |176941|Primes of the form 31^n + 10^n.|
 |177005|Numbers k such that k^k = k (mod prime(k)).|
@@ -8758,7 +8758,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |177914|Numbers k such that k^3 divides 14^(k^2) - 1.|
 |177918|Numbers k such that k^3 divides 18^(k^2) - 1.|
 |177920|Numbers k such that k^3 divides 20^(k^2) - 1.|
-|177921|Number of oval-partitions of the regular 2n-gon {2n}.|
+|177921|Number of oval-partitions of the regular 2n-gon  2n .|
 |177952|a(n) = number of n-digit squares in base 10 such that there is at least one permutation that is also a square in base 10. Initial zeros are not allowed for any square.|
 |178035|a(n) is the number of the two-sided n-step prudent walks ending on the top side of their box, avoiding both patterns Left^k and Down^k for k>=3.|
 |178036|Number of two-sided n-step prudent walks ending on the northeast corner of their box, avoiding more than two consecutive west steps and more than two consecutive south steps.|
@@ -8869,8 +8869,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |180041|Number of Goldbach partitions of (2n)^n.|
 |180043|The number of isomorphism classes of Szasz (uniquely non-associative) groupoids of order n.|
 |180058|Smallest number occurring in exactly n rows of Pascal's triangle.|
-|180070|Number of permutations of {1..n} with the sum of squared adjacent differences <= n*(n+1)/2.|
-|180071|Number of permutations of {1..n} with the sum of squared adjacent differences < n*(n+1)/2.|
+|180070|Number of permutations of  1..n  with the sum of squared adjacent differences <= n*(n+1)/2.|
+|180071|Number of permutations of  1..n  with the sum of squared adjacent differences < n*(n+1)/2.|
 |180083|Smallest n such that digit sum of n > previous term.|
 |180093|Arises in calculating the maximum gap in (inverse) cyclotomic polynomials.|
 |180126|For numbers x >= a(n), PrimePi(n,x) > PrimePi(n-1,x), where PrimePi(n,x) is the number of n-almost prime numbers <= x.|
@@ -8889,7 +8889,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |180431|Numbers n such that 4*17^n+1 is prime.|
 |180437|a(n) counts the distinct cubical (on alphabet of 3 symbols) billiard words with length n, acting as prefix to just k = 1 such word of length n+1 (that is, not "special").|
 |180438|a(n) counts the distinct cubical (on alphabet of 3 symbols) billiard words with length n, acting as prefix to just k = 2 such words of length n+1 (that is, a subset of "special").|
-|180487|a(n) is the number of non-isomorphic geometric realizations (rectilinear drawings) of K_{2,n}.|
+|180487|a(n) is the number of non-isomorphic geometric realizations (rectilinear drawings) of K_ 2,n .|
 |180493|Numbers n such that prime(n)! is divisible by A180491(prime(n))|
 |180500|Triangle read by row. T(n,m) gives the number of isomorphism classes of simple arrangements of n pseudolines and m double pseudolines in the projective plane.|
 |180501|Triangle read by row. T(n,m) gives the number of isomorphism classes of arrangements of n pseudolines and m double pseudolines in the projective plane.|
@@ -8907,7 +8907,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |180629|Numbers k such that 8*k! - 1 is prime.|
 |180630|Numbers k such that 9*k! - 1 is prime.|
 |180631|Numbers k such that 10*k! - 1 is prime.|
-|180632|Minimum length of a string over the alphabet A = {1,2,...,n} that contains every permutation of A as a substring exactly once, also known as length of the minimal super-permutation.|
+|180632|Minimum length of a string over the alphabet A =  1,2,...,n  that contains every permutation of A as a substring exactly once, also known as length of the minimal super-permutation.|
 |180635|The number of smooth Schubert varieties in the affine analog of the flag manifold of type A.|
 |180722|The number of walks (sequences starting with 0 and changing by plus or minus 1 at each step) of length 4n such that every window therein of width 2n has its left half summing to strictly less than its right half.|
 |180739|Diagonal of array arising in computing the number of numerical semigroups using generating functions.|
@@ -8924,7 +8924,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |181026|Maximum number of 1s in an nX(n+2) binary matrix with no four 1s adjacent in a line along a row, column or diagonally.|
 |181027|Maximum number of 1s in an nX(n+3) binary matrix with no four 1s adjacent in a line along a row, column or diagonally.|
 |181139|Numbers n such that R(n)^3 + R(n)^2 + 1 is prime, where R(n)=(10^n-1)/9.|
-|181148|Number of distinct oval-partitions of the regular 2n-gon {2n}.|
+|181148|Number of distinct oval-partitions of the regular 2n-gon  2n .|
 |181153|Number of connected 7-regular simple graphs on 2n vertices with girth at least 4.|
 |181154|Number of connected 8-regular simple graphs on n vertices with girth at least 4.|
 |181158|Where records occur in A181157.|
@@ -8934,7 +8934,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |181189|Maximal number of elements needed to identify an abelian group of order n by testing the order of random elements.|
 |181190|Maximal length of chain-addition sequence mod 10 with window of size n.|
 |181340|Number of compound perfect squared squares of order n up to symmetries of the square and its squared subrectangles.|
-|181344|Number of n X n matrices over {0,1} with rows and columns summing to 3, rows and columns sorted (>=) by value.|
+|181344|Number of n X n matrices over  0,1  with rows and columns summing to 3, rows and columns sorted (>=) by value.|
 |181356|Smallest k such that 2^(2^n) - k is a safe prime.|
 |181373|Least m>0 such that prime(n) divides S(m)=A007908(m)=123...m and all numbers obtained by cyclic permutations of its digits; 0 if no such m exists.|
 |181375|Total number of positive integers below 10^n requiring 2 positive cubes in their representation as sum of cubes.|
@@ -8947,7 +8947,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |181400|Total number of positive integers below 10^n requiring 6 positive cubes in their representation as sum of cubes.|
 |181401|Total number of n-digit numbers requiring 6 positive cubes in their representation as sum of cubes.|
 |181403|Total number of n-digit numbers requiring 7 positive cubes in their representation as sum of cubes.|
-|181406|Symbolic sequence at the accumulation point of the 3*2^{k} supercycles of unimodal maps.|
+|181406|Symbolic sequence at the accumulation point of the 3*2^ k  supercycles of unimodal maps.|
 |181437|Size of the longest increasing sequence of primes starting with 2, 3 and with second-order differences bounded by n.|
 |181471|a(n) = number of numbers of the form k^2-1 having n-th prime as largest prime divisor.|
 |181485|Indices of records in A171919 = number of solutions to n=x*y*z, x+y=z+1.|
@@ -8962,7 +8962,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |181528|Number of connected graphs with n edges embeddable into square lattice.|
 |181566|Expected number of elements needed to identify an abelian group of order n by testing the order of random elements.|
 |181593|Number of isomorphism classes of self-orthogonal Latin squares of order n.|
-|181597|(N\{4})-perfect numbers, i.e., numbers m for which sigma(m)-4 = 2m, if 4|m, otherwise sigma(m) = 2m.|
+|181597|(N\ 4 )-perfect numbers, i.e., numbers m for which sigma(m)-4 = 2m, if 4|m, otherwise sigma(m) = 2m.|
 |181628|Numbers k such that (2^k + 3^k)/13 is prime.|
 |181637|Numbers n such that lambda(n) = reversal(n).|
 |181671|Number of Ramanujan primes less than 10^n.|
@@ -9002,7 +9002,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |182408|Number of ways to place k non-attacking knights on an n x n toroidal chessboard, summed over all k >= 0.|
 |182468|Numbers k such that the equation x^2 - k*y^4 = 1 has a solution for which |y| > 2.|
 |182517|Chromatic invariant of the square grid graph G_(n,n).|
-|182523|Rademacher's sequence C_{011}(N) times (2n)!, where C_{011}(N) is the coefficient of 1/(q-1) in the partial fraction decomposition of 1/((1-q)(1-q^2)...(1-q^N)).|
+|182523|Rademacher's sequence C_ 011 (N) times (2n)!, where C_ 011 (N) is the coefficient of 1/(q-1) in the partial fraction decomposition of 1/((1-q)(1-q^2)...(1-q^N)).|
 |182531|Extremal graph numbers for a triangle with an edge off it.|
 |182544|Triangle read by rows: row n (n>=1) enumerates marked mesh patterns of type R_n^(1,0,2,0).|
 |182563|Number of ways to place n non-attacking semi-knights on an n x n chessboard|
@@ -9020,7 +9020,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |182741|A shell model of partitions as a binary code.|
 |182743|Table of the partitions that do not contain 1 as a part for odd integers.|
 |182744|Second column of the table A182742.|
-|182756|Numbers k > 1 such that are sequences B_k of type: {b(1) = 1, b(2) = k, for n >= 3; b(n) = the smallest number h > b(n-1) such that [[b(n-2) + b(n-1)] * [b(n-2) + h] * [b(n-1) + h]] / [b(n-2) * b(n-1) * h] is integer}.|
+|182756|Numbers k > 1 such that are sequences B_k of type:  b(1) = 1, b(2) = k, for n >= 3; b(n) = the smallest number h > b(n-1) such that [[b(n-2) + b(n-1)] * [b(n-2) + h] * [b(n-1) + h]] / [b(n-2) * b(n-1) * h] is integer .|
 |182781|Number of n-digit terms in A048398.|
 |182809|Cyclops-Fibonacci numbers.|
 |182811|Cyclops-Lucas numbers.|
@@ -9094,7 +9094,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |185073|Numbers n such that (34^n - 1)/33 is prime.|
 |185078|Numbers k for which A064380(k) = k/2.|
 |185084|Number of Fermat pseudoprimes to base 3 less than 2^n.|
-|185090|Triangle read by rows: T(n,k) (n >= 2, 2 <= k <= n) = number of edge-disjoint spanners of delay 2 for complete bipartite graph K_{n,k}.|
+|185090|Triangle read by rows: T(n,k) (n >= 2, 2 <= k <= n) = number of edge-disjoint spanners of delay 2 for complete bipartite graph K_ n,k .|
 |185121|Smallest prime factor of 10^(2^n) + 1.|
 |185133|Number of not necessarily connected 3-regular simple graphs on 2n vertices with girth exactly 3.|
 |185134|Number of, not necessarily connected, 3-regular simple graphs on 2n vertices with girth exactly 4.|
@@ -9158,7 +9158,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |185441|Records in A185439; record gaps between consecutive emirps.|
 |185584|Positive numbers equal to the sum of the squares of their first k divisors for some k.|
 |185635|Fixed points of A075075.|
-|185645|Number of permutations q_1,...,q_n of the first n primes p_1,...,p_n with q_1 = p_1 = 2 and q_n = p_n, and with |q_1-q_2|, |q_2-q_3|, ..., |q_{n-1}-q_n|, and |q_n-q_1| (if n>2) pairwise distinct.|
+|185645|Number of permutations q_1,...,q_n of the first n primes p_1,...,p_n with q_1 = p_1 = 2 and q_n = p_n, and with |q_1-q_2|, |q_2-q_3|, ..., |q_ n-1 -q_n|, and |q_n-q_1| (if n>2) pairwise distinct.|
 |185656|Final prime in first term of A019518 that is divisible by 7^n.|
 |185659|Final prime of first member of A019518 that is divisible by 11^n.|
 |185662|Final prime of first member of A019518 that is divisible by 13^n.|
@@ -9181,7 +9181,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |185984|1/128 the number of (n+2) X (n+2) binary arrays with each 3 X 3 subblock trace equal to some horizontal or vertical neighbor 3 X 3 subblock trace.|
 |186069|a(n) is the smallest prefix such that the numbers with k digits "3" appended are primes for k = 1..n.|
 |186070|a(n) is the smallest prefix such that the numbers with k digits "9" appended are primes for k = 1, 2, ..., n.|
-|186081|Number of binary relations R on {1,2,...,n} such that the transitive closure of R is the trivial relation.|
+|186081|Number of binary relations R on  1,2,...,n  such that the transitive closure of R is the trivial relation.|
 |186103|n such that n | sigma(n-1)+sigma(n+1).|
 |186106|Numbers k such that 3*6^k - 1 is prime.|
 |186143|a(n) is the smallest suffix such that the numbers with k digits "3" prepended are primes for k = 1, 2, ..., n.|
@@ -9192,7 +9192,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |186441|Number of n-vertex knight's tours on the 8x8 chessboard summed over all choices for the starting position.|
 |186443|Records in A087029.|
 |186449|Numbers k such that k! + 2^k - 1 is prime.|
-|186452|Numbers n such that (sum_{i=1..n} d(i)^2) / n  is an integer, where d(i) is the number of divisors of i.|
+|186452|Numbers n such that (sum_ i=1..n  d(i)^2) / n  is an integer, where d(i) is the number of divisors of i.|
 |186508|Number of lunar divisors (A087029) of the decimal numbers 1, 10, 11, 100, 101, 110, 111, 1000, ... .|
 |186521|Numbers n>0 such that (7*10^(n+2)+666)*10^n+7 is prime.|
 |186538|Numbers n>0 such that 666*10^n+7 is prime.|
@@ -9256,8 +9256,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |187218|a(n) is the coefficient of the 4th term in the n-th Bruinier-Ono "partition polynomial" H_n(x), if such coefficient is an integer, otherwise a(n)=0.|
 |187236|Number of simple imperfect graphs on n vertices.|
 |187237|Number of simple connected imperfect graphs on n vertices.|
-|187494|Number of 7-element nondividing subsets of {1, 2, ..., n}.|
-|187550|Number of 8-element nondividing subsets of {1, 2, ..., n}.|
+|187494|Number of 7-element nondividing subsets of  1, 2, ..., n .|
+|187550|Number of 8-element nondividing subsets of  1, 2, ..., n .|
 |187567|Number of Steiner Systems S(2,4,n).|
 |187585|Number of Steiner Systems S(2,4,n) with nontrivial automorphism group.|
 |187679|"Connect the dots": Minimal number of circular arcs needed to connect all points of an n X n grid of points.|
@@ -9286,14 +9286,14 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |188591|Records of A188550.|
 |188592|Places of records of A188550.|
 |188715|Minimal largest k in set of n fractions of the form (k-1)/k all of whose ratios (smaller fraction / larger fraction) are also of that form.|
-|188775|Numbers k such that Sum_{j=1..k} j^j == -1 (mod k).|
-|188776|Numbers n such that Sum_{k=1..n} k^k == 1 (mod n).|
-|188895|Number of n X n (real) {-1,1}-matrices having determinant A003433(n).|
+|188775|Numbers k such that Sum_ j=1..k  j^j == -1 (mod k).|
+|188776|Numbers n such that Sum_ k=1..n  k^k == 1 (mod n).|
+|188895|Number of n X n (real)  -1,1 -matrices having determinant A003433(n).|
 |188936|Numbers k such that (2^k + 3)^2 - 8 is prime.|
 |188937|Let G be the class group of the imaginary quadratic field Q(sqrt(-A188661(n))); the 2-Sylow subgroup of G is cyclic of order 2^a(n).|
 |189043|For all permutations of [1..n]: number of distinct values taken by sum(k=1..n, k^2 * pi(k) ).|
-|189048|Numerators of expansion of Sum_{k=1..n} 1/k - log(n(1+1/(2n)) - gamma.|
-|189049|Denominators of expansion of Sum_{k=1..n} 1/k - log(n(1+1/(2n)) - gamma.|
+|189048|Numerators of expansion of Sum_ k=1..n  1/k - log(n(1+1/(2n)) - gamma.|
+|189049|Denominators of expansion of Sum_ k=1..n  1/k - log(n(1+1/(2n)) - gamma.|
 |189077|Number of compositions of n that avoid the pattern 13-2.|
 |189121|The constant for the smallest n X n associative magic square which consists of Smith numbers.|
 |189243|Number of ways to dissect a nonsquare rectangle into n rectangles with equal area.|
@@ -9319,16 +9319,16 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |189893|Recurrence sequence derived from the digits of the square root of 5 after its decimal point.|
 |189978|Number of isosceles triangles, distinct up to congruence, on an n X n grid (or geoboard).|
 |189979|Number of right triangles, distinct up to congruence, on an n X n grid (or geoboard).|
-|190124|Decimal expansion of Ramanujan prime constant: Sum_{n>=1} (1/R_n)^2, where R_n is the n-th Ramanujan prime, A104272(n).|
-|190141|The number of conjugacy classes of the symmetric group S_{0..n-1}, containing at least one complete bijection.|
-|190146|Decimal expansion of Sum_{k>=2} (1/Sum_{j=2..k} j'), where n' is the arithmetic derivative of n.|
+|190124|Decimal expansion of Ramanujan prime constant: Sum_ n>=1  (1/R_n)^2, where R_n is the n-th Ramanujan prime, A104272(n).|
+|190141|The number of conjugacy classes of the symmetric group S_ 0..n-1 , containing at least one complete bijection.|
+|190146|Decimal expansion of Sum_ k>=2  (1/Sum_ j=2..k  j'), where n' is the arithmetic derivative of n.|
 |190291|Number of intervals in the weak (Bruhat) order of the symmetric group S_n that are distributive lattices.|
-|190303|Decimal expansion of sum of alternating series of reciprocals of Ramanujan primes, Sum_{n>=1} (1/R_n)(-1)^(n-1), where R_n is the n-th Ramanujan prime, A104272(n).|
+|190303|Decimal expansion of sum of alternating series of reciprocals of Ramanujan primes, Sum_ n>=1  (1/R_n)(-1)^(n-1), where R_n is the n-th Ramanujan prime, A104272(n).|
 |190376|a(n) = sum (in ordinary arithmetic) of A067399(k), for k from 2^n to 2^(n+1)-1.|
 |190393|Number of ways to place n nonattacking nightriders on an n X n toroidal board.|
 |190394|Maximum number of nonattacking nightriders on an n X n board.|
 |190478|a(n) is the smallest prime prime(k) > a(n-1) such that the n numbers 2*prime(j)+3, j=k to k+n-1, are all prime.|
-|190573|Decimal expansion of Integral_{x = 0 to oo} Product_{m=1..oo} cos(x/m) dx.|
+|190573|Decimal expansion of Integral_ x = 0 to oo  Product_ m=1..oo  cos(x/m) dx.|
 |190616|Number of normal bases in GF(2^n) that are Gaussian normal bases.|
 |190637|Primes p == 3 mod 4 whose index as prime divides their index as a Gaussian prime (in the first quadrant, as defined in A103431, for example).|
 |190643|Decimal expansion of zeta'(0,1), where zeta(s,1) is a multivariate zeta function.|
@@ -9401,7 +9401,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |192079|a(n) = A192078(n)/2.|
 |192097|Number of tatami tilings of an n X n square region with n monomers and floor(n * (n - 1) / 4) horizontal dimers.|
 |192101|Least number requiring n terms to express it as a sum of signed terms of the form 2^k-1.|
-|192128|Number of set partitions of {1, ..., n} that avoid 7-nestings|
+|192128|Number of set partitions of  1, ..., n  that avoid 7-nestings|
 |192212|Number of zero trace primitive elements in Galois field GF(3^n)|
 |192213|Number of zero trace primitive elements in Galois field GF(5^n).|
 |192214|Number of zero trace primitive elements in Galois field GF(7^n)|
@@ -9437,8 +9437,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |193109|Least k such that 2^x + k produces primes for x=1..n and composite for x=n+1.|
 |193125|Number of molecular topological index-nonunique connected simple graphs on n nodes.|
 |193217|Number of non-Wiener index-unique simple connected graphs on n nodes.|
-|193284|Number of allowed patterns of length n of the map f(x) = 4x(1-x) on the unit interval. A permutation pi is an allowed pattern if there exists x in [0,1] such that the values x,f(x),f(f(x)),...,f^{n-1}(x) are different and in the same relative order as pi_1,pi_2,...,pi_n.|
-|193285|Number of forbidden patterns of length n of the map f(x) = 4x(1-x) on the unit interval. A permutation pi is a forbidden pattern if there is no x in [0,1] such that the values x,f(x),f(f(x)),...,f^{n-1}(x) are in the same relative order as pi_1,pi_2,...,pi_n.|
+|193284|Number of allowed patterns of length n of the map f(x) = 4x(1-x) on the unit interval. A permutation pi is an allowed pattern if there exists x in [0,1] such that the values x,f(x),f(f(x)),...,f^ n-1 (x) are different and in the same relative order as pi_1,pi_2,...,pi_n.|
+|193285|Number of forbidden patterns of length n of the map f(x) = 4x(1-x) on the unit interval. A permutation pi is a forbidden pattern if there is no x in [0,1] such that the values x,f(x),f(f(x)),...,f^ n-1 (x) are in the same relative order as pi_1,pi_2,...,pi_n.|
 |193316|Number of basic forbidden patterns of length n of the map f(x)=4x(1-x) on the unit interval.|
 |193346|Number of (directed) Hamiltonian paths on the n X n X n grid graph.|
 |193352|Total counts of distinct (directed) Hamiltonian paths for all simple graphs of order n.|
@@ -9474,7 +9474,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |194277|Known number of distinct polygonal shapes with n sides in the infinite D-toothpick structure of A194270.|
 |194278|Total number of polygons after n-th stage in the D-toothpick structure of A194270.|
 |194283|Numbers n such that at stage n of A194270 appears for first time a new distinct polygonal shape in the structure.|
-|194374|Numbers m such that Sum_{k=1..m} (<1/2 + k*r> - <k*r>) = 0, where r=sqrt(5) and < > denotes fractional part.|
+|194374|Numbers m such that Sum_ k=1..m  (<1/2 + k*r> - <k*r>) = 0, where r=sqrt(5) and < > denotes fractional part.|
 |194432|D-toothpick sequence starting with a cross formed by 4 toothpicks.|
 |194433|Number of toothpicks and D-toothpicks added at n-th stage to the structure of A194432.|
 |194439|Number of regions in the set of partitions of n that contain only one part.|
@@ -9514,8 +9514,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |195667|Length of the longest Sokoban game with n spaces.|
 |195668|Length of longest Sokoban game with n spaces and 1 bag.|
 |195669|Length of longest Sokoban game with n spaces and 1 bag on a hexagonal board.|
-|195683|The generalized Conway-Guy sequence w^{4}.|
-|195684|The generalized Conway-Guy sequence w^{-6}.|
+|195683|The generalized Conway-Guy sequence w^ 4 .|
+|195684|The generalized Conway-Guy sequence w^ -6 .|
 |195738|Triangle read by rows: DR(n,d) is the number of properly d-dimensional polyominoes with n cells, modulo translations and rotations (n >= 1, 0 <= d <= n-1).|
 |195739|Triangle read by rows: DX(n,d) = number of properly d-dimensional polyominoes with n cells, modulo translations (n>=1, 0 <= d <= n-1).|
 |195762|Right-hand diagonal of A195739.|
@@ -9530,17 +9530,17 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |196094|a(0) = 1; a(n) = A001212(n) + 1 for n > 0.|
 |196111|Number of isomorphism classes of simple quandles of order n.|
 |196190|Odd numbers n such that A196189(n) is odd.|
-|196232|Number of different ways to select 5 disjoint subsets from {1..n} with equal element sum.|
-|196233|Number of different ways to select 6 disjoint subsets from {1..n} with equal element sum.|
-|196234|Number of different ways to select 7 disjoint subsets from {1..n} with equal element sum.|
-|196235|Number of different ways to select 8 disjoint subsets from {1..n} with equal element sum.|
-|196236|Number of different ways to select 9 disjoint subsets from {1..n} with equal element sum.|
-|196237|Number of different ways to select 10 disjoint subsets from {1..n} with equal element sum.|
+|196232|Number of different ways to select 5 disjoint subsets from  1..n  with equal element sum.|
+|196233|Number of different ways to select 6 disjoint subsets from  1..n  with equal element sum.|
+|196234|Number of different ways to select 7 disjoint subsets from  1..n  with equal element sum.|
+|196235|Number of different ways to select 8 disjoint subsets from  1..n  with equal element sum.|
+|196236|Number of different ways to select 9 disjoint subsets from  1..n  with equal element sum.|
+|196237|Number of different ways to select 10 disjoint subsets from  1..n  with equal element sum.|
 |196244|Number of distinct values taken by r^r^...^r where r=1/2 (with n r's and parentheses inserted in all possible ways).|
 |196496|Palindromic centered 37-gonal numbers.|
 |196509|Largest palindrome formed by using n single-digit numbers and the operators +, -, * and / where concatenation is not allowed.|
 |196511|Primes q for which there are primes b < c < p such that b^p == c^p == 1 (mod q^2).|
-|196534|Number of different ways to select disjoint nonempty subsets from {1..n} with equal element sum.|
+|196534|Number of different ways to select disjoint nonempty subsets from  1..n  with equal element sum.|
 |196568|Binomial coefficients of the form C(n, 3) that are nontrivial products of binomial coefficients of the form C(n, 3).|
 |196571|Length of longest possible 120-degree snake that fits in a circle of diameter n.|
 |196579|Length of longest possible 90-degree snake inside a circle of diameter n.|
@@ -9550,7 +9550,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |196591|Length of the longest possible 45-degree snake inside a circle of diameter n.|
 |196592|Maximum number of floors with n elevators and 3 stops.|
 |196594|Maximum number of floors with 4 elevators and s stops.|
-|196627|Primes p such that the system of congruences { 2^x == 3 (mod p), 3^x == 2 (mod p) } has a solution.|
+|196627|Primes p such that the system of congruences   2^x == 3 (mod p), 3^x == 2 (mod p)   has a solution.|
 |196628|Smallest positive m such that gcd(2^m-3,3^m-2) has a prime divisor A196627(n).|
 |196749|Numbers n such that 3, 5 and 7 do not divide swing(n) = A056040(n).|
 |197187|The Riemann primes of the psi type and index 3.|
@@ -9561,7 +9561,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |197460|Number of one-sided poly-[3.6.3.6]-tiles (holes allowed) with n cells (division into rhombi is significant).|
 |197461|Number of fixed poly-[3.6.3.6]-tiles (holes allowed) with n cells (division into rhombi is significant).|
 |197465|Number of free tetrakis polyaboloes (poly-[4.8^2]-tiles) with n cells, allowing holes, where division into tetrakis cells (triangular quarters of square grid cells) is significant.|
-|197487|Number of nonsingular n X n matrices with elements from {0,1,2}.|
+|197487|Number of nonsingular n X n matrices with elements from  0,1,2 .|
 |197632|Lerch primes: odd primes that divide their Lerch quotients A197630.|
 |197635|Wieferich-non-Wilson primes: non-Wilson primes that divide their Fermat-Wilson quotient A197633.|
 |197937|Number of n X n X n 0..6 triangular arrays with each element x equal to the number its neighbors equal to 4,4,2,0,2,0,2 for x=0,1,2,3,4,5,6.|
@@ -9595,7 +9595,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |198898|Rank of elliptic curve y^2 = x^3 - A179386(n).|
 |199005|Number of inequivalent cocyclic Hadamard matrices of order 4n.|
 |199007|Related to number of cocyclic Hadamard matrices of order 4n.|
-|199008|Number of cocyclic matrices D_{2n+2} of order 2n+2 with maximal determinant.|
+|199008|Number of cocyclic matrices D_ 2n+2  of order 2n+2 with maximal determinant.|
 |199135|Number of realizable assembly words with n rigid vertices.|
 |199136|Number of irreducible assembly words with n rigid vertices.|
 |199138|Number of prime assembly words with n rigid vertices.|
@@ -9614,7 +9614,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |200045|Number T(n,m) of ways of 4-coloring an n X m grid so that there is no rectangle with all 4 corners the same color.|
 |200403|Number of permutations avoiding the pattern 124-3.|
 |200405|Number of permutations avoiding the pattern 214-3.|
-|200720|Number of distinct normal magic stars of type {n/2}.|
+|200720|Number of distinct normal magic stars of type  n/2 .|
 |200729|Smallest nontrivial positive power x such that the number of even powers (i.e., even base) not exceeding x exceeds by n the number of odd powers not exceeding x.|
 |200758|Superimperfect numbers.|
 |200918|Successive prime factors of (3^1006003 - 3)/1006003^2.|
@@ -9632,7 +9632,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |201162|Irregular triangle read by rows: number of rank 2 Catalan paths of length n and area k.|
 |201168|The number of permutations avoiding the "boxed" pattern 123.|
 |201221|The smallest number of previous terms of sequence A008829 which are required to sum to A008829(n).|
-|201250|Integers k such that Sum_{i=1..k-1} (-1)^(i+1)*primepi((k-i+1)^2) = Sum_{i=1..k-1} (-1)^(i+1)*primepi((k-i)^2).|
+|201250|Integers k such that Sum_ i=1..k-1  (-1)^(i+1)*primepi((k-i+1)^2) = Sum_ i=1..k-1  (-1)^(i+1)*primepi((k-i)^2).|
 |201278|a(n) specifies the quadratic extension sqrt(a(n)) for A201047(n).|
 |201356|Numbers k such that (2^k + k + 1)*2^k + 1 is prime.|
 |201357|Numbers k such that (2^k + k + 1)*2^k - 1 is prime.|
@@ -9704,7 +9704,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |202954|Number of partitions of [1,...,3n] into triples satisfying x+y=4z.|
 |203023|Integers n dividing A000041(n)+1.|
 |203109|Number of n X n X n 0..6 triangular arrays with each element x equal to the number of its neighbors equal to 6,6,2,0,2,2,1 for x=0,1,2,3,4,5,6.|
-|203435|Number of partitions of {1,2,...,4n} into n 4-element subsets having the same sum.|
+|203435|Number of partitions of  1,2,...,4n  into n 4-element subsets having the same sum.|
 |203567|The coding function W_1(n,3,2) (see Honkala et al. for the precise definition).|
 |203615|Reversal of sigma(n) equals the sum of the reversals of the divisors of n.|
 |203616|Numbers k such that the reversal of sigma*(k) equals the sum of the reversals of the anti-divisors of k, where sigma*(k) is the sum of the anti-divisors of k.|
@@ -9729,8 +9729,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |204620|Numbers k such that 3*2^k + 1 is a prime factor of a Fermat number 2^(2^m) + 1 for some m.|
 |204762|Number of (n+1) X 8 0..5 arrays with the permanents of all 2 X 2 subblocks equal and nonzero.|
 |204804|Number of free tree-like convex polyominoes with n cells.|
-|204809|Number of skew-symmetric n X n matrices A = (a_ij) with entries from {-1,0,+1} such that a_wx a_yz + a_wy a_xz + a_wz a_xy = a_wx a_wy a_wz a_xy a_xz a_yz for all distinct w,x,y,z in {1..n}.|
-|204821|Number of skew-symmetric n X n matrices A = (a_ij) with entries from {-1,0,+1} such that a_wx a_yz + a_wy a_zx + a_wz a_xy = a_wx a_wy a_wz a_xy a_xz a_yz for all distinct w,x,y,z in {1..n}.|
+|204809|Number of skew-symmetric n X n matrices A = (a_ij) with entries from  -1,0,+1  such that a_wx a_yz + a_wy a_xz + a_wz a_xy = a_wx a_wy a_wz a_xy a_xz a_yz for all distinct w,x,y,z in  1..n .|
+|204821|Number of skew-symmetric n X n matrices A = (a_ij) with entries from  -1,0,+1  such that a_wx a_yz + a_wy a_zx + a_wz a_xy = a_wx a_wy a_wz a_xy a_xz a_yz for all distinct w,x,y,z in  1..n .|
 |204844|Cyclic primes that are not absolute primes (A003459).|
 |204846|Irregular triangle read by rows in which row n lists algebraic prime factors of the repunit (10^n - 1)/9 (A002275(n)).|
 |204940|Numbers n such that (23^n - 1)/22 is prime.|
@@ -9746,7 +9746,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |205647|Numbers n such that 3^n + 16 is prime.|
 |205648|Self-locating strings within e: numbers n such that the string n is at position n (after the decimal point) in decimal digits of e.|
 |206001|Least k such that k*2^m + 1 has a covering set with precisely n primes.|
-|206333|Smallest prime q such that, starting with q, there are prime(n)-1 consecutive primes = {1..prime(n)-1} modulo prime(n).|
+|206333|Smallest prime q such that, starting with q, there are prime(n)-1 consecutive primes =  1..prime(n)-1  modulo prime(n).|
 |206345|Number of solvable clock puzzles with n positions in Final Fantasy XIII-2.|
 |206346|Number of solvable clock puzzles with n positions in Final Fantasy XIII-2, up to rotation and reflection.|
 |206370|Related to number of cyclotomic classes in GF(2^(2n)).|
@@ -9769,7 +9769,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |208091|Smallest number m such that exactly n primes of the form 2^m - 2^k - 1 exist, 1 <= k < m.|
 |208123|Lengths of sequences of sexy primes in arithmetic progression with a common difference of six|
 |208125|Number of distinct n-th rows in arrays whose columns are running modulus recurrence sequences.|
-|208127|Cardinality of the set f^n({s}), where f is a variant of the Collatz function that replaces any element x in the argument set with both x/2 and 3*x+1, and s is an arbitrary irrational number.|
+|208127|Cardinality of the set f^n( s ), where f is a variant of the Collatz function that replaces any element x in the argument set with both x/2 and 3*x+1, and s is an arbitrary irrational number.|
 |208229|Consider Wolfram's universal 2-state 3-symbol Turing machine on a one-way-infinite tape with all but the first n cells initially blank and the head initially in state 1.  a(n) is the maximum number of steps the Turing machine can make before halting.|
 |208232|Maximum order of a subgroup of the symmetric group of degree n that contains no 2-cycle and no 3-cycle.|
 |208235|Maximal order of a subgroup of the symmetric group of degree n that contains no 3-cycle.|
@@ -9787,7 +9787,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |208927|Let L = A185064(n) be the n-th length for which a Golay sequence exists; a(n) = number of equivalence classes of Golay sequences of length L.|
 |208928|Let L = A185064(n) be the n-th length for which a Golay sequence exists; a(n) = number of equivalence classes of constructable Golay sequences of length L.|
 |208929|Let L = A185064(n) be the n-th length for which a Golay sequence exists; a(n) = number of equivalence classes of non-constructable Golay sequences of length L.|
-|208951|Twice the maximum of the areas of the convex hulls of permutations {(1,p(1)), (2,p(2)), ..., (n,p(n))} of {1, 2, ..., n}, considered as points in the plane|
+|208951|Twice the maximum of the areas of the convex hulls of permutations  (1,p(1)), (2,p(2)), ..., (n,p(n))  of  1, 2, ..., n , considered as points in the plane|
 |209002|Number of n-bead necklaces labeled with numbers -3..3 not allowing reversal, with sum zero and first and second differences in -3..3.|
 |209080|Number of chess diagrams that can be obtained in exactly one way in n plies and cannot be obtained in fewer plies. This is also the number of dual-free shortest proof games in n plies.|
 |209120|Numbers n such that (33^n - 1)/32 is prime.|
@@ -9829,7 +9829,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |210424|Number of 2-divided words of length n over a 4-letter alphabet.|
 |210439|The minimal Skewes number for prime n-tuplets.|
 |210470|Powerful numbers (A001694) which can be written as the sum of two relatively prime 3-powerful numbers different from 1.|
-|210473|Decimal expansion of Sum_{n>=1} 1/(prime(n)*prime(n+1)).|
+|210473|Decimal expansion of Sum_ n>=1  1/(prime(n)*prime(n+1)).|
 |210478|Meandric numbers for a river crossing up to 17 parallel roads at n points.|
 |210506|Numbers k such that (11^k - 2^k)/9 is prime.|
 |210517|Number of rectangles dissectable into n squares.|
@@ -9852,7 +9852,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |210715|Number of disconnected regular simple graphs on n vertices with girth exactly 5.|
 |210716|Number of disconnected regular simple graphs on n vertices with girth exactly 6.|
 |210717|Number of disconnected regular simple graphs on n vertices with girth exactly 7.|
-|210745|The leaf weight sequence w_{2,3,4}.|
+|210745|The leaf weight sequence w_ 2,3,4 .|
 |210746|A leaf weight sequence.|
 |210838|Coordinates (x,y) of the endpoint of a structure (or curve) formed by Q-toothpicks of size = 1..n. The inflection points are the n-th nodes if n is a triangular number A000217.|
 |210841|Coordinates (x,y) of the endpoint of a structure (or curve) formed by Q-toothpicks of size = 1..n. The inflection points are the n-th nodes if n is prime.|
@@ -9910,8 +9910,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |212302|Numbers k whose sum of proper odious divisors (A000069) equals k.|
 |212317|Numbers m such that both 3*2^m+5 and 5*2^m+3 are prime.|
 |212319|The number of abstract groups with minimal permutation representations of degree n.|
-|212342|Sequence of coefficients of x^0 in marked mesh pattern generating function Q_{n,132}^(0,3,0,0)(x).|
-|212346|Sequence of coefficients of x^0 in marked mesh pattern generating function Q_{n,132}^(0,4,0,0)(x).|
+|212342|Sequence of coefficients of x^0 in marked mesh pattern generating function Q_ n,132 ^(0,3,0,0)(x).|
+|212346|Sequence of coefficients of x^0 in marked mesh pattern generating function Q_ n,132 ^(0,4,0,0)(x).|
 |212416|Number of free poly-IH7-tiles (holes allowed) with n cells|
 |212417|Size of the equivalence class of S_n containing the identity permutation under transformations of positionally adjacent elements of the form abc <--> acb <--> bac where a<b<c.|
 |212490|Least number m > 1 such that A000203(x)*x = m has exactly n solutions.|
@@ -9965,7 +9965,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |213453|Self-avoiding walks on the f.c.c. lattice.|
 |213457|Intertwining numbers.|
 |213537|Record first differences of base sequence A213536 (a cousin prime recurrence sequence).|
-|213623|Numbers n such that the denominator of the Bernoulli polynomial B(n,x) equals the Clausen number C(n), {n | A144845(n) = A141056(n)}.|
+|213623|Numbers n such that the denominator of the Bernoulli polynomial B(n,x) equals the Clausen number C(n),  n | A144845(n) = A141056(n) .|
 |213685|Arises in enumerating maximal antichains of minimum size.|
 |213792|Number of n X n 0..n symmetric arrays with every row summing to floor(n^2/2).|
 |213799|Number of n X n 0..7 symmetric arrays with every row summing to floor(n*7/2).|
@@ -10061,8 +10061,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |215621|Number of nonplanar apex graphs on n vertices.|
 |215632|Numbers n such that 44^n - 43^n is prime or PRP.|
 |215637|Number of solutions of square array of integers, choosing one prime from each row and column.|
-|215644|Full spectrum threshold for maximal determinant {+1, -1} matrices: largest order of submatrix for which the full spectrum of absolute determinant values occurs.|
-|215645|Depth for {+1,-1} maximal determinant matrices: minimal depth for which a proper submatrix is also a maximal determinant matrix.|
+|215644|Full spectrum threshold for maximal determinant  +1, -1  matrices: largest order of submatrix for which the full spectrum of absolute determinant values occurs.|
+|215645|Depth for  +1,-1  maximal determinant matrices: minimal depth for which a proper submatrix is also a maximal determinant matrix.|
 |215650|Number of transformation semigroups acting on n points (counting conjugates as distinct); also the number of subsemigroups of the full transformation semigroup T_n.|
 |215651|Number of transformation semigroups acting on n points (counting conjugates as one), i.e., the number of subsemigroups of the full transformation semigroup T_n.|
 |215658|Primes p such that the smallest positive integer k for which p# + k is square satisfies p# + k = k^2, where p# = 2*3*5*7*11*...*p is a primorial.|
@@ -10084,8 +10084,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |215796|Number of distinct values taken by 7th derivative of x^x^...^x (with n x's and parentheses inserted in all possible ways) at x=1.|
 |215815|Even numbers n such that the Lucas number L(n) can be written in the form a^2 + 3*b^2.|
 |215821|Even numbers n such that the Fibonacci number F(n) can be written in the form a^2 + 2*b^2.|
-|215888|Numbers k such that 2^k - 1 - Sum_{prime p<k} 2^p is prime.|
-|215891|Numbers k such that P = 2^k - 1 - Sum_{primes p<k} 2^(p-1) is prime.|
+|215888|Numbers k such that 2^k - 1 - Sum_ prime p<k  2^p is prime.|
+|215891|Numbers k such that P = 2^k - 1 - Sum_ primes p<k  2^(p-1) is prime.|
 |215893|a(n) = least number m of A191837 for which the product of the first n+1 primes divides m.|
 |215906|Even numbers n such that the Lucas number L(n) is the sum of two squares.|
 |215907|Odd numbers n such that the Lucas number L(n) is the sum of two squares.|
@@ -10094,18 +10094,18 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |215939|Prime numbers n such that the Fibonacci number F(n) can be written in the form a^2 + 5*b^2.|
 |215961|Number of primes of the form 1 + b^8192 for 1 < b < 10^n.|
 |215971|Number of distinct values taken by 8th derivative of x^x^...^x (with n x's and parentheses inserted in all possible ways) at x=1.|
-|215972|Numbers k such that Sum_{j=1..k-1} j!/2^j is an integer.|
-|215974|Numbers n such that Sum_{k=1..n} k!/2^k is an integer.|
+|215972|Numbers k such that Sum_ j=1..k-1  j!/2^j is an integer.|
+|215974|Numbers n such that Sum_ k=1..n  k!/2^k is an integer.|
 |216036|Number of isomorphism classes of stretchable simplicial arrangements of n pseudolines in the real projective plane.|
 |216037|Number of isomorphism classes of unstretchable simplicial arrangements of n pseudolines in the real projective plane that do not satisfy Pappus's theorem.|
 |216038|Number of isomorphism classes of unstretchable simplicial arrangements of n pseudolines in the real projective plane that satisfy Pappus's theorem.|
-|216042|Numbers k such that Sum_{j=1..k-1} (2*j)!/4^j is an integer.|
-|216043|Numbers k such that Sum_{j=1..k-1} (2j)!/3^j is an integer.|
-|216044|Numbers k such that Sum_{j=1..k-1} (4j)!/16^j is an integer.|
-|216045|Numbers k such that Sum_{j=1..k-1} (4j)!/5^j is an integer.|
+|216042|Numbers k such that Sum_ j=1..k-1  (2*j)!/4^j is an integer.|
+|216043|Numbers k such that Sum_ j=1..k-1  (2j)!/3^j is an integer.|
+|216044|Numbers k such that Sum_ j=1..k-1  (4j)!/16^j is an integer.|
+|216045|Numbers k such that Sum_ j=1..k-1  (4j)!/5^j is an integer.|
 |216056|Primes p such that p divides the numerator of Sum( k!/2^k, k=1..p-1 ).|
 |216062|Number of distinct values taken by 9th derivative of x^x^...^x (with n x's and parentheses inserted in all possible ways) at x=1.|
-|216149|Numbers k such that Sum_{j=1..k-1} (3*j)!/5^j is an integer.|
+|216149|Numbers k such that Sum_ j=1..k-1  (3*j)!/5^j is an integer.|
 |216150|Smallest prime q such that sum(i=1..n-1, q mod(prime(i))) == q mod prime(n).|
 |216181|Numbers n such that (11^n - 4^n)/7 is prime.|
 |216192|a(n) = Smallest m >= 5 containing no twos when represented in any base from 3 through n.|
@@ -10172,24 +10172,24 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |216892|Number of unspecified amplitude coefficients in an n-particle supersymmetric Yang-Mills Lagrangian (with maximum helicity violation, 4 charges) on the three-loop level.|
 |216929|Number of Lucas-Carmichael numbers less than 10^n.|
 |216948|Triangle read by rows: coefficients in expansion of number of r-colored set partitions of n as a polynomial in r.|
-|216950|Number of "rotten" strings of length n in {2,3}* (in the curling number sense).|
+|216950|Number of "rotten" strings of length n in  2,3 * (in the curling number sense).|
 |216952|A216951(n)/2.|
 |216959|A216958/2.|
 |216999|Number of integers obtainable from 1 in n steps using addition, multiplication, and subtraction.|
-|217005|Van der Waerden numbers w(j+2; t_0,t_1,...,t_{j-1}, 3, 3) with t_0 = t_1 = ... = t_{j-1} = 2.|
-|217007|Van der Waerden numbers w(j+2; t_0,t_1,...,t_{j-1}, 4, 4) with t_0 = t_1 = ... = t_{j-1} = 2.|
-|217008|Van der Waerden numbers w(j+3; t_0,t_1,...,t_{j-1}, 3, 3, 3) with t_0 = t_1 = ... = t_{j-1} = 2.|
+|217005|Van der Waerden numbers w(j+2; t_0,t_1,...,t_ j-1 , 3, 3) with t_0 = t_1 = ... = t_ j-1  = 2.|
+|217007|Van der Waerden numbers w(j+2; t_0,t_1,...,t_ j-1 , 4, 4) with t_0 = t_1 = ... = t_ j-1  = 2.|
+|217008|Van der Waerden numbers w(j+3; t_0,t_1,...,t_ j-1 , 3, 3, 3) with t_0 = t_1 = ... = t_ j-1  = 2.|
 |217016|Least r > 1 without Goldbach partition 2r = p+q such that |p-q| is prime(n)-smooth.|
 |217031|Minimum value of A173419(k*n!) over nonzero k.|
 |217032|Minimum number of steps to reach n! starting from 1 and using the operations of multiplication, addition, or subtraction.|
 |217037|Van der Waerden numbers w(2;5,n).|
 |217040|Bases b in which the increasing concatenation of all primes smaller than b forms a prime number.|
-|217043|a(1) = 1; a(n+1) is the smallest integer >=0 that cannot be obtained from the integers {a(1), ..., a(n)} using each number at most once and the operators +, -, *, / and accepting fractional intermediate results.|
+|217043|a(1) = 1; a(n+1) is the smallest integer >=0 that cannot be obtained from the integers  a(1), ..., a(n)  using each number at most once and the operators +, -, *, / and accepting fractional intermediate results.|
 |217050|Number of primes of n base-3 digits such that each of the 3 digits (0, 1, 2) appears exactly a prime number of times.|
 |217056|Highly composite numbers (A002182) which are the product of 4 consecutive integers (A052762).|
-|217058|Van der Waerden numbers w(j+2; t_0,t_1,...,t_{j-1}, 3, 4) with t_0 = t_1 = ... = t_{j-1} = 2.|
-|217059|Van der Waerden numbers w(j+2; t_0,t_1,...,t_{j-1}, 3, 5) with t_0 = t_1 = ... = t_{j-1} = 2.|
-|217060|Van der Waerden numbers w(j+2; t_0,t_1,...,t_{j-1}, 3, 6) with t_0 = t_1 = ... = t_{j-1} = 2.|
+|217058|Van der Waerden numbers w(j+2; t_0,t_1,...,t_ j-1 , 3, 4) with t_0 = t_1 = ... = t_ j-1  = 2.|
+|217059|Van der Waerden numbers w(j+2; t_0,t_1,...,t_ j-1 , 3, 5) with t_0 = t_1 = ... = t_ j-1  = 2.|
+|217060|Van der Waerden numbers w(j+2; t_0,t_1,...,t_ j-1 , 3, 6) with t_0 = t_1 = ... = t_ j-1  = 2.|
 |217095|Numbers n such that (10^n + 9^n)/19 is prime.|
 |217133|Numbers n such that 5^n + 8 is prime.|
 |217137|Numbers k such that 3^k + 10 is prime.|
@@ -10206,8 +10206,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |217231|Number of triangular nXnXn arrays of occupancy after each element moves to some neighbor but without 2-loops and with no occupancy greater than 5.|
 |217232|T(n,k)=Number of triangular nXnXn arrays of occupancy after each element moves to some neighbor but without 2-loops and with no occupancy greater than k.|
 |217235|Van der Waerden numbers w(3; 3, 3, n).|
-|217236|Van der Waerden numbers w(j+2; t_0,t_1,...,t_{j-1}, 4, 5) with t_0 = t_1 = ... = t_{j-1} = 2.|
-|217237|Van der Waerden numbers w(j+2; t_0,t_1,...,t_{j-1}, 4, 6) with t_0 = t_1 = ... = t_{j-1} = 2.|
+|217236|Van der Waerden numbers w(j+2; t_0,t_1,...,t_ j-1 , 4, 5) with t_0 = t_1 = ... = t_ j-1  = 2.|
+|217237|Van der Waerden numbers w(j+2; t_0,t_1,...,t_ j-1 , 4, 6) with t_0 = t_1 = ... = t_ j-1  = 2.|
 |217240|Number of triangular nXnXn arrays of occupancy after each element moves to some neighbor and with no occupancy greater than 2.|
 |217241|Number of triangular nXnXn arrays of occupancy after each element moves to some neighbor and with no occupancy greater than 3.|
 |217242|Number of triangular nXnXn arrays of occupancy after each element moves to some neighbor and with no occupancy greater than 4.|
@@ -10237,16 +10237,16 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |217423|2-adic valuation of A217422.|
 |217432|3-adic valuation of A217431.|
 |217433|13-adic valuation of A217431.|
-|217437|Number of strings of length n in {2,3}* for which at least one of tail(2 S) > tail(S) and tail(3 S) > tail(S) holds.|
+|217437|Number of strings of length n in  2,3 * for which at least one of tail(2 S) > tail(S) and tail(3 S) > tail(S) holds.|
 |217468|Composite values of n such that 2^n == 2 (mod n*(n-1)).|
 |217490|Let t be the length of the shortest computation yielding a positive multiple of n! using addition, subtraction and multiplication. Then a(n) is the least k > 0 such that k*n! can be computed in t steps.|
 |217492|Numbers k such that 9^k + 10 is prime.|
 |217493|Numbers k such that 9^k - 10 is prime.|
 |217513|Partial sums of nonzero terms in A005926.|
-|217524|Number of assembly trees for complete tripartite graph K_{n,n,n}.|
+|217524|Number of assembly trees for complete tripartite graph K_ n,n,n .|
 |217590|Values in A091579 that need to be smoothed in order to produce A091588.|
 |217595|Number of free n-celled polyominoes without holes and odd side lengths.|
-|217599|Prime(n), where n is such that (Sum_{i=1..n} prime(i)^2) / n is an integer.|
+|217599|Prime(n), where n is such that (Sum_ i=1..n  prime(i)^2) / n is an integer.|
 |217601|Integer averages of squares of first primes.|
 |217647|Numbers k such that 2*k!!! + 1 is prime.|
 |217650|Numbers k such that 2*k!!! - 1 is prime.|
@@ -10275,15 +10275,15 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |217819|Number of alternating permutations on 2n letters that avoid a certain pattern of length 5 (see Lewis, 2012, Appendix, for precise definition).|
 |217820|Number of alternating permutations on 2n letters that avoid a certain pattern of length 5 (see Lewis, 2012, Appendix, for precise definition).|
 |217821|Number of alternating permutations on 2n letters that avoid a certain pattern of length 5 (see Lewis, 2012, Appendix, for precise definition).|
-|217822|Number of permutations of length 3n with descent set {3, 6, ...} that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
-|217823|Number of permutations of length 3n with descent set {3, 6, ...} that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
-|217824|Number of permutations of length 3n with descent set {3, 6, ...} that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
-|217825|Number of permutations of length 3n with descent set {3, 6, ...} that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
-|217826|Number of permutations of length 3n with descent set {3, 6, ...} that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
-|217827|Number of permutations of length 3n with descent set {3, 6, ...} that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
-|217828|Number of permutations of length 3n with descent set {3, 6, ...} that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
-|217829|Number of permutations of length 3n with descent set {3, 6, ...} that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
-|217830|Number of permutations of length 3n with descent set {3, 6, ...} that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
+|217822|Number of permutations of length 3n with descent set  3, 6, ...  that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
+|217823|Number of permutations of length 3n with descent set  3, 6, ...  that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
+|217824|Number of permutations of length 3n with descent set  3, 6, ...  that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
+|217825|Number of permutations of length 3n with descent set  3, 6, ...  that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
+|217826|Number of permutations of length 3n with descent set  3, 6, ...  that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
+|217827|Number of permutations of length 3n with descent set  3, 6, ...  that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
+|217828|Number of permutations of length 3n with descent set  3, 6, ...  that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
+|217829|Number of permutations of length 3n with descent set  3, 6, ...  that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
+|217830|Number of permutations of length 3n with descent set  3, 6, ...  that avoid a certain pattern of length 4 or 5 (see Lewis, 2012, Appendix, for precise definition).|
 |217892|Indices of records in A194591.|
 |217934|Records in A102419.|
 |217935|Strength records in 3x+1 problem.|
@@ -10304,14 +10304,14 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |218345|Records in A218344.|
 |218373|Numbers n such that (7^n + 4^n)/11 is prime.|
 |218382|Indices of records in A211996.|
-|218389|Numbers k such that the k-th triangular number contains only digits {0,2,4}.|
-|218390|Triangular numbers composed of digits {0,2,4}.|
-|218397|Triangular numbers composed of digits {0,2,7}.|
-|218398|Numbers k such that the k-th triangular number contains only digits {0,2,7}.|
-|218399|Triangular numbers composed of digit {0,4,7}.|
-|218400|Numbers k such that the k-th triangular number contains only digits {0,4,7}.|
-|218401|Triangular numbers composed of digits {0,7,9}.|
-|218402|Numbers k such that the k-th triangular number contains only digits {0,7,9}.|
+|218389|Numbers k such that the k-th triangular number contains only digits  0,2,4 .|
+|218390|Triangular numbers composed of digits  0,2,4 .|
+|218397|Triangular numbers composed of digits  0,2,7 .|
+|218398|Numbers k such that the k-th triangular number contains only digits  0,2,7 .|
+|218399|Triangular numbers composed of digit  0,4,7 .|
+|218400|Numbers k such that the k-th triangular number contains only digits  0,4,7 .|
+|218401|Triangular numbers composed of digits  0,7,9 .|
+|218402|Numbers k such that the k-th triangular number contains only digits  0,7,9 .|
 |218409|Numbers n for which sigma(n)/n = k+2/7 with integer k.|
 |218453|Decimal expansion of the Myrberg point.|
 |218462|Number of simple perfect matching graphs on 2n nodes.|
@@ -10412,7 +10412,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |219108|a(n) = k is the smallest number such that k^3 + 1 has n distinct prime factors.|
 |219114|Integers n such that n^2 is the difference of two Fibonacci numbers.|
 |219243|Number of permutations of order n at the largest transposition distance (= A065603(n)) from the identity permutation.|
-|219255|Numbers n for which prime(n) divides at least one sum of two consecutive terms in sequence {f_m(k)}, defined in A224523.|
+|219255|Numbers n for which prime(n) divides at least one sum of two consecutive terms in sequence  f_m(k) , defined in A224523.|
 |219281|Smallest number k such that ChebyshevT[2^n, k] is prime.|
 |219325|Positive integers n that are equal to the determinant of the circulant matrix formed by the binary digits of n.|
 |219341|Least prime k such that k*2^n + 1 divides 2^k - 1, or 0 if no such prime exists.|
@@ -10518,7 +10518,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |222181|Number of pentagons added at n-th stage to the structure of A222180.|
 |222186|a(n) = number of distinct ways to choose a subset of the n*2^(n-1) edges of the n-cube so that the resulting figure is connected and fully n-dimensional.|
 |222192|a(n) = number of inequivalent ways to choose a subset of the n*2^(n-1) edges of the n-cube so that the resulting figure is connected and fully n-dimensional.|
-|222195|Order of linear recurrence for number of Hamiltonian cycles in the graph P_n X P_{2k} (n odd) or P_n X P_k (n even), as a function of k.|
+|222195|Order of linear recurrence for number of Hamiltonian cycles in the graph P_n X P_ 2k  (n odd) or P_n X P_k (n even), as a function of k.|
 |222196|Order of linear recurrence for number of Hamiltonian cycles in the graph C_n X P_k as a function of k.|
 |222198|Order of linear recurrence for number of Hamiltonian cycles in the graph C_n X C_k as a function of k.|
 |222199|Number of Hamiltonian cycles in the graph C_n X C_n.|
@@ -10530,7 +10530,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |222315|Second-from-right diagonal of A063851.|
 |222317|Triangle read by rows: T(n,k) (n>=3, 1<=k<=n-2) = number of uniform realizable oriented matroids with n elements and rank n-k+1.|
 |222318|Number of 4-dimensional simplicial convex polytopes with n nodes.|
-|222319|Number of classes created in S_n by the {132, 231}{213, 312}-equivalence.|
+|222319|Number of classes created in S_n by the  132, 231  213, 312 -equivalence.|
 |222320|Number of open Skolem sequences of order n.|
 |222406|Number of isomorphism types of automorphism groups of semigroups of order n.|
 |222420|Number of unlabeled general directed hypergraphs of order n.|
@@ -10543,7 +10543,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |222785|Terms A002336(k) that are divisible by k.|
 |222786|a(n) = A222785(n)/A211202(n).|
 |222801|Number of elements in n-th row of A222417.|
-|222807|Number of subsets A of {0,1,...,n-1} with |A+A| > |A-A|.|
+|222807|Number of subsets A of  0,1,...,n-1  with |A+A| > |A-A|.|
 |222809|Number of n-digit numbers N such that the reversal of N divides N but is different from N.|
 |222811|Number of n-digit numbers N such that the reversal of N divides N.|
 |222820|a(n) is the number of reverse multipliers for base n.|
@@ -10556,7 +10556,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |222974|Number of 6 X (n+1) 0..1 arrays with every row least squares fitting to a positive-slope straight line and every column least squares fitting to a zero- or positive-slope straight line, with a single point array taken as having zero slope.|
 |222978|Smallest member of sociable quadruples with signature: abundant, abundant, abundant, deficient.|
 |223034|Number of 3-vexillary permutations in S_n, that is, permutations whose Stanley symmetric function has at most 3 terms or at most 3 Edelman-Greene tableaux.|
-|223037|a(n) = largest prime p such that Sum_{primes q = 2, ..., p} 1/q does not exceed n.|
+|223037|a(n) = largest prime p such that Sum_ primes q = 2, ..., p  1/q does not exceed n.|
 |223096|Number of symmetric meander shapes with 2n+1 crossings.|
 |223176|Number of (n+2)X4 0..1 arrays with all rows and columns having a strictly positive second derivative in a quadratic least squares fit|
 |223177|Number of (n+2)X5 0..1 arrays with all rows and columns having a strictly positive second derivative in a quadratic least squares fit|
@@ -10569,20 +10569,20 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |223612|Numbers k whose abundance is 22: sigma(n) - 2*k = 22.|
 |223613|Numbers k whose abundance is 24: sigma(k) - 2*n = 24.|
 |223905|Number of 4-vexillary permutations in S_n, that is, permutations whose Stanley symmetric function has at most 4 terms or at most 4 Edelman-Greene tableaux.|
-|223936|Numbers prime(m), such that (Sum_{i=1..m} prime(i)^3) / m is an integer.|
+|223936|Numbers prime(m), such that (Sum_ i=1..m  prime(i)^3) / m is an integer.|
 |223938|Numbers n such that the trinomial x^n-x-1 is irreducible over GF(3).|
 |223941|Areas of primitive Heron triangles with two rational triangle medians.|
 |224074|Number of root classes of words in F_2 whose minimal words have length n.|
 |224076|Row lengths of triangle in A224075.|
 |224081|Numbers k such that A112141(k) + 1 is prime.|
 |224082|Numbers k such that A112141(k) - 1 is prime.|
-|224083|Prime(m), where m is such that (Sum_{i=1..m} prime(i)^5) / m is an integer.|
+|224083|Prime(m), where m is such that (Sum_ i=1..m  prime(i)^5) / m is an integer.|
 |224239|Number of inequivalent ways to cut an n X n square into squares with integer sides.|
 |224240|Number of rationally smooth Schubert varieties of type B_n.|
 |224241|Numbers k such that k^2 XOR (k+1)^2 is a square, and k^2 XOR (k+2)^2 is also a square, where XOR is the bitwise logical exclusive-or operator.|
-|224255|Number of permutations w in S_n whose Kazhdan-Lusztig polynomial evaluated at q=1 is less than or equal to 2; P_{id,w}(1) <= 2.|
+|224255|Number of permutations w in S_n whose Kazhdan-Lusztig polynomial evaluated at q=1 is less than or equal to 2; P_ id,w (1) <= 2.|
 |224287|Number of multiplicity free permutations in S_n, i.e., permutations whose Stanley symmetric function is multiplicity free.|
-|224316|Number of permutations w in S_n whose Kazhdan-Lusztig polynomial P_{id,w}(1) <= 3.|
+|224316|Number of permutations w in S_n whose Kazhdan-Lusztig polynomial P_ id,w (1) <= 3.|
 |224318|Number of 2-vexillary permutations in S_n, that, permutations whose Stanley symmetric function has at most 2 terms or at most 2 Edelman-Greene tableaux.|
 |224319|Primes without "1" as a digit that remain prime when any single digit is replaced with "1".|
 |224320|Primes without "3" as a digit that remain prime when any single digit is replaced with "3".|
@@ -10590,22 +10590,22 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |224322|Primes without "9" as a digit that remain prime when any single digit is replaced with "9".|
 |224324|First of three consecutive primes with a gap of 30n.|
 |224342|Apparently solves the identity: find sequence B that represents the numbers of ordered compositions of n using the terms of A, and vice versa.|
-|224346|Numbers n such that Sum_{i=1..k} 1/p(i) + Sum_{i=1..j} 1/d(i) is integer, where p are the prime factors of n, counted with multiplicity, and d its divisors.|
+|224346|Numbers n such that Sum_ i=1..k  1/p(i) + Sum_ i=1..j  1/d(i) is integer, where p are the prime factors of n, counted with multiplicity, and d its divisors.|
 |224470|Numbers n such that 7^n - n is prime.|
 |224471|Numbers n such that 8^n - n is prime.|
-|224488|Numbers m such that k*m = Sum_{j|m, j < m} sigma(j), where k >= 1 is an integer.|
+|224488|Numbers m such that k*m = Sum_ j|m, j < m  sigma(j), where k >= 1 is an integer.|
 |224501|Numbers n such that (11^n + 4^n)/15 is prime.|
 |224506|Numbers n such that 9^n - n is prime.|
 |224507|Numbers n such that (17^n + 2^n)/19 is prime.|
 |224530|Sequence F_n from a paper by Robert Osburn and Brundaban Sahu.|
 |224538|Number of numbers k such that all terms of the Collatz (3x+1) iteration of k are <= 10^n.|
-|224539|Number of pairs of elements of the full transformational monoid T_n  on {1,...,n} which generate a synchronizing monoid.|
+|224539|Number of pairs of elements of the full transformational monoid T_n  on  1,...,n  which generate a synchronizing monoid.|
 |224540|Number of numbers k such that all terms of the Collatz (3x+1) iteration of k are <= 3^n.|
 |224660|Number of n X n 0..3 matrices with each 2 X 2 subblock idempotent.|
 |224691|Numbers n such that (13^n - 4^n)/9 is prime.|
 |224693|Smallest prime p such that p > gpf(p+1) > gpf(p+2) > ... > gpf(p+n) where gpf(m) is the greatest prime factor of m.|
 |224700|a(n) = smallest prime p such that p + prime(n)# is next prime after p, where primorial prime(n)# = 2*3*..*prime(n).|
-|224716|Number of primes contained in the concatenations of the length-1 to length-n partial permutations of {1,..., n}.|
+|224716|Number of primes contained in the concatenations of the length-1 to length-n partial permutations of  1,..., n .|
 |224767|Number of non-degenerate fanout-free Boolean functions of n variables having AND rank 3.|
 |224768|Number of non-degenerate fanout-free Boolean functions of n variables having AND rank 4.|
 |224836|First occurrence of n consecutive n's in the decimal expansion of Khinchin's constant.|
@@ -10619,7 +10619,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |224917|Stable k-tree numbers.|
 |224930|Numbers n such that n divides the concatenation of all divisors in descending order.|
 |224984|Numbers n such that (14^n + 13^n)/27 is prime.|
-|225037|Decimal expansion of the number Sum_{n>=1} ksexp(n,3/2)^(-1).|
+|225037|Decimal expansion of the number Sum_ n>=1  ksexp(n,3/2)^(-1).|
 |225053|Second terms of continued fractions for power towers e, e^e, e^e^e, ...|
 |225066|Least hexagonal number that is the product of n hexagonal numbers greater than 1.|
 |225067|Least heptagonal (7-gonal) number that is the product of n heptagonal numbers greater than 1.|
@@ -10637,8 +10637,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |225173|Number of numbers which require n iterations of the unitary totient function (A047994) to reach 1.|
 |225175|Largest number which requires n iterations of the bi-unitary totient function (A116550) to reach 1.|
 |225176|Number of numbers which require n iterations of the bi-unitary totient function (A116550) to reach 1.|
-|225182|Sequence defined by a mix-DFAO: Example 8 of Endrullis et al. (2013), written over the alphabet {1,2}.|
-|225187|a(n) = gcd_{all Latin squares L of order n} n!*n/A(L), where A(L) is the order of the autotopism group of L.|
+|225182|Sequence defined by a mix-DFAO: Example 8 of Endrullis et al. (2013), written over the alphabet  1,2 .|
+|225187|a(n) = gcd_ all Latin squares L of order n  n!*n/A(L), where A(L) is the order of the autotopism group of L.|
 |225191|Numbers n such that (15^n + 2^n)/17 is prime.|
 |225206|Number of Pythagorean quadruples (a, b, c, d) with d < 10^n.|
 |225207|Number of primitive Pythagorean quadruples (a, b, c, d) with d < 10^n.|
@@ -10648,7 +10648,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |225316|a(n) = practical(2^n) where practical(n) is the n-th practical number (A005153).|
 |225355|a(n) = A221565(n)/4.|
 |225366|Grundy value of an n X n rectangle in the game of Chomp.|
-|225368|Number of minimal palindromic words of length n over {1,2} that begin with 1.|
+|225368|Number of minimal palindromic words of length n over  1,2  that begin with 1.|
 |225370|Let f(S) = maximal m such that the string S contains two disjoint identical (scattered) substrings of length m ("twins"); a(n) = min f(S) over all binary strings of length n.|
 |225379|Dimensions of homogeneous components of the universal associative envelope for a certain nonassociative triple system.|
 |225380|Dimensions of homogeneous components of the universal associative envelope for a certain nonassociative triple system.|
@@ -10661,9 +10661,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |225420|a(n) is the least number k such that the sum of the n Moebius function values beginning at k reaches the maximum value A083544(n).|
 |225425|Number of "abc-hits" with c < 10^n.|
 |225432|Twice the coefficient of sqrt(q) in e^h, where e is the fundamental unit and h is the class number of Q(sqrt(q)), q prime and congruent to 1 mod 4. (The coefficient lies in (1/2)Z, so twice it is an integer.)|
-|225437|Numbers of triples {x, y, z} such that z >= y > 0 and triangular(x) + triangular(y) * triangular(z) = 2^n.|
+|225437|Numbers of triples  x, y, z  such that z >= y > 0 and triangular(x) + triangular(y) * triangular(z) = 2^n.|
 |225504|a(n) = prime((a(n-1) + a(n-2)) / 2) for n>1, with a(0) = 3, a(1) = 5.|
-|225536|Numbers of triples {x, y, z} such that z >= y > 1 and prime(x) + prime(y) * prime(z) = 2^n.|
+|225536|Numbers of triples  x, y, z  such that z >= y > 1 and prime(x) + prime(y) * prime(z) = 2^n.|
 |225556|Longest checkmate in king, bishop and knight versus king endgame on an n X n chessboard.|
 |225557|Longest checkmate in king and two bishops versus king endgame on an n X n chessboard.|
 |225595|Conjectured square array T(n,k) read by antidiagonals related to the existence of rectangles of size n*k in the toothpick structure of A139250.|
@@ -10675,7 +10675,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |225727|Numbers n such that sum of first n primorials (A143293) is divisible by n.|
 |225728|Primes p such that sum of primorials (A143293) not including p as a factor is divisible by p.|
 |225740|Number of arrangements of n nonattacking Queens on an n X n board, with no Queens on both main diagonals.|
-|225745|Smallest k such that n numbers can be picked in {1,...,k} with no four in arithmetic progression.|
+|225745|Smallest k such that n numbers can be picked in  1,...,k  with no four in arithmetic progression.|
 |225760|Counts of internal lattice points within more than one primitive Pythagorean triangle (PPT).|
 |225791|Numbers n such that the sum of first n prime powers (A025475) is divisible by n.|
 |225792|Numbers n such that the sum of first n nontrivial prime powers (A025475 excluding 1) is divisible by n.|
@@ -10684,7 +10684,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |225823|Number of hopping sequences in four-colored rooted trees with n nodes, starting and ending with the same "initial state" from all of the (two-colored) rooted trees in A198760. Compared to A198761, only one node color of the initial states is mobile on the tree (Falicov-Kimball model).|
 |225841|Numbers n such that the sum of first n primorial numbers is divisible by n.|
 |225855|Difference between the number of nonnegative evil and odious multiples of n less than 2^n.|
-|225859|Smallest k such that n numbers can be picked in {1,...,k} with no five terms in arithmetic progression.|
+|225859|Smallest k such that n numbers can be picked in  1,...,k  with no five terms in arithmetic progression.|
 |225876|Composite n which divide s(n)+1, where s is the linear recurrence sequence s(n) = -s(n-1) + s(n-2) - s(n-3) + s(n-5) with initial terms (5, -1, 3, -7, 11).|
 |225884|Triangular numbers whose binary and decimal reversals are also triangular numbers.|
 |225890|Composite numbers n such that A179382((n+1)/2)=(n-1)/(2^c) for some c > 0.|
@@ -10695,7 +10695,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |225955|Numbers n such that (15^n - 2^n)/13 is prime.|
 |225961|Decimal expansion of the position of a minimum of Arias de Reyna and van de Lune's kappa function.|
 |225962|Decimal expansion of a minimum of Arias de Reyna and van de Lune's kappa function.|
-|226066|Smallest k such that n numbers can be picked in {1,...,k} with no six terms in arithmetic progression.|
+|226066|Smallest k such that n numbers can be picked in  1,...,k  with no six terms in arithmetic progression.|
 |226088|a(n) is the number of the distinct quadrilaterals in a regular n-gon, which Q3 type are excluded.|
 |226102|Prime powers (A025475) representable as triangular(k)+1.|
 |226103|Numbers n such that triangular(n)+1 is a prime power (A025475).|
@@ -10707,14 +10707,14 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |226178|Exponents n such that 2^n - previous_prime(2^n) = next_prime(2^n) - 2^n.|
 |226188|Least positive integer k such that 1 + 1/2 + ... + 1/k > 2n/3.|
 |226239|Minimum m such that there exists an n-row subtractive triangle with distinct integers in 1..m.|
-|226269|Number of partitioned trees decorated by {1,2} with n nodes.|
+|226269|Number of partitioned trees decorated by  1,2  with n nodes.|
 |226270|Number of primitive permutations with n buds and 3 red or blue elements.|
 |226281|Least number k such that 3^(2^i) + k  is prime for i = 0,1,..,n-1.|
 |226297|Number of primitive permutations with n buds and 4 red or blue elements.|
 |226298|Number of primitive permutations with n buds and 5 red or blue elements.|
 |226299|Number of primitive permutations with n buds and 6 red or blue elements.|
 |226303|a(n) = sum of absolute values of coefficients of a certain polynomial P_n(x) arising in the enumeration of tatami mat coverings.|
-|226321|Number of real {0,1} matrices n X n which are the square of a {0,1} matrix.|
+|226321|Number of real  0,1  matrices n X n which are the square of a  0,1  matrix.|
 |226356|Number of representations of the n-th factorial group as a (nondecreasing) product of (nontrivial) cyclic groups.|
 |226366|Numbers k such that 5*2^k + 1 is a prime factor of a Fermat number 2^(2^m) + 1 for some m.|
 |226368|Numbers n such that Omega(n) = Omega(2^n + 1), where Omega = A001222 is the number of prime factors counted with multiplicity.|
@@ -10730,8 +10730,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |226595|Lengths of maximal nontouching increasing paths in n X n grids.|
 |226596|Lengths of maximal non-crossing and non-overlapping increasing paths in n X n grids.|
 |226603|Let c(n) be the n-th number in the sequence of odd composite numbers that are not squares of primes, and let p = c(n)*2^k + 1 (with k > 0) and m be the smallest integer satisfying congruence 2^m == 1 (mod p). The number a(n) is the least k such that p is prime and c(n) does not divide m, or 0 if no such value exists.|
-|226647|Numbers k such that Sum_{i=1..k} sigma(i) is divisible by Sum_{i=1..k} d(i), where sigma(i) = sum of divisors of i (A000203), and d(i) = number of divisors of i (A000005).|
-|226648|Numbers k such that Sum_{j=1..k} sigma(j) is a triangular number, where sigma(j) = sum of divisors of j (A000203).|
+|226647|Numbers k such that Sum_ i=1..k  sigma(i) is divisible by Sum_ i=1..k  d(i), where sigma(i) = sum of divisors of i (A000203), and d(i) = number of divisors of i (A000005).|
+|226648|Numbers k such that Sum_ j=1..k  sigma(j) is a triangular number, where sigma(j) = sum of divisors of j (A000203).|
 |226676|Smallest positive integer k (or 0 if no such k) with a primitive cycle of n positive integers under iteration by the Collatz-like 3x-k function.|
 |226679|Record-breaking values, for increasing k = A226630(n), of the conjectured number of primitive cycles of positive integers under iteration by the Collatz-like 3x-k function.|
 |226680|Integer k associated with the record-breaking number A226679(n) of primitive Collatz-like 3x-k cycles.|
@@ -10750,7 +10750,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |226891|Least k such that k(k+1)(k+2)(k+3) is divisible by prime(n)#.|
 |226893|Number of binary Lyndon words of length n having a conjugate at Hamming distance 2.|
 |226897|a(n) is the total number of parts in the set of partitions of an n X n square lattice into squares, considering only the list of parts.|
-|226917|Number of non-sphere-homeomorphic crossing optimal 2-page book drawings of complete graph K_{2n+1}.|
+|226917|Number of non-sphere-homeomorphic crossing optimal 2-page book drawings of complete graph K_ 2n+1 .|
 |226918|Minimal number of 1X3 I-trominoes needed to prevent any further I-trominoe from being placed on an n X n grid.|
 |226919|Asymptotic number of completely symmetric polynomials of degree n up to momentum conservation in the limit as the number of particles increases.|
 |226920|Array read by antidiagonals: T(n,k) = number of completely symmetric polynomials of degree k up to momentum conservation for n particles (n >= 4, k >= 0).|
@@ -10770,12 +10770,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |226981|Number of ways to cut an n X n square into squares with integer sides, reduced for symmetry, where the orbits under the symmetry group of the square, D4, have 8 elements.|
 |226984|Smallest triangular number with exactly n representations as sum of 3 positive cubes.|
 |227005|Number of Hamiltonian circuits in a 2n X 2n square lattice of nodes, reduced for symmetry, where the orbits under the symmetry group of the square, D4, have 2 elements.|
-|227008|Numbers k such that Sum_{j=1..k} (sigma(j) + phi(j) + tau(j)) == 0 (mod k).|
+|227008|Numbers k such that Sum_ j=1..k  (sigma(j) + phi(j) + tau(j)) == 0 (mod k).|
 |227046|Numbers n such that (17^n + 5^n)/22 is prime.|
 |227049|Numbers n such that (15^n + 4^n)/19 is prime.|
 |227050|Number of essentially different ways of arranging numbers 1 through 2n around a circle so that the sum and absolute difference of each pair of adjacent numbers are prime.|
 |227067|Least n-prime p such that the number of even n-primes (<= p) equals the number of odd n-primes (<= p).|
-|227070|Powers n such that the set s(n) = {k > 0 such that k^n ends with k} does not occur for smaller n.|
+|227070|Powers n such that the set s(n) =  k > 0 such that k^n ends with k  does not occur for smaller n.|
 |227116|Given an equilateral triangular grid with side n, containing n(n+1)/2 points, a(n) is the minimal number of points to be removed from the grid, so that, if 3 of the remaining points are chosen, they do not form an equilateral triangle with sides parallel to the grid.|
 |227117|Number of minimally rigid graphs in 2D on n vertices.|
 |227126|Primes p_i such that 2^(i+1) - p_i is also prime.|
@@ -10786,7 +10786,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |227173|Numbers n such that (138^n + 137^n)/275 is prime.|
 |227174|Numbers n such that (140^n + 139^n)/279 is prime.|
 |227205|a(n) is the number of cyclic-classes of N^n MHV Yangian-invariant functions.|
-|227230|Numbers k such that 3*2^k + {5,7} are twin primes.|
+|227230|Numbers k such that 3*2^k +  5,7  are twin primes.|
 |227247|Prime factors of 10^(10^100) - 2.|
 |227249|Number of consecutive composites beginning with the first, to be added to obtain a power.|
 |227250|Number of binary labeled trees with two-colored vertices that have n leaves and avoid the easiest to avoid 6-pattern set.|
@@ -10797,19 +10797,19 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |227308|Given an equilateral triangular grid with side n consisting of n(n+1)/2 points, a(n) is the maximum number of points that can be painted so that, if any 3 of the painted ones are chosen, they do not form an equilateral triangle with sides parallel to the grid.|
 |227335|The gaps after these primes are the first n positive even integers, each used exactly once.|
 |227358|Length of shortest Golomb-like (for sums of triples) ruler with n marks.|
-|227390|Minimum value of k such that sum_{i=k..k+n-1} i = sum_{i=k..k+n-1} i’, where i’ is the arithmetic derivative of i.|
-|227399|Number of permutations i_1, ..., i_n of 1, ..., n with i_1 = 1 and i_n = n such that i_1+2*i_2, i_2+2*i_3, ..., i_{n-1}+2*i_n, i_n+2*i_1 are pairwise distinct modulo n.|
+|227390|Minimum value of k such that sum_ i=k..k+n-1  i = sum_ i=k..k+n-1  i’, where i’ is the arithmetic derivative of i.|
+|227399|Number of permutations i_1, ..., i_n of 1, ..., n with i_1 = 1 and i_n = n such that i_1+2*i_2, i_2+2*i_3, ..., i_ n-1 +2*i_n, i_n+2*i_1 are pairwise distinct modulo n.|
 |227405|Order of the symmetry group of the densest possible packing of N circles in a larger circle. (If there are different patterns with the same density pick the largest value of the symmetry group order.)|
-|227414|Number of ordered n-tuples of subsets of {1,2,...,n} which satisfy the conditions in Hall's Marriage Problem.|
-|227427|Numbers k such that Sum_{i=1..k} i^sigma(i) == 0 (mod k).|
-|227429|Numbers k such that Sum_{j=1..k} j^phi(j) == 0 (mod k).|
+|227414|Number of ordered n-tuples of subsets of  1,2,...,n  which satisfy the conditions in Hall's Marriage Problem.|
+|227427|Numbers k such that Sum_ i=1..k  i^sigma(i) == 0 (mod k).|
+|227429|Numbers k such that Sum_ j=1..k  j^phi(j) == 0 (mod k).|
 |227437|Longest checkmate in king and 3 knights versus king endgame on an n X n chessboard.|
 |227445|Numbers n such that 7*3^(2*n)+5*3^n+1 is prime.|
 |227446|Numbers k such that 7*2^(2*k)-5*2^kn+1 is prime.|
 |227447|Numbers k such that 3*5^(2*k)-3*5^k+1 is prime.|
-|227456|Number of permutations i_0, i_1, ..., i_n of 0, 1, ..., n with i_0 = 0 and i_n = 1 such that all the n+1 numbers i_0^2+i_1, i_1^2+i_2, ..., i_{n-1}^2+i_n, i_n^2+i_0 are of the form (p+1)/4 with p a prime congruent to 3 modulo 4.|
+|227456|Number of permutations i_0, i_1, ..., i_n of 0, 1, ..., n with i_0 = 0 and i_n = 1 such that all the n+1 numbers i_0^2+i_1, i_1^2+i_2, ..., i_ n-1 ^2+i_n, i_n^2+i_0 are of the form (p+1)/4 with p a prime congruent to 3 modulo 4.|
 |227477|Exponent of the group of Lipschitz quaternions in a reduced system modulo n.|
-|227502|Numbers n such that Sum_{i=1..n} i^(i') == 0 (mod n), where i' is the arithmetic derivative of i.|
+|227502|Numbers n such that Sum_ i=1..n  i^(i') == 0 (mod n), where i' is the arithmetic derivative of i.|
 |227576|Numbers n such that F(3*n)/(2*F(n)) is prime, where F(k) is the k-th Fibonacci number.|
 |227588|Maximum label within a minimal labeling of k >= 0 identical n-sided dice (n >= 1) yielding the most possible sums; square array A(n,k), read by antidiagonals.|
 |227589|Maximum label within a minimal labeling of n identical 4-sided dice yielding the most possible sums.|
@@ -10826,12 +10826,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |227787|The number of n X n tomographically balanced matrices.|
 |227817|Decimal expansion of limit of H(c(n)) - H(c(n-1)), where c = A227816 and H = harmonic number.|
 |227818|Decimal expansion of limit of c(n)/c(n-1), where c = A227816.|
-|227847|Number of tuples (x_1, x_2, ..., x_n) with 1 <= x_1 <= x_2 <= ... <= x_n such that Sum_{i=1..n} x_i^3 = (Sum_{i=1..n} x_i)^2 and Sum_{i=1..n-1} x_i^3 + (x_n-1)^3 + (x_n+1)^3 = (Sum_{i=1..n} x_i + 2x_n)^2.|
-|227848|Numbers n such that Sum_{i=1..n} (i')^i == 0 (mod n), where i' is the arithmetic derivative of i.|
-|227850|Number of Dyck paths of semilength n*(4*n+1) in which the run length sequence is a permutation of {1,...,4*n}.|
+|227847|Number of tuples (x_1, x_2, ..., x_n) with 1 <= x_1 <= x_2 <= ... <= x_n such that Sum_ i=1..n  x_i^3 = (Sum_ i=1..n  x_i)^2 and Sum_ i=1..n-1  x_i^3 + (x_n-1)^3 + (x_n+1)^3 = (Sum_ i=1..n  x_i + 2x_n)^2.|
+|227848|Numbers n such that Sum_ i=1..n  (i')^i == 0 (mod n), where i' is the arithmetic derivative of i.|
+|227850|Number of Dyck paths of semilength n*(4*n+1) in which the run length sequence is a permutation of  1,...,4*n .|
 |227867|Number of Lipschitz quaternions X such that X^2 == 1 (mod n).|
 |227882|Known number of n_multiperfect numbers that can produce an hemiperfect of abundancy (2*n-1)/2.|
-|227904|Numbers k such that Sum_{j=1..k} antisigma(j) == 0 (mod sigma(k)).|
+|227904|Numbers k such that Sum_ j=1..k  antisigma(j) == 0 (mod sigma(k)).|
 |227946|Smallest m such that the number of iterations of "take odd part of phi" to reach 1 from m (A227944) is n.|
 |227966|Decimal expansion of limit of H(c(n)) - H(c(n-1)), where c = A227965 and H = harmonic number.|
 |227967|Decimal expansion of limit of c(n)/c(n-1), where c = A227965.|
@@ -10880,10 +10880,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |228703|Arises in analysis of the halving procedure for detecting two defectives among n items.|
 |228718|Sequence taken from Garvan's paper (see slides 28, 29).|
 |228728|a(1)=1, a(2)=2 and for n > 2, a(n) is the least integer > a(n-1) such that there is a permutation b(1), ..., b(n) of a(1), ..., a(n) with b(1) = a(1) and b(n) = a(n), and with the n numbers |b(1)-b(2)|, |b(2)-b(3)|, ..., |b(n-1)-b(n)|, |b(n)-b(1)| pairwise distinct.|
-|228762|Number of undirected circular permutations i_1,...,i_{n-1} of 1,...,n-1 with i_1-i_2, ..., i_{n-2}-i_{n-1}, i_{n-1}-i_1 pairwise distinct modulo n.|
-|228766|Number of undirected circular permutations i_1,...,i_{n-1} of 1,...,n-1 with i_1 + i_2, i_2 + i_3, ..., i_{n-2} + i_{n-1}, i_{n-1} + i_1 pairwise distinct modulo n.|
+|228762|Number of undirected circular permutations i_1,...,i_ n-1  of 1,...,n-1 with i_1-i_2, ..., i_ n-2 -i_ n-1 , i_ n-1 -i_1 pairwise distinct modulo n.|
+|228766|Number of undirected circular permutations i_1,...,i_ n-1  of 1,...,n-1 with i_1 + i_2, i_2 + i_3, ..., i_ n-2  + i_ n-1 , i_ n-1  + i_1 pairwise distinct modulo n.|
 |228768|Smallest number that is an emirp in all bases from 2 through n.|
-|228772|Number of undirected circular permutations i_0,i_1,...,i_{n-1} of 0,1,...,n-1 such that i_0+i_1+i_2, i_1+i_2+i_3, ..., i_{n-3}+i_{n-2}+i_{n-1}, i_{n-2}+i_{n-1}+i_0, i_{n-1}+i_0+i_1 are pairwise distinct modulo n.|
+|228772|Number of undirected circular permutations i_0,i_1,...,i_ n-1  of 0,1,...,n-1 such that i_0+i_1+i_2, i_1+i_2+i_3, ..., i_ n-3 +i_ n-2 +i_ n-1 , i_ n-2 +i_ n-1 +i_0, i_ n-1 +i_0+i_1 are pairwise distinct modulo n.|
 |228776|Positions of even terms of A050376.|
 |228818|Decimal expansion of G/c^4 in s^2/(kg * m), where G is the gravitational constant and c = 299792458 m/s is the speed of light in vacuum.|
 |228819|Decimal expansion of 8*Pi*G/c^4, where G is the Newtonian constant of gravitation and c = 299792458 m/s is the speed of light in vacuum.|
@@ -10891,35 +10891,35 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |228846|Largest m such that (2k+1)*2^m + 1 is a prime factor of the Fermat number 2^(2^n) + 1.|
 |228881|Minimum number of spheres touching a wall of the container in the densest packing of n equal spheres into a cube.|
 |228882|Maximum sum of elements of an n X n matrix filled with numbers such that if a(j,k)=i, then all numbers 1 ... i-1 are represented in (a(j-1,k), a(j+1,k), a(j,k-1), a(j,k+1)).|
-|228886|Number of permutations i_0,i_1,...,i_n of 0,1,...,n with i_0 = 0 and i_n = n, and with i_0+i_1, i_1+i_2, ..., i_{n-1}+i_n, i_n+i_0 all coprime to both n-1 and n+1.|
+|228886|Number of permutations i_0,i_1,...,i_n of 0,1,...,n with i_0 = 0 and i_n = n, and with i_0+i_1, i_1+i_2, ..., i_ n-1 +i_n, i_n+i_0 all coprime to both n-1 and n+1.|
 |228916|Indices of primes in sequence A108300.|
-|228917|Number of undirected circular permutations i_0, i_1, ..., i_n of 0, 1, ..., n such that i_0+i_1, i_1+i_2, ...,i_{n-1}+i_n, i_n+i_0 are among those k with 6*k-1 and 6*k+1 twin primes.|
+|228917|Number of undirected circular permutations i_0, i_1, ..., i_n of 0, 1, ..., n such that i_0+i_1, i_1+i_2, ...,i_ n-1 +i_n, i_n+i_0 are among those k with 6*k-1 and 6*k+1 twin primes.|
 |228922|Numbers n such that (19^n + 2^n)/21 is prime.|
 |228941|The n-th convergent of CF(e) is the a(n)-th convergent of DCF(e), the delayed continued fraction of e.|
 |228945|Number of ways to write highly composite numbers (A002182(n)) as the difference of two primes, both <= 2*A002182(n).|
 |228950|The index of Simon's piecewise testability congruence, for words of length n over a 2-letter alphabet.|
-|228956|Number of undirected circular permutations i_0, i_1, ..., i_n of 0, 1, ..., n such that all the 2*n+2 numbers |i_0 +/- i_1|, |i_1 +/- i_2|, ..., |i_{n-1} +/- i_n|, |i_n +/- i_0| have the form (p-1)/2 with p an odd prime.|
+|228956|Number of undirected circular permutations i_0, i_1, ..., i_n of 0, 1, ..., n such that all the 2*n+2 numbers |i_0 +/- i_1|, |i_1 +/- i_2|, ..., |i_ n-1  +/- i_n|, |i_n +/- i_0| have the form (p-1)/2 with p an odd prime.|
 |228988|Smallest missing number in first 10^n digits after the decimal point in the expansion of Pi.|
 |228989|Smallest missing number in first 10^n digits after the decimal point in expansion of e.|
 |228990|Smallest missing number in first 10^n digits after the decimal point in expansion of golden ratio phi = (1+sqrt(5))/2.|
-|229005|Number of undirected circular permutations i_0, i_1, ..., i_n of 0, 1, ..., n such that all the n+1 numbers |i_0^2-i_1^2|, |i_1^2-i_2^2|, ..., |i_{n-1}^2-i_n^2|, |i_n^2-i_0^2| are of the form (p-1)/2 with p an odd prime.|
+|229005|Number of undirected circular permutations i_0, i_1, ..., i_n of 0, 1, ..., n such that all the n+1 numbers |i_0^2-i_1^2|, |i_1^2-i_2^2|, ..., |i_ n-1 ^2-i_n^2|, |i_n^2-i_0^2| are of the form (p-1)/2 with p an odd prime.|
 |229021|Record values in A226657.|
 |229028|Indices of records in A226657.|
 |229033|Record values in A229030.|
 |229034|Indices of records in A229030.|
-|229038|Number of undirected circular permutations i_1, ..., i_n of 1, ..., n such that all the n sums i_1^2+i_2^2, ..., i_{n-1}^2+i_n^2, i_n^2+i_1^2 are among those integers m with the Jacobi symbol (m/(2*n+1)) equal to 1.|
+|229038|Number of undirected circular permutations i_1, ..., i_n of 1, ..., n such that all the n sums i_1^2+i_2^2, ..., i_ n-1 ^2+i_n^2, i_n^2+i_1^2 are among those integers m with the Jacobi symbol (m/(2*n+1)) equal to 1.|
 |229048|Number of different chromatic polynomials of a simple graph with n nodes.|
 |229055|Positions of the incrementally largest terms in the continued fraction expansion of zeta(3).|
 |229070|Smallest missing number in first 10^n digits after the decimal point in expansion of Euler's constant (or Euler-Mascheroni constant) gamma.|
 |229071|First occurrence of n consecutive n's in the decimal expansion of Soldner's constant.|
 |229074|First occurrence of n consecutive n's in the decimal expansion of zeta(3).|
-|229082|Number of circular permutations i_0, i_1, ..., i_n of 0, 1, ..., n such that all the n+1 numbers i_0^2+i_1, i_1^2+i_2, ..., i_{n-1}^2+i_n, i_n^2+i_0 are of the form (p-1)/2 with p an odd prime.|
-|229095|Numbers k such that Sum_{i=1..k} i^tau(i) == 0 (mod k), where tau(i) = A000005(i), the number of divisors of i.|
+|229082|Number of circular permutations i_0, i_1, ..., i_n of 0, 1, ..., n such that all the n+1 numbers i_0^2+i_1, i_1^2+i_2, ..., i_ n-1 ^2+i_n, i_n^2+i_0 are of the form (p-1)/2 with p an odd prime.|
+|229095|Numbers k such that Sum_ i=1..k  i^tau(i) == 0 (mod k), where tau(i) = A000005(i), the number of divisors of i.|
 |229114|Numbers k such that antisigma(k) mod k = antisigma(k+1) mod (k+1).|
 |229124|Scan decimal expansion of log(10) until all n-digit strings have been seen; a(n) is number of digits that must be scanned.|
 |229126|Last n-digit number seen when scanning the decimal digits of log(10).|
 |229132|Initials for A159559 corresponding to records of A229019.|
-|229141|Number of circular permutations i_1, ..., i_n of 1, ..., n such that all the n sums i_1^2+i_2, ..., i_{n-1}^2+i_n, i_n^2+i_1 are among those integers m with the Jacobi symbol (m/(2n+1)) equal to 1.|
+|229141|Number of circular permutations i_1, ..., i_n of 1, ..., n such that all the n sums i_1^2+i_2, ..., i_ n-1 ^2+i_n, i_n^2+i_1 are among those integers m with the Jacobi symbol (m/(2n+1)) equal to 1.|
 |229145|Numbers k such that (36^k + 1)/37 is prime.|
 |229155|Number of digits of the n-th term of the decimal expansion of e = exp(1) cut into chunks of primes.|
 |229161|Number of n X n binary matrices with exactly 2 ones in each row and column, and with rows and columns in lexicographically nondecreasing order.|
@@ -10929,19 +10929,19 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |229165|a(n) is the number of n X n matrices of 0's, 1's and -1's in which the entries in each row or column sum to 1 and there are no adjacent -1's or 1's in any row or column.|
 |229171|Define a sequence of real numbers by b(1)=e, b(n+1) = b(n) + log(b(n)); a(n) = smallest i such that b(i) >= e^n.|
 |229202|Number of semimodular lattices on n nodes.|
-|229207|Numbers n such that Sum_{i=1..n} tau(i)^i == 0 (mod n), where tau(i) = A000005(i), the number of divisors of i.|
-|229208|Numbers k such that Sum_{j=1..k} sigma(j)^j == 0 (mod k).|
-|229209|Numbers k such that Sum_{j=1..k} phi(j)^j == 0 (mod k).|
-|229210|Numbers k such that Sum_{i=1..k} (i-tau(i))^i == 0 (mod k), where tau(i) = A000005(i), the number of divisors of i, and i-tau(i) = A049820(i).|
-|229211|Numbers k such that Sum_{j=1..k} (j*(j+1)/2 - sigma(j))^j == 0 (mod k), where sigma(j) = A000203(j) and j*(j+1)/2 - sigma(j) = A024816(j).|
+|229207|Numbers n such that Sum_ i=1..n  tau(i)^i == 0 (mod n), where tau(i) = A000005(i), the number of divisors of i.|
+|229208|Numbers k such that Sum_ j=1..k  sigma(j)^j == 0 (mod k).|
+|229209|Numbers k such that Sum_ j=1..k  phi(j)^j == 0 (mod k).|
+|229210|Numbers k such that Sum_ i=1..k  (i-tau(i))^i == 0 (mod k), where tau(i) = A000005(i), the number of divisors of i, and i-tau(i) = A049820(i).|
+|229211|Numbers k such that Sum_ j=1..k  (j*(j+1)/2 - sigma(j))^j == 0 (mod k), where sigma(j) = A000203(j) and j*(j+1)/2 - sigma(j) = A024816(j).|
 |229230|Positions of incrementally largest terms in the continued fraction of Soldner's constant.|
 |229232|Number of undirected circular permutations pi(1), ..., pi(n) of 1, ..., n with the n numbers pi(1)*pi(2)-1, pi(2)*pi(3)-1, ..., pi(n-1)*pi(n)-1, pi(n)*pi(1)-1 all prime.|
 |229298|Number of terms in A228919 less than or equal to 10^n.|
 |229299|Number of terms in A191677 less than or equal to 10^n.|
-|229501|Numbers k such that Sum_{i=1..k} i' == 0 (mod k), where i' is the arithmetic derivative of i.|
+|229501|Numbers k such that Sum_ i=1..k  i' == 0 (mod k), where i' is the arithmetic derivative of i.|
 |229524|Numbers k such that (38^k + 1)/39 is prime.|
 |229542|Numbers n such that (19^n - 2^n)/17 is prime.|
-|229543|Number of undirected circular permutations i_0, i_1, ..., i_n of 0, 1, ..., n such that all the n+1 adjacent distances |i_0-i_1|, |i_1-i_2|, ..., |i_{n-1}-i_n|, |i_n-i_0| are perfect squares.|
+|229543|Number of undirected circular permutations i_0, i_1, ..., i_n of 0, 1, ..., n such that all the n+1 adjacent distances |i_0-i_1|, |i_1-i_2|, ..., |i_ n-1 -i_n|, |i_n-i_0| are perfect squares.|
 |229560|Number of arrays of length n that are sums of 2 consecutive elements of length n+1 permutations of 0..n.|
 |229612|Numbers n such that (19^n + 5^n)/24 is prime.|
 |229618|Numbers that are the distance between a square and the next larger cube.|
@@ -10970,7 +10970,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |229744|Values of records in A096303.|
 |229748|Number of defective 4-colorings of an n X n 0..3 array connected horizontally, vertically, diagonally and antidiagonally with exactly two mistakes, and colors introduced in row-major 0..3 order.|
 |229803|Domination number for rook graph HR(n) on a triangular board of hexagonal cells. The rook can move along any row of adjacent cells, in any of the three directions.|
-|229827|Number of circular permutations i_1,...,i_n of 1,...,n such that the n numbers i_1^2+i_2, i_2^2+i_3, ..., i_{n-1}^2+i_n, i_n^2+i_1 form a complete system of residues modulo n.|
+|229827|Number of circular permutations i_1,...,i_n of 1,...,n such that the n numbers i_1^2+i_2, i_2^2+i_3, ..., i_ n-1 ^2+i_n, i_n^2+i_1 form a complete system of residues modulo n.|
 |229831|Largest prime p such that some elliptic curve over an extension of the rationals of degree n has a point of finite order p.|
 |229832|First term of smallest sequence of n consecutive weak primes.|
 |229836|Number of primes between n! and n^n inclusive.|
@@ -10997,7 +10997,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |230059|Conjectural number of irreducible zeta values of weight 2*n+1 and depth three.|
 |230082|a(n) is the smallest prime that is the first of n consecutive primes whose product of digits is equal and nonzero.|
 |230090|A certain restricted class of posets on n points.|
-|230126|Smallest value of k such that Sum_{j=1..k} arctan(1/j) > n*Pi/2.|
+|230126|Smallest value of k such that Sum_ j=1..k  arctan(1/j) > n*Pi/2.|
 |230139|Numbers n such that (17^n - 4^n)/13 is prime.|
 |230164|Numbers n such that n' = sigma(n), where n' is the arithmetic derivative of n.|
 |230165|Numbers n such that n = sigma(n'), where n' is the arithmetic derivative of n.|
@@ -11041,7 +11041,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |230776|Record values in A228098.|
 |230810|Smallest of 3 consecutive odd numbers that are primes or strong pseudoprime to base 2.|
 |230868|Exponent of leading power of 5 in A230867(n).|
-|230876|Total detection number of complete bipartite graph K_{n,n}.|
+|230876|Total detection number of complete bipartite graph K_ n,n .|
 |230881|Dimensions of algebraic generators of Hopf algebra PMN_1.|
 |230882|Dimensions of algebraic generators of Hopf algebra PMN_2.|
 |230883|Dimensions of algebraic generators of Hopf algebra PML_1.|
@@ -11122,8 +11122,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |232005|Number of distinct resistances that can be produced from a circuit of resistors with resistances 1, 2, ..., n using only series and parallel combinations.|
 |232013|Number of iterations of A176341 ("position of n in Pi") until a value is reached for the second time, when starting with n, or -1 if no value is repeated.|
 |232014|Number of iterations of A032445 ("position of n in Pi") until a value is reached for the second time, when starting with n, or -1 if no value is repeated.|
-|232056|Numbers k such that S(24*(3*k+1)) !== 8*(3*k+1) (mod 24*(3*k+1)) where S(j) := Sum_{a=0..j-1, b=0..j-1} (a+b*i)^j and i is the imaginary unit; i.e., A230309(3*k+1) != 8*(3*k+1).|
-|232057|Numbers n such that S(24*(3*n-1)) <> 16*(3*n-1) mod 24*(3*n-1)  where S(n) := sum_{0<=a<n, 0<=b<n} (a+b*i)^n and i is the imaginary unit.|
+|232056|Numbers k such that S(24*(3*k+1)) !== 8*(3*k+1) (mod 24*(3*k+1)) where S(j) := Sum_ a=0..j-1, b=0..j-1  (a+b*i)^j and i is the imaginary unit; i.e., A230309(3*k+1) != 8*(3*k+1).|
+|232057|Numbers n such that S(24*(3*n-1)) <> 16*(3*n-1) mod 24*(3*n-1)  where S(n) := sum_ 0<=a<n, 0<=b<n  (a+b*i)^n and i is the imaginary unit.|
 |232125|Smallest prime such that the n numbers obtained by removing 1 digit on the right are also prime, while no digit can be added on the right to get another prime.|
 |232126|First element of the chain of primes ending in A232125(n), prime which cannot be extended to another prime by appending a digit, as it is the case of the other elements of the chain.|
 |232167|Number of composite integers k less than 10^n such that lambda(k) divides 2k-2, where lambda is the Carmichael lambda function (A002322).|
@@ -11160,7 +11160,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |232482|The function l_5(n) arising in the enumeration of h-vectors.|
 |232484|Number of size collections in prime "Mrs. Perkins's Quilt" dissections of integer-sided squares into n squares.|
 |232496|Triangle read by rows: T(n,k) (n >= 2, 1 <= k <= n-1) = Euclidean distance degree of variety of n X n matrices of rank <= k.|
-|232534|Number of subsets of {1,...,n} containing n and having at least one set partition into 3 blocks with equal element sum.|
+|232534|Number of subsets of  1,...,n  containing n and having at least one set partition into 3 blocks with equal element sum.|
 |232547|Numbers n such that sigma(n^2) mod sigma(n) = n.|
 |232565|Smallest k such that 2^(2^n) - 2^k - 1 is prime, or 0 if no such k exists.|
 |232608|Triangular numbers t such that distances from t to three nearest squares are three triangular numbers.|
@@ -11173,30 +11173,30 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |232703|Numbers k that divide sigma(k) + sigma(k^2).|
 |232718|Solutions a < d < b < c of Fermat's system of Diophantine equations a^2 + b^2 = c^2 and (a-b)^2 - 2*a^2 = d^2.|
 |232720|Numbers such that 2*phi(n-2) = n-1.|
-|232733|Prime(m), where m is such that (Sum_{i=1..m} prime(i)^6) / m is an integer.|
-|232770|Prime(k), where k is such that (Sum_{i=1..k} prime(i)^13) / k is an integer.|
-|232822|Prime(m), where m is such that (Sum_{k=1..m} prime(k)^8) / m is an integer.|
+|232733|Prime(m), where m is such that (Sum_ i=1..m  prime(i)^6) / m is an integer.|
+|232770|Prime(k), where k is such that (Sum_ i=1..k  prime(i)^13) / k is an integer.|
+|232822|Prime(m), where m is such that (Sum_ k=1..m  prime(k)^8) / m is an integer.|
 |232832|Shortest composition length for a finite solvable group of derived length n.|
-|232848|Prime(k), where k divides Sum_{i=1..k} prime(i)^15.|
+|232848|Prime(k), where k divides Sum_ i=1..k  prime(i)^15.|
 |232863|Numbers k such that (2*k-1)!! mod k! is greater than (2k+1)!! mod (k+1)!.|
 |232865|Primes p such that the average of the seventh power of primes up to p is an integer.|
 |232869|Primes p such that the average of the fourth powers of primes up to p is an integer.|
-|232962|Prime(m), where m is such that (Sum_{k=1..m} prime(k)^9) / m is an integer.|
-|232963|Prime(m), where m is such that (sum_{i=1..m} prime(i)^14) / m is an integer.|
+|232962|Prime(m), where m is such that (Sum_ k=1..m  prime(k)^9) / m is an integer.|
+|232963|Prime(m), where m is such that (sum_ i=1..m  prime(i)^14) / m is an integer.|
 |232972|Main diagonal of array P(i,j) mentioned in A064642.|
 |232996|a(n) = the constant f(2n+1) appearing in Conjecture 2 of Ahmed et al., 2013.|
 |233001|a(n) = A005271(n)^2.|
 |233002|Primes p > 3 such that p+6*k is composite for all k from 1 to 100.|
 |233008|p mod 24, where p is such that 2^p - 1 is prime (see Mersenne primes, A000043).|
 |233045|1^m + 2^m + ... + m^m (mod m) for primary pseudoperfect numbers m.|
-|233132|Prime(k), where k is such that (Sum_{i=1..k} prime(i)^10) / k is an integer.|
+|233132|Prime(k), where k is such that (Sum_ i=1..k  prime(i)^10) / k is an integer.|
 |233189|Numbers n such that phi(n) + pi(n) = n+1.|
-|233192|Prime(k), where k is such that (Sum_{j=1..k} prime(j)^11) / k is an integer.|
-|233263|a(n) = prime(k), where k is such that (Sum_{j=1..k} prime(j)^12) / k is an integer.|
-|233333|Irregular array read by rows: A(n,k) = number of first coronas of a fixed rhombus r_{n,k} with characteristics of n-fold rotational symmetry in the Euclidean plane, n>=2, 1<=k<=floor(n/2), reduced for symmetry, as explained below.|
+|233192|Prime(k), where k is such that (Sum_ j=1..k  prime(j)^11) / k is an integer.|
+|233263|a(n) = prime(k), where k is such that (Sum_ j=1..k  prime(j)^12) / k is an integer.|
+|233333|Irregular array read by rows: A(n,k) = number of first coronas of a fixed rhombus r_ n,k  with characteristics of n-fold rotational symmetry in the Euclidean plane, n>=2, 1<=k<=floor(n/2), reduced for symmetry, as explained below.|
 |233344|Numbers k that divide the sum of their remainders modulo all smaller composites (=A233131(k)).|
 |233416|c-perfect numbers.|
-|233460|Prime(n), where n is such that (sum_{i=1..n} prime(i)^16) / n is an integer.|
+|233460|Prime(n), where n is such that (sum_ i=1..n  prime(i)^16) / n is an integer.|
 |233464|a(n) is the smallest natural number m such that 10^10^k + m is prime for k = 0, 1, ...., n.|
 |233465|Numbers n such that sigma(n) = reversal(2n).|
 |233466|Numbers k such that phi(k) = (k-5)/2.|
@@ -11208,8 +11208,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |233538|Triangle T(n,k) read by rows, which contains for 1<=k<=n the least amicable n-tuple T(n,1),..., T(n,n) such that sigma(T(n,k)) = T(n,1)+...+T(n,n).|
 |233551|Numbers m congruent to 5 mod 6 such that for all k >= 1 the numbers (m*4^k + 1)/3 are composite.|
 |233553|Amicable 5-tuples: (x1,...,x5) such that sigma(x1)=...=sigma(x5)=x1+...+x5. Groups of 5 subsequent terms list the five members in increasing size.|
-|233555|Prime(m), where m is such that (Sum_{i=1..m} prime(i)^17) / m is an integer.|
-|233575|Prime(m), where m is such that (Sum_{i=1..m} prime(i)^18) / m is an integer.|
+|233555|Prime(m), where m is such that (Sum_ i=1..m  prime(i)^17) / m is an integer.|
+|233575|Prime(m), where m is such that (Sum_ i=1..m  prime(i)^18) / m is an integer.|
 |233626|Least member of an amicable n-tuple: (x[1],...,x[n]) such that sigma(x[1])=...=sigma(x[n])=x[1]+...+x[n], x[i]<x[i+1].|
 |233692|The smallest prime that produces a set of n primes such that every prime after the first one is equal to the previous plus the product of its nonzero digits.|
 |233694|Position of n in the sequence (or tree) S generated in order by these rules: 0 is in S; if x is in S then x + 1 is in S; if nonzero x is in S then 1/x is in S; if x is in S, then i*x is in S; where duplicates are deleted as they occur.|
@@ -11230,10 +11230,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |234237|Denominators of maximum possible graph likelihood for a graph on n nodes.|
 |234238|Sporadic solutions to sigma(n) == 12 modulo n.|
 |234268|Number of convex topologies on an n-point totally ordered set.|
-|234280|Number of 231-avoiding extensions of comb K_{s,3}^{alpha}.|
-|234281|Number of 312-avoiding extensions of comb K_{s,3}^{alpha}.|
-|234282|Number of 321-avoiding extensions of comb K_{s,2}^{alpha}.|
-|234283|Number of 321-avoiding extensions of comb K_{s,3}^{alpha}.|
+|234280|Number of 231-avoiding extensions of comb K_ s,3 ^ alpha .|
+|234281|Number of 312-avoiding extensions of comb K_ s,3 ^ alpha .|
+|234282|Number of 321-avoiding extensions of comb K_ s,2 ^ alpha .|
+|234283|Number of 321-avoiding extensions of comb K_ s,3 ^ alpha .|
 |234285|Positive odd numbers n such that sigma(m) - 2m is never equal to n, where sigma(.) is the sum of divisors function A000203. Conjectural.|
 |234286|Positive odd numbers n such that 2m - sigma(m) is never equal to n, where sigma(.) is the sum of divisors function A000203. Conjectural.|
 |234299|Let Pn be the n-th odd prime. a(n) = |A| is the smallest order of a set A of consecutive integers which has Euler-phi(3*5*7*11*...*Pn) members coprime to 3*5*7*..*Pn.|
@@ -11282,7 +11282,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |235112|a(n) = the largest of the M-indices of the trees with n vertices.|
 |235139|Twin primes p, p+2 such that p+1 is a primary pseudoperfect number.|
 |235146|a(n) = Least integer k such that it takes n iterations of "factor and reverse bits of odd prime divisors" (A235027) before a fixed point or cycle of 2 is reached; records in A235145.|
-|235164|Numbers whose digits, when the number is written in base n+1, are a permutation of 1...n, and such that for all k in {1,...,n} the first k digits (still in base n+1) form a number divisible by k.|
+|235164|Numbers whose digits, when the number is written in base n+1, are a permutation of 1...n, and such that for all k in  1,...,n  the first k digits (still in base n+1) form a number divisible by k.|
 |235190|Number of (n+1) X (n+1) 0..6 arrays with every 2 X 2 subblock having its diagonal sum differing from its antidiagonal sum by 5, with no adjacent elements equal (constant-stress tilted 1 X 1 tilings).|
 |235230|Integer radii of circles tiled by square tiles such that the ratio of uncut tiles to cut tiles is an integer and four square tiles meet at the center of the circle.|
 |235325|Number of ordered pairs of endofunctions f,g on a set of n elements satisfying f(f(x)) = g(g(g(x))).|
@@ -11322,7 +11322,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |236169|Numbers n such that n!*3^n + 1 is prime.|
 |236219|Number of simple Hamilton-laceable graphs on n nodes.|
 |236264|Even indices of Fibonacci numbers which are the sum of two squares.|
-|236268|Smallest k such that prime and nonprime divisors alternate through exactly the first n pairs of divisors of Fibonacci(k), as {1, a prime, a nonprime, a prime, ...}.|
+|236268|Smallest k such that prime and nonprime divisors alternate through exactly the first n pairs of divisors of Fibonacci(k), as  1, a prime, a nonprime, a prime, ... .|
 |236320|Conjectured number of Sierpiński numbers less than 10^n.|
 |236321|Conjectured number of Riesel numbers less than 10^n.|
 |236355|Terms of A050973 that give maximum record values for A050973(k)/A050972(k).|
@@ -11331,12 +11331,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |236381|Smallest value of x such that x^2 + y^2 = P, where P is the product of the first n primes of the form 4k + 1, and 0 < x < y.|
 |236394|Primes produced by A064526, in order of appearance.|
 |236397|Weight of the largest-weight sunflower-free set of width n.|
-|236400|Primes p=prime(k) such that min{r_p, p-r_p} <= 2, where r_p = A100612(k).|
+|236400|Primes p=prime(k) such that min r_p, p-r_p  <= 2, where r_p = A100612(k).|
 |236408|Number of increasing planar st-graphs with n edges.|
 |236410|Size of semiconstant tree aperiodic semigroup with n states.|
 |236411|Let p(k) denote the k-th prime; a(n) = smallest p(m) > p(n) such that the n-2 differences between [p(n), p(n+1), ..., p(2n-2)] are the same as the n-2 differences between [p(m), p(m+1), ..., p(m+n-2)].|
-|236429|Number of representations of 0 as a sum of numbers d*k with d in {-1,1} and k in {1,2,...,n}, where the sum of the numbers k is 2n.|
-|236430|Number of representations of 1 as a sum of numbers d*k with d in {-1,1} and k in {1,2,...,n}, where the sum of the numbers k is 2n + 1.|
+|236429|Number of representations of 0 as a sum of numbers d*k with d in  -1,1  and k in  1,2,...,n , where the sum of the numbers k is 2n.|
+|236430|Number of representations of 1 as a sum of numbers d*k with d in  -1,1  and k in  1,2,...,n , where the sum of the numbers k is 2n + 1.|
 |236431|Numbers n such that both prime(n)+n and prime(n)-n give a triangular number.|
 |236433|List of primes generated by factoring successive primary pseudoperfect numbers (A054377).|
 |236474|Numbers such that the sum of unitary divisors (A034448) is equal to the sum of exponential divisors (A051377).|
@@ -11423,9 +11423,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |238736|Balancing Wieferich primes: primes p that divide their Pell quotients, where the Pell quotient of p is A000129(p - (2/p))/p and (2/p) is a Jacobi symbol.|
 |238739|Numbers n such that 2^n + 3 and 3*2^n + 1 are both prime.|
 |238749|Exponents of third Mersenne prime pair: numbers n such that 2^n - 5 and 5*2^n - 1 are both prime.|
-|238751|Lesser prime of third Mersenne prime pair {2^m - 5, 5*2^m - 1}.|
+|238751|Lesser prime of third Mersenne prime pair  2^m - 5, 5*2^m - 1 .|
 |238752|Number of nonisomorphic partial 1-differential posets up to rank n.|
-|238765|Numbers k such that if x = Sum_{j|k, j<k} (sigma(j) - j) then k = Sum_{j|x, j<k} (sigma(j) - j).|
+|238765|Numbers k such that if x = Sum_ j|k, j<k  (sigma(j) - j) then k = Sum_ j|x, j<k  (sigma(j) - j).|
 |238820|Number of triangulations of the vertex set of the n-dimensional cube.|
 |238821|Number of symmetry classes of triangulations of the vertex set of the n-dimensional cube.|
 |238822|Number of equilateral triangles bounded by the sides and diagonals of a regular 3n-gon.|
@@ -11455,21 +11455,21 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |239279|Smallest k such that n^k - k^n is prime, or 0 if no such number exists.|
 |239280|Powers of 2 that are sum of prime(k) + k for some k.|
 |239290|Number of pairs of terms of the sequence A228126 less than 10^n.|
-|239291|Smallest k > 0 such that the products of the nonempty subsets of {k, k+1,..., k+n-1} are all distinct.|
-|239298|Words of length n over the alphabet {0,...,n-1} that are 1342-avoiding.|
-|239300|Words of length n over the alphabet {0,...,n-1} that are 1324-avoiding.|
+|239291|Smallest k > 0 such that the products of the nonempty subsets of  k, k+1,..., k+n-1  are all distinct.|
+|239298|Words of length n over the alphabet  0,...,n-1  that are 1342-avoiding.|
+|239300|Words of length n over the alphabet  0,...,n-1  that are 1324-avoiding.|
 |239317|Index of the first occurrence of a string of exactly n even numbers in the decimal expansion of Pi.|
 |239351|Integer solutions x, y, z of x^3 + y^3 + z^3 = 3 with |x| <= |y| <= |z|.|
-|239369|Words of length n over the alphabet {0,...,n-1} that avoid the pattern 1112.|
-|239370|Words of length n over the alphabet {0,...,n-1} that avoid the pattern 1122.|
-|239372|Words of length n over the alphabet {0,...,n-1} that avoid the pattern 1212.|
-|239373|Words of length n over the alphabet {0,...,n-1} that avoid the pattern 1213.|
-|239375|Words of length n over the alphabet {0,...,n-1} that avoid the pattern 1221.|
-|239376|Words of length n over the alphabet {0,...,n-1} that avoid the pattern 1223.|
-|239377|Words of length n over the alphabet {0,...,n-1} that avoid the pattern 1231.|
-|239378|Words of length n over the alphabet {0,...,n-1} that avoid the pattern 1312.|
-|239379|Words of length n over the alphabet {0,...,n-1} that avoid the pattern 1423.|
-|239380|Words of length n over the alphabet {0,...,n-1} that avoid the pattern 2413.|
+|239369|Words of length n over the alphabet  0,...,n-1  that avoid the pattern 1112.|
+|239370|Words of length n over the alphabet  0,...,n-1  that avoid the pattern 1122.|
+|239372|Words of length n over the alphabet  0,...,n-1  that avoid the pattern 1212.|
+|239373|Words of length n over the alphabet  0,...,n-1  that avoid the pattern 1213.|
+|239375|Words of length n over the alphabet  0,...,n-1  that avoid the pattern 1221.|
+|239376|Words of length n over the alphabet  0,...,n-1  that avoid the pattern 1223.|
+|239377|Words of length n over the alphabet  0,...,n-1  that avoid the pattern 1231.|
+|239378|Words of length n over the alphabet  0,...,n-1  that avoid the pattern 1312.|
+|239379|Words of length n over the alphabet  0,...,n-1  that avoid the pattern 1423.|
+|239380|Words of length n over the alphabet  0,...,n-1  that avoid the pattern 2413.|
 |239388|Values of n such that n^2 + d^2 is prime for a record first value of d.|
 |239389|The record values of d for the n in A239388.|
 |239391|The record values of d for the n in A239390.|
@@ -11477,8 +11477,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |239465|a(n) is the least k such that e(k) = n, where e(k) is the smallest m > 1 such that k^m contains all the digits of k with at least the same multiplicity.|
 |239478|Integer solutions of the arithmetic differential equation m' = m + sqrt(m).|
 |239479|Integer solutions of the arithmetic differential equation m' = m - sqrt(m).|
-|239490|Numbers n such that Sum_{i=1..j} 1/pn(i) + Sum_{i=1..k} 1/pd(i) is integer, where pn are the prime factors of n and pd the prime factors of the arithmetic derivative of n, both counted with multiplicity.|
-|239491|Numbers n such that Sum_{i=1..j} 1/pn(i) - Sum_{i=1..k} 1/pd(i) is integer, where pn are the prime factors of n and pd the prime factors of the arithmetic derivative of n, both counted with multiplicity.|
+|239490|Numbers n such that Sum_ i=1..j  1/pn(i) + Sum_ i=1..k  1/pd(i) is integer, where pn are the prime factors of n and pd the prime factors of the arithmetic derivative of n, both counted with multiplicity.|
+|239491|Numbers n such that Sum_ i=1..j  1/pn(i) - Sum_ i=1..k  1/pd(i) is integer, where pn are the prime factors of n and pd the prime factors of the arithmetic derivative of n, both counted with multiplicity.|
 |239523|Prime powers (A025475) such that the distances to the two nearest prime powers are primes.|
 |239524|Prime powers p (A025475) such that either d1 divides d2, or d2 divides d1, where d1 and d2 are the distances from p to the two nearest prime powers.|
 |239578|Smallest number m such that the numerator of sigma(m)/m is equal to n, or zero if no such m exists.|
@@ -11542,7 +11542,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |239917|Theta series of 16-dimensional lattice OBW16, an overlattice of the Barnes-Wall lattice BW16.|
 |239932|Triangle read by rows in which row n lists the parts of the symmetric representation of sigma(4n-2).|
 |239934|Triangle read by rows in which row n lists the parts of the symmetric representation of sigma(4n).|
-|240070|a(n) is the least k such that {1^n, 2^n, 3^n, ..., k^n} can be partitioned into 3 sets whose sums are equal.|
+|240070|a(n) is the least k such that  1^n, 2^n, 3^n, ..., k^n  can be partitioned into 3 sets whose sums are equal.|
 |240074|Index of the first superabundant number k having abundance >= n.|
 |240105|Integers n such that 2n^k + 1, for k = 2..7, are prime.|
 |240113|Integers for which the smallest m in A040081 such that n*2^m - 1 is prime (A038699) increases.|
@@ -11553,7 +11553,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |240123|Number of inequivalent ways to cut an n X n square into squares with integer sides, such that the dissection has a reflective symmetry in one diagonal, but no other symmetries.|
 |240124|Number of inequivalent ways to cut an n X n square into squares with integer sides, such that the dissection has 180-degree rotational symmetry, but no other symmetries.|
 |240125|Number of inequivalent ways to cut an n X n square into squares with integer sides, such that the dissection has one reflective symmetry in an axis parallel to a side, but no other symmetries.|
-|240132|Number of solutions of 1/x_1 + 1/x_2 + ... + 1/x_{2n-1} = 1 in distinct odd numbers > 1.|
+|240132|Number of solutions of 1/x_1 + 1/x_2 + ... + 1/x_ 2n-1  = 1 in distinct odd numbers > 1.|
 |240234|Least number k such that k*n^k + 1 is prime, or 0 if no such number exists.|
 |240442|Number of ways to place 5 points on a triangular grid of side n so that no three of these points are vertices of an equilateral triangle of any orientation.|
 |240443|Maximal number of points that can be placed on an n X n square grid so that no four of them are vertices of a square with any orientation.|
@@ -11584,22 +11584,22 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |240767|Numbers n such that n^k + (n-1)^k + ... + 3^k + 2^k is prime for some natural number k.|
 |240801|Triangle read by rows: T(n,k) (n>=2, 0 <= k <= n-2) = number of possible topologies with n given vertices and n-k-2 Steiner points.|
 |240802|Smallest possible value of maximal overlap in any layout for the 2^n-node shuffle-exchange graph.|
-|240814|a(n) = index of first nonexisting term of the meta-Fibonacci sequence {f(1) = ... = f(n) = 1; f(k)=f(k-f(k-2))+f(k-f(k-n))} if that sequence is only defined for finitely many terms, or 0 if that sequence is infinite.|
-|240815|a(n) = index of first nonexisting term of the meta-Fibonacci sequence {f(1) = ... = f(n) = 1; f(k)=f(k-f(k-3))+f(k-f(k-n))} if that sequence is only defined for finitely many terms, or 0 if that sequence is infinite.|
-|240816|Triangle read by rows: T(n,k) (n >= 1, 1 <= k <= n) = index of first nonexisting term of the meta-Fibonacci sequence {f(1) = ... = f(n) = 1; f(i)=f(i-f(i-k))+f(i-f(i-n))} if that sequence is only defined for finitely many terms, or 0 if that sequence is infinite.|
-|240822|a(n) = index of first nonexisting term of the meta-Fibonacci sequence {f(k) = k for k <= n; f(k)=f(k-f(k-1))+f(k-f(k-n))} if that sequence is only defined for finitely many terms, or 0 if that sequence is infinite.|
-|240823|a(n) = index of first nonexisting term of the meta-Fibonacci sequence {f(k) = k for k <= n; f(k)=f(k-f(k-2))+f(k-f(k-n))} if that sequence is only defined for finitely many terms, or 0 if that sequence is infinite.|
-|240824|a(n) = index of first nonexisting term of the meta-Fibonacci sequence {f(k) = k for k <= n; f(k)=f(k-f(k-3))+f(k-f(k-n))} if that sequence is only defined for finitely many terms, or 0 if that sequence is infinite.|
-|240825|Triangle read by rows: T(n,k) (n >= 1, 1 <= k <= n) = index of first nonexisting term of the meta-Fibonacci sequence {f(i)=i for i <= n; thereafter f(i)=f(i-f(i-k))+f(i-f(i-n))} if that sequence is only defined for finitely many terms, or 0 if that sequence is infinite.|
+|240814|a(n) = index of first nonexisting term of the meta-Fibonacci sequence  f(1) = ... = f(n) = 1; f(k)=f(k-f(k-2))+f(k-f(k-n))  if that sequence is only defined for finitely many terms, or 0 if that sequence is infinite.|
+|240815|a(n) = index of first nonexisting term of the meta-Fibonacci sequence  f(1) = ... = f(n) = 1; f(k)=f(k-f(k-3))+f(k-f(k-n))  if that sequence is only defined for finitely many terms, or 0 if that sequence is infinite.|
+|240816|Triangle read by rows: T(n,k) (n >= 1, 1 <= k <= n) = index of first nonexisting term of the meta-Fibonacci sequence  f(1) = ... = f(n) = 1; f(i)=f(i-f(i-k))+f(i-f(i-n))  if that sequence is only defined for finitely many terms, or 0 if that sequence is infinite.|
+|240822|a(n) = index of first nonexisting term of the meta-Fibonacci sequence  f(k) = k for k <= n; f(k)=f(k-f(k-1))+f(k-f(k-n))  if that sequence is only defined for finitely many terms, or 0 if that sequence is infinite.|
+|240823|a(n) = index of first nonexisting term of the meta-Fibonacci sequence  f(k) = k for k <= n; f(k)=f(k-f(k-2))+f(k-f(k-n))  if that sequence is only defined for finitely many terms, or 0 if that sequence is infinite.|
+|240824|a(n) = index of first nonexisting term of the meta-Fibonacci sequence  f(k) = k for k <= n; f(k)=f(k-f(k-3))+f(k-f(k-n))  if that sequence is only defined for finitely many terms, or 0 if that sequence is infinite.|
+|240825|Triangle read by rows: T(n,k) (n >= 1, 1 <= k <= n) = index of first nonexisting term of the meta-Fibonacci sequence  f(i)=i for i <= n; thereafter f(i)=f(i-f(i-k))+f(i-f(i-n))  if that sequence is only defined for finitely many terms, or 0 if that sequence is infinite.|
 |240882|Numbers n such that n - 4*k^2 is a prime for all k > 0 with k^2 < n/4.|
 |240886|Primes p equal to the sum in base-3 of the digits of all primes < p.|
-|240895|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that sigma(n) - n = Sum_{i=1..k-1}{sigma(Sum_{j=1..i}{d_(j)*10^(j-1)})}} (see example below).|
-|240896|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that sigma(n) - n = Sum_{i=1..k-1}{phi(Sum_{j=1..i}{d_(j)*10^(j-1)})}} (see example below).|
-|240899|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that sigma(n) - n = Sum_{i=1..k-1}{sigma(Sum_{j=1..i}{d_(k-j+1)*10^(i-j)})} (see example below).|
-|240900|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that sigma(n) - n = Sum_{i=1..k-1}{phi(Sum_{j=1..i}{d_(k-j+1)*10^(i-j)})} (see example below).|
-|240901|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that phi(n) = Sum_{i=1..k-1}{sigma(Sum_{j=1..i}{d_(k-j+1)*10^(i-j)})} (see example below)|
-|240902|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that sigma(n)-n = Sum_{i=1..k-1}{sigma(Sum_{j=1..i}{d_(j)*10^(j-1)})}} + Sum_{i=1..k-1}{sigma(Sum_{j=1..i}{d_(k-j+1)*10^(i-j)})} (see example below)|
-|240903|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that sigma(n)-n =  Sum_{i=1..k-1}{sigma(Sum_{j=1..i}{d_(k-j+1)*10^(i-j)})} - Sum_{i=1..k-1}{sigma(Sum_{j=1..i}{d_(j)*10^(j-1)})}} (see example below)|
+|240895|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that sigma(n) - n = Sum_ i=1..k-1  sigma(Sum_ j=1..i  d_(j)*10^(j-1) )   (see example below).|
+|240896|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that sigma(n) - n = Sum_ i=1..k-1  phi(Sum_ j=1..i  d_(j)*10^(j-1) )   (see example below).|
+|240899|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that sigma(n) - n = Sum_ i=1..k-1  sigma(Sum_ j=1..i  d_(k-j+1)*10^(i-j) )  (see example below).|
+|240900|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that sigma(n) - n = Sum_ i=1..k-1  phi(Sum_ j=1..i  d_(k-j+1)*10^(i-j) )  (see example below).|
+|240901|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that phi(n) = Sum_ i=1..k-1  sigma(Sum_ j=1..i  d_(k-j+1)*10^(i-j) )  (see example below)|
+|240902|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that sigma(n)-n = Sum_ i=1..k-1  sigma(Sum_ j=1..i  d_(j)*10^(j-1) )   + Sum_ i=1..k-1  sigma(Sum_ j=1..i  d_(k-j+1)*10^(i-j) )  (see example below)|
+|240903|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that sigma(n)-n =  Sum_ i=1..k-1  sigma(Sum_ j=1..i  d_(k-j+1)*10^(i-j) )  - Sum_ i=1..k-1  sigma(Sum_ j=1..i  d_(j)*10^(j-1) )   (see example below)|
 |240905|Smallest k such that the minimal factor in factorization of k! over distinct terms of A050376 is A050376(n), or a(n)=0 if there is no such k.|
 |240922|Magic constants of associative 4 X 4 X 4 cubes composed of distinct prime numbers.|
 |240934|Number of rectangles formed by the absolute leader classes of the seven dimensional integer lattice as function of the infinity norm n, where the rectangles have one common lattice point being the origin of the seven dimensional integer lattice.|
@@ -11627,7 +11627,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |241198|Denominator of new minima of phi(p-1)/(p-1), where phi is Euler's totient function and p = prime(n).|
 |241201|a(n) is the least r such that there are n+2 consecutive increasing terms in the r-th row of Pascal's triangle (binomial(r,*)) which satisfy a polynomial of degree n.|
 |241202|Beginning of a polynomial relation of degree n in n+2 terms in the first half of Pascal's triangle. See A241201.|
-|241207|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that sigma(n)-n =  Sum_{i=1..k-1}{sigma(Sum_{j=1..i}{d_(j)*10^(j-1)})}} - Sum_{i=1..k-1}{sigma(Sum_{j=1..i}{d_(k-j+1)*10^(i-j)})} (see example below)|
+|241207|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that sigma(n)-n =  Sum_ i=1..k-1  sigma(Sum_ j=1..i  d_(j)*10^(j-1) )   - Sum_ i=1..k-1  sigma(Sum_ j=1..i  d_(k-j+1)*10^(i-j) )  (see example below)|
 |241208|Number of binary strings of length 2n having exactly 1 factorization as a concatenation of one or more even-length palindromes.|
 |241210|Number of binary strings of length n having a factorization as a concatenation of palindromes of length at least 2.|
 |241211|Number of binary strings of length n having exactly one factorization as a concatenation of palindromes of length >= 2.|
@@ -11690,7 +11690,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |242176|Numbers k such that k*6^k + 1 is prime.|
 |242177|Numbers k such that k*7^k + 1 is prime.|
 |242178|Numbers k such that k*8^k + 1 is prime.|
-|242187|Decimal expansion of Sum_{n>=1} 1/(prime(n)*prime(n+1)*prime(n+2)): Sum of reciprocals of products of three successive primes.|
+|242187|Decimal expansion of Sum_ n>=1  1/(prime(n)*prime(n+1)*prime(n+2)): Sum of reciprocals of products of three successive primes.|
 |242196|Numbers k such that k*12^k + 1 is prime.|
 |242197|Numbers k such that k*14^k + 1 is prime.|
 |242198|Numbers k such that k*15^k + 1 is prime.|
@@ -11710,10 +11710,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |242272|Numbers n such that n*9^n+1 is semiprime.|
 |242273|Numbers n such that n*2^n - 1 is a semiprime.|
 |242274|Numbers k such that k*3^k - 1 is semiprime.|
-|242301|Decimal expansion of C(2), where C(x) = -Sum{k>=1} (-1)^k/prime(k)^x.|
-|242302|Decimal expansion of C(3), where C(x) = -Sum_{k>=1} (-1)^k/prime(k)^x.|
-|242303|Decimal expansion of C(4), where C(x) = -Sum_{k>=1} (-1)^k/prime(k)^x.|
-|242304|Decimal expansion of C(5), where C(x) = -Sum_{k>=1} (-1)^k/prime(k)^x.|
+|242301|Decimal expansion of C(2), where C(x) = -Sum k>=1  (-1)^k/prime(k)^x.|
+|242302|Decimal expansion of C(3), where C(x) = -Sum_ k>=1  (-1)^k/prime(k)^x.|
+|242303|Decimal expansion of C(4), where C(x) = -Sum_ k>=1  (-1)^k/prime(k)^x.|
+|242304|Decimal expansion of C(5), where C(x) = -Sum_ k>=1  (-1)^k/prime(k)^x.|
 |242323|Number of binary words of length n that contain all 32 5-bit words as (possibly overlapping) contiguous subwords.|
 |242324|Indices of primes in the tribonacci-like sequence A214827.|
 |242336|Numbers k such that k*5^k-1 is semiprime.|
@@ -11727,13 +11727,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |242465|Minimum number of mathematical symbols and operators in common use required to write n using exactly three 4's. This version allows only addition, subtraction, multiplication, division, square root, exponentiation, factorial, subfactorial, decimal point, overline (an infinitely repeated digit), parentheses, as well as concatenation.|
 |242487|Numbers k such that (2*k)! + k! + 1 is prime.|
 |242492|For any integer m > 1, the m-th term of the sequence is the minimal squarefree integer x with exactly m prime divisors such that x+1 and x+2 are also squarefree integers with exactly m prime divisors.|
-|242520|Number of cyclic arrangements of S={1,2,...,2n} such that the difference between any two neighbors is 3^k for some k=0,1,2,...|
-|242521|Number of cyclic arrangements (up to direction) of {1,2,...,n} such that the difference between any two neighbors is b^k for some b>1 and k>1.|
-|242528|Number of cyclic arrangements of {0,1,...,n-1} such that both the difference and the sum of any two neighbors are prime.|
-|242530|Number of cyclic arrangements of S={1,2,...,2n} such that the binary expansions of any two neighbors differ by one bit.|
-|242531|Number of cyclic arrangements of S={1,2,...,n} such that the difference of any two neighbors is a divisor of their sum.|
-|242532|Number of cyclic arrangements of S={2,3,...,n+1} such that the difference of any two neighbors is greater than 1, and a divisor of their sum.|
-|242533|Number of cyclic arrangements of S={1,2,...,2n} such that the difference of any two neighbors is coprime to their sum.|
+|242520|Number of cyclic arrangements of S= 1,2,...,2n  such that the difference between any two neighbors is 3^k for some k=0,1,2,...|
+|242521|Number of cyclic arrangements (up to direction) of  1,2,...,n  such that the difference between any two neighbors is b^k for some b>1 and k>1.|
+|242528|Number of cyclic arrangements of  0,1,...,n-1  such that both the difference and the sum of any two neighbors are prime.|
+|242530|Number of cyclic arrangements of S= 1,2,...,2n  such that the binary expansions of any two neighbors differ by one bit.|
+|242531|Number of cyclic arrangements of S= 1,2,...,n  such that the difference of any two neighbors is a divisor of their sum.|
+|242532|Number of cyclic arrangements of S= 2,3,...,n+1  such that the difference of any two neighbors is greater than 1, and a divisor of their sum.|
+|242533|Number of cyclic arrangements of S= 1,2,...,2n  such that the difference of any two neighbors is coprime to their sum.|
 |242540|Least k such that A242465(k) = n.|
 |242565|Numbers k such that (k!+1)/(k+1) is prime.|
 |242572|Indices of primes in A214828.|
@@ -11782,10 +11782,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |242994|Numbers n such that n!3 - 3 is prime, where n!3 = n!!! is a triple factorial number (A007661).|
 |242998|Number of integers k such that R = (2^k*Q - Q - 1)/(Q + 1 - 2^k) is a prime number, when Q = A000668(n) is the n-th Mersenne prime.|
 |242999|Mersenne prime exponents p in A000043 such that R=2^k-1+(2^k-2)/(2^(p-k)-1) is prime for some k < p, listed with multiplicity (number of k's), see A243003 for the k-values.|
-|243000|max {A053695(k) | k < n+2} -  max {A053695(k) | k < n+1}.|
+|243000|max  A053695(k) | k < n+2  -  max  A053695(k) | k < n+1 .|
 |243003|Pairs (p,k) such that p is in A000043 and R=2^k-1+(2^k-2)/(2^(p-k)-1) is prime: this sequence lists the k-values, see A242999 for the p-values. (Ordered by p, then k.)|
 |243013|Number of graphs with n vertices and n-1 edges that can be gracefully labeled.|
-|243018|Numbers k such that Sum_{i=1..k} phi(i) is divisible by Sum_{i=1..k} d(i), where phi(i) is the Euler totient function of i (A000010), and d(i) is the number of divisors of i (A000005).|
+|243018|Numbers k such that Sum_ i=1..k  phi(i) is divisible by Sum_ i=1..k  d(i), where phi(i) is the Euler totient function of i (A000010), and d(i) is the number of divisors of i (A000005).|
 |243048|Number of simple graphs on n nodes having a non-unique Tutte polynomial.|
 |243049|Number of simple graphs on n nodes having a unique Tutte polynomial.|
 |243050|Composite integers n such that n-1 divided by the binary period of 1/n (=A007733(n)) equals an integral power of 2.|
@@ -11941,7 +11941,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |244025|Analog of A244020, but starting with 5 points, and with the constraint that new points (or lines) are formed only from the intersections of lines (or points) of the same generation.|
 |244026|Analog of A140468, but starting with 5 points, and with the constraint that new points (or lines) are formed only from the intersections of lines (or points) of the same generation.|
 |244059|Initial digit of the decimal expansion of n^(n^(n^n)) or n^^4 (in Don Knuth's up-arrow notation).|
-|244077|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that n’ = Sum_{i=1..k-1}{Sum_{j=1..i}{d_(k-j+1)*10^(i-j)}}’, where n’ is the arithmetic derivative of n (see example below).|
+|244077|Consider a number of k digits n = d_(k)*10^(k-1) + d_(k-1)*10^(k-2) + … + d_(2)*10 + d_(1). Sequence lists the numbers n such that n’ = Sum_ i=1..k-1  Sum_ j=1..i  d_(k-j+1)*10^(i-j)  ’, where n’ is the arithmetic derivative of n (see example below).|
 |244090|Numbers n such that n is a factorion (A014080, equal to the sum of the factorials of its digits), in at least one base b.|
 |244189|a(n) = most common final digit for a prime with n digits, or 0 if there is a tie.|
 |244190|a(n) = most common 2-digit ending for a prime with n digits, or 0 if there is a tie.|
@@ -11969,8 +11969,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |244371|Number of toothpicks added at n-th stage in the toothpick structure of the symmetric representation of sigma in the four quadrants.|
 |244424|Least number k > 0 such that concatenating k consecutive natural numbers beginning with n is prime, or 0 if no such number exists.|
 |244427|Number of unlabeled, connected graphs on n vertices with no subgraph isomorphic to a bull-graph.|
-|244434|Numbers n such that A244433(n) does not belong to the set {A244433(n-1), A244433(n+1)}.|
-|244436|Numbers n such that A244435(n) is not in the set {A244435(n-1), A244435(n+1)}.|
+|244434|Numbers n such that A244433(n) does not belong to the set  A244433(n-1), A244433(n+1) .|
+|244436|Numbers n such that A244435(n) is not in the set  A244435(n-1), A244435(n+1) .|
 |244440|Numbers n such that n + phi(n) is a power of 10.|
 |244441|a(n) is the smallest prime p such that p has at least one digit greater than 1 and all the n numbers ds(p), ds(ds(p)), ..., ds(ds(...(ds(p))...)) are primes. The function ds is defined in the comment lines.|
 |244442|a(n) is the smallest prime p such that all the n numbers dip(p), dip(dip(p)), ..., dip(dip(...(dip(p))...)) are primes. The function dip is defined in the comment lines.|
@@ -11990,22 +11990,22 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |244507|Square roots of A244506.|
 |244521|Number of pseudo-square parallelogram (psp) polyominoes by semiperimeter.|
 |244522|Number of simple involutions of length n.|
-|244524|Number of pairs (f,g) of commuting maps {0,..,n-1}->{0,..,n-1} with 0 <= f(k), g(k) <= k.|
+|244524|Number of pairs (f,g) of commuting maps  0,..,n-1 -> 0,..,n-1  with 0 <= f(k), g(k) <= k.|
 |244546|Wieferich primes p to base p-th prime.|
 |244574|Absolute discriminants of complex quadratic fields with 3-class rank 3 and thus with infinite class tower.|
 |244575|Absolute discriminants of complex quadratic fields with 3-class group of type (3,3,3), thus having an infinite class tower.|
-|244598|Integers n such that for every k > 0, n*10^k-1 has a divisor in the set { 11, 73, 101, 137 }.|
+|244598|Integers n such that for every k > 0, n*10^k-1 has a divisor in the set   11, 73, 101, 137  .|
 |244599|Least primes x that remain primes for n steps under the transform T(x) as defined in A243993.|
 |244601|Position of first occurrence of n consecutive equal digits in the decimal expansion of e starting after the decimal point.|
 |244602|First repdigit number with n digits occurring in the decimal expansion of e, starting after the decimal point.|
 |244624|Consider the number of lines in the Pratt certificate for the n-th prime (A037202). This sequence shows where 2n first occurs.|
-|244629|Number of power series 1 + c_1*x^1 + c_2*x^2 + ... + c_{n-1}*x^{n-1} + O(x^n) with c_k in {-1, 0, 1} whose reciprocal has the same property.|
+|244629|Number of power series 1 + c_1*x^1 + c_2*x^2 + ... + c_ n-1 *x^ n-1  + O(x^n) with c_k in  -1, 0, 1  whose reciprocal has the same property.|
 |244742|Dimension of the vector space of 4-invariants on simple unlabeled graphs on n vertices.|
 |244743|Smallest number n with ||n-1||-||n|| = k where ||n||=A005245(n) denotes the complexity of n.|
 |244744|Smallest number with additive excess n.|
 |244860|Number of Fibonacci numbers in generation n of the tree at A232559.|
 |244889|Second column of triangle in A244888.|
-|244891|Class number of maximal order O_1 in a totally definite quaternion Q(sqrt(p))-algebra D_{oo_1, oo_2}, where p = n-th prime.|
+|244891|Class number of maximal order O_1 in a totally definite quaternion Q(sqrt(p))-algebra D_ oo_1, oo_2 , where p = n-th prime.|
 |244913|Primes p such that 2^pi(p-1) - p is also prime.|
 |244916|Primes prime(i) such that prime(i) + 2^(i+1) is also prime.|
 |244917|Smallest prime p such that p - 2^e is also prime in exactly n cases for nonnegative integers e.|
@@ -12019,13 +12019,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |245079|Number of bipolar Boolean functions, that is, Boolean functions that are monotone or antimonotone in each argument.|
 |245098|The np values for distinct terms of A246783.|
 |245101|The np values for terms in A246783.|
-|245167|Triangle read by rows: coefficients of the polynomials A_{1,4}(n,k).|
-|245168|Triangle read by rows: coefficients of the polynomials A_{1,5}(n,k).|
-|245169|Triangle read by rows: coefficients of the polynomials A_{1,6}(n,k).|
-|245170|Triangle read by rows: coefficients of the polynomials A_{1,7}(n,k).|
-|245171|Triangle read by rows: coefficients of the polynomials A_{2,4}(n,k).|
-|245172|Triangle read by rows: coefficients of the polynomials A_{2,5}(n,k).|
-|245206|Odd primes p with E_{p-3}(1/4) == 0 (mod p), where E_n(x) denotes the Euler polynomial of degree n.|
+|245167|Triangle read by rows: coefficients of the polynomials A_ 1,4 (n,k).|
+|245168|Triangle read by rows: coefficients of the polynomials A_ 1,5 (n,k).|
+|245169|Triangle read by rows: coefficients of the polynomials A_ 1,6 (n,k).|
+|245170|Triangle read by rows: coefficients of the polynomials A_ 1,7 (n,k).|
+|245171|Triangle read by rows: coefficients of the polynomials A_ 2,4 (n,k).|
+|245172|Triangle read by rows: coefficients of the polynomials A_ 2,5 (n,k).|
+|245206|Odd primes p with E_ p-3 (1/4) == 0 (mod p), where E_n(x) denotes the Euler polynomial of degree n.|
 |245237|Numbers n such that (48^n - 1)/47 is prime.|
 |245241|Integers n such that 6 * 7^n + 1 is prime.|
 |245246|Number of ways to delete an edge (up to the outcome) in the simple unlabeled graphs on n nodes.|
@@ -12049,7 +12049,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |245546|Number of conditionally controllable graphs on n nodes.|
 |245567|Number of antichain covers of a labeled n-set such that for every two distinct elements in the n-set, there is a set in the antichain cover containing one of the elements but not the other.|
 |245569|Numbers n such that binomial(2^n-1,n) is squarefree.|
-|245583|Wieferich prime candidates: primes of the form A242139(n)+1 also having the form {m*(2^rs - 1)/(2^r - 1)}+1.|
+|245583|Wieferich prime candidates: primes of the form A242139(n)+1 also having the form  m*(2^rs - 1)/(2^r - 1) +1.|
 |245620|Number of unitary polyominoes with n cells.  A unitary polyomino is a polyomino whose edges all have length 1.|
 |245626|a(n)= 1 (respectively, a(n)= 3) if up to 2^n the number of A245622-terms is more (respectively, less) than the number of A245623-terms; or a(n)=0 if these numbers are equal.|
 |245646|The smallest member 'a' of the Pythagorean triples (a,b,c) ordered by increasing c, where the triples consist of a triangular number, a square number and a pentagonal number.|
@@ -12121,13 +12121,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |246501|a(n) is the smallest term of A242719 that is repeated exactly n times, or 0 if there is no such term.|
 |246502|a(n) is the smallest term of A242720 that is repeated exactly n times, or 0 if there is no such term.|
 |246505|Decimal expansion of Planck area in square meters.|
-|246506|a(n) is the number m_0 with the property that if m >= m_0, then every graph obtained from the complete bipartite graph K_{m,m+n} by deleting two edges is chromatically unique.|
+|246506|a(n) is the number m_0 with the property that if m >= m_0, then every graph obtained from the complete bipartite graph K_ m,m+n  by deleting two edges is chromatically unique.|
 |246532|Smallest Meertens number in base n, or -1 if none exists.|
 |246535|Largest number with at most n distinct digits in any base b >= 2 (written in decimal).|
 |246536|a(n) = number of strings (including the empty string) over an alphabet of size n that do not have any substrings of length > 1 that appear more than once in the string.|
 |246541|Take the squares of all P_(n+2)-rough numbers less than the (n+1)th primorial and mod each by the (n+1)th primorial. There will be a(n) different results.|
 |246544|Consider the aliquot parts, in ascending order, of a composite number. Take their sum and repeat the process deleting the minimum number and adding the previous sum. The sequence lists the numbers that after some iterations reach a sum equal to themselves.|
-|246545|Numbers such that Sum_{i=1..k}{phi(d(i))} = Sum_{i=1..k}{phi(Rev(d(i)))}, where d(i) are the k divisors of n, Rev(d(i)) the reverse of the divisors d(i) and phi(x) the Euler totient function. Numbers with all palindromic divisors are not considered.|
+|246545|Numbers such that Sum_ i=1..k  phi(d(i))  = Sum_ i=1..k  phi(Rev(d(i))) , where d(i) are the k divisors of n, Rev(d(i)) the reverse of the divisors d(i) and phi(x) the Euler totient function. Numbers with all palindromic divisors are not considered.|
 |246597|A070952(2^n-1).|
 |246602|Number of connected bicubical graphs on 2n labeled nodes of two colors|
 |246624|a(1)=1 and a(n+1) is the smallest number m such that A244446(a(n)) < A244446(m).|
@@ -12174,7 +12174,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |246993|Number of abstract dissection types of configurations of n points in n+4 dimensions.|
 |246994|a(n) has property that for any finite field F of odd characteristic and order >= a(n) there is no bijective map m: M_n(F)->M_n(F) such that permanent A = det m(A).|
 |246995|Multiplicity of the zero at x=1 of the characteristic polynomial P_n^F.|
-|246996|Multiplicity of the zero at x=1 of the characteristic polynomial P_n^{F+}.|
+|246996|Multiplicity of the zero at x=1 of the characteristic polynomial P_n^ F+ .|
 |247000|Maximal number of palindromes in a circular binary word of length n.|
 |247001|A246335(2^n-1).|
 |247002|A164982(2^n).|
@@ -12204,15 +12204,15 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |247148|Primes p that divide LS(p), where LS is the "Look and Say" function (A045918).|
 |247153|a(n) = smallest prime p for which cyclic digit shifts produce exactly n different primes, or 0 if no such p exists for n.|
 |247154|a(n) = smallest composite c such that n^(A000010(c)) == 1 (mod c^2), i.e., smallest composite Wieferich number to base n.|
-|247157|Greatest number of colors possible for interval edge-colorings of the complete graph K_{2n}.|
-|247164|Primes p such that Product_{d|(p-2)} phi(d) = Product_{d|(p-1)} phi(d) where phi(x) = Euler totient function (A000010).|
+|247157|Greatest number of colors possible for interval edge-colorings of the complete graph K_ 2n .|
+|247164|Primes p such that Product_ d|(p-2)  phi(d) = Product_ d|(p-1)  phi(d) where phi(x) = Euler totient function (A000010).|
 |247165|Numbers n such that n^2 + 1 divides 2^n - 1.|
 |247166|Numbers k such that 15^k+4 is prime.|
 |247181|Total domination number of the n-hypercube graph.|
 |247182|Numbers n such that the smallest n-digit odd number concatenated with the largest n-digit odd number is prime.|
 |247183|Numbers n such that the largest n-digit odd number concatenated with the smallest n-digit odd number is prime.|
 |247192|Indices of primes in the hexanacci numbers sequence A000383.|
-|247203|Primes p such that phi(p-2) = phi(p-1) and simultaneously Product_{d|(p-2)} phi(d) = Product_{d|(p-1)} phi(d) where phi(x) = Euler totient function (A000010).|
+|247203|Primes p such that phi(p-2) = phi(p-1) and simultaneously Product_ d|(p-2)  phi(d) = Product_ d|(p-1)  phi(d) where phi(x) = Euler totient function (A000010).|
 |247205|Numbers n such that 2*n^2 - 1 divides 2^n - 1.|
 |247210|a(0) = 0. a(n) is the number of distinct sums formed by [a(0), ... a(n-1)] + [a(0), ... a(n-1)] + ... + [a(0), ... a(n-1)], where [a(0), ... a(n-1)] is repeated n times.|
 |247211|a(0) = 0. a(n) is the number of repeating sums made from [a(0), ... a(n-1)] + [a(0), ... a(n-1)] + ... + [a(0), ... a(n-1)], where [a(0), ... a(n-1)] is repeated n times.|
@@ -12220,10 +12220,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |247221|Numbers n such that 2*n^2 + 1 divides 2^n + 1.|
 |247228|Prime numbers p where 2^p-1 is composite that set records for smallest prime factor of 2^p-1: the smallest prime factor of 2^p-1 is larger than the smallest prime factor of 2^q-1 for all primes q > p.|
 |247229|Minimum of the greatest prime factors of (i^prime(n)-1)/(i-1), when i runs through all integers in [2, prime(n)].|
-|247240|Numbers such that A059248(k), the numerator of Sum_{i=1..k} 1/Fibonacci(i), is not equal to A250744(k), the denominator of the harmonic mean of the first k positive Fibonacci numbers.|
+|247240|Numbers such that A059248(k), the numerator of Sum_ i=1..k  1/Fibonacci(i), is not equal to A250744(k), the denominator of the harmonic mean of the first k positive Fibonacci numbers.|
 |247244|Smallest prime p such that (n^p+(n+1)^p)/(2n+1) is prime, or 0 if no such p exists.|
 |247260|Numbers n such that 5*6^n + 1 is prime.|
-|247276|Primes p such that p + m^2 is prime for all m in {2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26}.|
+|247276|Primes p such that p + m^2 is prime for all m in  2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26 .|
 |247388|Base-n state complexity of partitioned deterministic finite automaton (PDFA) for the periodic sequence (12345678)*.|
 |247389|Base-n state complexity of partitioned deterministic finite automaton (PDFA) for the periodic sequence (123456789)*.|
 |247392|Decimal expansion of 'v', a parking constant associated with the asymptotic variance of the number of cars that can be parked in a given interval.|
@@ -12313,13 +12313,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |247982|Number of inequivalent expressions involving n operands, ignoring sign.|
 |248018|Least number k > 0 such that n^k contains n*R_n in its decimal representation, or 0 if no such k exists.|
 |248037|Numbers n such that the ratio of tripling steps to halving steps in the Collatz (3x+1) trajectory of n is greater than all previous ratios.|
-|248113|Number of subsets of {1,...,n} containing n and having at least one set partition into 4 blocks with equal element sum.|
-|248114|Number of subsets of {1,...,n} containing n and having at least one set partition into 5 blocks with equal element sum.|
-|248115|Number of subsets of {1,...,n} containing n and having at least one set partition into 6 blocks with equal element sum.|
-|248116|Number of subsets of {1,...,n} containing n and having at least one set partition into 7 blocks with equal element sum.|
-|248117|Number of subsets of {1,...,n} containing n and having at least one set partition into 8 blocks with equal element sum.|
-|248118|Number of subsets of {1,...,n} containing n and having at least one set partition into 9 blocks with equal element sum.|
-|248119|Number of subsets of {1,...,n} containing n and having at least one set partition into 10 blocks with equal element sum.|
+|248113|Number of subsets of  1,...,n  containing n and having at least one set partition into 4 blocks with equal element sum.|
+|248114|Number of subsets of  1,...,n  containing n and having at least one set partition into 5 blocks with equal element sum.|
+|248115|Number of subsets of  1,...,n  containing n and having at least one set partition into 6 blocks with equal element sum.|
+|248116|Number of subsets of  1,...,n  containing n and having at least one set partition into 7 blocks with equal element sum.|
+|248117|Number of subsets of  1,...,n  containing n and having at least one set partition into 8 blocks with equal element sum.|
+|248118|Number of subsets of  1,...,n  containing n and having at least one set partition into 9 blocks with equal element sum.|
+|248119|Number of subsets of  1,...,n  containing n and having at least one set partition into 10 blocks with equal element sum.|
 |248135|Composite numbers c that divide the sum of remainders of c' mod k, for k from 1 to c', where c' is the arithmetic derivative of c.|
 |248145|Consider the partition of the positive odd integers into minimal blocks such that concatenation of numbers in each block is a number of the form 3^k*prime, k>=0. Sequence lists numbers of odd integers in the blocks.|
 |248349|Numbers k such that 10^k + 123456789 is prime.|
@@ -12329,11 +12329,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |248379|Even terms in A247665 in order of appearance.|
 |248380|a(n) = 1 if first player in Sylver coinage game can force a win by choosing n as the first number, otherwise a(n) = 2.|
 |248381|Multiples of 3 in A247665 in order of appearance.|
-|248382|Number of n-strand braids of length at most 2 in the dual monoid B_n^{+*}.|
-|248383|Number of n-strand braids of length at most 3 in the dual monoid B_n^{+*}.|
-|248384|Number of n-strand braids of length at most 4 in the dual monoid B_n^{+*}.|
-|248385|Number of n-strand braids of length at most 5 in the dual monoid B_n^{+*}.|
-|248386|Number of n-strand braids of length at most 6 in the dual monoid B_n^{+*}.|
+|248382|Number of n-strand braids of length at most 2 in the dual monoid B_n^ +* .|
+|248383|Number of n-strand braids of length at most 3 in the dual monoid B_n^ +* .|
+|248384|Number of n-strand braids of length at most 4 in the dual monoid B_n^ +* .|
+|248385|Number of n-strand braids of length at most 5 in the dual monoid B_n^ +* .|
+|248386|Number of n-strand braids of length at most 6 in the dual monoid B_n^ +* .|
 |248525|Primes of the form 2^x - y^2 that are primes of the form m^2 - 2^k.|
 |248546|Numbers n such that 75^n-2 is prime.|
 |248547|Numbers n such that 75^n+2 is prime.|
@@ -12353,8 +12353,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |248735|Number of digits in the decimal expansion of the number of partitions of 7^n.|
 |248757|Indices of prime Fibonacci 5-step numbers, A001591.|
 |248787|Numbers x such that sigma(x) = rev(sigma*(x)), where sigma(x) is the sum of the divisors of x, sigma*(x) the sum of the anti-divisors of x and rev(x) the reverse of x.|
-|248795|Numbers n such that Product_{d|n} phi(d) = Product_{d|(n+1)} phi(d) where phi(x) = Euler totient function (A000010).|
-|248796|Numbers n such that Product_{d|(n-2)} phi(d) = Product_{d|(n-1)} phi(d) where phi(x) = Euler totient function (A000010).|
+|248795|Numbers n such that Product_ d|n  phi(d) = Product_ d|(n+1)  phi(d) where phi(x) = Euler totient function (A000010).|
+|248796|Numbers n such that Product_ d|(n-2)  phi(d) = Product_ d|(n-1)  phi(d) where phi(x) = Euler totient function (A000010).|
 |248802|Smallest prime factor of 2^(2^n+2) + 3.|
 |248816|Numbers that are equal to the arithmetic derivative of the sum of their aliquot parts.|
 |248819|Numbers n such that the digits of antisigma(n) end in sigma(n).|
@@ -12373,7 +12373,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |248915|Composite numbers which divide the concatenation of their prime factors, with multiplicity, in descending order.|
 |248919|"Stubborn primes" (see comments in A232210).|
 |248920|Indices of primes in the pentanacci numbers sequence A000322.|
-|248929|Triangle read by rows: T(n,k) = PIP(n,k) is the number of maximal families of sets from {1,2,...,n} with the property that if A and B are sets in the family, then |AB|>=k.|
+|248929|Triangle read by rows: T(n,k) = PIP(n,k) is the number of maximal families of sets from  1,2,...,n  with the property that if A and B are sets in the family, then |AB|>=k.|
 |248958|Maximum number of distinct nonempty squares in a binary string of length n.|
 |249011|Smallest prime(i) such that the constellation of the n following prime gaps is the same constellation as the gaps following prime(i+n).|
 |249012|Smallest prime such that the multisets of the next n and the following n prime gaps are equal.|
@@ -12526,8 +12526,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |252791|Numbers m such that 6^m + m is a semiprime.|
 |252794|Numbers m such that 9^m + m is a semiprime.|
 |252795|Numbers m such that 10^m + m is a semiprime.|
-|252801|Primes whose trajectories under the map x -> A039951(x) enter the cycle {2, 1093}.|
-|252802|Primes whose trajectory under the map x -> A039951(x) enters the cycle {3, 11, 71}.|
+|252801|Primes whose trajectories under the map x -> A039951(x) enter the cycle  2, 1093 .|
+|252802|Primes whose trajectory under the map x -> A039951(x) enters the cycle  3, 11, 71 .|
 |252864|Number of pairs in generation n of the tree T defined in Comments.|
 |252897|Rainbow Squares: a(n) = number of ways to pair the integers 1 to 2n so that the sum of each pair is a square.|
 |252943|Number of Fermat pseudoprimes between 2^n and 2^(n+1) that are not Carmichael numbers.|
@@ -12546,11 +12546,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |253234|Smallest prime p such that p^2 divides n^(p-1)-(n-1)^(p-1).|
 |253242|Least k>=0 such that n^(2^k)+1 is prime (for even n), or (n^(2^k)+1)/2 is prime (for odd n); -1 if no such k exists.|
 |253287|Numbers representable as x^y + x*y and as b^c + b + c, where x, y, b, c are integers > 1.|
-|253302|Smallest integer m such that gcd{x | sum of proper divisors of x is m} is equal to n, when there are at least two such x's.|
-|253303|Smallest integer m such that gcd{x | sum of proper divisors of x is m} is equal to 2*n, when there are at least two such x's.|
+|253302|Smallest integer m such that gcd x | sum of proper divisors of x is m  is equal to n, when there are at least two such x's.|
+|253303|Smallest integer m such that gcd x | sum of proper divisors of x is m  is equal to 2*n, when there are at least two such x's.|
 |253316|Number of 2n X 2n Takuzu grids.|
-|253357|Decimal expansion of Sum_{n>=1} prime(n)/n^4.|
-|253358|Decimal expansion of Sum_{n>=1} prime(n)/n^3.|
+|253357|Decimal expansion of Sum_ n>=1  prime(n)/n^4.|
+|253358|Decimal expansion of Sum_ n>=1  prime(n)/n^3.|
 |253380|Numbers n such that 17^n+4 is prime.|
 |253425|Lengths of runs of identical terms in A253415.|
 |253426|Reusable Paper Tape Numbers: Maximum number of symbols that can be encoded on an n-hole paper tape, such that a used paper tape can always be reused at least once.|
@@ -12572,7 +12572,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |253609|Array read by upwards antidiagonals: a(n,k) = index of prime(k)^n in A098550.|
 |253620|Maximum number of segments in nonintersecting increasing path on n X n hexagonal (isogonal) grid.|
 |253633|a(n) is the least positive integer b such that b^(2^n) + (b-1)^(2^n) is prime.|
-|253634|Decimal expansion of Sum_{n>=1} 1/A033286(n)^2.|
+|253634|Decimal expansion of Sum_ n>=1  1/A033286(n)^2.|
 |253646|Primes p such that p^k is zeroless for k=1,...,6.|
 |253683|Primes p in increasing order with p > A253684(n) > A253685(n) such that (p, A253684(n), A253685(n)) forms a Wieferich triple.|
 |253684|Primes q with A253683(n) > q > A253685(n) such that (A253683(n), q, A253685(n)) forms a Wieferich triple.|
@@ -12595,11 +12595,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |253949|Number of finite, negative, Archimedean, totally ordered monoids of size n (semi-groups with a neutral element that is also the top element).|
 |253950|Number of finite, negative, totally ordered monoids of size n (semi-groups with a neutral element that is also the top element).|
 |253968|Numbers n such that (23*10^n - 26)/6 is prime.|
-|254002|Numbers n such that 1 + 46* Sum_{k=1..n} 100^(k-1) is prime.|
+|254002|Numbers n such that 1 + 46* Sum_ k=1..n  100^(k-1) is prime.|
 |254003|For n>=1, let B_n(k) be the sequence defined by b(1)=1, b(2)=p_1, ..., b(n+2)=p_(n+1), thereafter (for k>=n+3) the smallest number not occurring earlier having at least one common factor with b(k-(n+1)), but none with b(k-1)*b(k-2)*...*b(k-n); a(n) is m such that B_n(m)=6.|
 |254004|Numbers that divide the reverse of the sum of their divisors.|
 |254005|Numbers that divide the reverse of the sum of their aliquot parts.|
-|254007|Cardinality of the set of equivalence classes of the set X_n of finite integer sequences {x_1 = 0, x_2, ..., x_n} satisfying |x_k - x_{k+1}| = 1, where two such sequences are deemed equivalent if they are permutations of each other.|
+|254007|Cardinality of the set of equivalence classes of the set X_n of finite integer sequences  x_1 = 0, x_2, ..., x_n  satisfying |x_k - x_ k+1 | = 1, where two such sequences are deemed equivalent if they are permutations of each other.|
 |254036|Number of Lyndon-Bell strings of length n.|
 |254042|a(n) is the smallest nonnegative integer such that a(n)! contains a string of exactly n consecutive 1's.|
 |254069|a(n) = smallest k such that none of 4*k - 4*j + 2 and 4*k + 4*j - 2, j = 0, 1, 2, .. n, are squarefree.|
@@ -12641,7 +12641,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |255209|Primes p for which exactly six bases b with 1 < b < p exist such that p is a base b Wieferich prime.|
 |255254|a(n) = (A048891(n)-1)/A023143(n).|
 |255305|The largest number that cannot be written as a sum of squarefree numbers that are the product of n primes.|
-|255351|Values of b = max {a,b,c,d} for solutions to a^4 + b^4 = c^4 + d^4, a < c < d < b, ordered by size of b.|
+|255351|Values of b = max  a,b,c,d  for solutions to a^4 + b^4 = c^4 + d^4, a < c < d < b, ordered by size of b.|
 |255352|List of quadruples (a,b,c,d) with a^4 + b^4 = c^4 + d^4, a < c < d < b, listed in order of the largest term b.|
 |255354|a(n) = smallest number k such that (k + n)' = k', or -1 if no such number exists, where k' is the arithmetic derivative of k.|
 |255382|Number of vector spaces of dimension n generated by n X n matrices over F(2) of rank one, up to multiplication on the right by an invertible matrix and multiplication on the left by another invertible matrix.|
@@ -12669,7 +12669,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |255538|Number of connected rigid digital images of n points, up to isomorphism.|
 |255539|Number of digital images in Z^2 with 4-adjacency on n points up to isomorphism.|
 |255540|Number of connected digital images in Z^2 (regarding each point as connected to its 8 neighbors) on n points up to isomorphism.|
-|255576|Integers k such that Sum_{i=1..t-1} d(i)/d(i+1) is prime, where d(1), ..., d(t) are the divisors of k in ascending order.|
+|255576|Integers k such that Sum_ i=1..t-1  d(i)/d(i+1) is prime, where d(1), ..., d(t) are the divisors of k in ascending order.|
 |255579|Minimum prime p such that all the powers p^k, with k = 2, 3, …, n, are concatenations of two primes, while p^(k+1) is not.|
 |255599|Number of (semi-)regular tournaments of order n.|
 |255600|Number of connected planar regular graphs on 2n vertices with girth at least 4.|
@@ -12697,7 +12697,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |255981|a(n) = greatest number of edges in a simple polygon on an n X n grid with no two edges parallel.|
 |256000|Numbers whose square can be written as sum of at least 3 consecutive triangular numbers in two ways.|
 |256001|Minimum sum of a nonnegative integer triple that takes n moves to reach a 0 component, where a move picks two components, subtracts the smaller from the larger, and doubles the smaller.|
-|256009|Triangle read by rows: Largest cardinality of a set of Hamming diameter <= k in {0,1}^n, k <= n.|
+|256009|Triangle read by rows: Largest cardinality of a set of Hamming diameter <= k in  0,1 ^n, k <= n.|
 |256030|a(n) = A255502(n)/2.|
 |256032|Number of idempotents in partial Brauer monoid PB_n.|
 |256035|Number of idempotent basis elements in partition monoid P_n.|
@@ -12794,8 +12794,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |256945|Number of periods of reduced indefinite binary quadratic forms with discriminant D(n) = A079896(n).|
 |256957|Smallest palindromic prime that generates a palindromic prime pyramid of height n.|
 |256962|Numbers n such that A005210(n) = A005210(n-1).|
-|256968|Let b(n) = Product_{i=1..n} p_i/(p_i - 1), p_i = i-th prime; a(n) = minimum k such that b(k) >= n.|
-|256969|Let b(n) = Product_{i=1..n} p_i/(p_i - 1), p_i = i-th prime; a(n) = minimum k such that b(k) > n.|
+|256968|Let b(n) = Product_ i=1..n  p_i/(p_i - 1), p_i = i-th prime; a(n) = minimum k such that b(k) >= n.|
+|256969|Let b(n) = Product_ i=1..n  p_i/(p_i - 1), p_i = i-th prime; a(n) = minimum k such that b(k) > n.|
 |256972|Triangle read by rows: row n gives coefficients of polynomial chi_n(1,1,q), n >= 0.|
 |256979|Numbers n*(1,i) for i = 2,3,4,... arising from a computer study of a generalized Waring's problem.|
 |256980|Irregular triangle read by rows: row n gives number of connected graphs on n nodes with forcing number k (n>=1, k>=0).|
@@ -12838,8 +12838,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |257545|a(0) = 2, a(n) = smallest prime p such that none of p - 1, p - 2,... p - n are squarefree.|
 |257555|Number of distinct ways to dissect a cube into n rectangular boxes of equal volume, up to reflection and rotation.|
 |257590|Primes that arise from an investigation of values x for which pi(x) is different from the approximations pi_2(x).|
-|257592|Number of zeros of the polynomial Sum_{j=0..n-1} z^(2^j-1)inside the unit circle.|
-|257593|Number of zeros of the polynomial Sum_{j=0..n-1} z^(2^j-1)outside the unit circle.|
+|257592|Number of zeros of the polynomial Sum_ j=0..n-1  z^(2^j-1)inside the unit circle.|
+|257593|Number of zeros of the polynomial Sum_ j=0..n-1  z^(2^j-1)outside the unit circle.|
 |257594|Consider the hexagonal lattice packing of circles; a(n) is the maximal number of circles that can be enclosed by a closed chain of n circles.|
 |257630|Near-repdigit triangular numbers.|
 |257631|Near-repunit triangular numbers.|
@@ -12864,18 +12864,18 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |258079|Numbers x such that (-1)sigma(x) | sigma(x) - x, where (-1)sigma(x) is defined in A049060 and sigma(x) - x is the sum of the aliquot parts of x (A001065).|
 |258081|Values of k in A071580.|
 |258082|Smallest magic constant of most-perfect magic squares of order 2n composed of distinct prime numbers.|
-|258097|Number of nonnegative integers that can be computed using exactly n n's and the four basic arithmetic operations {+, -, *, /}.|
+|258097|Number of nonnegative integers that can be computed using exactly n n's and the four basic arithmetic operations  +, -, *, / .|
 |258103|Number of pandigital squares (containing each digit exactly once) in base n.|
 |258107|Smallest number > 1 whose representation in all bases up to n consists only of 0's and 1's.|
 |258110|Number of Mirror Chess games that end in checkmate after exactly n moves.|
 |258142|Consider the unitary aliquot parts, in ascending order, of a composite number. Take their sum and repeat the process deleting the minimum number and adding the previous sum. The sequence lists the numbers that after some iterations reach a sum equal to themselves.|
-|258156|Curl kernel sequence: a(n) is the number of independent constants on which an n-th-order tensor h can be shown to depend if the equation [curl (h nabla^{n-2}curl v)=0] is satisfied nontrivially for all vectors v.|
+|258156|Curl kernel sequence: a(n) is the number of independent constants on which an n-th-order tensor h can be shown to depend if the equation [curl (h nabla^ n-2 curl v)=0] is satisfied nontrivially for all vectors v.|
 |258186|a(n) is the maximal number of circles that can be enclosed by a closed chain of n circles; all circles' centers lie at coordinate points of the planar net 6.6.6.|
 |258204|Number of one-sided strictly non-overlapping holeless polyhexes of perimeter 2n, counted up to rotation.|
 |258205|Number of strictly non-overlapping holeless polyhexes of perimeter 2n with bilateral symmetry, counted up to rotation.|
 |258206|Number of strictly non-overlapping holeless polyhexes of perimeter 2n, counted up to rotations and turning over.|
 |258218|Number of length (4*n-1) bit patterns with 2*n ones that form circulant core of Hadamard matrices of size 4*n.|
-|258255|Least k such that n <= Sum_{i=1..k} 1/A258252(i), where A258252 are the numbers having lowest possible denominators for the sums of reciprocals.|
+|258255|Least k such that n <= Sum_ i=1..k  1/A258252(i), where A258252 are the numbers having lowest possible denominators for the sums of reciprocals.|
 |258270|Consider the unitary aliquot parts, in ascending order, of a composite number. Take their sum and repeat the process deleting the minimum number and adding the previous sum. The sequence lists the numbers that after some iterations reach a sum equal to the reverse of themselves.|
 |258333|Number of (primitive) weird numbers of the form 2^n*p*q, with odd primes p < q.|
 |258336|Least solution of the equation x' = x + p for increasing values of p, where x' is the arithmetic derivative of x and p is an odd prime. a(n)= -1 if no such solution exists.|
@@ -12884,12 +12884,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |258357|Numbers n such that cyclotomic polynomial value Phi(7,n!) is prime.|
 |258368|Smallest odd prime p such that A258367(p) = n, or 0 if no such p exists.|
 |258374|Least primitive weird number with n prime divisors, not counting multiplicity.|
-|258412|Decimal expansion of Integral_{x=0..1} Product_{k>=1} (1-x^k)^k dx.|
+|258412|Decimal expansion of Integral_ x=0..1  Product_ k>=1  (1-x^k)^k dx.|
 |258437|Smallest number m such that A062234(m) = A062234(m-1+k) for k = 1..n.|
 |258452|Numbers n such that n!! - 512 is prime.|
 |258616|Numbers n such that n!!-16 is prime.|
 |258643|Irregular triangle read by rows, n >= 1, k >= 0: T(n,k) is the number of distinct patterns of n X n squares with k holes that are squares (see the construction rule in comments).|
-|258683|Total number of permutations on {1,2,...,n} that have a unique longest increasing subsequence and a unique longest decreasing subsequence.|
+|258683|Total number of permutations on  1,2,...,n  that have a unique longest increasing subsequence and a unique longest decreasing subsequence.|
 |258691|Total number of congruence subgroups of PSL(2,Z) of genus n.|
 |258693|Number of congruence subgroups of PSL(2,Z) of genus n, up to conjugacy in PGL(2,Z).|
 |258694|Maximal level of a congruence subgroup of PSL(2,Z) of genus n.|
@@ -12955,7 +12955,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |259140|Numbers k such that 2*R_k + 9*10^k + 7 is prime, where R_k = 11...11 is the repunit (A002275) of length k.|
 |259141|Numbers k such that R_k + 9*10^k + 8 is prime, where R_k = 11...11 is the repunit (A002275) of length k.|
 |259230|a(n) = smallest k such that (A115091(n)-k)! == -1 (mod A115091(n)^2).|
-|259255|With a(1) = 1, a(n) is the smallest number not already in the sequence such that -1 + Product_{i=1..n} a(i) is a square.|
+|259255|With a(1) = 1, a(n) is the smallest number not already in the sequence such that -1 + Product_ i=1..n  a(i) is a square.|
 |259261|Fixed points in A073673.|
 |259262|Fixed points in A083275.|
 |259298|Numbers k such that k^2*2^k + 3 is prime.|
@@ -12973,11 +12973,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |259356|Triangle T(n,k) read by rows: T(n,k) is the number of closed lambda-terms of size n with size 0 for the variables and k abstractions.|
 |259359|Numbers n such that n!!-8 is prime.|
 |259365|Numbers n such that phi(Rev(n)) - phi(n) = n.|
-|259408|a(1) = 1 thereafter a(n) = Sum_{m=1..n-1} prime(a(m)).|
+|259408|a(1) = 1 thereafter a(n) = Sum_ m=1..n-1  prime(a(m)).|
 |259449|Triangle read by rows arising from enumeration of partitions into non-integral powers.|
 |259450|Triangle read by rows arising from enumeration of partitions into non-integral powers.|
 |259466|Smallest number of 10-bit complement complexity n.|
-|259482|Number of states in smallest deterministic finite automaton that accepts exactly the strings over the alphabet {1,2,...,n} having all permutations of 12...n as subsequences.|
+|259482|Number of states in smallest deterministic finite automaton that accepts exactly the strings over the alphabet  1,2,...,n  having all permutations of 12...n as subsequences.|
 |259484|Smallest nonprime number having least positive primitive root n, or 0 if no such root exists.|
 |259490|Numbers k such that the denominator of the n-th convergent of the continued fraction expansion of Pi is prime.|
 |259502|Primes p such that nextprime(p + 1)^(p - 1) == 1 (mod p^2).|
@@ -12987,13 +12987,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |259535|Numbers n such that 159^n - 158^n is prime.|
 |259544|Minimum greatest integer in a set of n positive integers whose nonempty subsets all have distinct arithmetic means.|
 |259545|Minimum number k such that, for every m >= k, there exists a set of n positive integers whose largest element is m and whose subsets all have distinct arithmetic means.|
-|259553|Number of distinct (n!)-tuples, with integer entries between 0 and n, inclusive, where entries measure the length of the longest prefix of each of the n! permutations of 123...n that is a subsequence of some string over the alphabet {1,2,3,...n}.|
+|259553|Number of distinct (n!)-tuples, with integer entries between 0 and n, inclusive, where entries measure the length of the longest prefix of each of the n! permutations of 123...n that is a subsequence of some string over the alphabet  1,2,3,...n .|
 |259621|Positive integers k with record-setting smallest values of abs(cos(k) - cos(k*Pi/180)).|
 |259630|a(n) is the smallest integer not occurring earlier such that 2^a(1) + 2^a(2) + ... + 2^a(n) is a prime.|
 |259633|a(n) = number of inequivalent necklaces with beads labeled 1/i (1 <= i <= n) such that the sum of the beads is 1 and the smallest bead is 1/n.|
 |259670|Numbers n with the property that it is possible to write the base 2 expansion of n as concat(a_2,b_2), with a_2>0 and b_2>0 such that, converting a_2 and b_2 to base 10 as a and b, we have antisigma(a) + antisigma(b) = n.|
 |259688|Related to Euler numbers.|
-|259700|a(n) = Sum_{k=2..n-1} k*A259698(n,k)|
+|259700|a(n) = Sum_ k=2..n-1  k*A259698(n,k)|
 |259701|Triangle read by rows: T(n,k) = number of permutations without overlaps in which the first increasing run has length k and the second element is not 2.|
 |259704|Triangle read by rows: T(n,k) = number of overlaps formed by element 1 in the set of permutations of n elements, where the element n does not occupy the k-th place after 1.|
 |259705|Row sums of A259704.|
@@ -13005,7 +13005,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |259791|Number of connected D-integral graphs on n vertices.|
 |259797|Number of partitions of 5^n into n-th powers.|
 |259798|Number of partitions of 6^n into n-th powers.|
-|259808|Guttmann-Torrie simple cubic lattice series coefficients c_n^{2}(Pi/2).|
+|259808|Guttmann-Torrie simple cubic lattice series coefficients c_n^ 2 (Pi/2).|
 |259835|a(n) is the number of odd primes of the form b^(2^n)+1 that are less than A123599(n+1).|
 |259839|Number of order-preserving Hamiltonian paths in the n-cube (Gray codes); see the comments for the precise definition of order-preserving.|
 |259854|Guttmann's coefficients c_n rho_n for square lattice.|
@@ -13020,9 +13020,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |259880|Right-hand diagonal of triangle A259879.|
 |259882|Number of graphs with n edges having a proper labeling that is bilaterally symmetric and satisfies condition (4.1) of Sheppard (1976).|
 |259898|Blease's b_n coefficients for 4-dimensional acyclic hypercubic lattice.|
-|259908|Triangle read by rows: Hammersley's numbers c_{j,k} arising from a formula for A085707(n,k).|
+|259908|Triangle read by rows: Hammersley's numbers c_ j,k  arising from a formula for A085707(n,k).|
 |259909|n-th Wieferich prime to base prime(n), i.e., primes p such that p is the n-th solution of the congruence (prime(n))^(p-1) == 1 (mod p^2).|
-|259924|Numbers n such that sigma(n) - n = sum_{k divides n, k < n} k', where sigma(n) is the sum of the divisors of n and k' is the arithmetic derivative of k.|
+|259924|Numbers n such that sigma(n) - n = sum_ k divides n, k < n  k', where sigma(n) is the sum of the divisors of n and k' is the arithmetic derivative of k.|
 |259943|Integers n dividing A000009(n)+1.|
 |259970|Triangle read by rows: coefficients eta(n,k) arising from the study of completely transitive graphs on n nodes.|
 |259971|Triangle read by rows: coefficients xi(n,k) arising from the study of completely transitive graphs on n nodes.|
@@ -13048,10 +13048,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |260335|Prime determinants of forms with class number > 2.|
 |260343|Numbers n such that the base-n number formed by concatenating the base-n numbers 1 2 ... n-1 n n-1 ... 2 1 is prime.|
 |260347|Coefficients of the sum of the mean squared distance generating function for the body-centered cubic lattice.|
-|260356|a(n) is the minimal value of Sum_{i=1..n} Product_{j=1..5} r_j(i), where each r_j is a permutation of {1,2,...,n}.|
-|260357|a(n) is the minimal value of Sum_{i=1..n} Product_{j=1..6} r_j(i), where each r_j is a permutation of {1,2,...,n}.|
-|260358|a(n) is the minimal value of Sum_{i=1..n} Product_{j=1..7} r_j(i), where each r_j is a permutation of {1,2,...,n}.|
-|260359|a(n) is the minimal value of Sum_{i=1..n} Product_{j=1..8} r_j(i), where each r_j is a permutation of {1,2,...,n}.|
+|260356|a(n) is the minimal value of Sum_ i=1..n  Product_ j=1..5  r_j(i), where each r_j is a permutation of  1,2,...,n .|
+|260357|a(n) is the minimal value of Sum_ i=1..n  Product_ j=1..6  r_j(i), where each r_j is a permutation of  1,2,...,n .|
+|260358|a(n) is the minimal value of Sum_ i=1..n  Product_ j=1..7  r_j(i), where each r_j is a permutation of  1,2,...,n .|
+|260359|a(n) is the minimal value of Sum_ i=1..n  Product_ j=1..8  r_j(i), where each r_j is a permutation of  1,2,...,n .|
 |260371|a(n) = A260351(n) - A023811(n), where A260351 is the limit of the orbit of 0 under x -> x + (largest digit not in x) and A023811 is the largest metadrome, both in base n.|
 |260375|Numbers k such that A260374(k) is a perfect square.|
 |260377|Primes p such that A001221(p-1)^(p-1) == 1 (mod p^2).|
@@ -13063,7 +13063,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |260507|Primes p such that (2^p+1)^(p-1) == 1 (mod p^2).|
 |260508|Numbers n such that A000203(n) == n*A001221(n).|
 |260511|Number of signed permutations of length n that are sortable to the identity permutation by some sequence of cdr (context-directed reversal) moves.|
-|260551|Number of polynomials P = Sum_{k=0..m} x^{d(k)} with 0 = d(0) < ... < d(m) and P^2 = Sum_{k>=0} B(k) x^k such that B(k) <= n for all k and B(k) > 0 for k <= d(m).|
+|260551|Number of polynomials P = Sum_ k=0..m  x^ d(k)  with 0 = d(0) < ... < d(m) and P^2 = Sum_ k>=0  B(k) x^k such that B(k) <= n for all k and B(k) > 0 for k <= d(m).|
 |260579|Labelings of n diamond-shaped posets with 4 vertices per diamond where the labels follow the poset relations whose associated reading permutation avoids 321 in the classical sense.|
 |260587|Number of distinct prime factors of A173426(n) = concatenation of (1, 2, ..., n, n-1, ..., 1).|
 |260588|Number of prime factors, counted with multiplicity, of A173426(n) = concatenation of (1, 2, ..., n, n-1, ..., 1).|
@@ -13072,7 +13072,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |260641|Numbers n such that 2^n-1 is in A004782 but not in A081767.|
 |260651|Number of factorions in base n.|
 |260652|The minimal difference between the first and last terms of a set of n coprime numbers.|
-|260654|Numbers k such that Sum_{i=1..k} sigma(i)^d(i) == 0 (mod k), where sigma = A000203 and d = A000005.|
+|260654|Numbers k such that Sum_ i=1..k  sigma(i)^d(i) == 0 (mod k), where sigma = A000203 and d = A000005.|
 |260666|Number of patterns with perimeter n in the planar net 3.3.4.3.4, mirrors and holes are excluded.|
 |260680|Peaceable coexisting armies of queens: number of inequivalent configurations with maximum number of queens as given in A250000.|
 |260745|Number of prime juggling patterns of period n using 3 balls.|
@@ -13090,8 +13090,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |260802|Odd numbers x = 2n - 1 such that the concatenation of A019519(n) and A038395(n-1) is prime.|
 |260811|Number of trivalent bipartite connected simple graphs with 2n nodes and girth at least 6.|
 |260813|Number of trivalent bipartite connected simple graphs with 2n nodes and girth at least 8.|
-|260817|Maximal degree of a polynomial P = Sum_{k=0..m} x^{d(k)} with 0 = d(0) < ... < d(m) such that P^2 = Sum_{k>=0} B(k) x^k has B(k) <= n for all k and B(k) > 0 for k <= d(m).|
-|260818|Maximal m such that a polynomial P = Sum_{k=0..m} x^{d(k)} with 0 = d(0) < ... < d(m) has P^2 = Sum_{k>=0} B(k) x^k with B(k) <= n for all k and B(k) > 0 for k <= d(m).|
+|260817|Maximal degree of a polynomial P = Sum_ k=0..m  x^ d(k)  with 0 = d(0) < ... < d(m) such that P^2 = Sum_ k>=0  B(k) x^k has B(k) <= n for all k and B(k) > 0 for k <= d(m).|
+|260818|Maximal m such that a polynomial P = Sum_ k=0..m  x^ d(k)  with 0 = d(0) < ... < d(m) has P^2 = Sum_ k>=0  B(k) x^k with B(k) <= n for all k and B(k) > 0 for k <= d(m).|
 |260823|Positive integers that are not divisible by any cube greater than 1 and cannot be written as the sum of two cubes of rational numbers.|
 |260824|Least positive integer b such that b^(2^n)+1 is not squarefree.|
 |260873|Lexicographically first sequence of positive integers, every nonempty subset of which has a distinct mean.|
@@ -13145,7 +13145,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |261518|a(n+1) = prime(n + a(n)) - prime(n), a(1) = 1.|
 |261527|Irregular triangular array giving minimum number of reciprocal steps in the boomerang fractions process needed to return to 1 if a returning path exists, otherwise 0.|
 |261539|Numbers m such that (4^m + 5) / 3  is prime.|
-|261564|a(1)=2; thereafter a(n) = mpf(1+Product_{k=1..n-1} a(k)), where mpf(n) = f-th prime factor with multiplicity of n, for f=ceiling(bigomega(n)/2).|
+|261564|a(1)=2; thereafter a(n) = mpf(1+Product_ k=1..n-1  a(k)), where mpf(n) = f-th prime factor with multiplicity of n, for f=ceiling(bigomega(n)/2).|
 |261577|Numbers m such that (4^m + 11) / 3 is prime.|
 |261578|Numbers m such that (4^m + 17) / 3 is prime.|
 |261579|Numbers m such that (4^m + 23) / 3 is prime.|
@@ -13153,8 +13153,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |261613|Decimal expansion of the Markoff number asymptotic density constant.|
 |261620|Numbers n such that 10^(n-1) - pi(n) is prime.|
 |261639|Values of n such that prime(n+1)!/prime(n) + 1 is a prime number.|
-|261663|Number of equivalence classes of permutations avoiding the pattern {123}.|
-|261664|Number of equivalence classes of permutations avoiding the pattern {231}.|
+|261663|Number of equivalence classes of permutations avoiding the pattern  123 .|
+|261664|Number of equivalence classes of permutations avoiding the pattern  231 .|
 |261667|Dimension of a certain space of duality relations arising in study of q-analogs of multiple zeta values.|
 |261669|Dimension of a certain space of duality relations arising in study of q-analogs of multiple zeta values.|
 |261670|Dimension of a certain space of duality relations arising in study of q-analogs of multiple zeta values.|
@@ -13199,16 +13199,16 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |262278|Number of binary strings of length 2n that are squares, but are not expressible as the concatenation of two or more squares.|
 |262279|Smallest m such that A261923(m) = n.|
 |262291|a(n) = Sum_k k!*A262292(n,k).|
-|262292|Triangle read by rows: T(n, k) = largest possible content of a league (P, S), where P is a set of k-partitions and S is a set of k-subsets of {1, . . . , n}, for n >= 2, 1 <= k <= n-1.|
+|262292|Triangle read by rows: T(n, k) = largest possible content of a league (P, S), where P is a set of k-partitions and S is a set of k-subsets of  1, . . . , n , for n >= 2, 1 <= k <= n-1.|
 |262293|Row sums of triangle A262294.|
-|262294|Triangle read by rows: T(n, k) = largest possible content of a league (P, S), where P consists of k-partitions corresponding to kernels of order-preserving transformations and S is a set of k-subsets of {1, . . . , n}, for n >= 2, 1 <= k <= n-1.|
+|262294|Triangle read by rows: T(n, k) = largest possible content of a league (P, S), where P consists of k-partitions corresponding to kernels of order-preserving transformations and S is a set of k-subsets of  1, . . . , n , for n >= 2, 1 <= k <= n-1.|
 |262295|Length of longest chain of nonempty proper inverse subsemigroups of the symmetric inverse monoid.|
 |262296|Length of longest chain of nonempty proper inverse subsemigroups of the dual symmetric inverse monoid.|
 |262297|Length of longest chain of nonempty proper inverse subsemigroups of the monoid of partial injective orientation-preserving functions of a chain with n elements.|
 |262299|Let S(n) denote the sequence formed by concatenating the decimal numbers 1,2,3,..., omitting n; a(n) is the smallest prime in S(n), or -1 if no term in S(n) is prime.|
 |262300|Let S(n,k) denote the number formed by concatenating the decimal numbers 1,2,3,...,k, but omitting n; a(n) is the smallest k for which S(n,k) is prime, or -1 if no term in S(n,*) is prime.|
 |262302|Rainbow index for n-th odd prime.|
-|262305|Number of equivalence classes of strata Str((R_{!=0})^n) of polygon spaces.|
+|262305|Number of equivalence classes of strata Str((R_ !=0 )^n) of polygon spaces.|
 |262306|Number of equivalence classes of strata Str(R^n) of polygon spaces.|
 |262322|The number of 4-connected triangulations of the triangle with n inner vertices.|
 |262345|Numbers n such that 4^n + 21 is prime.|
@@ -13253,7 +13253,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |263049|a(n) = smallest prime p(k) such that the gaps between the primes p(k), p(k+1), p(k+2), ..., p(k+n) are 2n, 2n-2, ... 6, 4, 2.|
 |263076|Numbers n such that the fractional part of the sum of the first n primes (A007504) divided by n equals 1/2.|
 |263169|Smallest positive k such that 78557^k + 2^n is prime, or 0 if no such value exists.|
-|263207|Number of integer solutions for Product_{k=1..n}(c(k) + 1) = 2 * Product_{k=1..n}(c(k) - 1) with 1 < c(k) <= c(k+1).|
+|263207|Number of integer solutions for Product_ k=1..n (c(k) + 1) = 2 * Product_ k=1..n (c(k) - 1) with 1 < c(k) <= c(k+1).|
 |263276|Positions of squares in A259934.|
 |263277|First differences of A263276; length of n-th run of terms of same parity in A259934.|
 |263278|a(n) = length of n-th run of even terms in A259934.|
@@ -13306,10 +13306,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |263810|Numbers n such that n = tau(n) * phi(n-2) + 1.|
 |263811|Numbers n such that n = tau(n) * phi(n-1) + 1.|
 |263822|Conjectured number of terms in A263644 less than 10^n.|
-|263836|Length of preperiod of the outcome sequence of the game i-MiMark({2n, 4n}, {2}).|
+|263836|Length of preperiod of the outcome sequence of the game i-MiMark( 2n, 4n ,  2 ).|
 |263842|Maximal Hamming distance of a doubly-even self-dual code of length 4n over GF(4).|
-|263848|Irregular triangle read by rows: row n gives coefficients of basis polynomial {n,k} expressed in terms of binomial coefficients, high order terms first.|
-|263849|Let R = Z((1+sqrt{5})/2) denote the ring of integers in the real quadratic number field of discriminant 5. Let nu in R be a totally positive element of norm m = A031363(n). Then a(n) is the number of ways of writing nu as a sum of three squares in R.|
+|263848|Irregular triangle read by rows: row n gives coefficients of basis polynomial  n,k  expressed in terms of binomial coefficients, high order terms first.|
+|263849|Let R = Z((1+sqrt 5 )/2) denote the ring of integers in the real quadratic number field of discriminant 5. Let nu in R be a totally positive element of norm m = A031363(n). Then a(n) is the number of ways of writing nu as a sum of three squares in R.|
 |263855|Number of connected graphs on n nodes up to isomorphism with a factor of (1+x) in their independence polynomial.|
 |263858|Triangle read by rows: T(n,k) (n>=0, k>=1) is the number of posets with n elements and k maximal chains.|
 |263861|Triangle read by rows: T(n,k) (n>=0, k>=n+1) is the number of posets with n elements and whose order polytope has k facets.|
@@ -13319,7 +13319,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |263867|Number of non-overlapping permutations of length n. A permutation is non-overlapping (sometimes called minimally overlapping) if the shortest permutation containing two occurrences of it as a consecutive pattern has length 2n-1.|
 |263874|Integers for which the smallest k in A067760 such that n + 2^k is prime increases.|
 |263875|a(n) = least positive k such that A263874(n) + 2^k is prime.|
-|263920|A positive integer n is in this sequence iff arctan(n)^2 can be represented as Sum_{0<k<n} c(k)*arctan(k)^2 with rational c(k). The terms are in increasing order.|
+|263920|A positive integer n is in this sequence iff arctan(n)^2 can be represented as Sum_ 0<k<n  c(k)*arctan(k)^2 with rational c(k). The terms are in increasing order.|
 |263925|a(n) = least m > 1 such that m + (prime(n)#)^n is prime.|
 |263927|Least solution x to the equation x' = (x+1)/n, where x' is the arithmetic derivative of x; -1 if no solution exists.|
 |263930|Number of quasi-Carmichael numbers less than 10^n.|
@@ -13329,7 +13329,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |264011|Exponents n such that 2^(2*n+1) - 3*2^n - 1 (A195461) is prime|
 |264035|Triangle read by rows: T(n,k) (n>=0, k>=0) is the number of integer partitions lambda of n such that there are k partitions mu such that the Gelfand-Tsetlin polytope for lambda and mu is non-integral.|
 |264041|a(n) is the maximum number of diagonals that can be placed in an n X n grid made up of 1 X 1 unit squares when diagonals are placed in the unit squares in such a way that no two diagonals may cross or intersect at an endpoint.|
-|264081|The sum of the 2 X 2 idempotent matrices over Z/nZ is congruent to {{a(n),0}, {0,a(n)}} (mod n).|
+|264081|The sum of the 2 X 2 idempotent matrices over Z/nZ is congruent to   a(n),0 ,  0,a(n)   (mod n).|
 |264155|a(n) is the smallest integer m such that n is the least exponent k satisfying sigma(m)^k divides m.|
 |264156|Decimal expansion of M_5, the 5-dimensional analog of Madelung's constant (negated).|
 |264293|Number of irreducible polynomials in the n-th generation of polynomials generated as in Comments.|
@@ -13371,7 +13371,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |265032|Maximal size of an error-correcting code of length n and minimal distance 3 over an alphabet of size 4.|
 |265039|If A009927 is regarded as the coordination sequence of AuNb_3, this sequence gives cumulative number of Au atoms in shells 1 through n.|
 |265040|If A009927 is regarded as the coordination sequence of AuNb_3, this sequence gives cumulative number of Nb atoms in shells 1 through n.|
-|265041|Coordination sequence for the {3,3,3,5} tiling.|
+|265041|Coordination sequence for the  3,3,3,5  tiling.|
 |265042|a(n) = the unique number k such that T(p + n) == k mod p for all primes p, where T(n) = A000798(n) = number of topologies on n points.|
 |265043|The n-th Champernowne prime (A176942) is found by concatenating the successive digits of the numbers 1,2,3,...,a(n) and possibly dropping some of final digits of a(n).|
 |265079|Numbers n such that the Crandall number C = A262961(n) has exactly one prime divisor p >= n/2.|
@@ -13389,7 +13389,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |265155|Integers which are unique starting points for the algorithm described in A090566.|
 |265200|Numbers n such that n!3 + 3^7 is prime, where n!3 = n!!! is a triple factorial number (A007661).|
 |265201|Numbers n such that n!!! - 3^10 is prime, where n!3 = n!!! is a triple factorial number (A007661)..|
-|265279|Number of pairs of binary trees with n leaves which have only a single common parse word under the grammar G = {0 -> 12, 0 -> 21, 1 -> 02, 1 -> 20, 2 -> 01, 2 -> 10}.|
+|265279|Number of pairs of binary trees with n leaves which have only a single common parse word under the grammar G =  0 -> 12, 0 -> 21, 1 -> 02, 1 -> 20, 2 -> 01, 2 -> 10 .|
 |265285|Carmichael numbers (A002997) n such that n-1 is a square.|
 |265286|Minimal number of pieces of a cake such that they can be distributed equally among k guests for any k=1,2,...,n.|
 |265309|Numbers n such that (10^(n+4)*7 - 36763)/9 is prime (n > 0).|
@@ -13497,7 +13497,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |266585|Smallest m such that prime(m) starts a symmetric n-tuple of consecutive primes of the smallest span (=A266676(n)).|
 |266676|Smallest span (difference between the start and end) of a symmetric n-tuple of consecutive primes.|
 |266694|Numbers n such that 2*n*3^n + 1 is prime.|
-|266731|Smallest number of vertices in bi-regular ({3,4};n) graph with girth (shortest cycle) = n.|
+|266731|Smallest number of vertices in bi-regular ( 3,4 ;n) graph with girth (shortest cycle) = n.|
 |266829|Primes p such that a prime q < p exists with p^(q-1) == 1 (mod q^2) and q^(p-1) == 1 (mod p^2), i.e., primes that are the larger member of a double Wieferich prime pair.|
 |266875|Number of partially ordered sets ("posets") with n labeled elements, modulo n.|
 |266950|Indices of record values in A266948: least prime p such that p-2 and 6n-p are also prime.|
@@ -13517,7 +13517,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |267132|Unipotent n X n matrices over GF(2) that are squares of other such matrices.|
 |267194|Indices of zeros (winning positions) in A046695 (Sprague-Grundy values for the game Couples-are-Forever).|
 |267237|Numbers n such that 'n-1' prepended to 'n' n times yield primes.|
-|267251|Decimal expansion of Product_{i>=1} (1-1/prime(i))/(1-1/sqrt(prime(i)*prime(i+1))).|
+|267251|Decimal expansion of Product_ i>=1  (1-1/prime(i))/(1-1/sqrt(prime(i)*prime(i+1))).|
 |267268|Number of active (ON, black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 630", based on the 5-celled von Neumann neighborhood.|
 |267295|Circulant Ramsey numbers RC_2(3,n) of the second kind.|
 |267296|Circulant Ramsey numbers RC_1(3,n) of the first kind.|
@@ -13574,10 +13574,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |268184|Number of n-isohedral edge-to-edge tilings of regular polygons.|
 |268202|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 366", based on the 5-celled von Neumann neighborhood.|
 |268215|Coefficients of e.g.f. for numbers of graded interval orders.|
-|268217|Triangle read by rows: T(n,k) (n>=3, k=3..n+1) is the number of topologies t on n points having exactly k open sets such that t contains exactly one open set of size m for each m in {0,2,3,4,...,s,n} where s is the size of the largest proper open set in t.|
-|268221|Triangle read by rows: T(n,k) (n>=4, k=3..n+1) is the number of topologies t on n points having exactly k open sets such that t contains exactly one open set of size m for each m in {0,3,4,5,...,s,n} where s is the size of the largest proper open set in t.|
-|268222|Triangle read by rows: T(n,k) (n>=5, k=3..n+1) is the number of topologies t on n points having exactly k open sets such that t contains exactly one open set of size m for each m in {0,4,5,6,...,s,n} where s is the size of the largest proper open set in t.|
-|268223|Triangle read by rows: T(n,k) (n>=6, k=3..n+1) is the number of topologies t on n points having exactly k open sets such that t contains exactly one open set of size m for each m in {0,5,6,7,...,s,n} where s is the size of the largest proper open set in t.|
+|268217|Triangle read by rows: T(n,k) (n>=3, k=3..n+1) is the number of topologies t on n points having exactly k open sets such that t contains exactly one open set of size m for each m in  0,2,3,4,...,s,n  where s is the size of the largest proper open set in t.|
+|268221|Triangle read by rows: T(n,k) (n>=4, k=3..n+1) is the number of topologies t on n points having exactly k open sets such that t contains exactly one open set of size m for each m in  0,3,4,5,...,s,n  where s is the size of the largest proper open set in t.|
+|268222|Triangle read by rows: T(n,k) (n>=5, k=3..n+1) is the number of topologies t on n points having exactly k open sets such that t contains exactly one open set of size m for each m in  0,4,5,6,...,s,n  where s is the size of the largest proper open set in t.|
+|268223|Triangle read by rows: T(n,k) (n>=6, k=3..n+1) is the number of topologies t on n points having exactly k open sets such that t contains exactly one open set of size m for each m in  0,5,6,7,...,s,n  where s is the size of the largest proper open set in t.|
 |268224|Closed simply-typed lambda terms with at most one free variable.|
 |268225|Number of types of lambda-terms of term size n.|
 |268239|Given an n X n X n grid of points, a(n) is the maximum number of points that can be painted red so that, if any 8 of the red points are chosen, they do not form a cube with sides parallel to the grid.|
@@ -13599,10 +13599,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |268427|Number of distinct free polyominoes that will fit in a square of size n X n.|
 |268448|Numbers k such that (35*10^k - 11)/3 is prime.|
 |268463|Least number of steps required in 2D prime walk for it to cross itself n times.|
-|268468|Least k starting a chain or (2n+1)-tuple of consecutive integers {h(k+i)}, i=0,1,...,2n (excluding the trivial chain when h(k) = h(k+1) = ... = h(k+2n)) with symmetrical gaps about the center, where h(k) is the length of the finite set {k, f(k), f(f(k)),...,1} in the Collatz (or 3x + 1) problem.|
+|268468|Least k starting a chain or (2n+1)-tuple of consecutive integers  h(k+i) , i=0,1,...,2n (excluding the trivial chain when h(k) = h(k+1) = ... = h(k+2n)) with symmetrical gaps about the center, where h(k) is the length of the finite set  k, f(k), f(f(k)),...,1  in the Collatz (or 3x + 1) problem.|
 |268479|For p = prime(n), number of primes (including p) in the trajectory of p under the procedure in A244550, also allowing the Wieferich prime 2, that are not terms of a repeating cycle.|
 |268480|Integers n such that A002110(n) is the average of two consecutive primes.|
-|268486|Least k starting a chain of (2n+1) consecutive integers {h(k+i)}, i=0,1,...,2n, where h(k) is the length of the finite set {k, f(k), f(f(k)), ..., 1} in the Collatz (or 3x + 1) problem, with the property that h(k) = h(k+2n), h(k+1) = h(k+2n-1), ..., h(k+n-1) = h(k+n+1).|
+|268486|Least k starting a chain of (2n+1) consecutive integers  h(k+i) , i=0,1,...,2n, where h(k) is the length of the finite set  k, f(k), f(f(k)), ..., 1  in the Collatz (or 3x + 1) problem, with the property that h(k) = h(k+2n), h(k+1) = h(k+2n-1), ..., h(k+n-1) = h(k+n+1).|
 |268511|Odd integers n such that 3^n + 5^n = x^2 + y^2 (x and y integers) is solvable.|
 |268515|Records in A002945 (continued fraction expansion of cube root of 2).|
 |268520|Primes in A268519.|
@@ -13658,7 +13658,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |268925|Record (maximal) gaps between primes of the form 6k + 1.|
 |268928|Record (maximal) gaps between primes of the form 6k - 1.|
 |268950|Number of perfectly looping walks containing n pieces from the set described in the links.|
-|268983|Numbers n such that Sum_{d|n} sigma(n/d)^d/d is an integer, where sigma is A000203.|
+|268983|Numbers n such that Sum_ d|n  sigma(n/d)^d/d is an integer, where sigma is A000203.|
 |269002|Indices of records in the integer sums 1/x0 + x2/x1 +...+ x0/xq of A248954.|
 |269022|Primes p such that sigma(p)/pi(p) is prime.|
 |269023|Complement of A269020: numbers not of the form ceiling(n^(1+1/n)).|
@@ -13678,8 +13678,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |269341|Records in A269340.|
 |269417|Number of Go games on n X n board with no repeating position and suicide allowed.|
 |269459|Numbers that are equal to the sum of the number of divisors of their first k arithmetic derivatives, for some k.|
-|269499|Nontrivial integer solutions s to the equations Sum_{i} ((-1)^i)*binomial(m,i)*binomial(s-m,t-i) = 0 listed in increasing order.|
-|269516|Number of T(n) X T(n) matrices containing the multiset {1, 2, 2, 3, 3, 3, ..., n, n, ..., n} in each row and column, where T(n) = A000217(n).|
+|269499|Nontrivial integer solutions s to the equations Sum_ i  ((-1)^i)*binomial(m,i)*binomial(s-m,t-i) = 0 listed in increasing order.|
+|269516|Number of T(n) X T(n) matrices containing the multiset  1, 2, 2, 3, 3, 3, ..., n, n, ..., n  in each row and column, where T(n) = A000217(n).|
 |269544|Numbers n such that 7*8^n + 1 is prime.|
 |269560|Length of the longest squarefree and rich word over an alphabet of n letters.|
 |269561|Number of (undirected) Hamiltonian cycles in the n X n rook graph K_n X K_n.|
@@ -13697,7 +13697,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |269727|Primes avoided by certain exponential sums.|
 |269736|Triangle read by rows: T(n,r) (0 <= r <= n) = number of idempotents of rank r in the Motzkin monoid M_n.|
 |269744|Triangle read by rows: number of generic n-rook placements with k rooks below the main diagonal.|
-|269745|Maximal number of 1's in an n X n {0,1} Toeplitz matrix with property that no four 1's form a square with sides parallel to the edges of the matrix.|
+|269745|Maximal number of 1's in an n X n  0,1  Toeplitz matrix with property that no four 1's form a square with sides parallel to the edges of the matrix.|
 |269746|Maximal number of 1's in an equilateral triangle of 0's and 1's with n points on each side, the entries being constant on vertical lines, with property that no three 1's form a triangle with sides parallel to the edges of the triangle.|
 |269751|List of snow leopard permutations of odd length in lexicographic order.|
 |269754|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 30", based on the 5-celled von Neumann neighborhood.|
@@ -13913,10 +13913,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |271458|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 374", based on the 5-celled von Neumann neighborhood.|
 |271462|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 377", based on the 5-celled von Neumann neighborhood.|
 |271474|Maximal number of flips required to sort a stack of n unburnt pancakes using the big-3 flips.|
-|271480|Dimension of n-qubit subspace H^{MPS}_{2,n} for bond dimension 2.|
-|271481|Dimension of n-qubit subspace H^{MPS}_{3,n} for bond dimension 3.|
-|271482|Dimension of n-qubit subspace H^{MPS}_{4,n} for bond dimension 4.|
-|271483|Dimension of n-qubit quotient space Q_{3,n} for bond dimension 3.|
+|271480|Dimension of n-qubit subspace H^ MPS _ 2,n  for bond dimension 2.|
+|271481|Dimension of n-qubit subspace H^ MPS _ 3,n  for bond dimension 3.|
+|271482|Dimension of n-qubit subspace H^ MPS _ 4,n  for bond dimension 4.|
+|271483|Dimension of n-qubit quotient space Q_ 3,n  for bond dimension 3.|
 |271485|Maximal term of TRIP-Stern sequence of level n corresponding to permutation triple (e,13,e).|
 |271486|Maximal term of TRIP-Stern sequence of level n corresponding to permutation triple (e,13,23).|
 |271487|Maximal term of TRIP-Stern sequence of level n corresponding to permutation triple (e,13,132).|
@@ -13930,11 +13930,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |271540|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 382", based on the 5-celled von Neumann neighborhood.|
 |271544|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 387", based on the 5-celled von Neumann neighborhood.|
 |271548|Numbers k such that 4*10^k + 19 is prime.|
-|271570|Number of distinct eigenvalues of n X n matrices with elements {-1, 0, +1}.|
+|271570|Number of distinct eigenvalues of n X n matrices with elements  -1, 0, +1 .|
 |271583|Magic sums of 4 X 4 magic squares composed of squares of primes.|
 |271585|Numbers k such that (7*10^k + 143)/3 is prime.|
-|271587|Number of distinct minimal polynomials of n X n matrices with elements {-1, 0, +1}.|
-|271588|Number of matrices with multiple eigenvalues from the set of n X n matrices with elements {-1, 0, +1}.|
+|271587|Number of distinct minimal polynomials of n X n matrices with elements  -1, 0, +1 .|
+|271588|Number of matrices with multiple eigenvalues from the set of n X n matrices with elements  -1, 0, +1 .|
 |271595|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 389", based on the 5-celled von Neumann neighborhood.|
 |271599|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 390", based on the 5-celled von Neumann neighborhood.|
 |271603|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 393", based on the 5-celled von Neumann neighborhood.|
@@ -13991,7 +13991,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |272106|Absolute primes in base 3: every permutation of digits in base 3 is a prime (only the smallest representatives of the permutation classes are shown).|
 |272107|Absolute primes in base 8: every permutation of digits in base 8 is a prime (only the smallest representatives of the permutation classes are shown).|
 |272112|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 429", based on the 5-celled von Neumann neighborhood.|
-|272135|Numbers of ways of placing the numbers 1, ..., n on a circle (not counting rotations and reflections) such that for each s in {1, ..., n(n+1)/2}, there exists a connected subset S of the circle such that the numbers covered by S add up to s.|
+|272135|Numbers of ways of placing the numbers 1, ..., n on a circle (not counting rotations and reflections) such that for each s in  1, ..., n(n+1)/2 , there exists a connected subset S of the circle such that the numbers covered by S add up to s.|
 |272146|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 433", based on the 5-celled von Neumann neighborhood.|
 |272150|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 435", based on the 5-celled von Neumann neighborhood.|
 |272154|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 437", based on the 5-celled von Neumann neighborhood.|
@@ -14057,19 +14057,19 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |272589|Numbers n such that the equation F(n) = sigma(F(i) + F(j)) has a solution with i >= 1 and j >= 0, where F(k) = A000045(k) represents the k-th Fibonacci number.|
 |272621|Numbers n such that 10^n-9^(n-1) is prime.|
 |272622|Numbers k such that 9*10^k + 19 is prime.|
-|272643|Irregular triangle read by rows, enumerating permutations of "specification (321^{n-5})".|
+|272643|Irregular triangle read by rows, enumerating permutations of "specification (321^ n-5 )".|
 |272651|The no-3-in-line problem: maximal number of points from an n X n square grid so that no three lie on a line.|
-|272658|Number of distinct characteristic polynomials of n X n matrices with elements {-1, 0, +1}.|
-|272659|Number of distinct characteristic polynomials of n X n matrices with elements {0, 1, 2}.|
-|272660|Number of distinct characteristic polynomials of n X n matrices with elements {t, 1, 2} where t is an indeterminate.|
-|272661|Number of distinct characteristic polynomials of n X n matrices with elements {0, 1}.|
-|272662|Number of distinct characteristic polynomials of n X n matrices with elements {-1, +1}.|
-|272663|Number of distinct characteristic polynomials of n X n matrices with elements {t, 1}, where t is an indeterminate.|
+|272658|Number of distinct characteristic polynomials of n X n matrices with elements  -1, 0, +1 .|
+|272659|Number of distinct characteristic polynomials of n X n matrices with elements  0, 1, 2 .|
+|272660|Number of distinct characteristic polynomials of n X n matrices with elements  t, 1, 2  where t is an indeterminate.|
+|272661|Number of distinct characteristic polynomials of n X n matrices with elements  0, 1 .|
+|272662|Number of distinct characteristic polynomials of n X n matrices with elements  -1, +1 .|
+|272663|Number of distinct characteristic polynomials of n X n matrices with elements  t, 1 , where t is an indeterminate.|
 |272667|2-ordering of (1+2*Z) union 8*Z union (2+32*Z).|
 |272668|2-sequence of Fibonacci numbers.|
-|272669|A 13-ordering of T = {0,1,2,3,5,8,10,11,12} + 13*Z.|
+|272669|A 13-ordering of T =  0,1,2,3,5,8,10,11,12  + 13*Z.|
 |272678|Smallest number m such that A272677(m) = n.|
-|272688|The antibracket constants {x_n}^n.|
+|272688|The antibracket constants  x_n ^n.|
 |272697|Powers of 2 with exactly one odd decimal digit.|
 |272706|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 515", based on the 5-celled von Neumann neighborhood.|
 |272712|Perfect powers that are the difference of two nonnegative Fibonacci numbers.|
@@ -14202,7 +14202,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |273522|Numbers n such that 12*14^n-1 is prime.|
 |273523|Numbers n such that 13*14^n-1 is prime.|
 |273524|Numbers n such that 7^n-6^(n-1) is prime.|
-|273525|Start with the set {0, 1}. At each step replace the set with the set of means of all its nonempty subsets. a(n) is the size of the set after the n-th step.|
+|273525|Start with the set  0, 1 . At each step replace the set with the set of means of all its nonempty subsets. a(n) is the size of the set after the n-th step.|
 |273535|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 782", based on the 5-celled von Neumann neighborhood.|
 |273539|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 779", based on the 5-celled von Neumann neighborhood.|
 |273542|Numbers k such that (238*10^k - 1)/3 is prime.|
@@ -14242,7 +14242,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |273759|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 902", based on the 5-celled von Neumann neighborhood.|
 |273763|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 910", based on the 5-celled von Neumann neighborhood.|
 |273767|Number of active (ON,black) cells at stage 2^n-1 of the two-dimensional cellular automaton defined by "Rule 913", based on the 5-celled von Neumann neighborhood.|
-|273770|Max { min { x >= 0 | p + (2*n+1)*x + x^2 is composite }, p < 10^(5+n/10) }.|
+|273770|Max   min   x >= 0 | p + (2*n+1)*x + x^2 is composite  , p < 10^(5+n/10)  .|
 |273772|Least k > 1 such that n*(k*n-1) - 1 divides n^(k*n-1) - 1, or 0 if no such k exists.|
 |273775|Smallest prime p > n + 1 where a base b exists with abs(b - p) = n such that b^(p-1) == 1 (mod p^2).|
 |273776|Smallest composite number with n distinct prime factors with property that the concatenation of its distinct prime factors, in descending order, is a palindrome.|
@@ -14295,9 +14295,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |274033|Numbers n such that n = a^2 + b^4 and n^2 = c^3 + d^5 for some positive integers a, b, c, d.|
 |274037|Numbers k such that 3*10^k - 49 is prime.|
 |274038|Least number k such that the sum of squares of positive divisors of k is the sum of two nonzero squares in exactly n ways.|
-|274040|Numerator of the rational coefficient at the first power of Pi in Sum_{k>0} (sin(k)/k)^n.|
-|274041|Denominator of the rational coefficient at the first power of Pi in Sum_{k>0} (sin(k)/k)^n.|
-|274043|Number of squarefree integers congruent to {1, 2, 3} mod 8 <= 10^n.|
+|274040|Numerator of the rational coefficient at the first power of Pi in Sum_ k>0  (sin(k)/k)^n.|
+|274041|Denominator of the rational coefficient at the first power of Pi in Sum_ k>0  (sin(k)/k)^n.|
+|274043|Number of squarefree integers congruent to  1, 2, 3  mod 8 <= 10^n.|
 |274053|Least squarefree number that is the sum of a nonzero square and a positive cube in exactly n ways.|
 |274071|a(n) is the least possible sum of a sequence of distinct terms consisting of exactly prime(i) multiples of prime(i) for i = 1 to n.|
 |274120|Squares that are the sum of the first n odd primes for some n.|
@@ -14324,7 +14324,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |274239|Numbers n such that 9^n + 8^(n+1) is prime.|
 |274245|Numbers n such that n*(n+1)/2 is a Taxi-cab number (A001235).|
 |274247|Numbers n such that n^k is the sum of a positive square and a positive cube for all k not divisible by 6.|
-|274264|Number of squarefree integers congruent to {5, 6, 7} mod 8 <= 10^n.|
+|274264|Number of squarefree integers congruent to  5, 6, 7  mod 8 <= 10^n.|
 |274290|Arising in solving the keyboard problem.|
 |274296|Normalized volume of alternating sign polytope A(n).|
 |274300|Arises in study of A000587.|
@@ -14397,12 +14397,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |274976|Numbers n such that (26*10^n + 31)/3 is prime.|
 |274984|Decimal expansion of Cp(5), the molar specific heat of an pentaatomic ideal gas at constant pressure, in J mol^-1 K^-1.|
 |274986|Numbers k such that (10^k + 23)/3 is prime.|
-|274994|Primes p such that p^2 divides Sum_{k=1..(p-1)/2} (k^(p-2))*(k^(p-1)-1).|
+|274994|Primes p such that p^2 divides Sum_ k=1..(p-1)/2  (k^(p-2))*(k^(p-1)-1).|
 |274995|a(n) is the smallest odd prime that divides (-n) + the sum of all smaller primes, or 0 if no such prime exists.|
 |275007|Numbers n such that 2^n == sigma(n) (mod n).|
 |275012|Number of nonzero coefficients in the polynomial factor of the expression counting binomial coefficients with 2-adic valuation n.|
 |275020|Numbers k such that (5*10^k + 91) / 3 is prime.|
-|275022|Primes not in A001097 and not in A275021 that occur in pairs of the form {p, p+6}.|
+|275022|Primes not in A001097 and not in A275021 that occur in pairs of the form  p, p+6 .|
 |275026|a(n) is the largest number k such that the sum of divisors of k does not exceed the n-th power of the number of divisors of k.|
 |275067|Numbers n such that 7*10^n + 39 is prime.|
 |275096|Numbers n such that 2*10^n + 89 is prime.|
@@ -14455,8 +14455,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |275544|Number of distinct terms at a given iteration of the Collatz (or 3x+1) map starting with 0.|
 |275545|Number of new duplicate terms at a given iteration of the Collatz (or 3x+1) map starting with 0.|
 |275575|Numbers n such that (3^n + 1)/(3 - (-1)^n) is a prime.|
-|275576|Sums of lengths of longest (strictly) increasing subsequences of all n^n length-n lists of integers from {1,2,...,n}.|
-|275577|Sums of lengths of longest (not necessarily strictly) increasing subsequences of all n^n length-n lists of integers from {1,2,...,n}.|
+|275576|Sums of lengths of longest (strictly) increasing subsequences of all n^n length-n lists of integers from  1,2,...,n .|
+|275577|Sums of lengths of longest (not necessarily strictly) increasing subsequences of all n^n length-n lists of integers from  1,2,...,n .|
 |275584|Primes p such that S_e(p-1)/S_o(p-1) is an integer, where S_e(x) is the sum of the even numbers and S_o(x) is the sum of the odd numbers in the Collatz iteration of x.|
 |275617|Number of (1,2,2,2)-chromatic cubic graphs with 2n nodes.|
 |275618|Number of (1,2,2,2,2)-chromatic cubic graphs with 2n nodes.|
@@ -14524,7 +14524,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |276311|Numbers n such that (13*10^n + 197)/3 is prime.|
 |276322|Numbers k such that (13*10^k + 83) / 3 is prime.|
 |276353|Numbers k such that (19*10^k + 77) / 3 is prime.|
-|276410|Largest determinant of a (real) {0,1}-matrix of order n subject to the restriction that the corresponding 0,1 simplex is acute.|
+|276410|Largest determinant of a (real)  0,1 -matrix of order n subject to the restriction that the corresponding 0,1 simplex is acute.|
 |276411|Number of acute 0/1 n-simplices formed from vertices of unit n-dimensional cube.|
 |276412|Number of 0/1 n-simplices formed from vertices of unit n-dimensional cube.|
 |276464|Fibbinary Fibonacci numbers.|
@@ -14536,7 +14536,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |276496|a(n) is the least positive k such that A276495(n) + 2^k is prime.|
 |276497|Maximum number of different possible residues of the division of prime(k) by primorial(n), with k such that prime(k) > primorial(n).|
 |276511|Primes that are equal to the sum of the prime factors of some perfect number.|
-|276513|a(n) = the smallest number k>1 such that Sum_{p|k} 0.p = n where p runs through the prime divisors of k.|
+|276513|a(n) = the smallest number k>1 such that Sum_ p|k  0.p = n where p runs through the prime divisors of k.|
 |276518|Number of directed Hamiltonian paths on the n-transposition graph.|
 |276523|Partition an n X n square into multiple non-congruent integer-sided rectangles. a(n) is the least possible difference between the largest and smallest area.|
 |276524|Decimal expansion of the apparent (see Comments) limit of the sum of the alternating series 1/prime(1) - 2/prime(2) + 3/prime(3) - 4/prime(4) + ...|
@@ -14548,8 +14548,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |276642|Numbers k such that 3*10^k + 89 is prime.|
 |276645|Numbers n such that A002088(n) is a triangular number.|
 |276650|Primes of the form prime(n)^n - PrimePi(n).|
-|276654|a(n) = the smallest number k>1 such that floor(Sum_{p|k} 0.p) = n where p runs through the prime divisors of k.|
-|276661|Least k such that there is a set S in {1, 2, ..., k} with n elements and the property that each of its subsets has a distinct sum.|
+|276654|a(n) = the smallest number k>1 such that floor(Sum_ p|k  0.p) = n where p runs through the prime divisors of k.|
+|276661|Least k such that there is a set S in  1, 2, ..., k  with n elements and the property that each of its subsets has a distinct sum.|
 |276665|In the '3x+1' problem, these values for the starting value set new records for both the number of steps and the highest point of trajectory before reaching 1.|
 |276671|Positive integers k such that 3^k == 2 (mod k).|
 |276672|Numbers n such that (19*10^n + 101) / 3 is prime.|
@@ -14571,8 +14571,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |276845|Numbers k such that (25*10^k - 73) / 3 is prime.|
 |276846|Numbers k such that (4*10^k + 143) / 3 is prime.|
 |276972|a(n) = n^(2*(2*n^4+1)).|
-|277040|Limit of the coefficient of x^(3^m + n) in B(x)^(n+1) as m grows, where B(x) = Sum_{k>=0} x^(3^k).|
-|277041|Limit of the coefficient of x^(3^m + n) in B(x)^(n+1)/(n+1) as m grows, where B(x) = Sum_{k>=0} x^(3^k).|
+|277040|Limit of the coefficient of x^(3^m + n) in B(x)^(n+1) as m grows, where B(x) = Sum_ k>=0  x^(3^k).|
+|277041|Limit of the coefficient of x^(3^m + n) in B(x)^(n+1)/(n+1) as m grows, where B(x) = Sum_ k>=0  x^(3^k).|
 |277042|G.f.: A(x) = x/Series_Reversion[x*G(x)] where A(x*G(x)) = G(x) = g.f. of A277041.|
 |277043|Inverse binomial transform of A277041.|
 |277056|Least k such that any sufficiently long repunit multiplied by k is a pandigital number in numerical base n.|
@@ -14630,12 +14630,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |277740|Knot diagrams with n crossings.|
 |277741|Symmetric array read by antidiagonals: T(n,k) (n >= 1, k >= 1) = number of multiquadrangulations of the sphere with n stable equilibria and k unstable equilibria.|
 |277742|Number of ancestor secondary classes with respect to non-ancestors.|
-|277743|Number of ancestor secondary classes with respect to splittings S_{2,2},|
+|277743|Number of ancestor secondary classes with respect to splittings S_ 2,2 ,|
 |277746|Number of n X n QR matrix classes.|
-|277747|Number of ancestor secondary classes with respect to splittings S_{1,1},|
+|277747|Number of ancestor secondary classes with respect to splittings S_ 1,1 ,|
 |277748|Number of n X n QR matrices.|
-|277774|Decimal expansion of the prime triples constant, also known as Brun's constant B_{3a} = Sum (1/p + 1/(p+2) + 1/(p+6)) as p runs through the initial members of prime triples A022004.|
-|277775|Decimal expansion of the prime triples constant, also known as Brun's constant B_{3b} = Sum (1/p + 1/(p+4) + 1/(p+6)) as p runs through the initial members of prime triples A022005.|
+|277774|Decimal expansion of the prime triples constant, also known as Brun's constant B_ 3a  = Sum (1/p + 1/(p+2) + 1/(p+6)) as p runs through the initial members of prime triples A022004.|
+|277775|Decimal expansion of the prime triples constant, also known as Brun's constant B_ 3b  = Sum (1/p + 1/(p+4) + 1/(p+6)) as p runs through the initial members of prime triples A022005.|
 |277795|Number of trees with n unlabeled nodes such that all nodes with degree >2 lie on a single path with length equal to the tree's diameter.|
 |277796|Number of trees with n unlabeled nodes such that all nodes of degree >2 lie on a single path.|
 |277828|Least number of tosses of a fair coin needed to have an even chance or better of getting a run of at least m consecutive heads or consecutive tails.|
@@ -14667,7 +14667,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |278336|Numbers k such that (94*10^k - 7) / 3 is prime.|
 |278375|Edge-distinguishing chromatic number of ladder graph with 2n vertices.|
 |278387|Number of mora in Japanese name of n in Old Japanese.|
-|278389|Decimal expansion of Sum_{k>=1} (-1)^(k+1)/(k*prime(k)).|
+|278389|Decimal expansion of Sum_ k>=1  (-1)^(k+1)/(k*prime(k)).|
 |278397|Numbers n such that 10^n - 20001 is prime.|
 |278418|Numbers k such that (83*10^k - 29) / 9 is prime.|
 |278426|Numbers n such that (26*10^n - 89) / 9 is prime.|
@@ -14683,7 +14683,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |278572|Irregular triangle read by rows: row n lists values of k in range 1 <= k <= n/2 such x^n + x^k + 1 is irreducible (mod 2), or -1 if no such k exists.|
 |278574|Records in A179210.|
 |278587|Value of the Catch-Up game [1,...n] for first player (1 = win, -1 = loss, 0 = draw).|
-|278589|Number of equivalence classes under the fixed-point-free braid relation B_{FPF}(w_0).|
+|278589|Number of equivalence classes under the fixed-point-free braid relation B_ FPF (w_0).|
 |278590|a(n) = A278589(n)/2^n.|
 |278591|Numbers k such that (11*10^k - 107) / 3 is prime.|
 |278611|Bases b > 1 that set a new record for the size of the smallest base-b Wieferich prime.|
@@ -14734,8 +14734,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |279191|Primes p such that L(p^2) = (p-1)*L(p)/4, where L(i) = A279186(i).|
 |279192|Primes p such that L(p^2) = (p-1)*L(p)/6, where L(i) = A279186(i).|
 |279196|Number of polynomials P(x,y) with nonnegative integer coefficients such that P(x,y) == 1 (mod x+y-1) and P(1,1) = n.|
-|279197|Number of self-conjugate inseparable solutions of X + Y = 2Z (integer, disjoint triples from {1,2,3,...,3n}).|
-|279198|Number of pairs of conjugate inseparable solutions of X + Y = 2Z (integer, disjoint triples from {1,2,3,...,3n}).|
+|279197|Number of self-conjugate inseparable solutions of X + Y = 2Z (integer, disjoint triples from  1,2,3,...,3n ).|
+|279198|Number of pairs of conjugate inseparable solutions of X + Y = 2Z (integer, disjoint triples from  1,2,3,...,3n ).|
 |279199|Number of reducible ways to split 1, 2, 3, ..., 3n into n arithmetic progressions each with 3 terms: a(n) = A104429(n) - A202705(n).|
 |279200|Number of square permutations of 2n things.|
 |279201|Number of Wilf-equivalence classes of square permutations of 2n things that avoid 123.|
@@ -14757,7 +14757,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |279467|Numbers k such that (14*10^k - 71) / 3 is prime.|
 |279518|Start of first run of n successive numbers in which the sum of aliquot parts of the i-th number has exactly i prime factors, for i = 1..n.|
 |279520|Start of first run of n successive numbers in which the arithmetic derivative of the i-th number has exactly i prime factors, for i = 1..n.|
-|279529|a(n) is a largest m such that coefficient [x^m] in Product_{k>=1} (1-x^(k^n)) is equal to zero.|
+|279529|a(n) is a largest m such that coefficient [x^m] in Product_ k>=1  (1-x^(k^n)) is equal to zero.|
 |279549|Numbers k such that (13*10^k + 47) / 3 is prime.|
 |279554|Number of length n inversion sequences avoiding the patterns 010, 101, 120, 201, and 210.|
 |279556|Number of length n inversion sequences avoiding the patterns 010, 110, and 120.|
@@ -14773,7 +14773,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |279680|Definition: m < n is an extradivisor of n if for some positive k < n, m | n | k^(n+1) + m and n | (n-k)^(n+1) + m. This sequence gives the smallest number with n extradivisors.|
 |279691|Number of isomorphism classes of partial Latin squares of order n.|
 |279692|Number of isotopism classes of partial Latin squares of order n.|
-|279725|Number of 3 X 3 matrices having all terms in {0,1,...,n} with |det| = 1.|
+|279725|Number of 3 X 3 matrices having all terms in  0,1,...,n  with |det| = 1.|
 |279764|Numbers n such that F(n), F(n-1), F(n-2) have the same prime signature where F(n) = A000045(n).|
 |279793|Numbers k such that 4*10^k - 63 is prime.|
 |279795|Numbers n such that F(n) and F(n-2) are both prime where F(n) = A000045(n).|
@@ -14823,7 +14823,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |280418|Length of shortest prefix of the characteristic sequence of the primes A010051 that contains all possible length-n blocks appearing in that sequence.|
 |280431|Numbers k such that (2*10^k - 41)/3 is prime.|
 |280432|Maximum size of a set whose integrity can be checked with n weighings.|
-|280445|Consider a number k and all the possible concatenations of the form k = concat(a,b), with a>0. Take the sum of the products of all the pairs a and b, j = Sum{a*b}. Sequence lists the numbers for which j/k is an integer and produce a new record.|
+|280445|Consider a number k and all the possible concatenations of the form k = concat(a,b), with a>0. Take the sum of the products of all the pairs a and b, j = Sum a*b . Sequence lists the numbers for which j/k is an integer and produce a new record.|
 |280446|Like A065759 but where f(n) = 2*n.|
 |280447|Like A065759 but where f(n) = 3*n.|
 |280449|Numbers n such that (2*10^n - 71)/3 is prime.|
@@ -14839,13 +14839,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |280547|Smallest number k such that (k+1)^n - k^n is divisible by a square greater than 1.|
 |280557|Numbers k such that (11*10^k - 113) / 3 is prime.|
 |280558|Numbers k such that (13*10^k + 89) / 3 is prime.|
-|280559|Numbers m that divide Sum_{k=1..m} binomial(m,k) mod k.|
+|280559|Numbers m that divide Sum_ k=1..m  binomial(m,k) mod k.|
 |280584|Numbers k such that (14*10^k - 83)/3 is prime.|
 |280631|Starting position (after the decimal point) of the first n-digit palindrome in the decimal expansion of Pi.|
 |280632|Numbers k such that (19*10^k + 191)/3 is prime.|
 |280681|Numbers k such that Fibonacci(k) is a totient.|
 |280708|Lexicographically earliest sequence such that no subsequence sums to a prime.|
-|280717|Given a prime number p, let b = -p and c = p^2. Assuming that the polynomial P(x) := x^2+b*x+c takes at least one prime value for some positive integer x<p, we define the next term of the sequence to be the maximal element in the set S := {P(x) : x is an integer, 0 < x < p, and P(x) is a prime number}. The first term of the present sequence is p=3.|
+|280717|Given a prime number p, let b = -p and c = p^2. Assuming that the polynomial P(x) := x^2+b*x+c takes at least one prime value for some positive integer x<p, we define the next term of the sequence to be the maximal element in the set S :=  P(x) : x is an integer, 0 < x < p, and P(x) is a prime number . The first term of the present sequence is p=3.|
 |280746|Index of 2^n in A280864.|
 |280752|Numerators of triangle related to enumeration of minimal 2-covers of a labeled n-set.|
 |280753|Denominators of triangle related to enumeration of minimal 2-covers of a labeled n-set.|
@@ -14861,8 +14861,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |280783|Number of irreducible matrices X of all sizes with nonnegative integral entries satisfying X^2 = nX, counted up to a permutation of basis vectors.|
 |280798|a(n) is the smallest integer m such that sumdigits(m^2) = 4^n.|
 |280828|Numbers k of the form 2*10^m + 2 such that 10^k + 9 is prime.|
-|280841|Numerator of Integral_{x>=0} Product_{k=1..n} Sinc(x/k) dx / Pi.|
-|280842|Denominator of Integral_{x>=0} Product_{k=1..n} Sinc(x/k) dx / Pi.|
+|280841|Numerator of Integral_ x>=0  Product_ k=1..n  Sinc(x/k) dx / Pi.|
+|280842|Denominator of Integral_ x>=0  Product_ k=1..n  Sinc(x/k) dx / Pi.|
 |280847|Number of directed Hamiltonian cycles in the n-folded cube graph.|
 |280848|Numbers k such that (4*10^k + 173)/3 is prime.|
 |280861|Numbers k such that (4*10^k + 83)/3 is prime.|
@@ -14913,7 +14913,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |281526|Least number k such that 2*k+n | sigma(k) + sigma(k+n), -1 if such a number is unknown.|
 |281529|a(n) = least denominator Y of any proper fraction X/Y which needs n or more terms to be written as a signed sum of distinct unit fractions.|
 |281532|a(n) = least numerator X such that the proper fraction X/A281529(n) needs n or more terms to be written as a signed sum of distinct unit fractions.|
-|281548|Number of distinct monomials in the expansion of Product_{i=1..n} (y_1+...+y_i+x_i+x_{i+1}).|
+|281548|Number of distinct monomials in the expansion of Product_ i=1..n  (y_1+...+y_i+x_i+x_ i+1 ).|
 |281554|Number of nonassociative right conjugacy closed loops of order n up to isomorphism.|
 |281571|Smallest k such that (the base-2 number formed by concatenating k consecutive base-2 numbers starting at n) is prime, or 0 if no such k exists.|
 |281574|Number of geometric lattices on n nodes.|
@@ -14932,7 +14932,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |281646|Numbers k such that (25*10^k - 241)/9 is prime.|
 |281663|Refactorable numbers that are not the sum of two refactorable numbers.|
 |281678|Numbers k that have no digits in common with k^7.|
-|281700|Number of examples for Simpson's paradox with data items in {0,1,...,n}.|
+|281700|Number of examples for Simpson's paradox with data items in  0,1,...,n .|
 |281705|Number of Hangul letters (initials, medials and finals of syllables) in Native Korean name of n.|
 |281723|Smallest positive integer that cannot be obtained as the number of linear extensions of a poset of size n.|
 |281728|Johnson's non-Wieferich numbers of the first kind.|
@@ -14978,7 +14978,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |282193|a(n) is the minimal product of a positive integer sequence of length n with no duplicate substrings (forward or backward) of length greater than 1.|
 |282197|a(n) is the smallest number d if the point (d,d) is shared by exactly n different Dyck paths in the main diagonal of the diagram of the symmetries of sigma described in A237593.|
 |282198|a(n) = k if the last Dyck path that is counted in A279286(n) is the k-th Dyck path.|
-|282212|Number of maximal squarefree words of length n over the alphabet {0,1,2}.|
+|282212|Number of maximal squarefree words of length n over the alphabet  0,1,2 .|
 |282250|Numbers k such that 7*10^k + 79 is prime.|
 |282256|Numbers k such that (142*10^k - 7)/9 is prime.|
 |282277|Numbers k such that (23*10^k + 97)/3 is prime.|
@@ -15013,11 +15013,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |282536|Numbers k such that (26*10^k + 49)/3 is prime.|
 |282571|Numbers k such that 2*10^k - 27 is prime.|
 |282578|Least k such that k^n is the sum of two distinct proper prime powers (A246547), or 0 if no such k exists.|
-|282615|Number of self-conjugate separable solutions of X + Y = 2Z (integer, disjoint triples from {1,2,3,...,3n}).|
-|282616|Number of self-conjugate solutions of X + Y = 2Z (integer, disjoint triples from {1,2,3,...,3n}).|
-|282617|Number of non-self-conjugate inseparable solutions of X + Y = 2Z (integer, disjoint triples from {1,2,3,...,3n}).|
-|282618|Number of non-self-conjugate separable solutions of X + Y = 2Z (integer, disjoint triples from {1,2,3,...,3n}).|
-|282619|Number of non-self-conjugate solutions of X + Y = 2Z (integer, disjoint triples from {1,2,3,...,3n}).|
+|282615|Number of self-conjugate separable solutions of X + Y = 2Z (integer, disjoint triples from  1,2,3,...,3n ).|
+|282616|Number of self-conjugate solutions of X + Y = 2Z (integer, disjoint triples from  1,2,3,...,3n ).|
+|282617|Number of non-self-conjugate inseparable solutions of X + Y = 2Z (integer, disjoint triples from  1,2,3,...,3n ).|
+|282618|Number of non-self-conjugate separable solutions of X + Y = 2Z (integer, disjoint triples from  1,2,3,...,3n ).|
+|282619|Number of non-self-conjugate solutions of X + Y = 2Z (integer, disjoint triples from  1,2,3,...,3n ).|
 |282620|Numbers k such that (67*10^k + 17)/3 is prime.|
 |282635|Numbers k such that (11*10^k - 131)/3 is prime.|
 |282648|Consider the antisigma function of a number x, A024816(x). Take the sum of its digits. Repeat the process deleting the first addendum and adding the previous sum. The sequence lists the numbers that after some iterations reach x.|
@@ -15043,13 +15043,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |282767|n/3 analog of Keith numbers.|
 |282768|n/5 analog of Keith numbers.|
 |282769|n/7 analog of Keith numbers.|
-|282774|Nonprime numbers k such that sigma(k) - Sum_{j=1..m}{sigma(k) mod d_j} | k, where d_j is one of the m divisors of k.|
+|282774|Nonprime numbers k such that sigma(k) - Sum_ j=1..m  sigma(k) mod d_j  | k, where d_j is one of the m divisors of k.|
 |282783|Number of terms in A282430 less than or equal to 10^n.|
 |282809|Numbers k such that (82*10^k + 449)/9 is prime.|
 |282810|Numbers k such that (26*10^k - 77)/3 is prime.|
 |282815|Numbers k such that (28*10^k + 131)/3 is prime.|
 |282847|Given n people seated at a table, a(n) is the minimum number of swaps that must occur in order for everybody to have sat next to every other person.|
-|282868|For all n's, the set including the terms {a(1), a(2), a(3),... a(n)} has a prime number of digits 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9.|
+|282868|For all n's, the set including the terms  a(1), a(2), a(3),... a(n)  has a prime number of digits 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9.|
 |282889|Number of directed Hamiltonian cycles on the n X n black bishop graph.|
 |282890|Number of directed Hamiltonian cycles on the n X n white bishop graph.|
 |282895|Numbers k such that (11*10^k + 91)/3 is prime.|
@@ -15095,7 +15095,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |283416|Number of possible connected steric graphs with n nodes of degree less than 5.|
 |283420|Number of simple (not necessarily connected) untraceable graphs on n nodes.|
 |283421|Number of connected untraceable graphs on n vertices.|
-|283438|The largest possible size of a set in F_3^n, free of three-term arithmetic progressions with the difference in {0,1}^n.|
+|283438|The largest possible size of a set in F_3^n, free of three-term arithmetic progressions with the difference in  0,1 ^n.|
 |283447|Numbers k such that (4*10^k + 197)/3 is prime.|
 |283448|Numbers k such that (265*10^k + 11)/3 is prime.|
 |283449|Smallest composite that is not an n-th power, but can be written as the sum of the n-th powers of two or more of its distinct prime factors.|
@@ -15109,28 +15109,28 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |283561|Concatenation of the first a(n) nonsquares gives a prime.|
 |283564|Positive integers k such that k = a/(b+c) + b/(a+c) + c/(a+b) for some positive integers a, b and c where the corresponding elliptic curve has rank=1.|
 |283612|Number of sets of sequences of total length n over an alphabet of n letters with the symmetric group acting on the letters.|
-|283627|The number of (n^2) X (n^2) real {0,1}-matrices the square of which is the all-ones matrix.|
+|283627|The number of (n^2) X (n^2) real  0,1 -matrices the square of which is the all-ones matrix.|
 |283653|Numbers k such that 3^k + (-2)^k is prime.|
 |283658|Numbers d > 1 such that the class number of Q(sqrt(d)) is strictly greater than the class number of Q(sqrt(m)) for all m < d.|
 |283659|Class numbers of the fields Q(sqrt(A283658(n)).|
 |283684|Numbers k such that 3*10^k + 17 is prime.|
 |283715|a(n) is the number of Carmichael numbers whose largest prime factor is prime(n).|
-|283717|Number of distinct subsets S of {t,t+1,...,m-1}, t = ceiling(m/2), such that number of distinct symbols in the "most general word" of length m having its periods a superset of (S union {m}) is m-n, for m >= 2n.|
+|283717|Number of distinct subsets S of  t,t+1,...,m-1 , t = ceiling(m/2), such that number of distinct symbols in the "most general word" of length m having its periods a superset of (S union  m ) is m-n, for m >= 2n.|
 |283744|Nonprime numbers k such that k divides sigma(k^2) - 1.|
 |283802|Numbers k such that the concatenation of the first k odd composite numbers is a prime.|
 |283807|Smallest prime p such that A005117(k+1) - A005117(k-1) = n, where p = A005117(k) for some k.|
 |283824|Number of unlabeled (and unrooted) trees on n nodes having a node that is both a center and a centroid.|
 |283825|Number of Hamiltonian regular graphs on n nodes.|
 |283827|Irregular triangle read by rows: T(n,k) = number of trees on n nodes with load k, n>=1, 1 <= k <= floor(n/2).|
-|283828|Number of bounded regions in the Linial arrangement L_{n-1}.|
+|283828|Number of bounded regions in the Linial arrangement L_ n-1 .|
 |283840|Number of ternary maps f : S X S X S -> S on a set S of n elements which can be represented as a superposition of binary maps * : S X S -> S (Version 1).|
 |283841|Number of ternary maps f : S X S X S -> S on a set S of n elements which can be represented as a superposition of binary maps * : S X S -> S (Version 2).|
 |283872|Numbers k such that gcd(phi(k), k-1) > lambda(k)^2.|
 |283931|Numbers m such that tau(2^m) = tau(2^m + 1).|
 |283936|Number of "Euclidean primes" with respect to the first n primes.|
 |284046|Numbers k, not ending in 0, such that the consecutive digits of k^2 differ by 0 or 1.|
-|284123|Numbers n such that A099953(n) = Sum_{i=1..n-1} (2i-1)!! is prime.|
-|284157|Least index k such that (Sum_{i=1..k} prime(i)) mod prime(k) = n.|
+|284123|Numbers n such that A099953(n) = Sum_ i=1..n-1  (2i-1)!! is prime.|
+|284157|Least index k such that (Sum_ i=1..k  prime(i)) mod prime(k) = n.|
 |284191|Numbers k such that 4*10^k - 87 is prime.|
 |284209|Decimal representation of generation n in the reversible cellular automaton RCA(3) when started with a single ON cell at generation 0.|
 |284210|Number of subgroups of order n of the symmetric group Sym(n) on n symbols.|
@@ -15174,8 +15174,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |284728|Dimensions of certain centralizer algebras associated with Bratelli diagram QB(S_6, S_5).|
 |284729|Dimensions of certain centralizer algebras associated with Bratelli diagram B(A_6, A_5).|
 |284730|Dimensions of certain centralizer algebras associated with Bratelli diagram QB(A_6, A_5).|
-|284731|Square array read by antidiagonals downwards: T(n,k) = number of linear extensions of the North-East rectangular partial order NE_{n,k} that avoid the pattern 123.|
-|284732|Square array read by antidiagonals downwards: T(n,k) = number of linear extensions of the North-East rectangular partial order NE_{n,k} that avoid the pattern 2143.|
+|284731|Square array read by antidiagonals downwards: T(n,k) = number of linear extensions of the North-East rectangular partial order NE_ n,k  that avoid the pattern 123.|
+|284732|Square array read by antidiagonals downwards: T(n,k) = number of linear extensions of the North-East rectangular partial order NE_ n,k  that avoid the pattern 2143.|
 |284733|Row 3 of array in A284731.|
 |284734|Column 3 of array in A284731.|
 |284735|Total irregularity of Jaco graph J*_n(x).|
@@ -15222,7 +15222,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |285377|Numbers k such that (41*10^k + 373)/9 is prime.|
 |285378|Numbers k such that (14*10^k + 61)/3 is prime.|
 |285379|Numbers k such that (47*10^k + 133)/9 is prime.|
-|285387|Number of ordered (n+1)-tuples of positive integers (s_1, s_2, ..., s_{n+1}) with s_(n+1) - s_n - ... - s_1 = s_(n+1)/(s_n * ... * s_1).|
+|285387|Number of ordered (n+1)-tuples of positive integers (s_1, s_2, ..., s_ n+1 ) with s_(n+1) - s_n - ... - s_1 = s_(n+1)/(s_n * ... * s_1).|
 |285485|Number of (n+1)-extended Skolem sequences of order n.|
 |285521|Table read by rows: the n-th row gives the lexicographically earliest sequence of length n such that the convex hull of (1, a(1)), ..., (n, a(n)) is an n-gon with minimum height.|
 |285526|Terms of A285524 that mark the beginning of four consecutive equal values.|
@@ -15284,7 +15284,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |286287|Least number to start a run of exactly n nondecreasing values of little omega (A001221).|
 |286288|Least number to start a run of exactly n nondecreasing values of (big) Omega (A001222).|
 |286289|Least number to start a run of exactly n nondecreasing values of the Euler phi function (A000010).|
-|286303|The list of x-coordinates for which nonempty columns arise in the set arising from {(1, 0),(2, 0),(0, 1)}, the classical Ulam sequence on the x-axis augmented by a vector in the orthogonal direction.|
+|286303|The list of x-coordinates for which nonempty columns arise in the set arising from  (1, 0),(2, 0),(0, 1) , the classical Ulam sequence on the x-axis augmented by a vector in the orthogonal direction.|
 |286317|Number of species of partial Latin squares of size n.|
 |286318|Number of species of connected partial Latin squares of size n.|
 |286344|Number of (n,1)-polyominoes.|
@@ -15454,7 +15454,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |288555|Number of one-sided arrangements of n circles in the affine plane.|
 |288556|Number of connected one-sided arrangements of n circles in the affine plane, in the sense that the union of the solid circles is a connected set.|
 |288557|Number of connected one-sided arrangements of n circles in the affine plane, in the sense that the union of the boundaries of the circles is a connected set.|
-|288558|Irregular triangle read by rows: distribution of inversion numbers over the set of permutations of the multiset {1,1,2,2,3,3,...,n,n} avoiding the pattern 123.|
+|288558|Irregular triangle read by rows: distribution of inversion numbers over the set of permutations of the multiset  1,1,2,2,3,3,...,n,n  avoiding the pattern 123.|
 |288559|Number of arrangements of n pseudo-circles in the affine plane.|
 |288560|Number of connected arrangements of n pseudo-circles in the affine plane, in the sense that the union of the solid pseudo-circles is a connected set.|
 |288561|Number of connected arrangements of n pseudo-circles in the affine plane, in the sense that the union of the boundaries of the pseudo-circles is a connected set.|
@@ -15470,8 +15470,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |288655|Numbers k such that 10^k - 701 is prime.|
 |288676|Numbers k such that A108394(k) is not a prime.|
 |288706|Number of (undirected) paths in the n-sun graph.|
-|288759|Number of distinct rational numbers that can be obtained in n steps by applying addition, subtraction, multiplication and division to any two potentially identical numbers from the complete set of numbers created in n-1 steps, starting with the set {1}.|
-|288760|Number of distinct nonnegative rational numbers that can be obtained in n steps by applying addition, subtraction, multiplication and division to any two potentially identical numbers from the complete set of numbers created in n-1 steps, starting with the set {1}.|
+|288759|Number of distinct rational numbers that can be obtained in n steps by applying addition, subtraction, multiplication and division to any two potentially identical numbers from the complete set of numbers created in n-1 steps, starting with the set  1 .|
+|288760|Number of distinct nonnegative rational numbers that can be obtained in n steps by applying addition, subtraction, multiplication and division to any two potentially identical numbers from the complete set of numbers created in n-1 steps, starting with the set  1 .|
 |288773|a(n) is the largest of all positive integers whose partitions into consecutive parts can be totally represented in the first n rows of the table described in A286000.|
 |288774|a(n) is the largest positive integers whose partitions into consecutive parts can be totally represented in the first n rows of the table described in A286000.|
 |288776|Theta series of the 24-dimensional lattice of hyper-roots E_5(SU(3))|
@@ -15630,7 +15630,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |289943|Numbers k such that (304*10^k - 43)/9 is prime.|
 |289944|Sizes of triangles in the tilings of a convex polygon by n equilateral triangles described in A014529 written as triangle T(n,m), n >= 1, 1 <= m <= n.|
 |289971|Number of permutations of [n] determined by their antidiagonal sums.|
-|289972|Number of sets S (cubic acute n-set), with cardinality A089676(n) >= 3, of points in {0,1}^n in real n-dimensional Euclidean space such that every angle determined by three distinct points in S is acute.|
+|289972|Number of sets S (cubic acute n-set), with cardinality A089676(n) >= 3, of points in  0,1 ^n in real n-dimensional Euclidean space such that every angle determined by three distinct points in S is acute.|
 |289979|Define two sequences n1(i) and n2(i) by the recurrences n1(i) = n1(i-1) + digsum(n2(i-1)), n2(i) = n2(i-1) + digsum(n1(i-1)), with initial values n1(1) = n and n2(1) = 0. Then a(n) is the smallest m such that n1(i) = n2(i) = m for some i, or -1 if no such m exists.|
 |289985|Smallest positive k such that (n+1)^k + (-n)^k is divisible by a square greater than 1.|
 |289986|Number of connected 2n-regular loopless multigraphs on 2n unlabeled nodes.|
@@ -15668,7 +15668,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |290242|The number of noncototient numbers <= 10^n.|
 |290245|Number of larger members of primitive friendly pairs <= 10^n.|
 |290246|Prime numbers that are common indices to both prime Lucas and prime Wagstaff numbers.|
-|290250|Smallest (prime) number a(n) > 2 such that Sum_{k=1..a(n)} k!^(2*n) is divisible by a(n).|
+|290250|Smallest (prime) number a(n) > 2 such that Sum_ k=1..a(n)  k!^(2*n) is divisible by a(n).|
 |290279|Number of permutations of [n] with a unique pair of orthogonal (diagonal, antidiagonal) X-rays.|
 |290280|Number of pairs of orthogonal (diagonal, antidiagonal) X-rays for all permutations of [n].|
 |290282|Numbers k such that (32*10^k + 337)/9 is prime.|
@@ -15699,7 +15699,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |290440|a(n) = A289677(3*n+2).|
 |290441|a(n) = A289677(3*n).|
 |290464|Consider the graded poset consisting of the distinct partitions of n read mod 2; a(n) is the number of edges.|
-|290469|Numbers x such that x = Sum_{i=1..k} (x mod d_(x+i)) for some k, where d_(x+i) is the aliquot parts of (x+i).|
+|290469|Numbers x such that x = Sum_ i=1..k  (x mod d_(x+i)) for some k, where d_(x+i) is the aliquot parts of (x+i).|
 |290473|Numbers k such that 3*10^k + 13 is prime.|
 |290475|Numbers k such that 4*10^k - 89 is prime.|
 |290476|Numbers k such that (38*10^k + 691)/9 is prime.|
@@ -15785,8 +15785,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |291061|Number of maximal irredundant sets in the n X n black bishop graph.|
 |291062|Number of maximal irredundant sets in the n-hypercube graph.|
 |291065|Number of maximal irredundant sets in the 2n-crossed prism graph.|
-|291068|Largest number of distinct words arising in Watanabe's tag system {00, 1110} applied to a binary word w, over all starting words w of length n.|
-|291069|Largest number of distinct words arising in Watanabe's tag system {00, 0111} applied to a binary word w, over all starting words w of length n.|
+|291068|Largest number of distinct words arising in Watanabe's tag system  00, 1110  applied to a binary word w, over all starting words w of length n.|
+|291069|Largest number of distinct words arising in Watanabe's tag system  00, 0111  applied to a binary word w, over all starting words w of length n.|
 |291079|Arises in the enumeration of "grounds" for lace tessellations.|
 |291098|Number of maximal irredundant sets in the n X n king graph.|
 |291099|Number of maximal irredundant sets in the n X n knight graph.|
@@ -15836,11 +15836,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |291356|a(n) is the smallest k such that usigma(k) = A002110(n), or 0 if no such k exists.|
 |291365|Number of closed Sturmian words of length n.|
 |291373|a(n) is the smallest number k such that A001065(k) = A002110(n), or 0 if no such k exists.|
-|291465|a(n) is the least m >= n for which the complete bipartite graph K_{m,n} has a prime labeling.|
+|291465|a(n) is the least m >= n for which the complete bipartite graph K_ m,n  has a prime labeling.|
 |291525|a(n) is the largest number in an n-term AP of Chen primes.|
 |291531|Number of Chen primes up to 10^n.|
 |291548|Numbers k such that uphi(k) does not divide uphi(k!).|
-|291551|Number of permutations s_1,s_2,...,s_n of 1,2,...,n such that for all j=1,2,...,n, Sum_{i=1..j} s_i divides Product_{i=1..j} s_i.|
+|291551|Number of permutations s_1,s_2,...,s_n of 1,2,...,n such that for all j=1,2,...,n, Sum_ i=1..j  s_i divides Product_ i=1..j  s_i.|
 |291555|Number of even numbers less than 10^n that contain their greatest odd factor as a substring.|
 |291573|Number of minimal dominating sets in the n-Fibonacci cube graph.|
 |291591|Numbers k such that there exist exactly five distinct Pythagorean triangles, at least one of them primitive, with area k.|
@@ -15974,7 +15974,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |292527|Decimal expansion of the aliquot constant (negated).|
 |292528|Minimal number of vertices in a triangle-free graph with chromatic number n.|
 |292529|Decimal expansion of the Pisot constant.|
-|292550|a(n) = smallest k >= 1 such that {1, 3^n, 5^n, ... , (4*k-1)^n} can be partitioned into two sets with equal sums.|
+|292550|a(n) = smallest k >= 1 such that  1, 3^n, 5^n, ... , (4*k-1)^n  can be partitioned into two sets with equal sums.|
 |292580|T(n,k) is the start of the first run of exactly k consecutive integers having exactly 2n divisors. Table read by rows.|
 |292614|Numbers k such that 2^k - Lucas(k) is prime.|
 |292615|Number of maximal cones in the prime degree p>2 superelliptic locus of the moduli space of tropical curves of genus (p-1)(n/2-1) coming from coverings with n ramification points|
@@ -16087,7 +16087,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |293437|Numbers n that are persistently squarefree for base-2 shifting (in A293430), and for which A163511(n) is also in A293430.|
 |293457|Primes greater than 2 that divide the numerator of the sum of the reciprocals of all smaller primes.|
 |293480|Composite numbers k = concat(x,LSD(k)) such that the sum of the aliquot parts of k is equal to the sum of the aliquot parts of x.|
-|293492|a(n) is the number of sequences (s_1, ..., s_n) of positive integers such that (Product_{k=1..n} [s_k, -1; 1, 0])^2 = [-1, 0; 0, -1].|
+|293492|a(n) is the number of sequences (s_1, ..., s_n) of positive integers such that (Product_ k=1..n  [s_k, -1; 1, 0])^2 = [-1, 0; 0, -1].|
 |293529|Smallest number of iterations of f(x)=A000720(n*x) at x=1 to reach the limit (=A038626(n)).|
 |293531|Numbers k such that (268*10^k - 1)/3 is prime.|
 |293534|Numbers k such that 22*10^k + 3 is prime.|
@@ -16308,7 +16308,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |295217|Chromatic invariant of the n X n white bishop graph.|
 |295223|Number of tilings of the n X n torus, using diagonal lines to connect the gridpoints.|
 |295236|Hemi-imperfect numbers: numbers such that the denominator of k/A206369(k) is equal to 2.|
-|295263|Number of total cyclic orders Z on {1, ..., n+2} such that (i, i+1, i+2) in Z for 1 <= i <= n, and (n+1,n+2,1) in Z.|
+|295263|Number of total cyclic orders Z on  1, ..., n+2  such that (i, i+1, i+2) in Z for 1 <= i <= n, and (n+1,n+2,1) in Z.|
 |295322|Numbers k such that (17*10^k - 377)/9 is prime.|
 |295323|Numbers k such that 2*10^k - 51 is prime.|
 |295324|Numbers k such that (17*10^k - 89)/9 is prime.|
@@ -16335,7 +16335,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |295403|Numbers k such that (41*10^k - 383)/9 is prime.|
 |295428|Number of minimal dominating sets in the n X n torus grid graph.|
 |295429|Number of minimal connected dominating sets in the n X n torus grid graph.|
-|295483|Composite squarefree numbers k such that Sum_{i=1..j} (p_i)^k mod k = 0, where p_i is one of the j prime divisors of k.|
+|295483|Composite squarefree numbers k such that Sum_ i=1..j  (p_i)^k mod k = 0, where p_i is one of the j prime divisors of k.|
 |295509|Maxima of the numerators (and also of the denominators) of row n in the Schinzel-Sierpinski tree of fractions A295511.|
 |295522|Numbers k such that (16*10^k + 107)/3 is prime.|
 |295532|Positive integers n such that 13^n == 8 (mod n).|
@@ -16395,7 +16395,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |295902|Number of (not necessarily maximum) cliques in the n-Keller graph.|
 |295919|Smallest number with exactly n representations as a sum of eight nonnegative squares.|
 |295927|Chromatic invariant of the n-Fibonacci cube graph.|
-|295928|Number of triangular matrices T(n,i,k), k <= i <= n, with entries "0" or "1" with the property that each triple {T(n,i,k), T(n,i,k+1), T(n,i-1,k)} containing a single "0" can be successively replaced by {1, 1, 1} until finally no "0" entry remains.|
+|295928|Number of triangular matrices T(n,i,k), k <= i <= n, with entries "0" or "1" with the property that each triple  T(n,i,k), T(n,i,k+1), T(n,i-1,k)  containing a single "0" can be successively replaced by  1, 1, 1  until finally no "0" entry remains.|
 |295930|Largest number with exactly n representations as a sum of eight nonnegative squares.|
 |295946|Number of set partitions of [3n] into n subsets of size three such that all element sums are triangular numbers.|
 |295967|Numbers k such that (35*10^k - 377)/9 is prime.|
@@ -16495,7 +16495,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |297178|Triangle read by rows: T(n,k) = number of partitions of genus 2 of n elements with k parts (n >= 6, 2 <=k <= n-4),|
 |297179|Number of genus-2 partitions of n.|
 |297230|Number of edge covers in the n-Sierpinski tetrahedron graph.|
-|297345|a(0)=0; for n>0, a(n) is the least positive integer that cannot be represented as Sum_{k=1..n-1} a(i_k)*a(k), with 0 <= i_k < n.|
+|297345|a(0)=0; for n>0, a(n) is the least positive integer that cannot be represented as Sum_ k=1..n-1  a(i_k)*a(k), with 0 <= i_k < n.|
 |297348|Numbers k such that 12*13^k - 1 is prime.|
 |297351|Smallest number k such that, for any set S of k distinct nonzero residues mod p = prime(n), any residue mod p can be represented as a sum of zero or more distinct elements of S.|
 |297360|Numbers k such that (2^lambda(k) - 1)/k is prime, where lambda(k) is the Carmichael lambda function (A002322).|
@@ -16582,7 +16582,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |298429|Numbers n such that there are precisely 12 groups of orders n and n + 1.|
 |298430|Numbers n such that there are precisely 13 groups of orders n and n + 1.|
 |298431|Numbers n such that there are precisely 14 groups of orders n and n + 1.|
-|298432|a(n) = Sum_{k=0..n-1} T(n-k, k+1) where T(n, k) is the number of tight n X k pavings (defined in A285357).|
+|298432|a(n) = Sum_ k=0..n-1  T(n-k, k+1) where T(n, k) is the number of tight n X k pavings (defined in A285357).|
 |298433|a(n) is the number of tight n X n pavings (defined in A285357).|
 |298437|Numbers n such that there are precisely 16 groups of orders n and n + 1.|
 |298467|Smallest positive integer that can be expressed as the sum of consecutive positive squares in exactly n ways.|
@@ -16614,9 +16614,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |299030|Number of vertices in the iterated clique graphs of the 1-skeleton of Plato's octahedron.|
 |299040|Number of digits in the base-n representation of the last base-n narcissistic number.|
 |299073|Indices of records in A243145.|
-|299100|Indices k such that s_k(4) is a (probable) prime, where s_k(4) = 4*s_{k-1}(4) - s_{k-2}(4), k >= 2, s_0(4) = 1, s_1(4) = 5.|
+|299100|Indices k such that s_k(4) is a (probable) prime, where s_k(4) = 4*s_ k-1 (4) - s_ k-2 (4), k >= 2, s_0(4) = 1, s_1(4) = 5.|
 |299101|Indices of (probable) primes in A030221.|
-|299107|Probable primes in sequence {s_k(4)}, where s_k(4) = 4*s_{k-1}(4) - s_{k-2}(4), k >= 2, s_0(4) = 1, s_1(4) = 5.|
+|299107|Probable primes in sequence  s_k(4) , where s_k(4) = 4*s_ k-1 (4) - s_ k-2 (4), k >= 2, s_0(4) = 1, s_1(4) = 5.|
 |299109|Probable primes in A030221.|
 |299112|Record values in A243145.|
 |299116|The number of sparse union-closed sets. That is, the number of union-closed sets on n elements containing the empty set and the universe, such that in average each set (not counting the empty set) has at most n/2 elements.|
@@ -16690,7 +16690,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |300285|The number of solutions to phi(x) = phi(x+1) below 10^n, where phi(x) is the Euler totient function.|
 |300292|Numbers k such that k^k + 9 is a prime.|
 |300327|Poulet numbers (Fermat pseudoprimes to base 2) with a record number of divisors that are also Poulet numbers.|
-|300335|Number of ordered set partitions of {1,...,n} with weakly increasing block-sums.|
+|300335|Number of ordered set partitions of  1,...,n  with weakly increasing block-sums.|
 |300363|Sum of primes of the form b^2+1 for b <= 10^n.|
 |300397|a(n) = number of primes that end in 1 among the first 10^n primes.|
 |300398|a(n) = number of primes that end in 3 among the first 10^n primes.|
@@ -16788,7 +16788,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |301722|Coordination sequence for node of type V2 in "krb" 2-D tiling (or net).|
 |301733|Denominators of rational coefficients arising from the Kashaev invariant for the 4_1 knot.|
 |301734|Coefficients of q-series associated with the 8_5 knot.|
-|301735|Coefficients of q-series associated with the colored tetrahedron graph J_{6j,0}.|
+|301735|Coefficients of q-series associated with the colored tetrahedron graph J_ 6j,0 .|
 |301738|a(n) is the least A for which there exists B with 0 < B < A so that (A^(2^n) + B^(2^n))/2 is prime.|
 |301744|Numbers k such that 2^k - 2*k + 1 is prime.|
 |301745|Clique covering number of the n-polygon intersection graph.|
@@ -16797,7 +16797,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |301765|Number of rooted twice-partitions of n where the first rooted partition is constant and the composite rooted partition is strict, i.e., of type (Q,R,Q).|
 |301769|Number of odd chordless cycles in the complement of the n-Mycielski graph.|
 |301776|Prime numbers p with the property that all even numbers n (2 < n <= 2p) are the sum of two primes <= p.|
-|301802|Number of permutations of {1, 2, ..., n} such that no k+2 points lie on a polynomial of degree k.|
+|301802|Number of permutations of  1, 2, ..., n  such that no k+2 points lie on a polynomial of degree k.|
 |301806|Numbers k such that the concatenation of 2^k - 1 and 2^(k - 1) - 1 is prime.|
 |301810|Smallest prime that starts a sequence of at least n consecutive primes with a difference of 210.|
 |301852|Integers k such that the remainder of the sum of the first k primes divided by the k-th prime is equal to k.|
@@ -16852,7 +16852,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |302487|Total domination number of the n-Apollonian network.|
 |302489|Total domination number of the n-cube connected cycle graph.|
 |302490|Fewest number of distinct prime factors in any product of a_1*a_2*...*a_t where n = a_1 < a_2 < ... < a_t = A006255(n) and the product is square.|
-|302504|Lexicographically first sequence of distinct terms such that any set of nine successive digits can be reordered as {d, d+1, d+2, d+3, d+4, d+5, d+6, d+7, d+8}, d being the smallest of the nine digits.|
+|302504|Lexicographically first sequence of distinct terms such that any set of nine successive digits can be reordered as  d, d+1, d+2, d+3, d+4, d+5, d+6, d+7, d+8 , d being the smallest of the nine digits.|
 |302508|Total domination number of the n X n X n grid graph.|
 |302536|Inverse permutation to A302350.|
 |302545|Number of non-isomorphic multiset partitions of weight n with no singletons.|
@@ -16861,7 +16861,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |302648|a(n) is the largest integer b_n such that there exists a set of n integers b_1=0, b_2, ..., b_n whose pairwise sums cover all integers between 0 and 2*b_n.|
 |302651|Numbers that are the product of some fixed power of the digits of their ten's complement.|
 |302752|Numbers k such that k divides the sum of largest parts of all partitions of k.|
-|302755|Strongly prime-additive numbers: numbers n with at least 2 distinct prime factors that can be represented as n = Sum_{p|n} p^e_p, with e_p > 0 and p^e_p < n < p^(e_p+1).|
+|302755|Strongly prime-additive numbers: numbers n with at least 2 distinct prime factors that can be represented as n = Sum_ p|n  p^e_p, with e_p > 0 and p^e_p < n < p^(e_p+1).|
 |302928|Maximum number of 4's possible in an infinite Minesweeper grid with n mines.|
 |302929|Maximum number of 5's possible in an infinite Minesweeper grid with n mines.|
 |302930|Maximum number of 6's possible in an infinite Minesweeper grid with n mines.|
@@ -16884,7 +16884,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |303127|Decimal expansion of proton magnetic moment to Bohr magneton ratio.|
 |303128|Decimal expansion of proton magnetic moment to nuclear magneton ratio.|
 |303129|Decimal expansion of quantum of circulation in m^2 s^(-1).|
-|303133|Decimal expansion of peak density of an A_{3}B binary hard sphere packing discovered by O'Toole and Hudson.|
+|303133|Decimal expansion of peak density of an A_ 3 B binary hard sphere packing discovered by O'Toole and Hudson.|
 |303134|Radius ratio of the spheres in the binary sphere packing with peak density A303133.|
 |303141|Number of minimum total dominating sets in the n X n black bishop graph.|
 |303142|Number of minimum total dominating sets in the n X n grid graph.|
@@ -16908,7 +16908,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |303264|Indices of primes in tetranacci sequence A000078.|
 |303265|Least y for which x^3 + y^4 = z^5 for some x > 1 and z = A300565(n).|
 |303266|Least y for which x^4 + y^5 = z^6 for some x > 1 and z = A300566(n).|
-|303270|Decimal expansion of Integral_{x=0..1} 1/log(|log(x)|) dx (negated).|
+|303270|Decimal expansion of Integral_ x=0..1  1/log(|log(x)|) dx (negated).|
 |303331|a(n) is the minimum size of a square integer grid allowing all triples of n points to form triangles of different areas.|
 |303334|Number of dominating sets in the n X n torus grid graph.|
 |303371|Numbers k such that prime(k)^k + 2 is prime.|
@@ -17005,7 +17005,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |304996|Number of unlabeled antichains of finite sets spanning up to n vertices with singleton edges allowed.|
 |304997|Number of unlabeled antichains of finite sets spanning n vertices with singleton edges allowed.|
 |304999|Number of labeled antichains of finite sets spanning n vertices with singleton edges allowed.|
-|305000|Number of labeled antichains of finite sets spanning some subset of {1,...,n} with singleton edges allowed.|
+|305000|Number of labeled antichains of finite sets spanning some subset of  1,...,n  with singleton edges allowed.|
 |305076|Numbers k such that prime(k)^k - primorial(k - 1) is prime.|
 |305100|Least nonnegative integer which requires n letters to spell in Turkish excluding spaces and hyphens.|
 |305184|Multiplicative order of 2 (mod p^2), where p is the n-th Wieferich prime (A001220).|
@@ -17026,7 +17026,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |305396|Records in A171797.|
 |305397|Largest diameter of a lattice polygon.|
 |305464|Largest prime modulus p such that there exists a multiplicative-coset Ramsey algebra in n colors over Z/pZ, or 0 if no such prime exists.|
-|305503|Largest cardinality of subsets A of {0,1,...,n-1} with |A + A| > |A - A|.|
+|305503|Largest cardinality of subsets A of  0,1,...,n-1  with |A + A| > |A - A|.|
 |305534|Index of the smallest prime in the n-Fibonacci sequence, or the Lucas U(n,-1) sequence.|
 |305568|Number of bachelor diagonal Latin squares of order n with the first row in ascending order.|
 |305569|Number of bachelor diagonal Latin squares of order n.|
@@ -17051,7 +17051,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |305993|Numbers n for which all cyclic shifts of their base-3 expansions give base-3 expansions of prime numbers.|
 |305999|Number of unlabeled spanning intersecting set-systems on n vertices with no singletons.|
 |306001|Number of unlabeled intersecting set-systems with no singletons on up to n vertices.|
-|306002|Number of distinct real eigenvalues of n X n matrices with elements {-1, 0, +1}.|
+|306002|Number of distinct real eigenvalues of n X n matrices with elements  -1, 0, +1 .|
 |306006|Number of non-isomorphic intersecting set-systems of weight n.|
 |306007|Number of non-isomorphic intersecting antichains of weight n.|
 |306008|Number of non-isomorphic intersecting set-systems of weight n with no singletons.|
@@ -17082,10 +17082,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |306349|Number of terms in the greedy Egyptian fraction representation of n.|
 |306373|Integers m such that the sum of the first k divisors is equal to 2*m for some k less than the number of divisors of m.|
 |306385|a(n) is maximum number of distinct distances possible between points in a hyperrectangular grid the sum of whose dimensions is n.|
-|306397|Sum of the coefficients in the Schur expansion of Product_{1<=i<=j<=n} (1+x_i+x_j), which is the total Chern class for the vector bundle Sym^2(E) where E is a vector bundle over a smooth complex projective variety of rank n with Chern roots x_1,...,x_n.|
+|306397|Sum of the coefficients in the Schur expansion of Product_ 1<=i<=j<=n  (1+x_i+x_j), which is the total Chern class for the vector bundle Sym^2(E) where E is a vector bundle over a smooth complex projective variety of rank n with Chern roots x_1,...,x_n.|
 |306401|The smallest integer k | 2^k + 1 such that omega(k) = n.|
 |306406|Numbers k such that the sum of the distinct prime divisors of the product of all legal permutations of the digits of k is equal to k-1.|
-|306417|Number of self-conjugate set partitions of {1, ..., n}.|
+|306417|Number of self-conjugate set partitions of  1, ..., n .|
 |306420|Maximal Laman number among all minimally rigid graphs on n vertices.|
 |306422|Maximal number of coalescent histories among matching pairs of binary, rooted leaf-labeled gene trees and species trees with n leaves.|
 |306424|Numbers k such that the base-b expansion of k for each b = 3..k-1 never contains more than two distinct digits.|
@@ -17097,12 +17097,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |306482|Records for the number of 'Reverse and Add' steps in base 2 needed for a Lychrel number to join the trajectory of a smaller Lychrel number (i.e., its seed). Record setting numbers in A306481.|
 |306493|a(n) is the least number such that the n-th prime is the least coprime quadratic nonresidue modulo a(n).|
 |306498|Smallest number m such that A306494(m) = n.|
-|306505|Number of non-isomorphic antichains of nonempty subsets of {1,...,n}.|
+|306505|Number of non-isomorphic antichains of nonempty subsets of  1,...,n .|
 |306522|Number of simple directed cycles in the binary de Bruijn graphs of order n.|
 |306539|Decimal expansion of Sum (1/p - 1/q) as (p, q) runs through the twin primes.|
 |306550|Array read by antidiagonals where A(n,k) is the number of labeled k-antichains covering n vertices.|
-|306551|Number of non-double-crossing set partitions of {1,...,n}.|
-|306558|Number of double-crossing set partitions of {1,...,n}.|
+|306551|Number of non-double-crossing set partitions of  1,...,n .|
+|306558|Number of double-crossing set partitions of  1,...,n .|
 |306563|Number of power towers of x whose integrals over [0, 1] are above average.|
 |306573|Numbers k such that 11^(k+7) + 7^(k+5) + 5^(k+3) + 3^(k+2) + 2^(k+1) + 1 is prime.|
 |306589|a(n) is the smallest positive integer that can be written as the sum or difference of exactly n but no fewer powers of 2 and 3.|
@@ -17114,15 +17114,15 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |306636|a(n) is the smallest number s such that a diagonal form of degree n in s variables with (rational) integer coefficients is guaranteed to have a nontrivial zero in the p-adic fields for all primes p.|
 |306643|Numbers that, for some x, are the concatenation of x, x+1 and x+2 and are divisible by at least two of x, x+1 and x+2.|
 |306657|Least primary Carmichael number (A324316) with n prime factors.|
-|306658|Decimal expansion of the constant S_1 = Sum_{j>=1} prime(2*j - 1)!/prime(2*j)!.|
+|306658|Decimal expansion of the constant S_1 = Sum_ j>=1  prime(2*j - 1)!/prime(2*j)!.|
 |306666|Positive integers x such that x*(7-5*x+x^2)*(6-4*x+x^2) is a square.|
 |306688|Number of length-n binary strings achieving the maximum possible subword complexity.|
-|306700|Decimal expansion of the constant S_2 = Sum_{j>=1} prime(2*j)!/prime(2*j + 1)!.|
+|306700|Decimal expansion of the constant S_2 = Sum_ j>=1  prime(2*j)!/prime(2*j + 1)!.|
 |306723|Composite squarefree numbers k such that k^2+1 is divisible by p-1, where p are all the prime factors of k.|
 |306724|Least number k > 1 such that A062354(k) is an n-th power, where A062354 is the product of sigma (A000203) and phi (A000010).|
 |306725|Number of connected strong irreducible digital images of n points up to strong homotopy equivalence.|
-|306744|Decimal expansion of the constant S_1 + S_2 = Sum_{j>=1} prime(j)!/prime(j + 1)!.|
-|306746|A Goldbug number is an even number 2m for which there exists a subset of the prime non-divisors, P={p1, p2, p3, ..., pk}, of 2m where (2m-p1)*(2m-p2)*(2m-p3)*...*(2m-pk) has only elements of P as factors and one of the pi is between m/2 and m for even m and between (m+1)/2 and m-1 for odd m.|
+|306744|Decimal expansion of the constant S_1 + S_2 = Sum_ j>=1  prime(j)!/prime(j + 1)!.|
+|306746|A Goldbug number is an even number 2m for which there exists a subset of the prime non-divisors, P= p1, p2, p3, ..., pk , of 2m where (2m-p1)*(2m-p2)*(2m-p3)*...*(2m-pk) has only elements of P as factors and one of the pi is between m/2 and m for even m and between (m+1)/2 and m-1 for odd m.|
 |306747|Untouchable numbers with a record gap to the next untouchable number.|
 |306748|Unitary untouchable numbers with a record gap to the next unitary untouchable number.|
 |306750|Least prime of exactly n consecutive primes all of which are regular.|
@@ -17130,30 +17130,30 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |306759|Decimal expansion of the sum of reciprocals of Brazilian primes, also called the Brazilian primes constant.|
 |306761|Let digsum(k) = A007953(k) denote the digital sum of k. The sequence lists the smallest integer k such that digsum(k) = digsum (k/d(1)) = digsum (k/d(2)) = ... = digsum (k/d(n)) where d(i) are the n distinct prime factors of k.|
 |306779|Table read by rows: T(n,k) is the length of the longest non-intersecting loop starting at (0,0) on the n X k torus consisting of steps up and to the right, 1 <= k <= n.|
-|306780|Decimal expansion of the constant S_1 - S_2 = Sum_{j>=1} (-1)^(j+1)*(prime(j)!/prime(j + 1)!).|
-|306781|Number of distinct minimal polynomials of n X n matrices with elements {0, 1}.|
-|306782|Number of distinct minimal polynomials of n X n matrices with elements {-1, 1}.|
-|306783|Number of distinct minimal polynomials of n X n matrices with elements {0, 1, 2}.|
-|306784|Number of distinct eigenvalues of n X n matrices with elements {0, 1}.|
+|306780|Decimal expansion of the constant S_1 - S_2 = Sum_ j>=1  (-1)^(j+1)*(prime(j)!/prime(j + 1)!).|
+|306781|Number of distinct minimal polynomials of n X n matrices with elements  0, 1 .|
+|306782|Number of distinct minimal polynomials of n X n matrices with elements  -1, 1 .|
+|306783|Number of distinct minimal polynomials of n X n matrices with elements  0, 1, 2 .|
+|306784|Number of distinct eigenvalues of n X n matrices with elements  0, 1 .|
 |306785|Primes p such that p^2 divides A050443(p).|
 |306786|Primes p such that p^2 divides A087935(p).|
-|306791|Number of distinct eigenvalues of n X n matrices with elements {-1, 1}.|
-|306792|Number of distinct eigenvalues of n X n matrices with elements {0, 1, 2}.|
-|306793|Number of distinct real eigenvalues of n X n matrices with elements {0, 1}.|
-|306794|Number of distinct real eigenvalues of n X n matrices with elements {-1, 1}.|
-|306795|Number of distinct real eigenvalues of n X n matrices with elements {0, 1, 2}.|
+|306791|Number of distinct eigenvalues of n X n matrices with elements  -1, 1 .|
+|306792|Number of distinct eigenvalues of n X n matrices with elements  0, 1, 2 .|
+|306793|Number of distinct real eigenvalues of n X n matrices with elements  0, 1 .|
+|306794|Number of distinct real eigenvalues of n X n matrices with elements  -1, 1 .|
+|306795|Number of distinct real eigenvalues of n X n matrices with elements  0, 1, 2 .|
 |306797|Primitive abundant numbers (A071395) that are cubes.|
-|306815|Number of non-derogatory n X n matrices with elements {0, 1}.|
-|306816|Number of non-derogatory n X n matrices with elements {-1, 1}.|
-|306817|Number of non-derogatory n X n matrices with elements {-1, 0, 1}.|
-|306818|Number of non-derogatory n X n matrices with elements {0, 1, 2}.|
-|306819|Number of nilpotent n X n matrices with elements {-1, 1}.|
-|306820|Number of nilpotent n X n matrices with elements {-1, 0, 1}.|
+|306815|Number of non-derogatory n X n matrices with elements  0, 1 .|
+|306816|Number of non-derogatory n X n matrices with elements  -1, 1 .|
+|306817|Number of non-derogatory n X n matrices with elements  -1, 0, 1 .|
+|306818|Number of non-derogatory n X n matrices with elements  0, 1, 2 .|
+|306819|Number of nilpotent n X n matrices with elements  -1, 1 .|
+|306820|Number of nilpotent n X n matrices with elements  -1, 0, 1 .|
 |306828|Carmichael numbers whose index is a power of 2 (see A174590).|
-|306837|Number of unimodular n X n matrices with elements {0, 1}.|
+|306837|Number of unimodular n X n matrices with elements  0, 1 .|
 |306838|Number of different values taken by the determinant of a real (-1,0,1) matrix of order n.|
-|306839|Number of unimodular n X n matrices with elements {-1, 0, 1}.|
-|306840|Number of singular n X n matrices with elements {0, 1, 2}.|
+|306839|Number of unimodular n X n matrices with elements  -1, 0, 1 .|
+|306840|Number of singular n X n matrices with elements  0, 1, 2 .|
 |306844|Number of anti-transitive rooted trees with n nodes.|
 |306850|The Lychrel number a(n) sets a new record for the 'Reverse and Add' steps in base 8 needed to reach a Lychrel number m < a(n) (i.e., its seed).|
 |306851|Records for the number of 'Reverse and Add' steps in base 8, needed for a Lychrel number to join the trajectory of a smaller Lychrel number (i.e., its seed). Record setting numbers in A306850.|
@@ -17167,10 +17167,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |306909|Primes p such that Omega(p + 1)^(p - 1) == 1 (mod p^2), where Omega is A001222.|
 |306917|Number of (undirected) paths in the n-halved cube graph.|
 |306928|Number of different values taken by the determinant of a real (0,1,2) matrix of order n.|
-|306934|Coefficients of q-expansion of Eisenstein series G_{5/2}(tau) multiplied by 120.|
-|306936|Coefficients of q-expansion of Eisenstein series G_{9/2}(tau) multiplied by 240.|
-|306937|Coefficients of q-expansion of Eisenstein series G_{11/2}(tau) multiplied by 132.|
-|306950|Numbers m that divide A177754(m) = Sum_{k=1..m} uphi(k), where uphi is the unitary totient function (A047994).|
+|306934|Coefficients of q-expansion of Eisenstein series G_ 5/2 (tau) multiplied by 120.|
+|306936|Coefficients of q-expansion of Eisenstein series G_ 9/2 (tau) multiplied by 240.|
+|306937|Coefficients of q-expansion of Eisenstein series G_ 11/2 (tau) multiplied by 132.|
+|306950|Numbers m that divide A177754(m) = Sum_ k=1..m  uphi(k), where uphi is the unitary totient function (A047994).|
 |306951|Number of weird numbers (A006037) below 10^n.|
 |306953|Weird numbers with a record gap to the next weird number.|
 |306954|Triangle read by rows: T(n, k), for 1 <= k <= n, is the maximum integer q such that k non-attacking armies of q queens can be placed on an n X n chessboard.|
@@ -17182,15 +17182,15 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |306978|Numbers with record number of iterations of x -> A306938(x) required to reach 1 (A306944).|
 |306986|Number of primitive abundant numbers (A071395) < 10^n.|
 |306990|Worst-case of deterministic state complexity for cyclic shift of binary language with state complexity n.|
-|307007|a(n) is defined by the condition that the decimal expansion of the Sum_{n>=1} 1/(n*a(n)) = 1/(1*a(1)) + 1/(2*a(2)) + 1/(3*a(3)) + ... begins with the concatenation of these numbers; also a(1) = 3 and a(n) > a(n-1).|
-|307020|a(n) is defined by the condition that the decimal expansion of the Sum_{n>=1} (-1)^(n+1)/(Sum_{k=1..n} a(k)) = 1/a(1) - 1/(a(1)+a(2)) + 1/(a(1)+a(2)+a(3)) - ... begins with the concatenation of these numbers; also a(1) = 3 and a(n) > a(n-1).|
-|307021|a(n) is defined by the condition that the decimal expansion of the Sum_{n>=1} 1/(Sum_{k=1..n} a(k)) = 1/a(1) + 1/(a(1)+a(2)) + 1/(a(1)+a(2)+a(3)) + ... begins with the concatenation of these numbers; also a(1) = 10 and a(n) > a(n-1).|
-|307022|a(n) is defined by the condition that the decimal expansion of the Sum_{n>=1} 1/(Sum_{k=1..n} a(k)) = 1/a(1) + 1/(a(1)+a(2)) + 1/(a(1)+a(2)+a(3)) + ... begins with the concatenation of these numbers; also a(1) = 3 and a(n) > a(n-1).|
+|307007|a(n) is defined by the condition that the decimal expansion of the Sum_ n>=1  1/(n*a(n)) = 1/(1*a(1)) + 1/(2*a(2)) + 1/(3*a(3)) + ... begins with the concatenation of these numbers; also a(1) = 3 and a(n) > a(n-1).|
+|307020|a(n) is defined by the condition that the decimal expansion of the Sum_ n>=1  (-1)^(n+1)/(Sum_ k=1..n  a(k)) = 1/a(1) - 1/(a(1)+a(2)) + 1/(a(1)+a(2)+a(3)) - ... begins with the concatenation of these numbers; also a(1) = 3 and a(n) > a(n-1).|
+|307021|a(n) is defined by the condition that the decimal expansion of the Sum_ n>=1  1/(Sum_ k=1..n  a(k)) = 1/a(1) + 1/(a(1)+a(2)) + 1/(a(1)+a(2)+a(3)) + ... begins with the concatenation of these numbers; also a(1) = 10 and a(n) > a(n-1).|
+|307022|a(n) is defined by the condition that the decimal expansion of the Sum_ n>=1  1/(Sum_ k=1..n  a(k)) = 1/a(1) + 1/(a(1)+a(2)) + 1/(a(1)+a(2)+a(3)) + ... begins with the concatenation of these numbers; also a(1) = 3 and a(n) > a(n-1).|
 |307025|Number of (undirected) paths in the m X n knight graph (triangle read by rows with m = 1..n and n = 1..).|
-|307027|Number of (undirected) paths in the complete bipartite graph K_{m,n} (triangle read by rows with m = 1..n and n = 1..).|
-|307028|Longest path length in the stacked book graph S_{n+1} square P_n.|
+|307027|Number of (undirected) paths in the complete bipartite graph K_ m,n  (triangle read by rows with m = 1..n and n = 1..).|
+|307028|Longest path length in the stacked book graph S_ n+1  square P_n.|
 |307038|Unitary imperfect numbers: numbers n that equal to their unitary analog of the alternating sum of divisors, A307037(n).|
-|307043|Numbers n such that A307042(n) = Sum_{k=1..n} esigma(k) is divisible by n, where esigma(k) is sum of exponential divisors of k (A051377).|
+|307043|Numbers n such that A307042(n) = Sum_ k=1..n  esigma(k) is divisible by n, where esigma(k) is sum of exponential divisors of k (A051377).|
 |307051|Lesser of amicable numbers pair m < n such that A307037(m) = n and A307037(n) = m.|
 |307052|Larger of amicable numbers pair m < n such that A307037(m) = n and A307037(n) = m.|
 |307069|Given a special version of Pascal's triangle where only Fibonacci numbers are permitted, a(n) is the row number in which the n-th Fibonacci number first appears.|
@@ -17202,7 +17202,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |307121|Number of Lucasian primes less than 10^n.|
 |307137|Terms of A194269 that are not squares of primes.|
 |307138|State complexity profile of R-Lambda_24 version of Leech lattice.|
-|307139|Triangle read by rows: f-vectors of the binary partition polytopes Q^{~}_n.|
+|307139|Triangle read by rows: f-vectors of the binary partition polytopes Q^ ~ _n.|
 |307140|Number of symmetry classes of coarsest matroid subdivisions in the hypersimplex Delta(3,n) in the Stiefel image.|
 |307141|Number of symmetry classes of coarsest matroid subdivisions in the hypersimplex Delta(4,n) in the Stiefel image.|
 |307142|Number of symmetry classes of coarsest matroid corank subdivisions in the hypersimplex Delta(3,n).|
@@ -17226,7 +17226,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |307218|Numbers x with k digits in base 2 (MSD(x)_2 = d_1, LSD(x)_2 = d_k) that are equal to the product of the positions of 1's (see examples and formula).|
 |307220|Record values in A039951.|
 |307227|Numbers k such that A060648(k) is divisible by k.|
-|307232|a(n) is the number of n X n {0,1}-matrices (over the reals) that contain no zeros when squared.|
+|307232|a(n) is the number of n X n  0,1 -matrices (over the reals) that contain no zeros when squared.|
 |307246|Smallest k for which a set of n primes <= k exists so that the averages of all nonempty subsets are all distinct primes.|
 |307249|Number of simplicial complexes with n nodes.|
 |307250|Primes q == 1 (mod 4) such that there is one equivalence class of quaternary quadratic forms of discriminant q not representing 2.|
@@ -17247,9 +17247,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |307346|Number of uniquely sorted permutations of [2n+1] that avoid the patterns 231 and 4123.|
 |307348|Numbers k such that there are no palindromic triangular numbers of length k.|
 |307367|Number of palindromic triangular numbers with exactly n digits.|
-|307383|Decimal expansion of the constant S_1* + S_2* = Sum_{j>=1} prime((j + 1) - 1)!/prime((j + 2) - 1)!.|
-|307384|Decimal expansion of the constant S_1* = Sum_{j>=1} prime((2*j) - 1)!/prime((2*j + 1) - 1)!.|
-|307385|Decimal expansion of the constant S_2* = Sum_{j>=1} prime((2*j + 1) - 1)!/prime((2*j + 2) - 1)!.|
+|307383|Decimal expansion of the constant S_1* + S_2* = Sum_ j>=1  prime((j + 1) - 1)!/prime((j + 2) - 1)!.|
+|307384|Decimal expansion of the constant S_1* = Sum_ j>=1  prime((2*j) - 1)!/prime((2*j + 1) - 1)!.|
+|307385|Decimal expansion of the constant S_2* = Sum_ j>=1  prime((2*j + 1) - 1)!/prime((2*j + 2) - 1)!.|
 |307387|a(n) is the number of canonical polygons with 4n alternating straight and diagonal edges.|
 |307391|a(n) is the number of canonical polygons with 4n edges containing only right angles.|
 |307406|Number of twisted permutations of the nonnegative integers in base 2*n+1 with an adjacency diagram as defined by Knuth in A220952.|
@@ -17260,7 +17260,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |307456|a(n) is the number of canonical polygons with 2n edges having exactly 2 lines of reflection symmetry.|
 |307457|Longest path length in the n-Apollonian network.|
 |307459|Longest path length in the n X n antelope graph.|
-|307461|Number of longest paths in the stacked book graph S_{n+1} square P_n.|
+|307461|Number of longest paths in the stacked book graph S_ n+1  square P_n.|
 |307467|The number of points, corresponding to the first n primes, and placed on the unit circle according to an algorithm using the data from A077218 (in the spirit of Ulam's spiral, and described in the COMMENTS section below), which lie on the closed arc of the unit circle from 0 to 45 degrees.|
 |307471|SanD primes with d = 14: p and p+d are both prime and digit sum A007953(p*(p+d)) = d.|
 |307480|Smallest SanD-d prime p (such that p + d is also prime and digit sum A007953(p(p+d)) = d) with d = 14 + n*18, n >= 0, resp. d = 5 for n = -1.|
@@ -17276,9 +17276,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |307553|Number of longest paths in the n X n fiveleaper graph.|
 |307554|Longest path length in the n X n fiveleaper graph.|
 |307556|Number of (undirected) longest paths in the n X n bishop graph.|
-|307581|Position of the first permutation of { 0 .. n-1 } occurring in the digits of Pi written in base n.|
+|307581|Position of the first permutation of   0 .. n-1   occurring in the digits of Pi written in base n.|
 |307582|Position of the first occurrence of (0, 1, ..., n-1) in the digits of Pi written in base n.|
-|307583|Position where the last of all n! permutations of { 0 .. n-1 } occurs in the digits of Pi written in base n.|
+|307583|Position where the last of all n! permutations of   0 .. n-1   occurs in the digits of Pi written in base n.|
 |307617|Distinct terms in A307616.|
 |307619|Number of times the n-th distinct term in A307616 appears.|
 |307622|Number of cycles in the n X n fiveleaper graph.|
@@ -17421,7 +17421,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |308587|Number of maximum matchings in the n X n antelope graph.|
 |308588|Number of 4-regular 3-connected planar graphs with n vertices having an Eulerian tour for which no two consecutive edges are incident with the same face.|
 |308601|Number of (not necessarily connected) distance-transitive graphs with n nodes.|
-|308610|Numbers k such that Sum_{j=1..k} composite(j)^composite(j) is prime, where composite(j) is the j-th composite number.|
+|308610|Numbers k such that Sum_ j=1..k  composite(j)^composite(j) is prime, where composite(j) is the j-th composite number.|
 |308611|Numbers k such that A307616(k) > A307616(k-1).|
 |308632|Largest aggressor for the maximum number of peaceable coexisting queens as given in A250000.|
 |308634|Number of triangle-free acyclic digraphs (or DAGs) up to isomorphism with n vertices, maximum indegree 2 and unique maximal element.|
@@ -17440,10 +17440,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |308879|a(n) is the n-digit integer m that maximizes sin(m).|
 |308937|Langton's ant on a chair tiling: number of black cells after n moves of the ant.|
 |308945|Number of totient numbers, phi(k), k <= 10^n, whose initial digit is 1.|
-|308963|Lerch pseudoprimes: composite numbers m such that Sum_{k=1..m-1} k^{m-1} - (m-1)! == m (mod m^2).|
+|308963|Lerch pseudoprimes: composite numbers m such that Sum_ k=1..m-1  k^ m-1  - (m-1)! == m (mod m^2).|
 |308965|Smallest number not divisible by 10 such that if inserted into itself generates at least n different multiples.|
 |308983|Numbers n such that A308803(2n+1) = (2*10^n-1)(5*10^n+1).|
-|308987|In the sequence {n^2+1} (A002522), color the primes red. When the number of terms m between successive red terms sets a new record, write down m+1.|
+|308987|In the sequence  n^2+1  (A002522), color the primes red. When the number of terms m between successive red terms sets a new record, write down m+1.|
 |309009|Numbers that are both triangular and octahedral.|
 |309028|Smallest k>0 such that the elliptic curve y^2 = x^3 + k*x has rank n, if k exists.|
 |309029|Smallest k>0 such that the elliptic curve y^2 = x^3 - k*x has rank n, if k exists.|
@@ -17474,7 +17474,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |309190|Numbers k for which rank of the elliptic curve y^2 = x^3 + k*x is 5.|
 |309191|a(n) is the least prime such that each concatenation of 1 <= k <= n consecutive primes beginning with a(n) is prime, or 0 if no such prime exists.|
 |309193|Smallest oblong number that is a repdigit of length > 2 in exactly n bases.|
-|309209|Continued fraction expansion of the negation of the constant defined by A265011 (among other formulas, this is Sum_{k >= 1} arctan((-1)^k/k)).|
+|309209|Continued fraction expansion of the negation of the constant defined by A265011 (among other formulas, this is Sum_ k >= 1  arctan((-1)^k/k)).|
 |309210|Number of main classes of extended self-orthogonal diagonal Latin squares of order n.|
 |309223|Bisection A164733(2*n).|
 |309224|Bisection A164733(2*n+1).|
@@ -17484,9 +17484,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |309234|a(n) is the least number such that the concatenation of all the previous terms with it is squarefree and has n prime factors. a(0)=0.|
 |309235|Composite numbers m such that A309132(m) <= m.|
 |309236|Langton's ant on a circular grid with 4-fold rotational symmetry: number of black cells on the grid after n moves of the ant.|
-|309237|Records in the indices of largest unsigned Stirling number of first kind: a(n) = smallest m such that c(m,n) = max_{k=0,1...,m} c(m,k).|
+|309237|Records in the indices of largest unsigned Stirling number of first kind: a(n) = smallest m such that c(m,n) = max_ k=0,1...,m  c(m,k).|
 |309238|Non-prime-square numbers equal to the sum of squares of consecutive primes from the least prime factor to the largest prime factor.|
-|309242|a(n) is the smallest integer m such that the equality Product_{i=1..n} (x_i + m) = (m+n)!/m! for integers x_1, ..., x_n from N = { 1, 2, ..., n } guarantees that they form a permutation of N.|
+|309242|a(n) is the smallest integer m such that the equality Product_ i=1..n  (x_i + m) = (m+n)!/m! for integers x_1, ..., x_n from N =   1, 2, ..., n   guarantees that they form a permutation of N.|
 |309251|Period of Langton's ant on an n X n torus.|
 |309257|a(n) is the minimum positive value of the determinants of circulant order n Latin squares.|
 |309258|a(n) is the number of distinct absolute values of determinants of order n Latin squares.|
@@ -17511,7 +17511,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |309345|a(n) is the minimum number of transversals in Latin squares of order n that have at least 1 transversal.|
 |309358|Numbers k such that 10^k + 1 is a semiprime.|
 |309366|When the positive integers are written as products of primes in nondecreasing order, a(n) is the least prime to occur more frequently in n-th position than in any other position.|
-|309370|Maximum size of a Sidon subset of {0,1}^n.|
+|309370|Maximum size of a Sidon subset of  0,1 ^n.|
 |309383|a(n) is the smallest b > 1 such that when c is equal to any of the first n composites the congruence b^(c-1) == 1 (mod c) is satisfied, i.e., smallest b larger than 1 such that any member of the set of smallest n composites is a base-b Fermat pseudoprime.|
 |309393|Let f(n) be equal to n + S(n) + S(S(n)) ... + S(S(S..(n))), where the last term is less than 10 and S(n) is the sum of digits. This is the sequence of numbers k such that the equation f(x) = k has a record number of solutions.|
 |309396|Number of lucky numbers <= n!.|
@@ -17542,7 +17542,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |309534|Numbers k such that A001414(k^2+1) is divisible by k.|
 |309542|Numbers k such that A001414(k^3+1) is divisible by k.|
 |309548|Numbers n such that sigma(n)! - 1 is prime, where sigma is A000203.|
-|309556|Composite numbers m such that m divides Sum_{k=1..m-1} (lcm(1,2,...,(m-1)) / k)^2.|
+|309556|Composite numbers m such that m divides Sum_ k=1..m-1  (lcm(1,2,...,(m-1)) / k)^2.|
 |309558|Numbers k such that A001414(k^4+1) is divisible by k.|
 |309582|Numbers k such that 36*10^(2*k) + 6*10^k + 1 are prime.|
 |309598|Number of extended self-orthogonal diagonal Latin squares of order n with the first row in ascending order.|
@@ -17565,7 +17565,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |309757|Number of connected graphs that have distinct degree sequences among all connected graphs with n nodes.|
 |309774|Numbers k such that 5*10^k + 11 is prime.|
 |309781|a(n) is the smallest even number m having n distinct odd prime divisors p_1, p_2, ..., p_n, each of which (p_i; i=1..n) has the property that there exists a k_i (0 < k_i < p_i-1) such that p_i - k_i | m - k_i.|
-|309799|Number of distinct nonnegative values that can be assumed by the determinant of an n X n matrix whose entries are a permutation of the multiset {1^n,..,n^n}.|
+|309799|Number of distinct nonnegative values that can be assumed by the determinant of an n X n matrix whose entries are a permutation of the multiset  1^n,..,n^n .|
 |309806|Values of k in k-imperfect numbers.|
 |309807|Number of permutations sigma of [n] such that sigma(k)/k > sigma(k+1)/(k+1) for 1 <= k <= n-1.|
 |309814|Where records occur in A171898.|
@@ -17576,7 +17576,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |309843|Numbers m that equal the sum of their first k consecutive aliquot infinitary divisors, but not all of them (i.e k < A037445(m) - 1).|
 |309846|Number of degree n polynomials f with all nonzero coefficients equal to 1 such that f(k) is divisible by 4 for all integers k.|
 |309885|a(n) is the largest integer k such that there exists a set of n integers from which each number in 1,...,k can be built using the basic operations +,-,*,/, with parentheses allowed, and using each element of the set exactly once.|
-|309886|a(n) is the smallest number that cannot be obtained from the first n powers of two {2^0,2^1,...,2^(n-1)} using each power exactly once and the operations +,-,*,/. Parentheses are allowed.|
+|309886|a(n) is the smallest number that cannot be obtained from the first n powers of two  2^0,2^1,...,2^(n-1)  using each power exactly once and the operations +,-,*,/. Parentheses are allowed.|
 |309889|a(n) is the maximal number of regions in the Euclidean plane made by superimposing a simple n-gon onto the resulting plane figure of a(n-1).|
 |309933|Table read by rows: T(n,k) is the number of stable marriage instances with n men and n+1 women in which some "rejecting" woman receives exactly k proposals.|
 |309964|Numbers k for which rank of the elliptic curve y^2 = x^3 - 432*k^2 is 4.|
@@ -17632,11 +17632,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |316772|Number of series-reduced locally nonintersecting rooted trees whose leaves form an integer partition of n.|
 |316834|Numbers with a unique representation as a sum of four distinct odd squares.|
 |316836|Let L_k(n) denote the number of elements of rank k in the free distributive lattice on n generators. Sequence gives irregular triangle, read by rows, showing coefficients when L_k(n) is expressed as a linear combination of binomial(n,i) for 0 <= i <= k-1.|
-|316892|Number of non-isomorphic strict multiset partitions of {1, 1, 2, 2, 3, 3, ..., n, n} with no equivalent vertices.|
+|316892|Number of non-isomorphic strict multiset partitions of  1, 1, 2, 2, 3, 3, ..., n, n  with no equivalent vertices.|
 |316908|a(n) is the smallest k with n prime factors such that 2^(k-1) == 1 (mod k) and p-1 does not divide k-1 for every prime p dividing k.|
 |316917|Let g(n) be the n-th maximal prime gap. a(n) = 1 if g(n) has record merit, 0 if it does not.|
 |316936|a(n) is the maximum state complexity of the language C(w) of conjugates of w, over all length-n binary strings w.|
-|316974|Number of non-isomorphic strict multiset partitions of {1, 1, 2, 2, 3, 3, ..., n, n}.|
+|316974|Number of non-isomorphic strict multiset partitions of  1, 1, 2, 2, 3, 3, ..., n, n .|
 |316980|Number of non-isomorphic strict multiset partitions of weight n.|
 |316981|Number of non-isomorphic strict multiset partitions of weight n with no equivalent vertices.|
 |317027|Perfect powers that appear more than once in the Catalan triangle.|
@@ -17653,13 +17653,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |317185|Number of edges in a minimum gossip graph on n nodes.|
 |317194|Length of smallest cyclic covering word for covering (n-2)-subsets of an n-set.|
 |317195|Length of smallest linear covering word for covering (n-2)-subsets of an n-set.|
-|317199|Bo Tan et al.'s string E_n, defined by A_n = A103269(n) = D_{n-1}E_n = A317197(n-1)E_n for n >= 2, with E_1 = 12.|
+|317199|Bo Tan et al.'s string E_n, defined by A_n = A103269(n) = D_ n-1 E_n = A317197(n-1)E_n for n >= 2, with E_1 = 12.|
 |317201|Reverse of A317199(n).|
 |317231|Least nonnegative difference between two numbers whose digits are all taken from a cumulative list of n mod 10 (see example).|
-|317247|Let E(n,k) denote the k-th smallest Carmichael number such that there are n distinct Carmichael numbers: {x(1), x(2), ..., x(n)} where x_i < E_(n,k), such that for any integer i: 1 <= i <= n, x(i) is a quadratic residue of E(n,k).|
+|317247|Let E(n,k) denote the k-th smallest Carmichael number such that there are n distinct Carmichael numbers:  x(1), x(2), ..., x(n)  where x_i < E_(n,k), such that for any integer i: 1 <= i <= n, x(i) is a quadratic residue of E(n,k).|
 |317249|Positions of records in A204911.|
 |317250|Record values in A204911.|
-|317254|a(n) is the smallest integer such that for all s >= a(n), there are at least n-1 different partitions of s into n parts, namely {x_{11},x_{12},...,x_{1n}}, {x_{21},x_{22},...,x_{2n}},..., and {x_{n-1,1},x_{n-1,2},...,x_{n-1,n}}, such that the products of every set are equal.|
+|317254|a(n) is the smallest integer such that for all s >= a(n), there are at least n-1 different partitions of s into n parts, namely  x_ 11 ,x_ 12 ,...,x_ 1n  ,  x_ 21 ,x_ 22 ,...,x_ 2n  ,..., and  x_ n-1,1 ,x_ n-1,2 ,...,x_ n-1,n  , such that the products of every set are equal.|
 |317292|a(n) is the total number of edges after n-th stage in the diagram of the symmetries of sigma in which the parts of width > 1 are dissected into subparts of width 1, with a(0) = 0.|
 |317293|a(n) is the total number of vertices after n-th stage in the diagram of the symmetries of sigma in which the parts of width > 1 are dissected into subparts of width 1, with a(0) = 1.|
 |317296|Records in A299774.|
@@ -17676,7 +17676,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |317507|Numbers k whose generalized Wilson quotient A157249(k) is prime.|
 |317541|Number of tilings of a sphinx of order n with n^2 - 2 elementary sphinxes and a single sphinx domino that has two different tilings.|
 |317551|Fertility numbers.|
-|317553|Sum of coefficients in the expansion of Sum_{y a composition of n} p(y) in terms of Schur functions, where p is power-sum symmetric functions.|
+|317553|Sum of coefficients in the expansion of Sum_ y a composition of n  p(y) in terms of Schur functions, where p is power-sum symmetric functions.|
 |317554|Sum of coefficients in the expansion of p(y) in terms of Schur functions, where p is power-sum symmetric functions and y is the integer partition with Heinz number n.|
 |317573|Irregular triangle read by rows: T(n,k) is the number of n X n tic-tac-toe positions (up to rotation and reflection) with k tokens (i.e., after k plays) which allow a winning strategy for X (n > 0, 0 <= k <= n^2).|
 |317574|Irregular triangle read by rows: T(n,k) is the number of n X n tic-tac-toe positions (up to rotation and reflection) with k tokens (i.e., after k plays) which allow a winning strategy for O (n > 0, 0 <= k <= n^2).|
@@ -17688,7 +17688,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |317631|Number of connected set partitions of the vertices of labeled graphs with n vertices.|
 |317634|Number of caps (also clutter partitions) of clutters (connected antichains) spanning n vertices.|
 |317635|Number of connected vertex sets of clutters (connected antichains) spanning n vertices.|
-|317680|Least sum S_n of n distinct primes p_i such that q_j = n*p_j - Sum_{k=1..n,k!=j} p_k, j=1..n is prime, such that the set union {p_i} U {q_i} contains 2*n distinct primes.|
+|317680|Least sum S_n of n distinct primes p_i such that q_j = n*p_j - Sum_ k=1..n,k!=j  p_k, j=1..n is prime, such that the set union  p_i  U  q_i  contains 2*n distinct primes.|
 |317681|a(n) = smallest m such that sigma(m) = n*m/2.|
 |317688|Absolute primes that are not repunits: primes where the number resulting from any permutation of the digits is also prime, excluding repunit primes.|
 |317689|Largest nonrepunit base-n absolute prime (conjectured).|
@@ -17705,28 +17705,28 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |317785|Number of locally connected rooted trees with n nodes.|
 |317787|Number of locally nonintersecting rooted trees with n nodes.|
 |317792|Number of non-isomorphic multiset partitions, using normal multisets, of normal multisets of size n.|
-|317874|Numbers k such that T(k) changes sign from T(k-1), where T(i) = Sum_{j=1..i} A008836(j)/j.|
+|317874|Numbers k such that T(k) changes sign from T(k-1), where T(i) = Sum_ j=1..i  A008836(j)/j.|
 |317886|Numbers m such that 11^m + 6 is prime.|
 |317887|Numbers k such that 4^k - 3^k + 2^k is prime.|
 |317919|Number of Wieferich tuples with A297846(n) as largest member, i.e., number of rows of the array in A317721 where A297846(n) is the largest element of that row.|
 |317967|Number of connected line structures or "topoglyphs" with n regions.|
 |317968|Number of (not necessarily connected) line structures or "topoglyphs" with n regions.|
 |317970|Positive n such that the ring of algebraic integers O_n in a quadratic number field has class number 1 but is not Euclidean with respect to the norm.|
-|317986|Odd numbers k > 1 such that k == 1 (mod 4), Product_{n>=1} (a(n)-1)/(a(n)+1) = Pi/4, and Limit_{n->oo} a(n+1)/a(n) = 3, where a(1) = 13 (see comments).|
+|317986|Odd numbers k > 1 such that k == 1 (mod 4), Product_ n>=1  (a(n)-1)/(a(n)+1) = Pi/4, and Limit_ n->oo  a(n+1)/a(n) = 3, where a(1) = 13 (see comments).|
 |318050|Triangle read by rows: T(n,k) is the number of prime knots with n crossings whose unknotting numbers are k.|
 |318051|Irregular triangle read by rows: T(n,k) is the number of prime knots with n crossings whose signatures are k in absolute value.|
 |318052|Number of prime knots with n crossings whose unknotting numbers are given by their signatures.|
 |318099|Number of non-isomorphic weight-n antichains of (not necessarily distinct) multisets whose dual is also an antichain of (not necessarily distinct) multisets.|
-|318112|Number of maximal 1-intersecting families of 3-sets of [n]={1,2,...,n}.|
-|318131|Number of non-isomorphic sets of finite (possibly empty) sets with union {1,2,...,n} and intersection {}.|
-|318132|Number of non-isomorphic set-systems (finite sets of finite nonempty sets) with union {1,2,...,n} and intersection {}.|
-|318134|Number of periodic sequences of period 3n generated by the random period doubling substitution 0 --> {01, 10}, 1 --> {00}.|
+|318112|Number of maximal 1-intersecting families of 3-sets of [n]= 1,2,...,n .|
+|318131|Number of non-isomorphic sets of finite (possibly empty) sets with union  1,2,...,n  and intersection   .|
+|318132|Number of non-isomorphic set-systems (finite sets of finite nonempty sets) with union  1,2,...,n  and intersection   .|
+|318134|Number of periodic sequences of period 3n generated by the random period doubling substitution 0 -->  01, 10 , 1 -->  00 .|
 |318154|Number of non-isomorphic directed graphs reachable by n agents using the ANY protocol.|
 |318165|The n^n dots problem: minimal number of straight lines (connected at their endpoints) required to pass through n^n dots arranged in an n X n X ... X n grid.|
 |318166|a(n) begins the first run of at least n consecutive numbers with the same number of infinitary divisors.|
 |318169|Composite numbers k such that sigma_2(k) - 1 is a square, where sigma_2(k) = A001157(k) is the sum of squares of divisors of k.|
 |318170|Composite numbers k such that A008480(k) = k.|
-|318171|Least prime p such that Sum_{q prime <= p} q is divisible by the first n primes.|
+|318171|Least prime p such that Sum_ q prime <= p  q is divisible by the first n primes.|
 |318172|Decimal expansion of the asymptotic density of deficient numbers.|
 |318185|Number of totally transitive rooted trees with n nodes.|
 |318187|Number of totally transitive rooted trees with n leaves.|
@@ -17752,14 +17752,14 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |318362|Number of non-isomorphic set multipartitions (multisets of sets) of a multiset whose multiplicities are the prime indices of n.|
 |318371|Number of non-isomorphic strict set multipartitions (sets of sets) of a multiset whose multiplicities are the prime indices of n.|
 |318387|Starting with a(1) = 6, a(n) is the smallest number whose sum of prime divisors (taken with multiplicity) is a(n-1). In other words a(n) = A056240(a(n-1)).|
-|318394|Number of finite sets of set partitions of {1,...,n} such that any two have meet {{1},...,{n}}.|
+|318394|Number of finite sets of set partitions of  1,...,n  such that any two have meet   1 ,..., n  .|
 |318403|Number of strict connected antichains of sets whose multiset union is an integer partition of n.|
 |318408|Triangle read by rows: T(n,k) is the number of permutations of [n+1] with index in the lexicographic ordering of permutations being congruent to 1 or 5 modulo 6 that have exactly k descents; k > 0.|
 |318480|Least start of n consecutive lucky numbers that are also n consecutive prime numbers.|
 |318528|Least number > 1 that equals the sum of the n-th powers of its first k divisors for some k.|
 |318529|a(n) begins the first run of at least n consecutive numbers with same number of exponential divisors.|
-|318531|Number of finite sets of set partitions of {1,...,n} such that any two have join {{1,...,n}}.|
-|318532|Number of finite sets of set partitions of {1,...,n} such that any two have meet {{1},...,{n}} and join {{1,...,n}}.|
+|318531|Number of finite sets of set partitions of  1,...,n  such that any two have join   1,...,n  .|
+|318532|Number of finite sets of set partitions of  1,...,n  such that any two have meet   1 ,..., n   and join   1,...,n  .|
 |318546|Number of n X n 0..1 arrays with every element unequal to 1, 2, 4 or 6 horizontally, vertically or antidiagonally adjacent elements, with upper left element zero.|
 |318554|a(n) is the smallest prime number having order of primeness = prime(n).|
 |318560|Number of combinatory separations of a multiset whose multiplicities are the prime indices of n in weakly decreasing order.|
@@ -17773,7 +17773,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |318687|Number of length-n circular binary words having exactly n distinct blocks of length floor(log_2(n)) + 1 (A070939).|
 |318778|Number of different positions that an elementary sphinx can occupy in a sphinx of order n.|
 |318781|A188999(m)/m for the integers m such that A188999(m) is divisible by m, where A188999 is the bi-unitary sigma function.|
-|318790|One-half of the number of permutations sigma of {1,2,...,n^2 + 1} such that |sigma(i+j)-sigma(i)| >= n for 1 <= i <= n^2 + 1 - j, 1 <= j <= n - 1.|
+|318790|One-half of the number of permutations sigma of  1,2,...,n^2 + 1  such that |sigma(i+j)-sigma(i)| >= n for 1 <= i <= n^2 + 1 - j, 1 <= j <= n - 1.|
 |318826|a(n) is the first prime p that starts a run of length n of multiples of itself in alternate terms of A254077.|
 |318842|a(n) is the least integer m such that A047994(m) = ((n-1)/n)*m where A047994 is the unitary totient function, or 0 if there is no such m.|
 |318843|a(n) is the smallest number k such that the symmetric representation of sigma(k) consists of n parts of width 1.|
@@ -17799,10 +17799,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |319031|Triangle read by rows: T(n,k) is the number of permutations pi of [k] such that s(pi) avoids the pattern 12...n, where s is West's stack-sorting map (1 <= k <= 2^(n-1)-1).|
 |319037|a(n) is the length of the longest run of consecutive triangular numbers with n divisors.|
 |319039|Triangle read by rows: T(n,k), n >= 1, k = 0..A005867(n), is the smallest integer m > 0 such that the interval [P(n)*m+1, P(n)*(m+1)] includes exactly k primes, where P(n) = A002110(n) is the n-th primorial, or 0 if no such m exists.|
-|319044|a(n) is the least prime factor of all sufficiently large numbers of the form n + Sum_{j=1..k} j!.|
+|319044|a(n) is the least prime factor of all sufficiently large numbers of the form n + Sum_ j=1..k  j!.|
 |319045|Length of longest run of consecutive odd numbers having exactly n divisors.|
 |319046|Irregular table read by rows: T(n,k) is the start of the first run of exactly k consecutive odd numbers having exactly n divisors, or 0 if no such run exists.|
-|319052|Numbers that are not the sum of {2 squares, a nonnegative cube, and a nonnegative k-th power with k >= 17}.|
+|319052|Numbers that are not the sum of  2 squares, a nonnegative cube, and a nonnegative k-th power with k >= 17 .|
 |319065|A(n, k) is the k-th number b > 1 such that b^(prime(n+i)-1) == 1 (mod prime(n+i)^2) for each i = 0..7, with k running over the positive integers; square array, read by antidiagonals, downwards.|
 |319077|Number of non-isomorphic strict multiset partitions (sets of multisets) of weight n with empty intersection.|
 |319079|Number of connected antichains of sets whose multiset union is an integer partition of n.|
@@ -17946,10 +17946,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |319791|Number of non-isomorphic connected set multipartitions (multisets of sets) of weight n with empty intersection.|
 |319792|Number of non-isomorphic connected set systems of weight n with empty intersection.|
 |319793|Number of non-isomorphic connected strict multiset partitions (sets of multisets) of weight n with empty intersection.|
-|319800|Numbers k such that Sum_{d|k} nphi(d) = k where the sum is over nonunitary divisors of k and nphi(k) is the nonunitary totient function (A254503).|
+|319800|Numbers k such that Sum_ d|k  nphi(d) = k where the sum is over nonunitary divisors of k and nphi(k) is the nonunitary totient function (A254503).|
 |319850|Number of distinct positive integers that can be obtained, starting with the initial interval partition (1, ..., n), by iteratively adding or multiplying together parts until only one part remains.|
 |319851|Welschinger invariant for the number of real plane curves of degree n passing through 3*n-1 general points.|
-|319884|Number of unordered pairs of set partitions of {1,...,n} where every block of one is a proper subset or proper superset of some block of the other.|
+|319884|Number of unordered pairs of set partitions of  1,...,n  where every block of one is a proper subset or proper superset of some block of the other.|
 |319896|Number of connected non-regular multigraphs with n nodes of degree up to n.|
 |319897|Number of connected regular loopless multigraphs on n unlabeled nodes with degree up to n.|
 |319900|a(n) is the number of distinct ways to arrange n copies of each of the numbers 1 through n^2 inside a fixed n X n X n cube, provided that no number appears twice in the same left-right plane, front-back plane, or top-bottom plane.|
@@ -17974,7 +17974,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |319976|Dimensions of certain ideals arising in the study of projective Reed-Muller codes.|
 |319977|Numerators of the Matter numbers H_6n^6n.|
 |319978|Denominators of the Matter numbers H_6n^6n.|
-|319979|The Matter numbers H_{6n+1}^{12n}.|
+|319979|The Matter numbers H_ 6n+1 ^ 12n .|
 |320021|Numbers equal to the sum of the aliquot parts of the previous k numbers, for some k.|
 |320052|Number of product-sum knapsack partitions of n. Number of integer partitions y of n such that every product of sums of the parts of a multiset partition of any submultiset of y is distinct.|
 |320053|Number of spanning sum-product knapsack partitions of n. Number of integer partitions y of n such that every sum of  products of the parts of a multiset partition of y is distinct.|
@@ -18001,11 +18001,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |320396|Number of n X n 0..1 arrays with every element unequal to 0, 1, 2, 3 or 5 horizontally, vertically or antidiagonally adjacent elements, with upper left element zero.|
 |320420|Number of monoids of order n that are not groups.|
 |320422|The number of tiles inside a regular n-gon created by diagonals that run from each of the n vertices to the n-2 midpoints of opposite edges.|
-|320423|Number of set partitions of {1,...,n} where each block's elements are pairwise coprime.|
-|320424|Number of set partitions of {1,...,n} where each block's elements are relatively prime.|
-|320430|Number of set partitions of {1,...,n} where the elements of each non-singleton block are pairwise coprime.|
+|320423|Number of set partitions of  1,...,n  where each block's elements are pairwise coprime.|
+|320424|Number of set partitions of  1,...,n  where each block's elements are relatively prime.|
+|320430|Number of set partitions of  1,...,n  where the elements of each non-singleton block are pairwise coprime.|
 |320434|Number of length-n quasiperiodic binary strings.|
-|320438|Irregular triangle read by rows where T(n,d) is the number of set partitions of {1,...n} with all block-sums equal to d, where d is a divisor of 1 + ... + n.|
+|320438|Irregular triangle read by rows where T(n,d) is the number of set partitions of  1,...n  with all block-sums equal to d, where d is a divisor of 1 + ... + n.|
 |320446|Covers of triangles by tetrahedra: number of labeled 4-uniform hypergraphs spanning n vertices such that every three vertices appear together in some edge.|
 |320447|n such that all n - p are prime where p is prime in range n/2 <= p < n.|
 |320448|a(n) is the maximum number of distinct distances between n non-attacking rooks on an n X n chessboard.|
@@ -18024,7 +18024,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |320579|Triangle read by rows: T(n,k) is the number of disconnected permutation graphs on n vertices with domination number k, with 2 <= k <= n.|
 |320581|a(n) is the number of closed factors of length n in the Fibonacci word.|
 |320583|Irregular triangle read by rows: T(n,k) is the number of connected permutation graphs on n vertices with domination number k, with 1 <= k <= floor(n/2).|
-|320600|Let w = (w_1, w_2, ..., w_n) be a permutation of the integers {1, 2, ..., n}, and let f(k, w) be the length of the longest monotone subsequence of (w_k, w_{k+1}, ..., w_n) starting with w_k. Then a(n) is the number of permutations w in S_n such that Sum_{k=1..n} f(k,w) is minimized.|
+|320600|Let w = (w_1, w_2, ..., w_n) be a permutation of the integers  1, 2, ..., n , and let f(k, w) be the length of the longest monotone subsequence of (w_k, w_ k+1 , ..., w_n) starting with w_k. Then a(n) is the number of permutations w in S_n such that Sum_ k=1..n  f(k,w) is minimized.|
 |320606|Regular triangle read by rows where T(n,k) is the number of k-uniform hypergraphs spanning n labeled vertices where every two vertices appear together in some edge, n >= 0, 0 <= k <= n.|
 |320641|Numbers that require a record number of iterations of the sum of odd divisors function (A000593) to reach 1.|
 |320648|a(n) is the number of connected Veblen hypergraphs (i.e., k-uniform hypergraphs where the degree of each vertex is divisible by k) with n edges up to isomorphism.|
@@ -18036,7 +18036,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |320727|a(n) is the minimal number of perfect matchings of a graph with 2n vertices that contains exactly three disjoint perfect matchings.|
 |320731|Number of possible states when placing n tokens of 2 alternating types on 3 piles.|
 |320757|For p the n-th prime congruent to 1 (mod 4), a(n) is the clique number of the quadratic residue (Paley) graph over F_p, the field of order p.|
-|320768|Number of set partitions of the set of nonempty subsets of {1,...,n} using set partitions.|
+|320768|Number of set partitions of the set of nonempty subsets of  1,...,n  using set partitions.|
 |320797|Number of non-isomorphic self-dual multiset partitions of weight n with no singletons.|
 |320798|Number of non-isomorphic weight-n connected antichains of non-constant multisets with multiset density -1.|
 |320799|Number of non-isomorphic (not necessarily strict) antichains of multisets of weight n with no singletons or leaves (vertices that appear only once).|
@@ -18063,7 +18063,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |320997|An absolute lower bound on the number of components in perfect systems of difference sets (PSDS).|
 |321007|Cardinalities of certain sets arising in the study of the mean-median Map.|
 |321058|Indices of records in A067849.|
-|321084|Primes prime(n) such that 1 + Sum_{k=1..n} 2^(prime(k)-1) is prime.|
+|321084|Primes prime(n) such that 1 + Sum_ k=1..n  2^(prime(k)-1) is prime.|
 |321134|Number of uniform hypergraphs spanning n vertices where every two vertices appear together in some edge.|
 |321135|Smallest number with multiplicative persistence n in base 14.|
 |321143|Number of non-isomorphic knapsack multiset partitions of weight n.|
@@ -18078,7 +18078,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |321188|Number of set systems with no singletons whose multiset union is row n of A305936 (a multiset whose multiplicities are the prime indices of n).|
 |321213|a(n) is the number of divisors of n-th Fermat number (A000215).|
 |321221|Numbers of the form 6n-2 which are not a sum of two numbers that are the lesser of twin primes.|
-|321224|Sporadic numbers: n is defined to be sporadic if the set of groups G not in {A_n, S_n} and having a core-free maximal subgroup of index n is nonempty and contains only sporadic simple groups.|
+|321224|Sporadic numbers: n is defined to be sporadic if the set of groups G not in  A_n, S_n  and having a core-free maximal subgroup of index n is nonempty and contains only sporadic simple groups.|
 |321227|Number of connected multiset partitions with multiset density -1 of strongly normal multisets of size n.|
 |321228|Number of non-isomorphic hypertrees of weight n with singletons.|
 |321229|Number of non-isomorphic connected weight-n multiset partitions with multiset density -1.|
@@ -18118,7 +18118,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |321415|Number of n element multisets of the 2n-th roots of unity with zero sum.|
 |321419|Number of n element multisets of the 30th roots of unity with zero sum.|
 |321446|Number of (0,1)-matrices with n ones, no zero rows or columns, and distinct rows and columns.|
-|321467|Number of factorizations of n! into factors > 1 that can be obtained by taking the block-products of some set partition of {2,3,...,n}.|
+|321467|Number of factorizations of n! into factors > 1 that can be obtained by taking the block-products of some set partition of  2,3,...,n .|
 |321468|Number of factorizations of n! into factors > 1 that can be obtained by taking the multiset union of a choice of factorizations of each positive integer from 2 to n into factors > 1.|
 |321470|Number of integer partitions of the n-th triangular number 1 + 2 + ... + n that can be obtained by choosing a partition of each integer from 1 to n and combining.|
 |321484|Number of non-isomorphic self-dual connected multiset partitions of weight n.|
@@ -18138,15 +18138,15 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |321585|Number of connected nonnegative integer matrices with sum of entries equal to n and no zero rows or columns.|
 |321588|Number of connected nonnegative integer matrices with sum of entries equal to n, no zero rows or columns, and distinct rows and columns.|
 |321590|Smallest number m that is a product of exactly n primes and is such that m-1 and m+1 are products of exactly n-1 primes.|
-|321597|Number of permutations tau of {1,...,n} such that k*tau(k) + 1 is prime for every k = 1,...,n.|
-|321610|Number of permutations tau of {1,...,n} such that k^2 + tau(k)^2 is prime for every k = 1,...,n.|
-|321611|Number of permutations tau of {1,...,n} such that k^4 + tau(k)^4 is prime for every k = 1,...,n.|
+|321597|Number of permutations tau of  1,...,n  such that k*tau(k) + 1 is prime for every k = 1,...,n.|
+|321610|Number of permutations tau of  1,...,n  such that k^2 + tau(k)^2 is prime for every k = 1,...,n.|
+|321611|Number of permutations tau of  1,...,n  such that k^4 + tau(k)^4 is prime for every k = 1,...,n.|
 |321612|Numbers k such that all k - t are triangular numbers where t is a triangular number in range k/2 <= t < k.|
 |321614|Number of nonequivalent ways to place 2n nonattacking kings on a 4 X 2n chessboard under all symmetry operations of the rectangle.|
 |321616|Primes p = k^2 + (k-1)^2 such that k^p - (k-1)^p is prime.|
 |321618|Number of minimal total dominating sets in the n-transposition graph.|
 |321645|Number of distinct row/column permutations of plane partitions of n.|
-|321651|Number of even permutations f of {1,...,n} such that k^3 + f(k)^3 is a practical number for every k = 1,...,n.|
+|321651|Number of even permutations f of  1,...,n  such that k^3 + f(k)^3 is a practical number for every k = 1,...,n.|
 |321652|Number of nonnegative integer matrices with sum of entries equal to n and no zero rows or columns, with weakly decreasing row sums and column sums.|
 |321653|Number of nonnegative integer matrices with sum of entries equal to n and no zero rows or columns, with strictly decreasing row sums and column sums.|
 |321654|Number of nonnegative integer matrices with sum of entries equal to n and no zero rows or columns, with distinct row sums and distinct column sums.|
@@ -18183,7 +18183,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |321765|Irregular triangle read by rows where T(H(u),H(v)) is the coefficient of s(v) in p(u), where H is Heinz number, p is power sum symmetric functions, and s is Schur functions.|
 |321792|Lesser of twin primes of the form 6*Fibonacci(k)-1.|
 |321796|Prime p such that the prime before p is a substring of p^3.|
-|321805|Number of permutations f of {1,...,n} such that k!*f(k) + 1 is prime for every k from 1 to n.|
+|321805|Number of permutations f of  1,...,n  such that k!*f(k) + 1 is prime for every k from 1 to n.|
 |321806|Number of zeros in palindromic strings of the form '123456789'|'1...0...1'|'987654321' whose decimal expansions are primes (palindromic).|
 |321851|Number of solutions to |dft(a)^2 + dft(b)^2 + dft(d)^2| + |dft(c)^2| = 4n, where a,b,c,d are +1,-1 sequences of length n and dft(x) denotes the discrete Fourier transform of x.|
 |321852|a(n) is the smallest m for which binomial(m, 6) has exactly n distinct prime factors.|
@@ -18210,12 +18210,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |322065|Number of ways to choose a stable partition of a connected antichain of sets spanning n vertices.|
 |322066|Number of e-positive antichains of sets spanning n vertices.|
 |322067|Size of the free distributive lattice on the meet semilattice of partitions.|
-|322069|Number of permutations f of {1,...,n} with f(1) < f(n) such that Sum_{k=1..n-1} 1/(f(k)*f(k+1)) = 1.|
-|322070|Number of permutations f of {1,...,n} with f(1) < f(n) such that Sum_{k=1..n-1} 1/(f(k)+f(k+1)) = 1.|
+|322069|Number of permutations f of  1,...,n  with f(1) < f(n) such that Sum_ k=1..n-1  1/(f(k)*f(k+1)) = 1.|
+|322070|Number of permutations f of  1,...,n  with f(1) < f(n) such that Sum_ k=1..n-1  1/(f(k)+f(k+1)) = 1.|
 |322073|Number of binary self-dual codes that share the most common weight distribution for binary self-dual codes of length 2n.|
 |322074|Maximum number of codewords a binary self-dual code of length 4n can have with Hamming weight 2n (half of length).|
 |322077|In the ranked poset of integer partitions ordered by refinement, number of integer partitions coarser (greater) than or equal to the integer partition whose multiplicities are the prime indices of n in weakly decreasing order.|
-|322099|Number of permutations f of {1,...,n} with f(1) < f(n) and Sum_{k=1..n-1} 1/(f(k)^2 - f(k+1)^2) = 0.|
+|322099|Number of permutations f of  1,...,n  with f(1) < f(n) and Sum_ k=1..n-1  1/(f(k)^2 - f(k+1)^2) = 0.|
 |322100|Number of minimal transitive permutation groups of degree n.|
 |322106|Numerator of the least possible squared diameter of an enclosing circle of a strictly convex lattice n-gon.|
 |322107|Denominator of the least possible squared diameter of an enclosing circle of a strictly convex lattice n-gon. Numerators are A322106.|
@@ -18232,9 +18232,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |322158|a(n) is the smallest m for which binomial(m,5) has exactly n distinct prime factors.|
 |322162|Numbers k such that bsigma(k) = 2k + 2, where bsigma(k) is the sum of bi-unitary divisors of k (A188999).|
 |322165|Numbers n that give record values for s(n)*phi(n)/n^2, where s(n) is the sum of squares of the differences between consecutive totatives of n (A322144).|
-|322178|The number of permutations of {1,2,...,n,1,2,...,n} with the property that b(1) >= b(2) >= ... >= b(n) (there are b(k) numbers between the two k's for k=1..n).|
-|322179|The number of permutations of {1,2,...,n,1,2,...,n} with the property that there are k or more numbers between the two k's in the set for k=1,...,n.|
-|322180|The number of permutations of {1,2,...,n,1,2,...,n} with the property that there are k or fewer numbers between the two k's in the set for k=1,...,n.|
+|322178|The number of permutations of  1,2,...,n,1,2,...,n  with the property that b(1) >= b(2) >= ... >= b(n) (there are b(k) numbers between the two k's for k=1..n).|
+|322179|The number of permutations of  1,2,...,n,1,2,...,n  with the property that there are k or more numbers between the two k's in the set for k=1,...,n.|
+|322180|The number of permutations of  1,2,...,n,1,2,...,n  with the property that there are k or fewer numbers between the two k's in the set for k=1,...,n.|
 |322253|Number of circular permutations of the integers from 0 to n which generate a complete stepping-on sequence, when the stepping-on direction depends on the odd/even parity of the current value.|
 |322257|The number of practical numbers not exceeding 10^n.|
 |322260|Numbers k such that the poset of multiset partitions of a multiset whose multiplicities are the prime indices of k is a lattice.|
@@ -18264,8 +18264,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |322399|Number of non-isomorphic 2-edge-connected clutters spanning n vertices.|
 |322416|The number of exponentially odd numbers <= 10^n.|
 |322429|Number of decomposable binary self-dual codes of length 2n (up to permutation equivalence).|
-|322441|Number of pairs of set partitions of {1,...,n} where no block of one is a subset or equal to any block of the other.|
-|322442|Number of pairs of set partitions of {1,...,n} where every block of one is a subset or superset of some block of the other.|
+|322441|Number of pairs of set partitions of  1,...,n  where no block of one is a subset or equal to any block of the other.|
+|322442|Number of pairs of set partitions of  1,...,n  where every block of one is a subset or superset of some block of the other.|
 |322446|The number of solutions to usigma(k) > esigma(k) below 10^n, where usigma(k) is the sum of unitary divisors of k (A034448) and esigma(k) is the sum of exponential divisors of k (A051377).|
 |322454|Number of multiset partitions with no constant parts of a multiset whose multiplicities are the prime indices of n.|
 |322486|Semi-unitary perfect numbers: numbers k such that susigma(k) = 2k, where susigma(k) is the sum of the semi-unitary divisors of k (A322485).|
@@ -18274,7 +18274,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |322495|Number of tilings of an n X n square using V (2m+1)-ominoes (m >= 0) in standard orientation.|
 |322507|a(n) is the number of arches for semi-meanders with n top arches that have exactly two covering arches.|
 |322529|Number of integer partitions of n whose parts all have the same number of prime factors (counted with or without multiplicity) and whose product of parts is a squarefree number.|
-|322576|Least nonnegative integer that cannot be expressed as the determinant of an n X n matrix whose entries are a permutation of the multiset {1^n, ..., n^n}.|
+|322576|Least nonnegative integer that cannot be expressed as the determinant of an n X n matrix whose entries are a permutation of the multiset  1^n, ..., n^n .|
 |322605|Numbers k such that all k - u are Ulam numbers (A002858) where u is an Ulam number in the range k/2 <= u < k.|
 |322614|Smallest k such that A305445(k) = n, i.e., smallest k > 1 such that the minimum number of bit inversions required to convert k into a prime equals n.|
 |322617|Number of solutions to |dft(a)^2 + dft(d)^2| + |dft(b)^2 + dft(c)^2| = 4n, where a,b,c,d are +1,-1 sequences of length n and dft(x) denotes the discrete Fourier transform of x.|
@@ -18311,7 +18311,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |322752|Number of "funny trees" on n nodes.|
 |322779|132-avoiding permutations whose squares are also 132-avoiding|
 |322831|Average path length to self-trapping, rounded to nearest integer, of self-avoiding two-dimensional random walks using unit steps and direction changes from the set Pi*(2*k/n - 1), k = 1..n-1.|
-|322859|The number of permutations p of {1,...,n} such that the numbers 2p(1)-1,...,2p(n)-n are all distinct.|
+|322859|The number of permutations p of  1,...,n  such that the numbers 2p(1)-1,...,2p(n)-n are all distinct.|
 |322887|Decimal expansion of the asymptotic mean value of the exponential abundancy index A051377(k)/k.|
 |322915|Numbers k such that 301*2^k+1 is prime.|
 |322917|a(n) is the number of rooted 5-regular maps with 2n vertices on the torus.|
@@ -18387,13 +18387,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |323200|Numbers k such that 461*2^k+1 is prime.|
 |323201|Numbers k such that 463*2^k+1 is prime.|
 |323213|Nearest prime to the median of the primes below 10^n.|
-|323252|Numbers n such that the numerator and denominator of the reduced fraction Sum_{k=1..n} 1/k have no digits in common.|
+|323252|Numbers n such that the numerator and denominator of the reduced fraction Sum_ k=1..n  1/k have no digits in common.|
 |323253|a(n) is the smallest number k such that factorizations of n consecutive integers starting at k have the same excess of number of primes counted with multiplicity over number of primes counted without multiplicity (A046660).|
 |323273|Number of orbits of the Conway group Co_0 acting on vectors of norm 2n in the Leech lattice.|
 |323276|Number of 4-regular maps on the Klein bottle with n vertices and 2n edges.|
 |323279|Number of 3-regular maps on the Klein bottle with n vertices.|
 |323282|Coordination sequence for Leech lattice.|
-|323283|Euler characteristic (H_*(h_{oo,1}^+)_{2n}^{Sp}) of the Sp-invariant homology group of the Lie algebra h_{oo,1}^+ of weight 2n.|
+|323283|Euler characteristic (H_*(h_ oo,1 ^+)_ 2n ^ Sp ) of the Sp-invariant homology group of the Lie algebra h_ oo,1 ^+ of weight 2n.|
 |323284|Integral Euler characteristic of the outer automorphism group Out(F_n) of the free group of rank n.|
 |323285|a(n) = A323283(n) - A323284(n).|
 |323289|Total number of distinct numbers that can be obtained by starting with 1 and applying the "Choix de Bruxelles", version 2 (A323460) operation at most n times.|
@@ -18408,7 +18408,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |323357|Number of binary self-dual codes of length 2n (up to permutation equivalence) that have a unique automorphism group size.|
 |323358|Number of distinct automorphism group sizes for binary self-dual codes of length 2n such that multiple same length binary self-dual codes with different weight distributions share the same automorphism group size.|
 |323389|The number of connected, unlabeled, undirected, edge-signed cubic graphs (admitting loops and multiedges) on 2n vertices where the degree of the first sign is 2 at each node.|
-|323395|a(n) is the smallest n-powerful number, that is, the smallest positive integer such that {1,2,...,a(n)} admits a partition into A and B so that the sum of the j-th powers of A equals the sum of the j-th powers of B, for all j = 0, 1, ..., n.|
+|323395|a(n) is the smallest n-powerful number, that is, the smallest positive integer such that  1,2,...,a(n)  admits a partition into A and B so that the sum of the j-th powers of A equals the sum of the j-th powers of B, for all j = 0, 1, ..., n.|
 |323417|When a prime-based mapping reaches 0.|
 |323447|Number of minimum dominating sets in the n-halved cube graph.|
 |323448|Number of minimum dominating sets in the n-Keller graph.|
@@ -18419,10 +18419,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |323464|Values of n at which A323484 reaches a new record.|
 |323486|Least number k such that the determinant of the circulant matrix formed by its decimal digits is equal to n*k.|
 |323489|Number of minimum total dominating sets in the n-Keller graph.|
-|323492|Indices of the sign changes of the sequence c(n) satisfying Sum_{k=0..n} c(k)/(n+k+1) = 0 with c(0)=1.|
+|323492|Indices of the sign changes of the sequence c(n) satisfying Sum_ k=0..n  c(k)/(n+k+1) = 0 with c(0)=1.|
 |323493|Number of minimum dominating sets in the n-Fibonacci cube graph.|
 |323494|Number of minimum dominating sets in the n-tetrahedral (Johnson) graph.|
-|323502|Number of irreducible or connected partial orders on {1,2,...,n} that are contained in the usual linear order (i.e., xRy => x < y).|
+|323502|Number of irreducible or connected partial orders on  1,2,...,n  that are contained in the usual linear order (i.e., xRy => x < y).|
 |323515|Number of minimum total dominating sets in the hypercube graph Q_n.|
 |323516|Number of minimum total dominating sets in the n-Sierpinski tetrahedron graph.|
 |323517|Number of minimum total dominating sets in the n-Bruhat graph.|
@@ -18449,7 +18449,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |323649|Corner sequence of the cellular automaton of A323650.|
 |323657|Number of strict solid partitions of n.|
 |323658|Number of bipartite graphs associated with connected transitive oriented graphs.|
-|323697|Primes p such that the norm of the quadratic-field analog of Mersenne numbers M_{p,alpha} = (alpha^p - 1)/(alpha - 1), with alpha = 2 + sqrt(2), is a rational prime.|
+|323697|Primes p such that the norm of the quadratic-field analog of Mersenne numbers M_ p,alpha  = (alpha^p - 1)/(alpha - 1), with alpha = 2 + sqrt(2), is a rational prime.|
 |323699|Number of uncrossed knight's walks as specified in A323700, counting isomorphisms only once.|
 |323700|Number of rooted uncrossed knight's walks on an infinite chessboard trapped after n moves with first move specified.|
 |323705|Odd primes p such that ((p+1)/2)^(p-1) == 1 (mod p^2).|
@@ -18483,7 +18483,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |323853|Number of figure 8's having 2n edges in one loop and 6 edges in the other and which are weakly embeddable in the square lattice.|
 |323857|Sum of end-to-end Manhattan distances over all self-avoiding n-step walks on 4-d cubic lattice.|
 |323919|Hexagon-rooted catafusenes (see Cyvin et al. for precise definition).|
-|323920|Nonisomorphic catafusenes with symmetry C_{2v}(a).|
+|323920|Nonisomorphic catafusenes with symmetry C_ 2v (a).|
 |323923|Branched catafusenes (cata-condensed benzenoids) without helicenes.|
 |323924|Polycyclic aromatic hydrocarbons (for precise definition see He and He, 1986).|
 |323925|Polycyclic aromatic hydrocarbons (for precise definition see He and He, 1986).|
@@ -18508,15 +18508,15 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |323990|Fourier coefficients of Eisenstein series of degree 2 and weight 4: a(n) = coefficient of the matrix [n, 1/2; 1/2, 1] with determinant n-1/4.|
 |323991|Fourier coefficients of Eisenstein series of degree 2 and weight 4: a(n) = coefficient of the matrix [n, 0; 0, 1] with determinant n.|
 |323992|Fourier coefficients of Eisenstein series of degree 2 and weight 4: coefficients of certain imprimitive matrices.|
-|323993|Numerators of central difference coefficients M_{5}^(2n+1).|
-|323994|Denominators of central difference coefficients M_{5}^(2n+1).|
-|323995|Numerators of coefficients for central differences M_{6}^(2*n).|
-|323996|Denominators of coefficients for central differences M_{6}^(2*n).|
-|323997|Numerators of coefficients for central differences M_{5}'^(2*n+1).|
-|323998|Denominators of coefficients for central differences M_{5}'^(2*n+1).|
+|323993|Numerators of central difference coefficients M_ 5 ^(2n+1).|
+|323994|Denominators of central difference coefficients M_ 5 ^(2n+1).|
+|323995|Numerators of coefficients for central differences M_ 6 ^(2*n).|
+|323996|Denominators of coefficients for central differences M_ 6 ^(2*n).|
+|323997|Numerators of coefficients for central differences M_ 5 '^(2*n+1).|
+|323998|Denominators of coefficients for central differences M_ 5 '^(2*n+1).|
 |324000|Array read by antidiagonals: T(n,k) (n>=0, k>=0) = number of closed strands in an (n,k)-wrapping of the cube (or basket).|
-|324012|Number of self-complementary set partitions of {1, ..., n} with no singletons or cyclical adjacencies (successive elements in the same block, where 1 is a successor of n).|
-|324014|Number of self-complementary set partitions of {1, ..., n} with no cyclical adjacencies (successive elements in the same block, where 1 is a successor of n).|
+|324012|Number of self-complementary set partitions of  1, ..., n  with no singletons or cyclical adjacencies (successive elements in the same block, where 1 is a successor of n).|
+|324014|Number of self-complementary set partitions of  1, ..., n  with no cyclical adjacencies (successive elements in the same block, where 1 is a successor of n).|
 |324018|Consider the complete graph of an n-cube. a(n) is the number of 2-color colorings of the edges such that they do not contain a monochromatic planar K4 subgraph.|
 |324041|Nonpalindromic integers with palindromic product of divisors.|
 |324061|Number of connected graphs on n unlabeled nodes with radius 2.|
@@ -18535,7 +18535,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |324112|Odd numbers n for which A324108(n) = A324054(n-1), and which themselves are not powers of primes (in A000961).|
 |324123|Irregular triangle read by rows: row n gives numerators of coefficients of polynomials arising from Chebyshev quadrature.|
 |324125|The asymptotic growth constant for the n-th two-dimensional Sierpinski graph can be written as log(c_n)/d_n; sequence gives d_n.|
-|324145|Minimal length of a string over the alphabet A = {1,2,...,n} that contains every derangement of A as a substring exactly once.|
+|324145|Minimal length of a string over the alphabet A =  1,2,...,n  that contains every derangement of A as a substring exactly once.|
 |324146|Number of nonempty circularly representable sets of binary vectors of length n.|
 |324147|Number of nonempty representable sets of binary vectors of length n.|
 |324148|Maximal length of the shortest circular witness over all representable sets of binary vectors of length n.|
@@ -18543,9 +18543,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |324154|Least number N such that the number of primes (<= N) >= the number of the base-n-zerofree numbers (<= N).|
 |324155|Greatest number N such that the number of primes (<= N) <= the number of base-n-zerofree numbers (<= N).|
 |324157|Number of terms in the n-th row of the triangle A324156.|
-|324166|Number of totally crossing set partitions of {1,...,n}.|
-|324167|Number of non-crossing antichain covers of {1,...,n}.|
-|324168|Number of non-crossing antichains of nonempty subsets of {1,...,n}.|
+|324166|Number of totally crossing set partitions of  1,...,n .|
+|324167|Number of non-crossing antichain covers of  1,...,n .|
+|324168|Number of non-crossing antichains of nonempty subsets of  1,...,n .|
 |324171|Number of non-crossing multiset partitions of normal multisets of size n.|
 |324217|Number of connected 2n-regular loopless multigraphs on seven unlabeled nodes.|
 |324226|Number of simple 3-edge-connected non-isomorphic n-vertex graphs.|
@@ -18565,9 +18565,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |324296|Smallest m such that A217157(m) = n|
 |324317|Number of primary Carmichael numbers (A324316) less than 10^n.|
 |324318|Number of terms in A324315 (squarefree integers m > 1 such that if prime p divides m, then the sum of the base p digits of m is at least p) less than 10^n.|
-|324323|Regular triangle read by rows where T(n,k) is the number of topologically connected set partitions of {1,...,n} with k blocks, 0 <= k <= n.|
-|324327|Number of topologically connected chord graphs covering {1,...,n}.|
-|324328|Number of topologically connected chord graphs on a subset of {1,...,n}.|
+|324323|Regular triangle read by rows where T(n,k) is the number of topologically connected set partitions of  1,...,n  with k blocks, 0 <= k <= n.|
+|324327|Number of topologically connected chord graphs covering  1,...,n .|
+|324328|Number of topologically connected chord graphs on a subset of  1,...,n .|
 |324367|Numbers k such that s(k) = s(k+1) where s(k) is the sum of divisors of k that are larger than sqrt(k) (A238535).|
 |324410|Number of minimally 3-edge-connected non-isomorphic n-vertex graphs.|
 |324411|Number of minimally 4-edge-connected non-isomorphic n-vertex graphs.|
@@ -18586,8 +18586,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |324424|Number of minimally 10-connected non-isomorphic n-vertex graphs.|
 |324476|Packing numbers for n-tripods.|
 |324477|k appears t+1 times, where t is the number of trailing zeros in the greedy Jacobsthal representation of n, A265747(k).|
-|324482|Symmetric inflation orbit counts (b-bar)_{2n} for 1D cut and project patterns with inversion symmetric tau-inflation.|
-|324491|Inflation orbit counts b-hat^{(3)}_n for Kramer-Neri P-type tiling and other 3D cut and project patterns with tau^3-inflation.|
+|324482|Symmetric inflation orbit counts (b-bar)_ 2n  for 1D cut and project patterns with inversion symmetric tau-inflation.|
+|324491|Inflation orbit counts b-hat^ (3) _n for Kramer-Neri P-type tiling and other 3D cut and project patterns with tau^3-inflation.|
 |324492|A324491(n)/n.|
 |324494|Coordination sequence for Tübingen triangle tiling.|
 |324579|Numbers n for which n*A276086(n) is a product of primorial numbers (is a term of A025487).|
@@ -18599,7 +18599,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |324605|Triangle read by rows: T(n,k) is the number of maximal-length non-intersecting loops starting at (0,0) on the n X k torus consisting of steps up and to the right, 1 <= k <= n.|
 |324638|Number of permutations p of [2n] such that n is the maximum of 0 and the number of elements in any integer interval [p(i)..i+2n*[i<p(i)]];|
 |324707|Tri-unitary perfect numbers: numbers k such that tsigma(k) = 2k, where tsigma(k) is the sum of the tri-unitary divisors of k (A324706).|
-|324710|Number x such that x = Sum_{i=1..k}{sigma(x/p_i)}, where p_i are the k prime factors of x.|
+|324710|Number x such that x = Sum_ i=1..k  sigma(x/p_i) , where p_i are the k prime factors of x.|
 |324764|Number of anti-transitive rooted identity trees with n nodes.|
 |324765|Number of recursively anti-transitive rooted trees with n nodes.|
 |324767|Number of recursively anti-transitive rooted identity trees with n nodes.|
@@ -18611,7 +18611,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |324788|Value of A022837 at its n-th low point.|
 |324789|First differences of A324787: distances in A022837 from n-th low point to the next.|
 |324790|Indices of zeros in A022837.|
-|324794|Conjectured value of N(2^n), defined by property that the Jensen polynomial J^{2^n,m}_p(X) is hyperbolic for m >= N(2^n).|
+|324794|Conjectured value of N(2^n), defined by property that the Jensen polynomial J^ 2^n,m _p(X) is hyperbolic for m >= N(2^n).|
 |324838|Number of unlabeled rooted trees with n nodes where the branches of no branch of the root form a submultiset of the branches of the root.|
 |324839|Number of unlabeled rooted identity trees with n nodes where the branches of no branch of the root form a subset of the branches of the root.|
 |324840|Number of fully recursively anti-transitive rooted trees with n nodes.|
@@ -18632,7 +18632,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |324953|Number of path change-ringing sequences of length n for 9 bells.|
 |324971|Number of rooted identity trees with n vertices whose non-leaf terminal subtrees are not all different.|
 |324979|Number of rooted trees with n vertices that are not identity trees but whose non-leaf terminal subtrees are all different.|
-|325108|Number of maximal subsets of {1...n} with no binary containments.|
+|325108|Number of maximal subsets of  1...n  with no binary containments.|
 |325111|Triangle read by rows: T(n,k) is the number of simple connected graphs on n unlabeled nodes with k articulation vertices, (0 <= k < n).|
 |325116|Length of longest run of consecutive even integers having exactly n divisors.|
 |325117|Irregular table read by rows: T(n,k) is the start of the first run of exactly k consecutive even integers having exactly n divisors, or 0 if no such run exists.|
@@ -18679,22 +18679,22 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |325786|Number of complete necklace compositions of n.|
 |325788|Number of complete strict necklace compositions of n.|
 |325789|Number of perfect necklace compositions of n.|
-|325790|Number of permutations of {1..n} such that every positive integer from 1 to n * (n + 1)/2 is the sum of some circular subsequence.|
-|325791|Number of necklace permutations of {1..n} such that every positive integer from 1 to n * (n + 1)/2 is the sum of some circular subsequence.|
+|325790|Number of permutations of  1..n  such that every positive integer from 1 to n * (n + 1)/2 is the sum of some circular subsequence.|
+|325791|Number of necklace permutations of  1..n  such that every positive integer from 1 to n * (n + 1)/2 is the sum of some circular subsequence.|
 |325808|Numbers n such that sigma(n) can be obtained as the base-3 carryless product of 2n and some k.|
 |325835|Number of integer partitions of 2*n having one more distinct submultiset than distinct subset-sums.|
-|325850|Number of permutations of {1..n} whose differences of all degrees are nonzero.|
+|325850|Number of permutations of  1..n  whose differences of all degrees are nonzero.|
 |325851|Number of (strict) compositions of n whose differences of all degrees are nonzero.|
 |325857|Number of integer partitions of n such that every orderless pair of distinct parts has a different sum.|
-|325859|Number of maximal subsets of {1..n} such that every orderless pair of distinct elements has a different product.|
-|325861|Number of maximal subsets of {1..n} such that every pair of distinct elements has a different quotient.|
+|325859|Number of maximal subsets of  1..n  such that every orderless pair of distinct elements has a different product.|
+|325861|Number of maximal subsets of  1..n  such that every pair of distinct elements has a different quotient.|
 |325863|Number of integer partitions of n such that every distinct non-singleton submultiset has a different sum.|
-|325865|Number of maximal subsets of {1..n} of which every subset has a different sum.|
-|325869|Number of maximal subsets of {1..n} containing n such that every pair of distinct elements has a different quotient.|
+|325865|Number of maximal subsets of  1..n  of which every subset has a different sum.|
+|325869|Number of maximal subsets of  1..n  containing n such that every pair of distinct elements has a different quotient.|
 |325875|Number of compositions of n whose differences of all degrees > 1 are nonzero.|
-|325878|Number of maximal subsets of {1..n} such that every orderless pair of distinct elements has a different sum.|
-|325879|Number of maximal subsets of {1..n} such that every ordered pair of distinct elements has a different difference.|
-|325880|Number of maximal subsets of {1..n} containing n such that every ordered pair of distinct elements has a different difference.|
+|325878|Number of maximal subsets of  1..n  such that every orderless pair of distinct elements has a different sum.|
+|325879|Number of maximal subsets of  1..n  such that every ordered pair of distinct elements has a different difference.|
+|325880|Number of maximal subsets of  1..n  containing n such that every ordered pair of distinct elements has a different difference.|
 |325886|Bases b where exactly ten primes p with p < b exist such that p is a base-b Wieferich prime.|
 |325908|The largest k such that an integer x between 1 and k (inclusive) can be guessed in at most n queries "is x < y?" with one lie.|
 |325935|Numbers k such that A000587(k) is divisible by k.|
@@ -18705,8 +18705,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |325963|Numbers n for which A034448(n)-n is equal to n-A048250(n).|
 |326016|Number of knapsack partitions of n such that no addition of one part up to the maximum is knapsack.|
 |326018|Heinz numbers of knapsack partitions such that no addition of one part up to the maximum is knapsack.|
-|326022|Number of minimal complete subsets of {1..n} with maximum n.|
-|326030|Number of antichains of subsets of {1..n} with different edge-sums.|
+|326022|Number of minimal complete subsets of  1..n  with maximum n.|
+|326030|Number of antichains of subsets of  1..n  with different edge-sums.|
 |326033|Number of knapsack partitions of n such that no addition of one part equal to an existing part is knapsack.|
 |326037|Heinz numbers of uniform perfect integer partitions.|
 |326051|1/2 times 3-perfect (triply perfect, tri-perfect, triperfect or sous-double) numbers: a(n) = A005820(n)/2.|
@@ -18718,13 +18718,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |326166|Total number of ants after n iterations in male/female Langton's ant variation.|
 |326168|Number of eggs at iteration n of male/female Langton's ant variation.|
 |326169|Iterations where ants mate in male/female Langton's ant variation.|
-|326180|Number of maximal subsets of {1..n} containing n whose product is divisible by their sum.|
+|326180|Number of maximal subsets of  1..n  containing n whose product is divisible by their sum.|
 |326204|Number of Hamiltonian labeled n-vertex digraphs (with loops).|
 |326205|Number of n-vertex labeled simple graphs not containing a Hamiltonian path.|
 |326206|Number of n-vertex labeled simple graphs containing a Hamiltonian path.|
 |326207|Number of non-Hamiltonian labeled simple graphs with n vertices.|
 |326208|Number of Hamiltonian labeled simple graphs with n vertices.|
-|326209|Number of nesting labeled digraphs with vertices {1..n}.|
+|326209|Number of nesting labeled digraphs with vertices  1..n .|
 |326211|Number of unsortable normal multiset partitions of weight n.|
 |326212|Number of sortable normal multiset partitions of weight n.|
 |326213|Number of labeled n-vertex digraphs (with loops) not containing a (directed) Hamiltonian path.|
@@ -18741,71 +18741,71 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |326224|Number of unlabeled n-vertex digraphs (with loops) not containing a Hamiltonian path.|
 |326225|Number of Hamiltonian unlabeled n-vertex digraphs (without loops).|
 |326226|Number of unlabeled n-vertex Hamiltonian digraphs (with loops).|
-|326227|Indices of nonsquarefree numerators (A001008) of harmonic numbers H(n) = Sum_{k=1..n} 1/k.|
+|326227|Indices of nonsquarefree numerators (A001008) of harmonic numbers H(n) = Sum_ k=1..n  1/k.|
 |326228|Primes p such that m - p#/6 or p#/6 - n is not in A002822 (twin ranks), where m (resp. n) is the next larger (resp. smaller) twin rank w.r.t. p#/6, and # = A034386 (primorial).|
-|326237|Number of non-nesting digraphs with vertices {1..n}, where two edges (a,b), (c,d) are nesting if a < c and b > d or a > c and b < d.|
+|326237|Number of non-nesting digraphs with vertices  1..n , where two edges (a,b), (c,d) are nesting if a < c and b > d or a > c and b < d.|
 |326239|Number of non-Hamiltonian labeled n-vertex graphs with loops.|
 |326240|Number of Hamiltonian labeled n-vertex graphs with loops.|
-|326243|Number of capturing set partitions of {1..n}.|
+|326243|Number of capturing set partitions of  1..n .|
 |326244|Number of labeled n-vertex simple graphs without crossing or nesting edges.|
-|326245|Number of crossing, non-capturing set partitions of {1..n}.|
-|326246|Number of crossing, capturing set partitions of {1..n}.|
-|326248|Number of crossing, nesting set partitions of {1..n}.|
-|326249|Number of capturing set partitions of {1..n} that are not nesting.|
-|326250|Number of weakly nesting simple graphs with vertices {1..n}.|
-|326252|Number of digraphs with vertices {1..n} whose increasing edges are crossing.|
-|326254|Number of non-capturing set partitions of {1..n}.|
+|326245|Number of crossing, non-capturing set partitions of  1..n .|
+|326246|Number of crossing, capturing set partitions of  1..n .|
+|326248|Number of crossing, nesting set partitions of  1..n .|
+|326249|Number of capturing set partitions of  1..n  that are not nesting.|
+|326250|Number of weakly nesting simple graphs with vertices  1..n .|
+|326252|Number of digraphs with vertices  1..n  whose increasing edges are crossing.|
+|326254|Number of non-capturing set partitions of  1..n .|
 |326277|Number of crossing normal multiset partitions of weight n.|
 |326279|Number of labeled n-vertex simple graphs containing either a crossing or a nesting pair of edges.|
-|326293|Number of non-nesting, topologically connected simple graphs with vertices {1..n}.|
-|326294|Number of connected simple graphs on a subset of {1..n} with no crossing or nesting edges.|
+|326293|Number of non-nesting, topologically connected simple graphs with vertices  1..n .|
+|326294|Number of connected simple graphs on a subset of  1..n  with no crossing or nesting edges.|
 |326301|The number of rectangular free polyominoes with n cells where no 4 cells meet at a point.|
 |326320|Numbers that cannot be written as a difference of 13-smooth numbers.|
-|326329|Number of simple graphs covering {1..n} with no crossing or nesting edges.|
-|326330|Number of simple graphs with vertices {1..n} whose nesting edges are connected.|
-|326331|Number of simple graphs covering the vertices {1..n} whose nesting edges are connected.|
-|326335|Number of set partitions of {1..n} whose nesting blocks are connected.|
-|326336|Number of set partitions of {1..n} whose capturing blocks are connected.|
-|326337|Number of simple graphs covering the vertices {1..n} whose weakly nesting edges are connected.|
-|326338|Number of simple graphs with vertices {1..n} whose weakly nesting edges are connected.|
-|326339|Number of connected simple graphs with vertices {1..n} and no crossing or nesting edges.|
-|326340|Number of maximal simple graphs with vertices {1..n} and no crossing or nesting edges.|
-|326341|Number of minimal topologically connected chord graphs covering {1..n}.|
+|326329|Number of simple graphs covering  1..n  with no crossing or nesting edges.|
+|326330|Number of simple graphs with vertices  1..n  whose nesting edges are connected.|
+|326331|Number of simple graphs covering the vertices  1..n  whose nesting edges are connected.|
+|326335|Number of set partitions of  1..n  whose nesting blocks are connected.|
+|326336|Number of set partitions of  1..n  whose capturing blocks are connected.|
+|326337|Number of simple graphs covering the vertices  1..n  whose weakly nesting edges are connected.|
+|326338|Number of simple graphs with vertices  1..n  whose weakly nesting edges are connected.|
+|326339|Number of connected simple graphs with vertices  1..n  and no crossing or nesting edges.|
+|326340|Number of maximal simple graphs with vertices  1..n  and no crossing or nesting edges.|
+|326341|Number of minimal topologically connected chord graphs covering  1..n .|
 |326342|Number of n X n binary matrices with total support.|
 |326343|Number of inequivalent n X n binary matrices with total support, where equivalence means permutations of rows or columns.|
 |326345|a(n) is the number of arm movements when expressing n in flag semaphore, counting the movement of each arm separately.|
-|326349|Number of non-nesting, topologically connected simple graphs covering {1..n}.|
-|326350|Number of non-nesting connected simple graphs with vertices {1..n}.|
-|326351|Number of non-nesting connected simple graphs on a subset of {1..n}.|
+|326349|Number of non-nesting, topologically connected simple graphs covering  1..n .|
+|326350|Number of non-nesting connected simple graphs with vertices  1..n .|
+|326351|Number of non-nesting connected simple graphs on a subset of  1..n .|
 |326353|Manhattan distance of one of the two ants in A326352 to the other ant at iteration n.|
-|326358|Number of maximal antichains of subsets of {1..n}.|
-|326359|Number of maximal antichains of nonempty subsets of {1..n}.|
-|326360|Number of maximal antichains of nonempty, non-singleton subsets of {1..n}.|
+|326358|Number of maximal antichains of subsets of  1..n .|
+|326359|Number of maximal antichains of nonempty subsets of  1..n .|
+|326360|Number of maximal antichains of nonempty, non-singleton subsets of  1..n .|
 |326361|Number of maximal intersecting antichains of sets covering n vertices with no singletons.|
-|326362|Number of maximal intersecting antichains of nonempty, non-singleton subsets of {1..n}.|
-|326363|Number of maximal intersecting antichains of subsets of {1..n}.|
+|326362|Number of maximal intersecting antichains of nonempty, non-singleton subsets of  1..n .|
+|326363|Number of maximal intersecting antichains of subsets of  1..n .|
 |326365|Number of intersecting antichains with empty intersection (meaning there is no vertex in common to all the edges) covering n vertices.|
-|326366|Number of intersecting antichains of nonempty subsets of {1..n} with empty intersection (meaning there is no vertex in common to all the edges).|
-|326372|Number of intersecting antichains of (possibly empty) subsets of {1..n}.|
-|326375|Number of intersecting antichains of subsets of {1..n} with empty intersection (meaning there is no vertex in common to all the edges).|
+|326366|Number of intersecting antichains of nonempty subsets of  1..n  with empty intersection (meaning there is no vertex in common to all the edges).|
+|326372|Number of intersecting antichains of (possibly empty) subsets of  1..n .|
+|326375|Number of intersecting antichains of subsets of  1..n  with empty intersection (meaning there is no vertex in common to all the edges).|
 |326383|Numbers m such that beta(m) = tau(m)/2 + 3 where beta(m) is the number of Brazilian representations of m and tau(m) is the number of divisors of m.|
 |326389|Non-oblong numbers that are repdigits with length > 2 in exactly three bases.|
-|326488|Numbers m such that A327566(m) = Sum_{k=1..m} isigma(k) is divisible by m, where isigma(k) is the sum of infinitary divisors of k (A049417).|
-|326491|Number of maximal subsets of {1..n} containing no differences or quotients of pairs of distinct elements.|
+|326488|Numbers m such that A327566(m) = Sum_ k=1..m  isigma(k) is divisible by m, where isigma(k) is the sum of infinitary divisors of k (A049417).|
+|326491|Number of maximal subsets of  1..n  containing no differences or quotients of pairs of distinct elements.|
 |326502|Indices of records of minimal distance between successive Riemann zeta zeros.|
-|326512|Number of set partitions of {1..n} where every block has the same average.|
-|326513|Number of set partitions of {1..n} where each block has a different average.|
+|326512|Number of set partitions of  1..n  where every block has the same average.|
+|326513|Number of set partitions of  1..n  where each block has a different average.|
 |326519|Number of normal multiset partitions of weight n where each part has a different sum.|
 |326520|Number of normal multiset partitions of weight n where every part has the same average.|
 |326521|Number of normal multiset partitions of weight n where each part has a different average.|
-|326565|Number of covering antichains of nonempty, non-singleton subsets of {1..n}, all having the same sum.|
-|326566|Number of covering antichains of subsets of {1..n} with equal edge-sums.|
-|326569|Number of covering antichains of subsets of {1..n} with no singletons and different edge-sizes.|
-|326570|Number of covering antichains of subsets of {1..n} with different edge-sizes.|
-|326571|Number of covering antichains of nonempty, non-singleton subsets of {1..n}, all having different sums.|
-|326572|Number of covering antichains of subsets of {1..n}, all having different sums.|
-|326573|Number of connected antichains of subsets of {1..n}, all having different sums.|
-|326574|Number of antichains of subsets of {1..n} with equal edge-sums.|
+|326565|Number of covering antichains of nonempty, non-singleton subsets of  1..n , all having the same sum.|
+|326566|Number of covering antichains of subsets of  1..n  with equal edge-sums.|
+|326569|Number of covering antichains of subsets of  1..n  with no singletons and different edge-sizes.|
+|326570|Number of covering antichains of subsets of  1..n  with different edge-sizes.|
+|326571|Number of covering antichains of nonempty, non-singleton subsets of  1..n , all having different sums.|
+|326572|Number of covering antichains of subsets of  1..n , all having different sums.|
+|326573|Number of connected antichains of subsets of  1..n , all having different sums.|
+|326574|Number of antichains of subsets of  1..n  with equal edge-sums.|
 |326576|Number of graceful labelings of the n-antiprism graph.|
 |326613|a(n) is the cyclic length of the iterative sequence f(k) = prime(f(k-1) mod 2^n) with f(0) = 1.|
 |326655|Numbers k such that 3*4^k+1 is prime.|
@@ -18827,40 +18827,40 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |326870|Number of connectedness systems covering n vertices.|
 |326871|Number of unlabeled connectedness systems covering n vertices.|
 |326877|Number of connectedness systems covering n vertices without singletons.|
-|326881|Number of set-systems with {} that are closed under intersection and cover n vertices.|
-|326883|Number of unlabeled set-systems with {} that are closed under intersection and cover n vertices.|
+|326881|Number of set-systems with    that are closed under intersection and cover n vertices.|
+|326883|Number of unlabeled set-systems with    that are closed under intersection and cover n vertices.|
 |326890|Successive positive minima of Gram's points g(n) of the Riemann zeta function.|
 |326891|Successive negative minima of Gram's points g(n) of the Riemann zeta function.|
 |326899|Number of unlabeled connectedness systems covering n vertices without singletons.|
 |326900|Number of set-systems on n vertices that are closed under union and intersection.|
-|326901|Number of set-systems (without {}) on n vertices that are closed under intersection.|
-|326902|Number of set-systems (without {}) covering n vertices that are closed under intersection.|
-|326903|Number of set-systems (without {}) on n vertices that are closed under intersection and have an edge containing all of the vertices, or Moore families without {}.|
-|326904|Number of unlabeled set-systems (without {}) on n vertices that are closed under intersection.|
-|326906|Number of sets of subsets of {1..n} that are closed under union and cover all n vertices.|
-|326907|Number of non-isomorphic sets of subsets of {1..n} that are closed under union and cover all n vertices. First differences of A193675.|
-|326908|Number of non-isomorphic sets of subsets of {1..n} that are closed under union and intersection.|
+|326901|Number of set-systems (without   ) on n vertices that are closed under intersection.|
+|326902|Number of set-systems (without   ) covering n vertices that are closed under intersection.|
+|326903|Number of set-systems (without   ) on n vertices that are closed under intersection and have an edge containing all of the vertices, or Moore families without   .|
+|326904|Number of unlabeled set-systems (without   ) on n vertices that are closed under intersection.|
+|326906|Number of sets of subsets of  1..n  that are closed under union and cover all n vertices.|
+|326907|Number of non-isomorphic sets of subsets of  1..n  that are closed under union and cover all n vertices. First differences of A193675.|
+|326908|Number of non-isomorphic sets of subsets of  1..n  that are closed under union and intersection.|
 |326928|The number of n X n symmetric real (0,1) matrices whose eigenvalues are all integers.|
 |326929|Numbers whose divisors and arithmetic mean of divisors are palindromic.|
-|326942|Number of unlabeled T_0 sets of subsets of {1..n} that cover all n vertices.|
-|326943|Number of T_0 sets of subsets of {1..n} that cover all n vertices and are closed under intersection.|
-|326944|Number of T_0 sets of subsets of {1..n} that cover all n vertices, contain {}, and are closed under intersection.|
-|326945|Number of T_0 sets of subsets of {1..n} that are closed under intersection.|
+|326942|Number of unlabeled T_0 sets of subsets of  1..n  that cover all n vertices.|
+|326943|Number of T_0 sets of subsets of  1..n  that cover all n vertices and are closed under intersection.|
+|326944|Number of T_0 sets of subsets of  1..n  that cover all n vertices, contain   , and are closed under intersection.|
+|326945|Number of T_0 sets of subsets of  1..n  that are closed under intersection.|
 |326946|Number of unlabeled T_0 set-systems on n vertices.|
 |326948|Number of connected T_0 set-systems on n vertices.|
-|326949|Number of unlabeled T_0 sets of subsets of {1..n}.|
-|326950|Number of T_0 antichains of nonempty subsets of {1..n}.|
-|326951|Number of unlabeled sets of subsets of {1..n} where every covered vertex is the unique common element of some subset of the edges.|
-|326959|Number of T_0 set-systems covering a subset of {1..n} that are closed under intersection.|
+|326949|Number of unlabeled T_0 sets of subsets of  1..n .|
+|326950|Number of T_0 antichains of nonempty subsets of  1..n .|
+|326951|Number of unlabeled sets of subsets of  1..n  where every covered vertex is the unique common element of some subset of the edges.|
+|326959|Number of T_0 set-systems covering a subset of  1..n  that are closed under intersection.|
 |326968|Number of set-systems on n vertices whose dual is a weak antichain.|
-|326969|Number of sets of subsets of {1..n} whose dual is a weak antichain.|
+|326969|Number of sets of subsets of  1..n  whose dual is a weak antichain.|
 |326970|Number of set-systems covering n vertices whose dual is a weak antichain.|
 |326971|Number of unlabeled set-systems on n vertices whose dual is a weak antichain.|
 |326972|Number of unlabeled set-systems on n vertices whose dual is a (strict) antichain, also called unlabeled T_1 set-systems.|
 |326973|Number of unlabeled set-systems covering n vertices whose dual is a weak antichain.|
 |326974|Number of unlabeled set-systems covering n vertices where every vertex is the unique common element of some subset of the edges, also called unlabeled covering T_1 set-systems.|
 |327011|Number of unlabeled sets of subsets covering n vertices where every vertex is the unique common element of some subset of the edges, also called unlabeled covering T_1 sets of subsets.|
-|327013|Number of non-isomorphic T_0 set-systems covering a subset of {1..n} that are closed under intersection.|
+|327013|Number of non-isomorphic T_0 set-systems covering a subset of  1..n  that are closed under intersection.|
 |327014|Number of orbits of Sym(n)^2 where Sym(n) acts by conjugation such that both permutations in a representative pair have the same cycle type.|
 |327015|Number of equivalence classes of pairs of permutations in S_n where two pairs are equivalent if they are simultaneously conjugate to each other or simultaneously conjugate to each other after a reversal of one pair.|
 |327017|Number of non-isomorphic multiset partitions of weight n where every vertex, as a multiset of weight 1, is the multiset-meet of some subset of the edges.|
@@ -18868,16 +18868,16 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |327019|Number of non-isomorphic set-systems of weight n whose dual is a (strict) antichain.|
 |327020|Number of antichains covering n vertices where every two vertices appear together in some edge (cointersecting).|
 |327037|Number of pairwise intersecting set-systems covering n vertices where every two vertices appear together in some edge (cointersecting).|
-|327038|Number of pairwise intersecting set-systems covering a subset of {1..n} where every two covered vertices appear together in some edge (cointersecting).|
-|327039|Number of set-systems covering a subset of {1..n} where every two covered vertices appear together in some edge (cointersecting).|
+|327038|Number of pairwise intersecting set-systems covering a subset of  1..n  where every two covered vertices appear together in some edge (cointersecting).|
+|327039|Number of set-systems covering a subset of  1..n  where every two covered vertices appear together in some edge (cointersecting).|
 |327040|Number of set-systems covering n vertices, every two of which appear together in some edge (cointersecting).|
-|327052|Number of T_0 (costrict) set-systems covering a subset of {1..n} where every two covered vertices appear together in some edge (cointersecting).|
+|327052|Number of T_0 (costrict) set-systems covering a subset of  1..n  where every two covered vertices appear together in some edge (cointersecting).|
 |327053|Number of T_0 (costrict) set-systems covering n vertices where every two vertices appear together in some edge (cointersecting).|
-|327057|Number of antichains covering a subset of {1..n} where every two covered vertices appear together in some edge (cointersecting).|
+|327057|Number of antichains covering a subset of  1..n  where every two covered vertices appear together in some edge (cointersecting).|
 |327058|Number of pairwise intersecting set-systems covering n vertices whose dual is a weak antichain.|
-|327059|Number of pairwise intersecting set-systems covering a subset of {1..n} whose dual is a weak antichain.|
+|327059|Number of pairwise intersecting set-systems covering a subset of  1..n  whose dual is a weak antichain.|
 |327060|Number of non-isomorphic weight-n weak antichains of multisets where every two vertices appear together in some edge (cointersecting).|
-|327062|Number of antichains of distinct sets covering a subset of {1..n} whose dual is a weak antichain.|
+|327062|Number of antichains of distinct sets covering a subset of  1..n  whose dual is a weak antichain.|
 |327069|Triangle read by rows where T(n,k) is the number of labeled simple graphs with n vertices and spanning edge-connectivity k.|
 |327077|Triangle read by rows where T(n,k) is the number of unlabeled simple connected graphs with n vertices and k bridges.|
 |327081|BII-numbers of maximal uniform set-systems covering an initial interval of positive integers.|
@@ -18911,7 +18911,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |327271|Smallest modulus of any n X n integer determinant whose top row has all 1's and whose rows are pairwise orthogonal.|
 |327272|Smallest modulus of any (n+1) X (n+1) integer determinant whose top row is 1,2,2^2,...,2^n and whose rows are pairwise orthogonal.|
 |327273|An upper bound sequence for A327272.|
-|327281|Numbers less than the maximum possible determinant A301371(8)=27296640 not occurring as determinant of an 8 X 8 matrix whose entries are a permutation of the multiset {1^8,..,8^8}.|
+|327281|Numbers less than the maximum possible determinant A301371(8)=27296640 not occurring as determinant of an 8 X 8 matrix whose entries are a permutation of the multiset  1^8,..,8^8 .|
 |327334|Triangle read by rows where T(n,k) is the number of labeled simple graphs with n vertices and vertex-connectivity k.|
 |327335|Number of non-isomorphic set-systems with n vertices and at least one endpoint/leaf.|
 |327337|Consider primitive solutions (x,y,z) to the system x+y+z = r^2, x^2+y^2+z^2 = s^2, x^3+y^3+z^3 = t^2, with 0<x<=y<=z arranged in order of increasing z; sequence gives z values.|
@@ -18919,10 +18919,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |327339|Consider primitive solutions (x,y,z) to the system x+y+z = r^2, x^2+y^2+z^2 = s^2, x^3+y^3+z^3 = t^2, with 0<x<=y<=z arranged in order of increasing z; sequence gives y values.|
 |327350|Triangle read by rows where T(n,k) is the number of antichains of nonempty sets covering n vertices with vertex-connectivity >= k.|
 |327351|Triangle read by rows where T(n,k) is the number of antichains of nonempty sets covering n vertices with vertex-connectivity exactly k.|
-|327352|Irregular triangle read by rows with trailing zeros removed where T(n,k) is the number of antichains of nonempty subsets of {1..n} with spanning edge-connectivity k.|
-|327353|Irregular triangle read by rows with trailing zeros removed where T(n,k) is the number of antichains of subsets of {1..n} with non-spanning edge-connectivity k.|
-|327354|Number of disconnected or empty antichains of nonempty subsets of {1..n} (non-spanning edge-connectivity 0).|
-|327355|Number of antichains of nonempty subsets of {1..n} that are either non-connected or non-covering (spanning edge-connectivity 0).|
+|327352|Irregular triangle read by rows with trailing zeros removed where T(n,k) is the number of antichains of nonempty subsets of  1..n  with spanning edge-connectivity k.|
+|327353|Irregular triangle read by rows with trailing zeros removed where T(n,k) is the number of antichains of subsets of  1..n  with non-spanning edge-connectivity k.|
+|327354|Number of disconnected or empty antichains of nonempty subsets of  1..n  (non-spanning edge-connectivity 0).|
+|327355|Number of antichains of nonempty subsets of  1..n  that are either non-connected or non-covering (spanning edge-connectivity 0).|
 |327356|Number of connected separable antichains of nonempty sets covering n vertices (vertex-connectivity 1).|
 |327357|Irregular triangle read by rows with trailing zeros removed where T(n,k) is the number of antichains of sets covering n vertices with non-spanning edge-connectivity k.|
 |327358|Triangle read by rows where T(n,k) is the number of unlabeled antichains of nonempty sets covering n vertices with vertex-connectivity >= k.|
@@ -18930,17 +18930,17 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |327363|Triangle read by rows where T(n,k) is the number of labeled simple graphs with n vertices and vertex-connectivity >= k.|
 |327375|Number of set-systems with n vertices and vertex-connectivity 2.|
 |327421|In a Kolakoski n-chain, point at which term of penultimate sequence seq(n-1) differs from term of final sequence seq(n) in chain, when terms of seq(i) are run-lengths of seq(i+1) and the chain contains n sequences|
-|327424|Number of unlabeled, non-connected or empty antichains of nonempty subsets of {1..n}.|
+|327424|Number of unlabeled, non-connected or empty antichains of nonempty subsets of  1..n .|
 |327425|Number of unlabeled antichains of nonempty sets covering n vertices where every two vertices appear together in some edge (cointersecting).|
-|327426|Number of non-connected, unlabeled, antichain covers of {1..n} (vertex-connectivity 0).|
-|327437|Number of unlabeled antichains of nonempty subsets of {1..n} that are either non-connected or non-covering (spanning edge-connectivity 0).|
-|327438|Irregular triangle read by rows with trailing zeros removed where T(n,k) is the number of unlabeled antichains of nonempty subsets of {1..n} with spanning edge-connectivity k.|
+|327426|Number of non-connected, unlabeled, antichain covers of  1..n  (vertex-connectivity 0).|
+|327437|Number of unlabeled antichains of nonempty subsets of  1..n  that are either non-connected or non-covering (spanning edge-connectivity 0).|
+|327438|Irregular triangle read by rows with trailing zeros removed where T(n,k) is the number of unlabeled antichains of nonempty subsets of  1..n  with spanning edge-connectivity k.|
 |327443|Indices of zeros in A327442.|
-|327444|a(n) is the maximum absolute value of the coefficients of the quotient polynomial R_(prime(n)#)/Product_{j=1..n} R_(prime(j)), where prime(n)# is the n-th primorial number A002110(n) and R_k = (x^k - 1)/(x - 1).|
+|327444|a(n) is the maximum absolute value of the coefficients of the quotient polynomial R_(prime(n)#)/Product_ j=1..n  R_(prime(j)), where prime(n)# is the n-th primorial number A002110(n) and R_k = (x^k - 1)/(x - 1).|
 |327448|Number of ways the first n cubes can be partitioned into three sets with equal sums.|
 |327466|Number of nonempty subsets of [1..n] which are geometric progressions with rational ratio and are locally maximal.|
 |327468|Numbers m that divide 8^m + 7.|
-|327477|Number of subsets of {1..n} containing n whose mean is not an element.|
+|327477|Number of subsets of  1..n  containing n whose mean is not an element.|
 |327483|Triangle read by rows where T(n,k) is the number of integer partitions of 2^n with mean 2^k, 0 <= k <= n.|
 |327484|Number of integer partitions of 2^n whose mean is a power of 2.|
 |327546|Indices n of j-points j(n) for successive positive maxima of the Riemann zeta function on critical line.|
@@ -18959,17 +18959,17 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |327794|The number of (n-2)-interval parking functions of size n.|
 |327806|Triangle read by rows where T(n,k) is the number of antichains of sets with n vertices and vertex-connectivity >= k.|
 |327807|Triangle read by rows where T(n,k) is the number of unlabeled antichains of sets with n vertices and vertex-connectivity >= k.|
-|327808|Number of unlabeled, disconnected, nonempty antichains of subsets of {1..n}.|
+|327808|Number of unlabeled, disconnected, nonempty antichains of subsets of  1..n .|
 |327821|Number of legal Go positions on a board which is an n-cycle graph.|
 |327824|Decimal expansion of the constant factor in the asymptotic for practical numbers (A005153).|
 |327835|Smallest circular prime with 12 digits in base prime(n).|
 |327840|Numbers m that divide 4^m + 3.|
-|327845|Number of permutations of {1,2,...,n} such that for every k >= 1, the k-th differences are distinct.|
-|327848|Nontrivial odd solutions n to P(n) == 1+r*Sum_{i=1..d(n)} x^i mod m where P(n) is the n-th Stern polynomial, d(n) is the degree of P(n), r=0, m=3.|
-|327849|Nontrivial odd solutions n to P(n) == 1 + r*Sum_{i=1..d(n)} x^i (mod m) where P(n) is the n-th Stern polynomial, d(n) is the degree of P(n), r=1, m=3.|
-|327850|Nontrivial odd solutions n to P(n) == 1 + r*Sum_{i=1..d(n)} x^i (mod m) where P(n) is the n-th Stern polynomial, d(n) is the degree of P(n), r=2, m=3.|
+|327845|Number of permutations of  1,2,...,n  such that for every k >= 1, the k-th differences are distinct.|
+|327848|Nontrivial odd solutions n to P(n) == 1+r*Sum_ i=1..d(n)  x^i mod m where P(n) is the n-th Stern polynomial, d(n) is the degree of P(n), r=0, m=3.|
+|327849|Nontrivial odd solutions n to P(n) == 1 + r*Sum_ i=1..d(n)  x^i (mod m) where P(n) is the n-th Stern polynomial, d(n) is the degree of P(n), r=1, m=3.|
+|327850|Nontrivial odd solutions n to P(n) == 1 + r*Sum_ i=1..d(n)  x^i (mod m) where P(n) is the n-th Stern polynomial, d(n) is the degree of P(n), r=2, m=3.|
 |327854|Value of the critical density of the Universe in g/cm^3 multiplied by dimensionless scale factor h^(-2).|
-|327899|Number of set partitions of {1..n} with equal block sizes and equal block sums.|
+|327899|Number of set partitions of  1..n  with equal block sizes and equal block sums.|
 |327943|Numbers m that divide 6^m + 5.|
 |327944|Numbers m that are equal to the sum of their first k consecutive nonunitary divisors, but not all of them (i.e k < A048105(m)).|
 |327947|Nonunitary pseudoperfect numbers (A327945) that equal to the sum of a subset of their nonunitary divisors in more ways than any smaller nonunitary pseudoperfect number.|
@@ -18992,7 +18992,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |328080|Number of regions after 2n generations of Jim Conant's iterative dissection of a square.|
 |328081|Irregular triangle read by rows: T(n,k), n >= 0, k >= 1, =  number of cells of area k/t^2 in generation n of Jim Conant's iterative dissection of a square, where t = 2^ceiling(n/2).|
 |328083|Triangle read by rows: T(n,k) is the number of nondecreasing Dyck paths of semilength n and height k (1<=k<=n).|
-|328084|Irregular triangle read by rows: T(n,k) is the number of Dyck paths in the family D^{h,>}_n with maximal height equal to k (k>=1, n>=1).|
+|328084|Irregular triangle read by rows: T(n,k) is the number of Dyck paths in the family D^ h,> _n with maximal height equal to k (k>=1, n>=1).|
 |328085|Column sums of triangle A328084.|
 |328091|A sequence arising in solution of Monthly problem 12008.|
 |328092|A sequence arising in solution of Monthly problem 12008.|
@@ -19012,10 +19012,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |328317|Smallest prime not dividing A328316(n), with a(0) = 1 by convention; Equally, for n > 0, smallest prime dividing A328316(1+n).|
 |328318|Number of nonzero digits in representation of A328316(n) in primorial base; Number of distinct prime factors in A328316(1+n).|
 |328319|Sum of digits when A328316(n) is written in primorial base; number of prime factors in A328316(1+n), counted with multiplicity.|
-|328331|a(n) is the least k such that the average number of unitary divisors of {1..k} is >= n.|
+|328331|a(n) is the least k such that the average number of unitary divisors of  1..k  is >= n.|
 |328364|a(n) is the smallest number m such that the sum of the digits of m^5 is equal to n^5.|
 |328374|a(n) is the smallest fifth power m^5 such that the sum of the digits of m^5 is equal to n^5.|
-|328377|a(n) is the number of "generalized signotopes", i.e., mappings X:{{1..n} choose 3}->{+,-} such that for any four indices a < b < c < d, the sequence X(a,b,c), X(a,b,d), X(a,c,d), X(b,c,d) changes its sign at most twice (equivalently +-+- and -+-+ are forbidden).|
+|328377|a(n) is the number of "generalized signotopes", i.e., mappings X:  1..n  choose 3 -> +,-  such that for any four indices a < b < c < d, the sequence X(a,b,c), X(a,b,d), X(a,c,d), X(b,c,d) changes its sign at most twice (equivalently +-+- and -+-+ are forbidden).|
 |328381|Lesser of twin primes pair p, such that F(p) and F(p+2) have the same number of prime factors, where F(n) is the n-th Fibonacci number.|
 |328402|Number of terms of A048103 found in range A002110(n-1) .. A002110(n)-1.|
 |328416|Smallest k such that (Z/mZ)* = C_2 X C_(2k) has exactly n solutions for m, or 0 if no such k exists, where (Z/mZ)* is the multiplicative group of integers modulo m.|
@@ -19028,7 +19028,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |328453|Numbers k such that y!/x! + 1 = k^2 has a nonnegative integer solution with y - x <> 1 or 4.|
 |328459|Sorted positions of first appearances in A328458 (maximum run-length of nontrivial divisors) of each positive integer in the image.|
 |328497|Terms of A082180 that are not squares or cubes of primes.|
-|328498|Decimal expansion of Sum_{(p, q) runs through the twin primes} ((p mod 4) - 2) * (1/p + 1/q).|
+|328498|Decimal expansion of Sum_ (p, q) runs through the twin primes  ((p mod 4) - 2) * (1/p + 1/q).|
 |328509|Number of non-unimodal sequences of length n covering an initial interval of positive integers.|
 |328553|"Virtual" number of rational curves (or rather, stable maps) of degree n in P^3 which meet 2n+1 general lines and are Legendrian, i.e., are tangent to the standard contact distribution in P^3.|
 |328561|Numbers in A328095 whose product of digits is not a power of 10.|
@@ -19057,14 +19057,14 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |328955|a(n) = smallest integer k such that the decimal expansion of k! starts with the first n digits of Pi.|
 |328976|Number of irreducible graphs with n edges.|
 |328977|Number of planar 2-connected irreducible graphs with n vertices.|
-|328999|Dirichlet g.f. = Product_{primes p == 1 (mod 12)} (1+p^(-s))^2/(1-p^(-s))^2) * Product_{primes p == +-5 (mod 12)} (1+p^(-2*s))/(1-p^(-2*s).|
+|328999|Dirichlet g.f. = Product_ primes p == 1 (mod 12)  (1+p^(-s))^2/(1-p^(-s))^2) * Product_ primes p == +-5 (mod 12)  (1+p^(-2*s))/(1-p^(-2*s).|
 |329002|a(n) is the smallest d such that the sum of digits of 2^d + n is equal to d, or -1 if no such d exists.|
 |329026|Numbers k such that k = Product (p_j^e_j) = concatenation (pi(p_j)), where pi = A000720.|
 |329102|Numbers k such that both k^2 + 3 and 2^k + 3 are primes.|
 |329103|Numbers k such that both k^2 - 3 and 2^k - 3 are primes.|
 |329104|Numbers m such that sigma(m) - tau(m) = 2m.|
 |329126|a(n) is the least positive number which yields a multiple of n when its decimal digits (which are necessarily 0's and 1's) are read in any base.|
-|329128|Number of nonequivalent sets whose translations and reflections cover {1..n}.|
+|329128|Number of nonequivalent sets whose translations and reflections cover  1..n .|
 |329159|2*a(n) are the lengths of record prime gaps immediately preceding twin primes.|
 |329161|2*a(n) are the lengths of record prime gaps immediately following twin primes.|
 |329165|Let P1, P2, P3, P4 be consecutive primes with P2-P1=P4-P3=2. a(n)=(P3-P1)/6 when the length of the gap with no primes between the two pairs of twin primes sets a record.|
@@ -19094,7 +19094,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |329524|a(n) = A220470(n) / n.|
 |329528|Numbers k such that the k-th lucky number (A000959) is divisible by k.|
 |329529|Numbers k such that the sum of first k lucky numbers, A046279(k), is divisible by k.|
-|329532|Numbers k such that Product_{j=1..k} prime(j) + Product_{j=k+1..2*k} prime(j) is prime.|
+|329532|Numbers k such that Product_ j=1..k  prime(j) + Product_ j=k+1..2*k  prime(j) is prime.|
 |329543|Number of colored digraphs on n nodes with 1 to n colors assigned in a fixed order according the node count.|
 |329552|Smallest MM-number of a connected set of n sets.|
 |329553|Smallest MM-number of a connected set of n multisets.|
@@ -19109,20 +19109,20 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |329663|Numbers k such that the binary reversal of k (A030101) is equal to the sum of the proper divisors of k (A001065).|
 |329682|Number of excursions of length n with Motzkin-steps forbidding all consecutive steps of length 2 except UH, UD, HU and DD.|
 |329685|Number of main classes of self-orthogonal diagonal Latin squares of order n.|
-|329706|Odd numbers k such that Sum_{j=1..(k-1)/2, gcd(j,k)=1} 1/j == -2*q_2(k) + k*q_2(k)^2 (mod k^3), where q_2(k) = (2^phi(k) - 1)/k is the Euler quotient of k to base 2.|
+|329706|Odd numbers k such that Sum_ j=1..(k-1)/2, gcd(j,k)=1  1/j == -2*q_2(k) + k*q_2(k)^2 (mod k^3), where q_2(k) = (2^phi(k) - 1)/k is the Euler quotient of k to base 2.|
 |329713|The number of regions inside a heptagon formed by the straight line segments mutually connecting all vertices and all points that divide the sides into n equal parts.|
 |329729|Numbers k such that phi(k) + uphi(k) = k, where phi is the Euler totient function (A000010) and uphi is the unitary totient function (A047994).|
 |329733|Number of sequences n = b_1 < b_2 < ... < b_t = A329732(n) such that b_1*b_2*...*b_t is a perfect cube.|
 |329751|Indices n of j-points j(n) for successive positive minima of the Riemann zeta function on critical line.|
 |329768|Number of finite sequences of positive integers whose sum minus runs-resistance is n.|
 |329773|a(n) is the least k such that A330241(k) = n.|
-|329777|Number of subsets of {1,..,2n} for which the reciprocal of the modular-part product is also a modular-part product.|
-|329778|Number of symmetric subsets of {1,..,2n} for which the reciprocal of the modular-part product is also a modular-part product.|
+|329777|Number of subsets of  1,..,2n  for which the reciprocal of the modular-part product is also a modular-part product.|
+|329778|Number of symmetric subsets of  1,..,2n  for which the reciprocal of the modular-part product is also a modular-part product.|
 |329786|Discriminants of totally real cubic fields with 2 associated nonconjugate fields.|
 |329787|Discriminants of totally real cubic fields with 3 associated nonconjugate fields.|
 |329788|Total number of graceful labelings of connected graphs with n edges.|
 |329789|Total number of graceful labelings of connected graphs with n vertices and n edges.|
-|329851|Sum of absolute values of n-th differences over all permutations of {0, 1, ..., n}.|
+|329851|Sum of absolute values of n-th differences over all permutations of  0, 1, ..., n .|
 |329863|Number of compositions of n with cuts-resistance 2.|
 |329864|Number of compositions of n with the same runs-resistance as cuts-resistance.|
 |329868|Sorted positions of first appearances in A329867 (difference between the runs-resistance and the cuts-resistance of binary expansion) of each element in the image.|
@@ -19145,9 +19145,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |330057|Number of set-systems covering n vertices with no singletons or endpoints.|
 |330058|Number of non-isomorphic multiset partitions of weight n with at least one endpoint.|
 |330059|Number of set-systems with n vertices and no endpoints.|
-|330068|Numbers k such that Sum_{i=1..k} i^A000010(k) == 2 (mod k).|
-|330069|Numbers k such that Sum_{i=1..k} i^A000010(k) == -2 (mod k).|
-|330076|Numbers k such that H(k) > d(k), where H(k) = Sum_{1 <= i < j <= d(k)} 1/(d_j - d_i) is sum over ordered pairs of divisors of k, and d(k) is the number of divisors of k.|
+|330068|Numbers k such that Sum_ i=1..k  i^A000010(k) == 2 (mod k).|
+|330069|Numbers k such that Sum_ i=1..k  i^A000010(k) == -2 (mod k).|
+|330076|Numbers k such that H(k) > d(k), where H(k) = Sum_ 1 <= i < j <= d(k)  1/(d_j - d_i) is sum over ordered pairs of divisors of k, and d(k) is the number of divisors of k.|
 |330079|Number of n-step self-avoiding walks starting at the origin that are restricted to the boundary walls of the first octant of the cubic lattice.|
 |330085|Length of longest binary word with the property that all distinct occurrences of identical-length blocks agree on at most n positions.|
 |330089|a(n) is the smallest integer k such that Omega(k) = n and Omega(2*k+1) = n+1 (where Omega is A001222).|
@@ -19165,7 +19165,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |330204|Composite numbers k such that P(k, 5) == 5 (mod k), where P(k, 5) = A006442(k) is the k-th Legendre polynomial evaluated at 5.|
 |330205|Composite numbers k such that P(k, 7) == 7 (mod k), where P(k, 7) = A084768(k) is the k-th Legendre polynomial evaluated at 7.|
 |330211|Number of free pentagonal polyforms with n cells on the order-4 pentagonal tiling of the hyperbolic plane.|
-|330212|a(n) is the smallest k such that {1^3, 2^3, 3^3, ..., k^3} can be partitioned into n sets of equal sums.|
+|330212|a(n) is the smallest k such that  1^3, 2^3, 3^3, ..., k^3  can be partitioned into n sets of equal sums.|
 |330221|Numbers d such that -d is a fundamental discriminant and all primes smaller than 2*sqrt(d)/Pi ramify or remain inert in the ring of integers of Q(sqrt(-d)).|
 |330222|Maximum autocorrelation of the first 2^n terms of the Rudin-Shapiro sequence A020985.|
 |330223|Number of non-isomorphic achiral multiset partitions of weight n.|
@@ -19206,7 +19206,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |330399|Number of possible permutations of a Pyramorphix of size n.|
 |330419|a(n) is the number of terms in A330418 with exactly n digits.|
 |330428|Smallest prime p such that both nearest primes up and down are farther away than n*log(p).|
-|330431|a(n) is the smallest k such that {1^2, 2^2, 3^2, ..., k^2} can be partitioned into n sets of equal sums.|
+|330431|a(n) is the smallest k such that  1^2, 2^2, 3^2, ..., k^2  can be partitioned into n sets of equal sums.|
 |330442|The number of free polyominoes with n cells which, when drawn on a 2D square grid, contain an Eulerian path.|
 |330446|Composite numbers k such that 2^(k-1) == - lambda(k) (mod k), where lambda is the Carmichael lambda function (A002322).|
 |330464|Number of non-isomorphic weight-n sets of set-systems with distinct multiset unions.|
@@ -19299,11 +19299,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |331241|Integer values that can be assumed by the squared radius of the circumcircle of a triangle with integer sides.|
 |331242|a(n) = number of triangles with integer sides i <= j <= k with radius of enclosing circle <= n.|
 |331243|a(n) = number of triangles with integer sides i <= j <= k with diameter of enclosing circle <= n.|
-|331369|Decimal expansion of Sum_{(p1, p2) is twin prime pair} 1/p1 + 1/p2 - log(p2/p1).|
-|331370|Decimal expansion of Sum_{(p1, p2) is twin prime pair} log(p2 / p1).|
+|331369|Decimal expansion of Sum_ (p1, p2) is twin prime pair  1/p1 + 1/p2 - log(p2/p1).|
+|331370|Decimal expansion of Sum_ (p1, p2) is twin prime pair  log(p2 / p1).|
 |331383|Number of integer partitions of n whose sum of primes of parts is equal to their product of parts.|
 |331399|Numbers k such that A000129(k) and A001333(k) are both prime.|
-|331402|a(n) = [x^(n^n)] Product_{k>=1} 1 / (1 - x^(k^n)).|
+|331402|a(n) = [x^(n^n)] Product_ k>=1  1 / (1 - x^(k^n)).|
 |331407|Numbers at which the sum of the iterated exponential totient function (A331273) attains a record.|
 |331414|Number of integral free trees of n vertices.|
 |331424|Prime numbers p such that p^2 divides 31^(p-1) - 1.|
@@ -19342,9 +19342,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |331718|Number of nonequivalent n-column binary matrices with 3 ones in every column and any number of distinct nonzero rows up to permutation of rows and columns.|
 |331720|Number of nonequivalent binary matrices with 4 columns and any number of nonzero rows with n ones in every column up to permutation of rows and columns.|
 |331729|Number of Ulam numbers u (A002858) between powers of 2, 2^n < u <= 2^(n+1).|
-|331768|El Gradechi's hybrid coefficients alpha^{4,4}_{2n}.|
-|331769|El Gradechi's hybrid coefficients alpha^{4,6}_n.|
-|331770|El Gradechi's hybrid coefficients alpha^{6,6}_{2n}, negated.|
+|331768|El Gradechi's hybrid coefficients alpha^ 4,4 _ 2n .|
+|331769|El Gradechi's hybrid coefficients alpha^ 4,6 _n.|
+|331770|El Gradechi's hybrid coefficients alpha^ 6,6 _ 2n , negated.|
 |331783|Number of locally disjoint rooted semi-identity trees with n unlabeled vertices.|
 |331805|Integers k such that k is equal to the sum of the nonprime proper divisors of k.|
 |331813|a(n) is the least k > 1 such that k*A019278(n) belongs to A019278 too, or a(n) = 0 if no such k exists.|
@@ -19368,7 +19368,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |331881|a(n) is the first n-digit substring to occur n times in the decimal expansion of the fractional part of Pi.|
 |331882|a(n) is the number of digits in the decimal expansion of the fractional part of Pi needed to contain n occurrences of an n-digit substring.|
 |331883|The number of permutations in the symmetric group S_n in which it is possible to find two disjoint increasing subsequences each with length equal to the length of the longest increasing subsequence of the permutation.|
-|331889|Table T(n,k) read by upward antidiagonals. T(n,k) is the minimum value of Sum_{i=1..n} Product_{j=1..k} r[(i-1)*k+j] among all permutations r of {1..kn}.|
+|331889|Table T(n,k) read by upward antidiagonals. T(n,k) is the minimum value of Sum_ i=1..n  Product_ j=1..k  r[(i-1)*k+j] among all permutations r of  1..kn .|
 |331897|Positive numbers all of whose divisors are negabinary palindromes (A331891) with a record number of divisors.|
 |331908|The number of regions inside a hexagram formed by the straight line segments mutually connecting all vertices and all points that divide the sides into n equal parts.|
 |331911|Triangle read by rows: Take an equilateral triangle with all diagonals drawn, as in A092867. Then T(n,k) = number of k-sided polygons in that figure for k = 3, 4, ..., n+2 and where n is the number of equal parts each side is divided into.|
@@ -19390,17 +19390,17 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |332077|Square array of sunflower numbers Sun(m,n) = minimal number of distinct sets of cardinality <= m such that there is a sunflower with at least n sets among them, read by falling antidiagonals; m, n >= 1.|
 |332080|Irregular table in which row n = 1, 2, 3... lists the lexicographically first triangle of height and width n with minimal sum, distinct positive entries using only digits <= n and no diagonal having the same digit in two entries.|
 |332081|Minimum sum of elements of an n X n upper triangular matrix of distinct positive numbers such that no two entries in the same row or column share a digit when the numbers are written in base n+1.|
-|332098|Largest m for which m^n = Sum_{x in S} x^n has no solution S subset of {1, ..., m-1}.|
+|332098|Largest m for which m^n = Sum_ x in S  x^n has no solution S subset of  1, ..., m-1 .|
 |332201|Sum of three cubes problem: a(n) = integer x with the least possible absolute value such that n = x^3 + y^3 + z^3 with |x| >= |y| >= |z|, or 0 if no such x exists.|
 |332216|Fixed points of A332221: Numbers k such that A156552(sigma(k)) is equal to k.|
-|332218|Numbers k such that A332221(k) = A156552(sigma(k)) is 2*{an odd square}.|
+|332218|Numbers k such that A332221(k) = A156552(sigma(k)) is 2* an odd square .|
 |332232|Smallest t such that every binary word of length t+1 contains two non-overlapping occurrences of some length-n block.|
 |332234|Least integer t such that every binary word of length t+1 contains a reversed split occurrence of an n-overlap.|
 |332235|Least integer t such that every binary word of length t+1 contains an split occurrence of an n-overlap.|
 |332262|Maximum position to start a search within the decimal digits of Pi in order to find all numeric strings with length n.|
-|332263|Maximal length of a string over the alphabet {0,1,2} with the property that its contiguous substrings of length n all have different quantities of 0's, 1's, or 2's.|
+|332263|Maximal length of a string over the alphabet  0,1,2  with the property that its contiguous substrings of length n all have different quantities of 0's, 1's, or 2's.|
 |332265|a(n) is the number of prime numbers created when concatenating all the arrangements of the decimal integers from 0 to 3*n+4.|
-|332270|Numbers k such that Sum_{j=1..k} j*floor(k/j) is divisible by k+1.|
+|332270|Numbers k such that Sum_ j=1..k  j*floor(k/j) is divisible by k+1.|
 |332274|Number of totally strong compositions of n.|
 |332278|Number of widely totally co-strongly normal integer partitions of n.|
 |332279|Number of widely totally normal compositions of n.|
@@ -19435,7 +19435,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |332493|The minimal Skewes number for prime n-tuplets, choosing the n-tuplet with latest occurrence of the first sign change relative to the Hardy-Littlewood prediction when more than one type of n-tuplets exists (A083409(n)>1) for the given n.|
 |332494|Largest reset thresholds of n-state automata with two permutation letters generating the symmetric group S_n, and one letter of rank n-1.|
 |332546|a(n) is the maximal size of a set of equiangular lines of rank n.|
-|332557|Number of inequivalent Z_{2^s}-linear Hadamard codes of length 2^n.|
+|332557|Number of inequivalent Z_ 2^s -linear Hadamard codes of length 2^n.|
 |332575|Least start of a run of exactly n consecutive numbers that are norm-abundant in Gaussian integers (A332570).|
 |332580|a(n) = minimal positive k such that the concatenation of the decimal digits of n,n+1,...,n+k is divisible by n+k+1, or -1 if no such k exists.|
 |332584|a(n) = minimal value of n+k (with k >= 1) such that the concatenation of the decimal digits of n,n+1,...,n+k is divisible by n+k+1, or -1 if no such n+k exists.|
@@ -19446,25 +19446,25 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |332613|Covering radius of the dihedral group code D_n.|
 |332625|Number of graphs on n unlabeled nodes with domination number 2.|
 |332637|The number of n X n replace matrices: binary matrices A where the i-th row contains exactly i zeros and A[i,j] >= A[j,i] for all i < j.|
-|332664|a(n) = number of nonnegative integers that are not the sum of {2 squares, a nonnegative 5th power, and a nonnegative n-th power}.|
+|332664|a(n) = number of nonnegative integers that are not the sum of  2 squares, a nonnegative 5th power, and a nonnegative n-th power .|
 |332704|Record indices of the ratio A280008(n) / A002375(n) (Goldbach conjecture related).|
 |332707|Factors k > 2 such that the polynomial x^2 + k*x + 1 produces a new minimum of its Hardy-Littlewood constant.|
 |332708|Factors k >= 0 such that the polynomial x^2 + k*x + 1 produces a record of its Hardy-Littlewood constant.|
 |332717|Triangle read by rows in which row n lists the possible eventual periods of cellular automaton rule 110 in a cyclic universe of width n.|
 |332718|Number of possible eventual periods of cellular automaton rule 110 in a cyclic universe of width n.|
-|332748|The number of permutations of {1,1,1,2,2,2,...,n,n,n} with the property that b(1) >= b(2) >= ... >= b(n) (Three k's are skipped by b(k) for k=1..n).|
-|332752|The number of permutations of {1,1,1,1,2,2,2,2,...,n,n,n,n} with the property that b(1) >= b(2) >= ... >= b(n) (Four k's are skipped by b(k) for k=1..n).|
+|332748|The number of permutations of  1,1,1,2,2,2,...,n,n,n  with the property that b(1) >= b(2) >= ... >= b(n) (Three k's are skipped by b(k) for k=1..n).|
+|332752|The number of permutations of  1,1,1,1,2,2,2,2,...,n,n,n,n  with the property that b(1) >= b(2) >= ... >= b(n) (Four k's are skipped by b(k) for k=1..n).|
 |332760|Triangle of number of connected graphs with n>=2 nodes and maximum degree 1<=k<n.|
 |332763|Numbers k such that 6*17^k + 1 is prime.|
 |332771|Positions of the Dirichlet inverse of the Euler totient function expansion of the partial sums of the Möbius inverse of the Harmonic numbers in the set of the sorted tuples that have upper and lower bounds -(k-1) and +(k-1).|
-|332774|Given n line segments, the k-th of which is drawn from (k,0) to (x_k,1) where {x_1,x_2,...,x_n} is a permutation of {1,2,...,n}, a(n) is the maximum number of distinct points at which line segments intersect.|
-|332783|The number of permutations of {(n+1) 1's, (n+1) 2's, ..., (n+1) n's} with the property that k's are equally spaced for k=1..n and the interval of k+1 is less than or equal to the interval of k for k=1..n-1.|
-|332784|The number of permutations of {n 1's, n 2's,...,n n's} with the property that b(1) >= b(2) >= ... >= b(n), where n k's are skipped by b(k) for k=1..n.|
+|332774|Given n line segments, the k-th of which is drawn from (k,0) to (x_k,1) where  x_1,x_2,...,x_n  is a permutation of  1,2,...,n , a(n) is the maximum number of distinct points at which line segments intersect.|
+|332783|The number of permutations of  (n+1) 1's, (n+1) 2's, ..., (n+1) n's  with the property that k's are equally spaced for k=1..n and the interval of k+1 is less than or equal to the interval of k for k=1..n-1.|
+|332784|The number of permutations of  n 1's, n 2's,...,n n's  with the property that b(1) >= b(2) >= ... >= b(n), where n k's are skipped by b(k) for k=1..n.|
 |332847|a(n) is the smallest k such that exactly one of k*2^(2^n) - 2*k + 1 and k*2^(2^n) + 2*k - 1 is a prime.|
 |332850|Numbers k = a^2 + b^2 such that reversal(k) = a^2 - b^2 for a > b > 0, where reversal is A004086.|
 |332866|Length of shortest ternary squarefree word having n periods.|
 |332867|a(n) = minimal positive k such that the concatenation of decimal digits 1,2,...,n is a divisor of the concatenation of n+1,n+2,...,n+k.|
-|332872|Number of ordered set partitions of {1..n} where no element of any block is greater than any element of a non-adjacent consecutive block.|
+|332872|Number of ordered set partitions of  1..n  where no element of any block is greater than any element of a non-adjacent consecutive block.|
 |332873|Number of non-unimodal, non-co-unimodal sequences of length n covering an initial interval of positive integers.|
 |332920|Number of non-isomorphic free unrooted snake-shaped polyominoes of maximum length on a quadratic board of n X n squares.|
 |332921|Number of symmetric non-isomorphic free unrooted snake-shaped polyominoes of maximum length on a quadratic board of n X n squares.|
@@ -19502,7 +19502,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |333137|The number of edges formed on a triangle with leg lengths equal to the Pythagorean triples by the straight line segments mutually connecting all vertices and all points that divide the sides into unit length parts.|
 |333139|The number of regions inside a decagon formed by the straight line segments mutually connecting all vertices and all points that divide the sides into n equal parts.|
 |333148|Number of compositions of n whose non-adjacent parts are weakly decreasing.|
-|333165|Number of non-isomorphic 2n X 2n symmetric matrices with entries in {+1, -1} and all rows and columns summing to zero.|
+|333165|Number of non-isomorphic 2n X 2n symmetric matrices with entries in  +1, -1  and all rows and columns summing to zero.|
 |333166|Number of n-regular graphs on 2n unlabeled vertices with half-edges.|
 |333185|Numbers k such that k^k is the average of its nearest 2 primes.|
 |333198|Decimal expansion of a constant related to the asymptotics of A306734 and A333179.|
@@ -19523,7 +19523,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |333278|Triangle read by rows: T(n,m) (n >= m >= 1) = number of edges in the graph formed by drawing the line segments connecting any two of the (n+1) X (m+1) lattice points in an n X m grid of squares.|
 |333283|Triangle read by rows: T(m,n) (m >= n >= 1) = number of edges formed by drawing the line segments connecting any two of the (m+1) X (n+1) lattice points in an m X n grid of squares and extending them to the boundary of the grid.|
 |333284|Triangle read by rows: T(m,n) (m >= n >= 1) = number of vertices formed by drawing the line segments connecting any two of the (m+1) X (n+1) lattice points in an m X n grid of squares and extending them to the boundary of the grid.|
-|333289|Irregular triangle read by rows: coefficients a_{r,j} (r>=1, j>=0) arising from an expansion of the partition function.|
+|333289|Irregular triangle read by rows: coefficients a_ r,j  (r>=1, j>=0) arising from an expansion of the partition function.|
 |333294|Main diagonal of triangle in A333282.|
 |333296|Largest number of non-congruent integer-sided bricks that can be assembled into an n X n X n cube.|
 |333299|Number of canonical sequences of moves of length n for the Rubik cube puzzle using the quarter-turn metric.|
@@ -19544,7 +19544,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |333414|Positive integers k such that k divides 17^k + 2.|
 |333416|Irregular triangle T read by rows: each row represents a finite (increasing) oscillation contained in the infinite (increasing) oscillation O.|
 |333418|Irregular triangle: T(n,k) gives the number of ways to 2-color k edges of the n-cube up to rotation and reflection, with 0 <= k <= A001787(n).|
-|333420|Table T(n,k) read by upward antidiagonals. T(n,k) is the maximum value of Product_{i=1..n} Sum_{j=1..k} r[(i-1)*k+j] among all permutations r of {1..kn}.|
+|333420|Table T(n,k) read by upward antidiagonals. T(n,k) is the maximum value of Product_ i=1..n  Sum_ j=1..k  r[(i-1)*k+j] among all permutations r of  1..kn .|
 |333430|a(n) is the n-th number m that divides n^m + 1 (or 0 if m does not exist).|
 |333433|a(n) is the n-th number m that divides n^m - 1 (or 0 if m does not exist).|
 |333434|The number of regions inside a diagonal-edged (or diamond-shaped) checkerboard of width and height 2*n-1 formed by the straight line segments mutually connecting any two of the 8*n-4 vertices on the perimeter.|
@@ -19560,7 +19560,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |333496|Least k of Egyptian fractions 1 = 1/x_1 + ... + 1/x_k , with 0 < x_1 <= ... <= x_k = n.|
 |333502|a(n) is the n-th number m such that m^2 divides n^m - 1 (or 0 if m does not exist).|
 |333512|Numbers nontrivially palindromic in exactly three consecutive number bases.|
-|333522|Lexicographically earliest sequence of distinct positive integers such that for any nonempty set of k positive integers, say {m_1, ..., m_k}, a(m_1) XOR ... XOR a(m_k) is neither null nor prime (where XOR denotes the bitwise XOR operator).|
+|333522|Lexicographically earliest sequence of distinct positive integers such that for any nonempty set of k positive integers, say  m_1, ..., m_k , a(m_1) XOR ... XOR a(m_k) is neither null nor prime (where XOR denotes the bitwise XOR operator).|
 |333524|Normalized volume of polytope representing the number n.|
 |333525|Degree of polytope representing the number n.|
 |333527|Number of facets of the polytope representing the number n.|
@@ -19579,7 +19579,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |333606|Number of directed Hamiltonian walks from NW to SW corners of a 10 X n grid.|
 |333610|Least number that reaches 1 after n iterations of the infinitary totient function A091732.|
 |333629|Least k such that the runs-resistance of the k-th composition in standard order is n.|
-|333631|Number of permutations of {1..n} with three consecutive terms in arithmetic progression.|
+|333631|Number of permutations of  1..n  with three consecutive terms in arithmetic progression.|
 |333643|Number of regions in a polygon whose boundary consists of n+2 equally spaced points around the arc of a semicircle. See Comments for precise definition.|
 |333649|Numbers k such that the second k binary digits of Pi represent a prime (leading zeros allowed).|
 |333665|Numbers that occur in A057144 arranged in ascending order.|
@@ -19629,7 +19629,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |334084|Integers m such that only 2 binomial coefficients C(m,k), with 0<=k<=m, are practical numbers.|
 |334099|The least k for which A329697(k) = n; Position of first occurrence of n (and also records) in A329697.|
 |334123|Number of labeled tournaments on n vertices with the maximum number of Hamiltonian paths.|
-|334127|Number of nonempty sets {p_1, p_2, ..., p_k} such that Product_{i=1..k} p_i divides Product_{i=1..k} (n + p_i), where the p_i are distinct primes.|
+|334127|Number of nonempty sets  p_1, p_2, ..., p_k  such that Product_ i=1..k  p_i divides Product_ i=1..k  (n + p_i), where the p_i are distinct primes.|
 |334128|Integers m such that sigma(m) + sigma(7*m) = 16*m.|
 |334132|Smallest prime factor of n-th term in Look and Say sequence A005150, with a(1)=1.|
 |334133|Numbers k > 2 such that gpf(A111076(k)^lambda(k) - 1) = gpf(lambda(k) + 1); where gpf is the greatest prime factor (A006530), and lambda = A002322 is the Carmichael function.|
@@ -19639,7 +19639,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |334225|The values n where A334148(n) = n.|
 |334247|Number of acyclic orientations of the edges of an n-dimensional cube.|
 |334248|Number of distinct acyclic orientations of the edges of an n-dimensional cube.|
-|334250|Number of set partitions of [3n] into 3-element subsets {i, i+k, i+2k} with 1<=k<=n.|
+|334250|Number of set partitions of [3n] into 3-element subsets  i, i+k, i+2k  with 1<=k<=n.|
 |334252|Number of closure operators on a set of n elements which satisfy the T_0 separation axiom.|
 |334253|Number of strict closure operators on a set of n elements which satisfy the T_0 separation axiom.|
 |334254|Number of closure operators on a set of n elements which satisfy the T_1 separation axiom.|
@@ -19682,7 +19682,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |334629|Smallest number that can be obtained by starting with 1 and applying "Choix de Bruxelles (version 2)" (see A323460) n times without backtracking or repeating.|
 |334630|Number of regions after generation n of Conant's dissection of a square when dissected with diagonal lines.|
 |334634|Numbers m that divide 2^m + 11.|
-|334636|Number of different values of (x_n, x_1*x_2*...*x_n) where x_1=1 and x_i-x_{i-1} is 0 or 1.|
+|334636|Number of different values of (x_n, x_1*x_2*...*x_n) where x_1=1 and x_i-x_ i-1  is 0 or 1.|
 |334687|Dates of birth of Kings Felipe (Philip) I, II, ... of Spain.|
 |334691|Irregular triangle read by rows: T(n,k) (n >= 1, 2 <= k <= 2*n) = number of interior vertices in the n-th figure shown in A255011 (meaning the figure with 4n points on the perimeter) where k lines meet.|
 |334692|Column k=2 of A334691.|
@@ -19718,7 +19718,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |335093|Number of regions after generation n of Conant's dissection of a square when dissected with diagonal lines and where the starting pair of edges rotates counterclockwise around the square.|
 |335119|Number of positive terms of A082916 not exceeding 10^n.|
 |335136|Irregular triangle read by rows: T(n,k) is the number of permutations of an n X n Rubik's Square reachable in k or fewer moves, terminating at the maximum value.|
-|335151|Numbers m equal to |d_1^k + Sum_{j=2..k} (-1)^j*d_j^k| where d_1 d_2 ... d_k is the decimal expansion of m.|
+|335151|Numbers m equal to |d_1^k + Sum_ j=2..k  (-1)^j*d_j^k| where d_1 d_2 ... d_k is the decimal expansion of m.|
 |335175|Number of 1-fold spreads partitioning the lines in PG(2*n-1,4).|
 |335176|Number of 5-fold spreads partitioning the lines in PG(2*n-1,4).|
 |335177|a(n) = A335175(n) + A335176(n).|
@@ -19776,7 +19776,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |335594|a(n) is the first prime to start a sequence of exactly n primes under the iteration p -> p + (p^2-1)/12.|
 |335596|The number of hanging vertically stable self-avoiding walks of length n on a 2D square lattice where only the connecting rods have mass.|
 |335597|Length of shortest string having n distinct letters and containing no 4-antipowers.|
-|335619|Number of fundamentally different graceful labelings of the complete bipartite graph K_{n,n}.|
+|335619|Number of fundamentally different graceful labelings of the complete bipartite graph K_ n,n .|
 |335628|Number of regions after generation n of Conant's dissection of a square when dissected with both orthogonal and diagonal lines and where the starting edges rotate clockwise around the square and the dissection halves in size every second generation.|
 |335632|Number of regions after generation n of Conant's dissection of a square when dissected with both diagonal and orthogonal lines and where the starting edges rotate clockwise around the square and the dissection halves in size every second generation.|
 |335645|Smallest palindrome with exactly n distinct prime factors.|
@@ -19812,10 +19812,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |335950|Sparse rulers with length a(n) cannot be perfect rulers.|
 |335968|Smallest number whose binary representation has exactly n 1 bits and for which the differences of pairs of positions of the 1 bits include all positive integers up to and including A005488(n).|
 |335976|Numbers k such that Fibonacci(6*k) is not a totient.|
-|335983|a(n) = least k such that n < Integral_{x=1/k..1} Gamma(x) dx.|
+|335983|a(n) = least k such that n < Integral_ x=1/k..1  Gamma(x) dx.|
 |335984|Numbers m such that more than half the distinct positive terms of the sequence -k^2 + m*k - 1 are primes.|
-|336000|Decimal expansion of the number x that minimizes the function f(x) = Integral_{t=0..oo} (Pi/2 - arctan(t))^x dt.|
-|336001|Decimal expansion of the minimum of the function f(x) = Integral_{x=0..oo} (Pi/2 - arctan(t))^x dt.|
+|336000|Decimal expansion of the number x that minimizes the function f(x) = Integral_ t=0..oo  (Pi/2 - arctan(t))^x dt.|
+|336001|Decimal expansion of the minimum of the function f(x) = Integral_ x=0..oo  (Pi/2 - arctan(t))^x dt.|
 |336016|a(n) is the number of primes q less than primorial(n) having k = 2 as the least exponent such that q^k == 1 (mod primorial(n)).|
 |336027|The least k such that i*k + 1 is a product of i different primes for i = 1..n.|
 |336028|The least k such that i*k + 1 is a product of i (not necessary distinct) primes for i = 1, ..., n.|
@@ -19842,8 +19842,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |336265|Number of 2D closed-loop self-avoiding paths on a square lattice where each path consists of steps with successive lengths equal to the prime numbers, from 2 to prime(2n+1).|
 |336281|Total number of ways of embedding connected graphs with n edges in the square lattice with diagonals allowed.|
 |336296|The least prime p such that equation x = p*sopf(x) (where sopf(x) is the sum of distinct prime factors of x) has exactly n solutions in positive integers.|
-|336304|a(n) is the least number k such that the average number of prime divisors of {1..k} counted with multiplicity is >= n.|
-|336351|Number of cyclic arrangements of S = {1,2,...,6n - 3} such that any three neighbors can be reordered in an arithmetic progression.|
+|336304|a(n) is the least number k such that the average number of prime divisors of  1..k  counted with multiplicity is >= n.|
+|336351|Number of cyclic arrangements of S =  1,2,...,6n - 3  such that any three neighbors can be reordered in an arithmetic progression.|
 |336389|The least positive integer k for which A336835(k) >= n, where A336835(k) is the number of iterations of x -> A003961(x) needed before the result is deficient (sigma(x) < 2x), when starting from x=k.|
 |336397|Numbers k such that both k and A122111(k) [its conjugated prime factorization] are Ore's Harmonic numbers (A001599).|
 |336412|Number of labeled dihedral groups with a fixed identity.|
@@ -19870,7 +19870,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |336688|Primes p such that the Wendt determinant A048954(p) has prime factors less than p.|
 |336701|Numbers k for which A000265(1+A000265(sigma(k))) is equal to A000265(1+k).|
 |336704|Number of nonisomorphic matroids of rank 4 on n labeled points.|
-|336710|Square array read by diagonals: A(n,k) is the number of solutions (x_1, x_2, ..., x_n) to equation phi(Product_{i=1..n} x_i) = Sum_{i=1..n} k*phi(x_i), or -1 if there are infinitely many solutions.|
+|336710|Square array read by diagonals: A(n,k) is the number of solutions (x_1, x_2, ..., x_n) to equation phi(Product_ i=1..n  x_i) = Sum_ i=1..n  k*phi(x_i), or -1 if there are infinitely many solutions.|
 |336721|Values k where A336719(k) increases.|
 |336742|Number of self-avoiding cycles of length 2n on the half-Manhattan lattice.|
 |336744|Integers b where the number of cycles under iteration of sum of squares of digits in base b is exactly three.|
@@ -19907,13 +19907,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |337118|Number of Morita equivalence classes of blocks with defect group (C_2)^n.|
 |337143|Numbers k for which there are only 3 bases b (2, k+1 and another one) in which the digits of k contain the digit b-1.|
 |337158|a(n) is the start m of first run of n consecutive numbers with periodic sequence of values of number of divisors [tau(m), tau(m+1), tau(m), tau(m+1), tau(m), ...] where tau(m) != tau(m+1).|
-|337162|Numbers m such that Sum_{d|m: 1<=d<=sqrt(m)} m/d-d is a multiple of m.|
+|337162|Numbers m such that Sum_ d|m: 1<=d<=sqrt(m)  m/d-d is a multiple of m.|
 |337172|Numbers k such that L(k+2)^L(k) mod L(k+1) is a Lucas number, where L = A000032.|
 |337178|Number of biconnected geodetic graphs with n unlabeled vertices.|
 |337179|Number of geodetic graphs with n unlabeled vertices.|
 |337189|Numbers k such that k divides A340180(k).|
 |337197|Position of the first occurrence of n in A337196, where A337196(x) is the 3-adic valuation of 1+A000265(sigma(x)).|
-|337211|Numbers k such that b(k) < b(j) for all j < k where b(k) = Min_{sqrt(n) - Sum_{i} sqrt(c_i) > 0 with c_i being unique integers}.|
+|337211|Numbers k such that b(k) < b(j) for all j < k where b(k) = Min_ sqrt(n) - Sum_ i  sqrt(c_i) > 0 with c_i being unique integers .|
 |337212|Modulo 3 Pisano period of 'n-bonacci' series.|
 |337215|a(n) gives the square of the base the nonrectangular triangle with positive sides (sqrt(x(n)_j), sqrt(y(n)_j), sqrt(a(n))), 1 <= x(n)_j <= y(n)_j <= a(n), with positive integers x(n)_j, y(n)_j and areas A(n)_j, for j = 1, 2, ..., A336889(n), such that the quartets (x(n)_j, y(n)_j, a(n), A(n)_j) are primitive.|
 |337221|Starts of record-length sequences of primes under iteration of the map x goes to (3*x+1)/2.|
@@ -19933,8 +19933,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |337309|Number of main classes of bachelor diagonal Latin squares of order n.|
 |337317|The number of stable vertically balanced self-avoiding walks of length n on the upper half-plane of a 2D square lattice where the nodes and connecting rods have equal mass.|
 |337342|Numbers k such that A048673(k) divides 1+A003973(k).|
-|337361|Number of elements of size n in the Ulam set in the canonical free group on two starting members, U({0,1}), generated by the two initial members.|
-|337365|Decimal expansion of imaginary part of Sum_{m>=1} 1/(1/2 + i*z(m))^4 where z(m) is the imaginary part of the n-th nontrivial zero of the Riemann zeta function and i=sqrt(-1).|
+|337361|Number of elements of size n in the Ulam set in the canonical free group on two starting members, U( 0,1 ), generated by the two initial members.|
+|337365|Decimal expansion of imaginary part of Sum_ m>=1  1/(1/2 + i*z(m))^4 where z(m) is the imaginary part of the n-th nontrivial zero of the Riemann zeta function and i=sqrt(-1).|
 |337366|Number of representations of A036691(n) as a sum of 3 nonnegative cubes.|
 |337415|a(n) is the number of ways to tile a size n triangle in the triangular grid with n n-cell polyiamonds, up to rotation and reflection of the triangle.|
 |337433|Maximum sum of node values defined in analogy to A228882 for a triangular region of the hexagonal lattice with n*(n+1)/2 points.|
@@ -19950,18 +19950,18 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |337515|a(n) is the number of essentially different optimal solutions with A336660(n) 1 X 1 cells to R. Kurchan's n-squares puzzle 578.|
 |337516|Number of distinct resistances that can be produced using n unit resistors in series, parallel, bridge or fork configurations.|
 |337517|a(n) is the number of distinct resistances that can be produced from a circuit with exactly n unit resistors.|
-|337520|Number of set partitions of [4n] into 4-element subsets {i, i+k, i+2k, i+3k} with 1<=k<=n.|
+|337520|Number of set partitions of [4n] into 4-element subsets  i, i+k, i+2k, i+3k  with 1<=k<=n.|
 |337522|Number of permutations of length n that are sorted to the identity by a consecutive-312-avoiding-stack followed by a classical-21-avoiding stack.|
 |337526|Number of length n permutations that are sorted to the identity by a consecutive-213-avoiding stack followed by a classical-21-avoiding stack.|
 |337536|Numbers k for which there are only 2 bases b (2 and k+1) where the digits of k contain the digit b-1.|
 |337550|Number of closed-loop self-avoiding paths of length 4n on a 2D square lattice where no step can be in the same direction as the previous step.|
 |337581|a(n) is the number of semi-meanders with n top arches that have both an arch of length 1 adjacent to the center of the top arch configuration and an arch of length 1 starting or ending the top arch configuration.|
-|337638|Consider the Conant Gasket G_{2n}, as in A328080; a(n) = area of largest cell when G_{2n} is drawn on a scale at which the smallest cell has area 1.|
-|337639|Consider the Conant Gasket G_{2n+1}, as in A328078; a(n) = area of largest cell when G_{2n+1} is drawn on a scale at which the cells along the base have width 1/2.|
+|337638|Consider the Conant Gasket G_ 2n , as in A328080; a(n) = area of largest cell when G_ 2n  is drawn on a scale at which the smallest cell has area 1.|
+|337639|Consider the Conant Gasket G_ 2n+1 , as in A328078; a(n) = area of largest cell when G_ 2n+1  is drawn on a scale at which the cells along the base have width 1/2.|
 |337641|One-quarter of the number of regions in the central square of an equal-armed cross with arms of length n (as in A331456).|
-|337650|Volume of the positive Birkhoff polytope BB_{+}(n).|
+|337650|Volume of the positive Birkhoff polytope BB_ + (n).|
 |337651|Volume of the signed Birkhoff polytope BB(n).|
-|337652|Volume of the dual positive Birkhoff polytope C_{+}(n).|
+|337652|Volume of the dual positive Birkhoff polytope C_ + (n).|
 |337653|Volume of the dual signed Birkhoff polytope C(n).|
 |337663|Solution to stepping stone puzzle if we start with n 1's (see Comments).|
 |337671|Subsequence of A337670 in which there are at most five terms in the sum.|
@@ -19980,7 +19980,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |337790|Number of vertices in a Y-shaped polygon with equal arms of length n (see the Comments in A335861 for definition).|
 |337791|6-Wall-Sun-Sun primes: primes p such that p^2 divides F_6(A175185(p)), where F_6(i) is the i-th 6-Fibonacci number.|
 |337792|Number of graceful labelings of the n-sun graph.|
-|337793|Number of graceful labelings of the complete bipartite graph K_{n,n}.|
+|337793|Number of graceful labelings of the complete bipartite graph K_ n,n .|
 |337794|Number of graceful labelings of the n-Moebius ladder graph.|
 |337795|Number of graceful labelings of the n-gear graph.|
 |337796|Number of graceful labelings of the n X n grid graph.|
@@ -19999,7 +19999,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |337911|Decimal expansion of probability that the random harmonic series converges to 0.|
 |337924|Odd numbers, x, such that for all primes (p,q) such that x = p + 2q, x + 2p and x + 2q are composite.|
 |337965|Total number of graceful labelings of cubic graphs with 2n vertices.|
-|337993|Numbers k such that L(k) < sigma(k) + k/Pi^2, where L(k) = floor(H(k) + exp(H(k)) * log(H(k))) and H(k) = Sum_{j=1..k} 1/j.|
+|337993|Numbers k such that L(k) < sigma(k) + k/Pi^2, where L(k) = floor(H(k) + exp(H(k)) * log(H(k))) and H(k) = Sum_ j=1..k  1/j.|
 |338002|The number of regions inside a 4-pointed star formed by the straight line segments mutually connecting all vertices and all points that divide the sides into n equal parts.|
 |338003|The number of vertices in a 4-pointed star formed by the straight line segments mutually connecting all vertices and all points that divide the sides into n equal parts.|
 |338005|Number of graceful labelings of the n-hypercube graph Q_n.|
@@ -20031,9 +20031,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |338354|A (0,1)-matrix in the first quadrant read by downward antidiagonals: an example of a uniformly recurrent 2-D word in which row 0 is non-recurrent.|
 |338368|Triangle of number of 312-avoiding reduced valid hook configurations with n hooks that are on permutations with 2n + k points, for n=1 and 1<=k<=n.|
 |338371|Integers for which there exists a self-repetition that is a term of A338166.|
-|338374|Primes p such that, starting with p, there are 10 consecutive primes which are congruent mod 11 to {1,2,3,4,5,6,7,8,9,10} respectively.|
+|338374|Primes p such that, starting with p, there are 10 consecutive primes which are congruent mod 11 to  1,2,3,4,5,6,7,8,9,10  respectively.|
 |338381|Smallest number m such that tau(k) * k = m has exactly n solutions when tau(k) is the number of divisors of k.|
-|338394|Primes p such that 8 consecutive primes starting with p are congruent mod 13 to {1,2,3,4,5,6,7,8} respectively|
+|338394|Primes p such that 8 consecutive primes starting with p are congruent mod 13 to  1,2,3,4,5,6,7,8  respectively|
 |338403|Regular triangle read by rows: T(n,k) is the number of (n,k)-Duck words, for n>=1 and 0<=k<=n-1.|
 |338405|a(n) is the smallest number with exactly n divisors d such that sigma(d)/d is an integer.|
 |338412|Numbers k such that k * 20^k + 1 is prime.|
@@ -20052,8 +20052,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |338535|a(n) is the smallest number k for which the width n at the diagonal equals the maximum width of the symmetric representation of sigma(k).|
 |338536|a(n) is the smallest number k for which the width n at the diagonal is one smaller than the maximum width of the symmetric representation of sigma(k).|
 |338538|a(n) is the smallest number k for which the width n at the diagonal is two smaller than the maximum width of the symmetric representation of sigma(k), the sum of divisors of k.|
-|338543|Numbers k such that 1 + Product_{i<k} prime(i) is divisible by prime(k).|
-|338564|Number of cyclic arrangements of {1..n} such that any three neighbors satisfy the triangle inequality.|
+|338543|Numbers k such that 1 + Product_ i<k  prime(i) is divisible by prime(k).|
+|338564|Number of cyclic arrangements of  1..n  such that any three neighbors satisfy the triangle inequality.|
 |338566|Primes p such that (p*q) mod r is prime, where q and r are the next primes after p.|
 |338567|Primes p such that (q*r) mod p is prime, where q and r are the next primes after p.|
 |338577|Primes p such that A013632(p)*A105161(p) > p|
@@ -20076,7 +20076,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |338708|Number of 4-linear trees on n nodes.|
 |338724|Number of matchings avoiding a certain pattern (see Cervetti-Ferrari, Cor. 3.1(i)).|
 |338725|Number of matchings avoiding a certain pattern (see Cervetti-Ferrari, Cor. 3.1(ii)).|
-|338728|a(n) = number of binary increasing trees with labels from {1,2,...n} which are beth-avoiding.|
+|338728|a(n) = number of binary increasing trees with labels from  1,2,...n  which are beth-avoiding.|
 |338729|a(n) = number of permutations avoiding the simsum pattern 213 and the classical pattern 321.|
 |338738|Number of permutations p of [n] such that |p(i) - p(i-1)| <= |p(i+1) - p(i)|.|
 |338740|Number of hairpin compositions of n.|
@@ -20090,24 +20090,24 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |338800|Smallest number that is the sum of two distinct n-th powers of primes in two different ways.|
 |338806|Number of polyhedra formed when an n-antiprism, formed from two n-sided regular polygons joined by 2n adjacent alternating triangles, is internally cut by all the planes defined by any three of its vertices.|
 |338809|Number of polyhedra formed when an n-bipyramid, formed from two n-gonal pyraminds joined at the base, is internally cut by all the planes defined by any three of its vertices.|
-|338816|a(0) = 1; for n > 0, a(n) = Sum_{k=0..n-1} prime(a(k)) * prime(a(n-k-1)).|
+|338816|a(0) = 1; for n > 0, a(n) = Sum_ k=0..n-1  prime(a(k)) * prime(a(n-k-1)).|
 |338818|Primes p such that the sum of squares of primes < p is divisible by p.|
 |338825|Irregular table read by rows: The number of k-faced polyhedra, where k >= 4, created when an n-bipyramid, formed from two n-gonal pyraminds joined at the base, is internally cut by all the planes defined by any three of its vertices.|
 |338861|a(n) is the largest area of a rectangle which can be dissected into n squares with integer sides s_i, i = 1 .. n, and gcd(s_1,...,s_n) = 1.|
 |338866|Number of twins of prime quadruples < 10^n.|
 |338867|Related to the number of Hopf subalgebras of heap-preordered forests of vertex degree n.|
 |338868|Number of triples of prime quadruples < 10^n.|
-|338891|a(n) is the least number k such that the average number of odd divisors of {1..k} is >= n.|
+|338891|a(n) is the least number k such that the average number of odd divisors of  1..k  is >= n.|
 |338915|Number of integer partitions of n that have an even number of parts and cannot be partitioned into distinct pairs of not necessarily distinct parts.|
 |338916|Number of integer partitions of n that can be partitioned into distinct pairs of (possibly equal) parts.|
 |338917|a(n) = sum_of_digits(a(n-1)^a(n-2)) where a(1)=1 and a(2)=2.|
 |338931|Least b such that b^(2^n) + 1 is an odd Pierpont prime (A005109).|
-|338943|a(n) is the least number k such that the average number of distinct prime divisors of {1..k} is >= n.|
+|338943|a(n) is the least number k such that the average number of distinct prime divisors of  1..k  is >= n.|
 |338961|Number of (undirected) paths in C_5 X P_n.|
 |338963|Number of (undirected) paths in C_n X P_n.|
 |338998|Composite numbers k such that phi(k) divides p*(k - 1) for some prime factor p of k - 1.|
 |339008|Least k such that p = k^2 + 1 and q = (k+2n)^2 + 1 are two consecutive prime numbers of the same form with q - p square.|
-|339009|Numbers k such that the average number of odd divisors of {1..k} is an integer.|
+|339009|Numbers k such that the average number of odd divisors of  1..k  is an integer.|
 |339068|Number of unlabeled series-reduced 2-connected graphs with n edges.|
 |339078|a(n) is the least number which is coprime to its digital sum (A339076) with a gap n to the next term of A339076, or 0 if such a number does not exist.|
 |339079|a(n) is the least number which is coprime to its binary weight (A094387) with a gap n to the next term of A094387, or 0 if such a number does not exist.|
@@ -20132,9 +20132,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |339429|Locations of primes in the Fourier expansion of the j-function: numbers k such that A000521(k) is prime.|
 |339449|Numbers k such that there are equal numbers of 0's and 2's and equal numbers of 1's and 3's among the first k digits of the quaternary representation of Pi.|
 |339450|Numbers k such that there are equal numbers of 0's and 1's and equal numbers of 2's and 3's among the first k digits of the quaternary representation of Pi.|
-|339453|Number of subsets of {1..n} whose harmonic mean is an integer.|
+|339453|Number of subsets of  1..n  whose harmonic mean is an integer.|
 |339469|a(n) is the smallest k such that k = x_11 * x_12 * x_13 = x_21 * x_22 * x_23 = ... = x_n1 *x_n2 * x_n3 and x_11 + x_12 + x_13 = x_21 + x_22 + x_23 = ... = x_n1 + x_n2 + x_n3; x_ij >= 2.|
-|339490|Number of longest simple paths in the divisor graph of {1,...,n}.|
+|339490|Number of longest simple paths in the divisor graph of  1,...,n .|
 |339502|Number of non-isomorphic connected cubic cyclic Haar graphs on 2n vertices.|
 |339505|Number of non-isomorphic connected cubic cyclic Haar graphs of girth 6 on 2n vertices.|
 |339537|Numbers b > 1 such that the smallest eight primes, i.e., 2, 3, 5, 7, 11, 13, 17 and 19 are base-b Wieferich primes.|
@@ -20149,18 +20149,18 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |339566|Primes p such that A007088(p) == 1 (mod p).|
 |339580|Indices of records in A339579.|
 |339581|Indices of records in A063377.|
-|339585|Number of trees with n nodes and Z-domination number gamma_{Zg} = gamma_g.|
-|339586|Number of trees with n nodes and Z-domination number gamma_{Zg} = gamma_{tg}.|
-|339587|Number of trees with n nodes and Z-domination number gamma_{Zg} = gamma.|
-|339588|Number of trees with n nodes and Z-domination number gamma_{Zg} > gamma_{t}.|
-|339589|Number of trees with n nodes and Z-domination number gamma_{Zg} < gamma_{t}.|
+|339585|Number of trees with n nodes and Z-domination number gamma_ Zg  = gamma_g.|
+|339586|Number of trees with n nodes and Z-domination number gamma_ Zg  = gamma_ tg .|
+|339587|Number of trees with n nodes and Z-domination number gamma_ Zg  = gamma.|
+|339588|Number of trees with n nodes and Z-domination number gamma_ Zg  > gamma_ t .|
+|339589|Number of trees with n nodes and Z-domination number gamma_ Zg  < gamma_ t .|
 |339591|Number of independent sets in Pascal graph on n nodes.|
 |339592|Number of independent sets in Motzkin graph on n nodes.|
 |339593|Number of independent sets in Catalan graph on n nodes.|
 |339594|Two-dimensional Kempner (or Kempner-Smarandache) numbers.|
 |339595|Three-dimensional Kempner (or Kempner-Smarandache) numbers.|
 |339596|Four-dimensional Kempner (or Kempner-Smarandache) numbers.|
-|339598|Numbers k such that k | Sum_{i=1..k} A000045(i) and k+1 | Sum_{i=1..k+1} A000045(i).|
+|339598|Numbers k such that k | Sum_ i=1..k  A000045(i) and k+1 | Sum_ i=1..k+1  A000045(i).|
 |339599|Quadratically perfect numbers: numbers k such that (sigma(k) - 2k)^2 = sigma(k).|
 |339614|Inputs n that yield a record-breaking value of A008908(n)/(log_2(n)+1) for the Collatz conjecture.|
 |339626|a(n) = A322437(A002110(n)).|
@@ -20176,7 +20176,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |339683|Larger of amicable pair a < b such that the ratio of their number of divisors d(b)/d(a) sets a new record.|
 |339699|Numbers m such that 3^m-1 and 3^m+1 have the same number k of prime factors counted with multiplicity.|
 |339709|a(n) is the least even number that has exactly n decompositions as the sum of an odd prime and a semiprime, or 0 if there is no such number.|
-|339732|Let G be the undirected graph with nodes {g_k, k > 0} such that for any k > 0, g_k is connected to g_{k+1} and g_{A064413(k)} is connected to g_{A064413(k+1)}; a(n) is the number of nodes at distance n from g_1.|
+|339732|Let G be the undirected graph with nodes  g_k, k > 0  such that for any k > 0, g_k is connected to g_ k+1  and g_ A064413(k)  is connected to g_ A064413(k+1) ; a(n) is the number of nodes at distance n from g_1.|
 |339739|a(n) gives the number of squares in the n-th iteration of the Harter-Heighway dragon.|
 |339757|a(n) is the number of Zuckerman numbers k for which k/A007954(k) = n, where A007954(k) is the product of the decimal digits of k.|
 |339769|Number of unique heights that are achieved by only one starting number in the Collatz (or '3x+1') problem when starting from numbers in the range [2^n, 2^(n+1)).|
@@ -20221,7 +20221,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |340431|Primes p such that, with q the next prime after p, q > p+2 and q^p == q (mod p+q) and p^q == p (mod p+q).|
 |340457|Squares in A067459.|
 |340483|a(n) is the smallest product of n (not necessarily distinct) odd primes m = p_1*p_2*...*p_n such that (d+m/d)/2 is a prime for all d dividing m.|
-|340485|Decimal expansion of Sum_{k>=2} log(k)/(k^2-1)^2.|
+|340485|Decimal expansion of Sum_ k>=2  log(k)/(k^2-1)^2.|
 |340486|Number of unlabeled graphs on n vertices whose independence number is equal to clique number.|
 |340495|Records in first differences of A340494.|
 |340498|Where 2^n appears in A340488 for the first time.|
@@ -20239,7 +20239,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |340546|Number of main classes of one-plane symmetric diagonal Latin squares of order 2n.|
 |340550|Number of main classes of doubly symmetric diagonal Latin squares of order n.|
 |340558|a(n) is the smallest prime that can be the apex of a triangle with n rows, all entries being distinct primes, and all row sums equal.|
-|340565|Decimal expansion of the Product_{lesser twin primes p == 5 (mod 6)} 1/(1 - 1/p^2).|
+|340565|Decimal expansion of the Product_ lesser twin primes p == 5 (mod 6)  1/(1 - 1/p^2).|
 |340600|Number of non-isomorphic balanced multiset partitions of weight n.|
 |340630|Fill an n X n square with nonnegative integers so that all n^2 von Neumann neighborhoods have distinct sums; a(n) is smallest possible sum of the entries.|
 |340635|Number of one-sided deltoidal hexecontahedron polykites with n faces.|
@@ -20288,33 +20288,33 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |341304|Fourier coefficients of a modular form studied by Koike.|
 |341372|Regular triangle read by rows, T(n, k) is the number of cycles of length 2*k-1 of the permutation gamma on Dn, the set of Dyck words of length n, for n>=2 and 1<=k<=n-1.|
 |341430|Leaders in the race of digits of Catalan's constant.|
-|341436|Numbers k such that k divides Sum_{j=1..k} j^(k+1-j).|
-|341437|Numbers k such that k divides Sum_{j=0..k} j^(k-j).|
+|341436|Numbers k such that k divides Sum_ j=1..k  j^(k+1-j).|
+|341437|Numbers k such that k divides Sum_ j=0..k  j^(k-j).|
 |341471|Number of antisymmetric, antitransitive relations on n labeled nodes.|
 |341473|The number of antitransitive relations on n labeled nodes.|
 |341536|Number of distinct resistances that can be produced using at most n unit resistors in series, parallel, bridge or fork configurations.|
 |341547|Number of rings with additive group (Z/nZ)^2.|
 |341548|Number of commutative rings with additive group (Z/nZ)^2.|
-|341554|Fourier coefficients of the modular form sqrt( 1-108/t_{3A} ) * F_{3A}^10.|
-|341555|Fourier coefficients of the modular form (1/t_{3A}) * sqrt( 1-108/t_{3A} ) * F_{3A}^10.|
-|341556|Fourier coefficients of the modular form F_{3A}^12.|
-|341557|Fourier coefficients of the modular form (1/t_{3A}) * F_{3A}^12.|
-|341558|Fourier coefficients of the modular form (1/t_{3A}^2) * F_{3A}^12.|
-|341559|Fourier coefficients of the modular form sqrt( 1-108/t_{3A} ) * F_{3A}^14.|
-|341560|Fourier coefficients of the modular form (1/t_{3A}) * sqrt( 1-108/t_{3A} ) * F_{3A}^14.|
-|341561|Fourier coefficients of the modular form (1/t_{3A}) * F_{3A}^16.|
-|341562|Fourier coefficients of the modular form (1/t_{3A}) * sqrt( 1-108/t_{3A} ) * F_{3A}^18.|
-|341563|Fourier coefficients of the modular form (1/t_{6a}) * sqrt( 1-12*sqrt(-3)/t_{6a} ) * F_{6a}^6.|
-|341564|Fourier coefficients of the modular form (1-6*sqrt(-3)/t_{6a}) * (1/t_{6a}) * (1-12*sqrt(-3)/t_{6a})^(1/3) * F_{6a}^8.|
-|341565|Fourier coefficients of the modular form (1/t_{6a}) * (1-12*sqrt(-3)/t_{6a})^(7/6) * F_{6a}^10.|
-|341566|Fourier coefficients of the modular form (1/t_{6a}^3) * (1-12*sqrt(-3)/t_{6a})^(1/6) * F_{6a}^10.|
-|341567|Fourier coefficients of the modular form (1/t_{6a}) * (1-6*sqrt(-3)/t_{6a}) * (1-12*sqrt(-3)/t_{6a}) * F_{6a}^12.|
-|341568|Fourier coefficients of the modular form (1/t_{6a}^3) * (1-6*sqrt(-3)/t_{6a}) * F_{6a}^12.|
-|341569|Fourier coefficients of the modular form (1/t_{6a}) * (1-12*sqrt(-3)/t_{6a})^(11/6) * F_{6a}^14.|
-|341571|Fourier coefficients of the modular form (1/t_{6a}) * (1-6*sqrt(-3)/t_{6a}) * (1-12*sqrt(-3)/t_{6a})^(5/3) * F_{6a}^16.|
-|341572|Fourier coefficients of the modular form (1/t_{6a}^3) * (1-6*sqrt(-3)/t_{6a}) * (1-12*sqrt(-3)/t_{6a})^(2/3) * F_{6a}^16.|
-|341573|Fourier coefficients of the modular form (1/t_{6a}^3) * (1-12*sqrt(-3)/t_{6a})^(3/2) * F_{6a}^18.|
-|341574|Fourier coefficients of the modular form (1/t_{6a}^2) * (1-6*sqrt(-3)/t_{6a}) * (1-12*sqrt(-3)/t_{6a})^(4/3) * F_{6a}^20.|
+|341554|Fourier coefficients of the modular form sqrt( 1-108/t_ 3A  ) * F_ 3A ^10.|
+|341555|Fourier coefficients of the modular form (1/t_ 3A ) * sqrt( 1-108/t_ 3A  ) * F_ 3A ^10.|
+|341556|Fourier coefficients of the modular form F_ 3A ^12.|
+|341557|Fourier coefficients of the modular form (1/t_ 3A ) * F_ 3A ^12.|
+|341558|Fourier coefficients of the modular form (1/t_ 3A ^2) * F_ 3A ^12.|
+|341559|Fourier coefficients of the modular form sqrt( 1-108/t_ 3A  ) * F_ 3A ^14.|
+|341560|Fourier coefficients of the modular form (1/t_ 3A ) * sqrt( 1-108/t_ 3A  ) * F_ 3A ^14.|
+|341561|Fourier coefficients of the modular form (1/t_ 3A ) * F_ 3A ^16.|
+|341562|Fourier coefficients of the modular form (1/t_ 3A ) * sqrt( 1-108/t_ 3A  ) * F_ 3A ^18.|
+|341563|Fourier coefficients of the modular form (1/t_ 6a ) * sqrt( 1-12*sqrt(-3)/t_ 6a  ) * F_ 6a ^6.|
+|341564|Fourier coefficients of the modular form (1-6*sqrt(-3)/t_ 6a ) * (1/t_ 6a ) * (1-12*sqrt(-3)/t_ 6a )^(1/3) * F_ 6a ^8.|
+|341565|Fourier coefficients of the modular form (1/t_ 6a ) * (1-12*sqrt(-3)/t_ 6a )^(7/6) * F_ 6a ^10.|
+|341566|Fourier coefficients of the modular form (1/t_ 6a ^3) * (1-12*sqrt(-3)/t_ 6a )^(1/6) * F_ 6a ^10.|
+|341567|Fourier coefficients of the modular form (1/t_ 6a ) * (1-6*sqrt(-3)/t_ 6a ) * (1-12*sqrt(-3)/t_ 6a ) * F_ 6a ^12.|
+|341568|Fourier coefficients of the modular form (1/t_ 6a ^3) * (1-6*sqrt(-3)/t_ 6a ) * F_ 6a ^12.|
+|341569|Fourier coefficients of the modular form (1/t_ 6a ) * (1-12*sqrt(-3)/t_ 6a )^(11/6) * F_ 6a ^14.|
+|341571|Fourier coefficients of the modular form (1/t_ 6a ) * (1-6*sqrt(-3)/t_ 6a ) * (1-12*sqrt(-3)/t_ 6a )^(5/3) * F_ 6a ^16.|
+|341572|Fourier coefficients of the modular form (1/t_ 6a ^3) * (1-6*sqrt(-3)/t_ 6a ) * (1-12*sqrt(-3)/t_ 6a )^(2/3) * F_ 6a ^16.|
+|341573|Fourier coefficients of the modular form (1/t_ 6a ^3) * (1-12*sqrt(-3)/t_ 6a )^(3/2) * F_ 6a ^18.|
+|341574|Fourier coefficients of the modular form (1/t_ 6a ^2) * (1-6*sqrt(-3)/t_ 6a ) * (1-12*sqrt(-3)/t_ 6a )^(4/3) * F_ 6a ^20.|
 |341584|Size of the largest subset of the numbers [1..n] which does not contain a 3-term arithmetic progression modulo n.|
 |341617|Repair factors for Stirling numbers of the second kind.|
 |341623|Numbers k such that sigma(3*k) = 8*k.|
@@ -20333,7 +20333,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |341733|Row 3 of array in A341731.|
 |341756|Records in A341755 (= length of chain of (k,k+1) sharing a digit with k+(k+1), starting at n).|
 |341757|Indices of records in A341755 (= length of chain of (k,k+1) sharing a digit with k+(k+1), starting at n).|
-|341799|a(n) is the least integer k such that 1/(Sum_{j=0..n} 1/phi(k+j)) is an integer.|
+|341799|a(n) is the least integer k such that 1/(Sum_ j=0..n  1/phi(k+j)) is an integer.|
 |341803|a(n) is the least k such that A076620(k) = n.|
 |341804|Primes p dividing (the product of the primes less than p)-1.|
 |341805|Numbers k such that (product of first k primes)-1 is divisible by the (k+1)-th prime.|
@@ -20428,8 +20428,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |342602|Number of solutions to 1 +-* 2 +-* 3 +-* ... +-* n = 0.|
 |342631|Number of Hamiltonian paths (or Gray codes) on n-cube with the origin as the starting node, up to a permutation of the coordinates.|
 |342646|Maximal number of 4213 patterns in a permutation of 1,2,...,n.|
-|342647|Decimal expansion of Sum_{n>=1} log(cos(1/n)) * log(sin(1/n)).|
-|342714|Decimal expansion of infinite sum of reciprocals of lesser twin primes, Sum_{n>=1} 1/A001359(n).|
+|342647|Decimal expansion of Sum_ n>=1  log(cos(1/n)) * log(sin(1/n)).|
+|342714|Decimal expansion of infinite sum of reciprocals of lesser twin primes, Sum_ n>=1  1/A001359(n).|
 |342759|Fold a square sheet of paper alternately vertically to the left and horizontally downwards; after each fold, draw a line along each inward crease; after n folds, the resulting graph has a(n) regions.|
 |342762|Fold a square sheet of paper alternately vertically to the left and horizontally downwards; after each fold, draw a line along each inward crease; after n folds, the resulting graph has a(n) connected components.|
 |342764|Fold a square sheet of paper alternately vertically to the left and horizontally downwards; after each fold, draw a line along each inward crease; after n folds, the largest region in the resulting graph occupies a(n)/2^n of the whole sheet.|
@@ -20464,13 +20464,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |342922|Numbers k such that A342925(k) = k + 2*A003415(k).|
 |342923|Numbers k such that A342925(k) = k + 3*A003415(k).|
 |342924|Composite numbers k such that A003415(sigma(k)) = k + p*A003415(k), for some prime p, where A003415 is the arithmetic derivative, and sigma is the sum of divisors of n.|
-|342953|a(n) is the least prime that starts a string of exactly n primes p_1, p_2, ... p_n where p_{i+1} = A258881(p_i), but A258881(p_n) is not prime.|
+|342953|a(n) is the least prime that starts a string of exactly n primes p_1, p_2, ... p_n where p_ i+1  = A258881(p_i), but A258881(p_n) is not prime.|
 |342957|a(n) is the least k such that A342956(k) = n.|
-|342958|a(n) is the least prime that starts a string of exactly n primes p_1, p_2, ... p_n where p_{i+1} = p_i-A003132(p_i), but p_n-A003132(p_n) is not prime.|
-|342962|a(n) is the least prime that starts a string of exactly n distinct primes p_1, p_2, ..., p_n where p_{i+1} = p_i+A085563(p_i), but p_n+A085563(p_n) is either not prime or equal to p_n.|
+|342958|a(n) is the least prime that starts a string of exactly n primes p_1, p_2, ... p_n where p_ i+1  = p_i-A003132(p_i), but p_n-A003132(p_n) is not prime.|
+|342962|a(n) is the least prime that starts a string of exactly n distinct primes p_1, p_2, ..., p_n where p_ i+1  = p_i+A085563(p_i), but p_n+A085563(p_n) is either not prime or equal to p_n.|
 |342963|a(n) is the number of sticky polyhexes of with 2*n cells.|
-|342965|Number of permutations tau of {1,...,n} with tau(n) = n such that tau(1)^tau(2) + ... + tau(n-1)^tau(n) + tau(n)^tau(1) is a square.|
-|342966|Number of permutations tau of {1,...,n} with tau(n) = n such that p = tau(1)^(tau(2)-1) + ... + tau(n-1)^(tau(n)-1) + tau(n)^(tau(1)-1), and p - 2 and p + 6 are all prime.|
+|342965|Number of permutations tau of  1,...,n  with tau(n) = n such that tau(1)^tau(2) + ... + tau(n-1)^tau(n) + tau(n)^tau(1) is a square.|
+|342966|Number of permutations tau of  1,...,n  with tau(n) = n such that p = tau(1)^(tau(2)-1) + ... + tau(n-1)^(tau(n)-1) + tau(n)^(tau(1)-1), and p - 2 and p + 6 are all prime.|
 |342968|Irregular triangle read by rows: T(n,k) is the number of n+2-sided polygons with the property that one makes k turns on itself while following its edges.|
 |342971|Non-1-tough simplicial polyhedra with n nodes.|
 |342990|Number of horizontally or vertically semicyclic diagonal Latin squares of order 2n+1.|
@@ -20501,20 +20501,20 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |343214|Number of compositions (ordered partitions) of 1/n into n reciprocals of positive integers.|
 |343243|Sociable totient numbers of order 3: numbers k such that s(s(s(k))) = k, but s(k) != k, where s(k) = A092693(k) is the sum of iterated phi function.|
 |343244|Position of the first occurrence of an element in the continued fraction of zeta(n) which is larger than the second element.|
-|343262|a(n) is the number of edges of a regular polygon P with the property that packing n nonoverlapping equal circles inside P, arranged in a configuration with dihedral symmetry D_{2m} with m >= 3, maximizes the packing density.|
-|343264|Cardinalities of the sets of fusible numbers obtained at the consecutive steps of their construction as follows. We set S(0) = {0}. S(n+1) is obtained by adding to S(n) the sums (x+y+1)/2 for all x,y from S(n) with the property |x-y| < 1. Then, a(n) is the number of elements in S(n).|
+|343262|a(n) is the number of edges of a regular polygon P with the property that packing n nonoverlapping equal circles inside P, arranged in a configuration with dihedral symmetry D_ 2m  with m >= 3, maximizes the packing density.|
+|343264|Cardinalities of the sets of fusible numbers obtained at the consecutive steps of their construction as follows. We set S(0) =  0 . S(n+1) is obtained by adding to S(n) the sums (x+y+1)/2 for all x,y from S(n) with the property |x-y| < 1. Then, a(n) is the number of elements in S(n).|
 |343290|Irregular triangle read by rows: For n >= 1, 0 <= k <= floor(n/2), T(n,k) is the minimal discriminant (in absolute value) of the number fields with signature r_1 = n - 2*k, r_2 = k.|
 |343293|a(n+1) is the smallest preimage k such that A008477(k) = a(n) with a(1) = 36.|
 |343294|a(n+1) is the smallest preimage k such that A008477(k) = a(n) with a(1) = 100.|
 |343298|a(n) is the smallest m such that the only non-basic multiset of positive integers of cardinality m where the sum equals the product has n nonunit elements, or zero if no such m exists.|
 |343358|Number of connected graphs with n vertices which are realizable (in the sense of realizability of Gauss diagrams).|
-|343375|a(n) is the least k such that Sum_{i=1..k} (i/prime(i))^n > 1.|
+|343375|a(n) is the least k such that Sum_ i=1..k  (i/prime(i))^n > 1.|
 |343398|Number of generalized polyforms on the trihexagonal tiling with n cells.|
 |343406|Number of generalized polyforms on the truncated hexagonal tiling with n cells.|
 |343417|a(n) is the number of free polyominoes with k cells and n-k distinguished vertices.|
-|343419|Number of distinct sets { p(i) - p(j) : 1 <= i <= j <= n } where p ranges over all permutations of [n].|
-|343435|Maximum value of the number of different internal squarefree extensions for words of length n in the set of all finite squarefree words over the alphabet A3 = {1,2,3}.|
-|343436|Maximum value of the number of different squarefree extensions for words of length n in the set of all finite squarefree words over the alphabet A3 = {1,2,3}.|
+|343419|Number of distinct sets   p(i) - p(j) : 1 <= i <= j <= n   where p ranges over all permutations of [n].|
+|343435|Maximum value of the number of different internal squarefree extensions for words of length n in the set of all finite squarefree words over the alphabet A3 =  1,2,3 .|
+|343436|Maximum value of the number of different squarefree extensions for words of length n in the set of all finite squarefree words over the alphabet A3 =  1,2,3 .|
 |343437|Values of A343435 for nonchalant words (see link for definition).|
 |343463|The number of connected graphs on n nodes that can be induced subgraphs of a Hamming graph.|
 |343464|The number of n-vertex graphs that are minimally non-Hamming-embeddable.|
@@ -20525,7 +20525,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |343496|First point of the straight lines in A340649.|
 |343506|Numbers k such that the largest digit in the factorial base expansion of 1/k is 1.|
 |343507|a(n) is the smallest nonnegative integer k such that (2*k)! / (k+n)!^2 is an integer.|
-|343522|Lexicographically least strictly increasing sequence such that, for any n > 0, Sum_{k = 1..n} 1/a(k) can be computed without carries in factorial base.|
+|343522|Lexicographically least strictly increasing sequence such that, for any n > 0, Sum_ k = 1..n  1/a(k) can be computed without carries in factorial base.|
 |343566|Numbers k such that A343564(k) is divisible by 2*k.|
 |343592|Number of symmetry types of digraphs with n nodes.|
 |343596|Number of finite Krasner hyperfields with n elements up to isomorphism.|
@@ -20558,8 +20558,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |343905|Number of ways of placing n nonattacking range-3 leprechauns on an n X n board.|
 |343907|a(n) is the least s > 1 for which it is possible to place s nonattacking range-n leprechauns on an s X s board.|
 |343909|Number of generalized polyforms on the tetrahedral-octahedral honeycomb with n cells.|
-|343930|Numbers k such that Sum_{j=1..k} (-j)^j == 1 (mod k).|
-|343931|Numbers k such that Sum_{j=1..k} (-j)^j == 0 (mod k).|
+|343930|Numbers k such that Sum_ j=1..k  (-j)^j == 1 (mod k).|
+|343931|Numbers k such that Sum_ j=1..k  (-j)^j == 0 (mod k).|
 |343962|Number of self-avoiding walks that escape an n X n square lattice starting at a given corner.|
 |343973|Primes p such that both p-1 and p+1 are in A093641.|
 |343980|Decimal expansion of the expected length of the first cycle in an evolving graph with n vertices rescaled by n^(-1/6).|
@@ -20579,8 +20579,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |344070|Number of n-step self-avoiding cycles on the hypertriangular lattice.|
 |344071|Number of 2n-step self-avoiding cycles on the Laves graph.|
 |344105|a(n) is the number of distinct numbers of transversals of order n diagonal Latin squares.|
-|344124|Decimal expansion of Sum_{i > 0} 1/A001481(i)^3.|
-|344125|Decimal expansion of Sum_{i > 0} 1/A001481(i)^4.|
+|344124|Decimal expansion of Sum_ i > 0  1/A001481(i)^3.|
+|344125|Decimal expansion of Sum_ i > 0  1/A001481(i)^4.|
 |344170|Numbers k such that 3^(2*k+1) - 3^k - 1 is prime.|
 |344177|Numbers m > 3 such that x^m + x^3 + 1 is irreducible over GF(2) while x^m + x^3 + x^2 + x + 1 = x^m + (x + 1)^3 is not.|
 |344196|Numbers that are the sum of six fifth powers in ten or more ways.|
@@ -20593,9 +20593,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |344213|Number of generalized polyforms on the truncated trihexagonal tiling with n cells.|
 |344227|Sprague-Grundy value for the Node-Kayles game played on the n-queens graph.|
 |344263|Numbers m such that 3^(2m+1) - 3^m + 1 is prime.|
-|344272|a(n) is the least k such that the average number of nonunitary divisors of {1..k} is >= n.|
-|344273|a(n) is the least k such that the average number of bi-unitary divisors of {1..k} is >= n.|
-|344274|a(n) is the least k such that the average number of infinitary divisors of {1..k} is >= n.|
+|344272|a(n) is the least k such that the average number of nonunitary divisors of  1..k  is >= n.|
+|344273|a(n) is the least k such that the average number of bi-unitary divisors of  1..k  is >= n.|
+|344274|a(n) is the least k such that the average number of infinitary divisors of  1..k  is >= n.|
 |344280|Numbers that are both 10-gonal numbers (A001107) and 10-gonal pyramidal numbers (A007585).|
 |344284|Primes that are the largest member of a Wieferich 5-tuple.|
 |344285|Primes that are the largest member of a Wieferich 6-tuple.|
@@ -20632,14 +20632,14 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |344710|a(n)/2 is the smallest possible area of a non-obtuse triangle with coordinates in Z^2 and no side shorter than sqrt(n).|
 |344719|Minimum number of cells in an n X n grid that need to be painted so that each unpainted cell is orthogonally adjacent to exactly two painted cells.|
 |344731|Numbers k such that k divides A306069(k).|
-|344732|Numbers k such that k divides Sum_{j=1..k} A048105(j).|
+|344732|Numbers k such that k divides Sum_ j=1..k  A048105(j).|
 |344733|Numbers k such that k divides A327573(k).|
 |344736|a(n) is the least p such that p + 5*k*(k+1) is prime for 0 <= k <= n-1 but not for k=n.|
 |344740|Number of integer partitions of n with a permutation that has no consecutive monotone triple, i.e., no triple (..., x, y, z, ...) such that either x <= y <= z or x >= y >= z.|
 |344776|a(n) is the least prime p such that there are exactly n pairs of primes (q,r) with p > q > r such that q | r + p and r | q + p.|
 |344779|Number of distinct length-n necklaces on a size-2 alphabet.|
 |344781|Numbers k such that A070313(k) = 2^k - (2*k+1) is a prime number.|
-|344783|Numbers k such that 1 + Sum_{i=1..k} floor(k/i)*(2^i) is a prime number.|
+|344783|Numbers k such that 1 + Sum_ i=1..k  floor(k/i)*(2^i) is a prime number.|
 |344784|Decimal expansion of the sum of the reciprocals of the prime factors of Fermat numbers (A023394).|
 |344785|Decimal expansion of the sum of the reciprocals of the elite primes (A102742).|
 |344828|a(n) is the smallest b > 1 such that prime(n), prime(n+1), prime(n+2) and prime(n+3) are all base-b Wieferich primes.|
@@ -20686,16 +20686,16 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |345338|Integers whose Reverse And Add trajectory reaches its first prime after a record number of iterations (at least one iteration must be performed).|
 |345370|a(n) is the number of distinct numbers of diagonal transversals that a diagonal Latin square of order n can have.|
 |345383|a(n) is the code of the optimum strategy to win the game Super Six for two players if there are n sticks left in the game.|
-|345396|a(n) is the least prime p such that {p, p^2, ..., p^n} are all digitally balanced numbers in base 2 (A031443).|
-|345397|a(n) is the least number k such that {k, k^2, ..., k^n} are all digitally balanced numbers in base 2 (A031443), or 0 if no such k exists.|
+|345396|a(n) is the least prime p such that  p, p^2, ..., p^n  are all digitally balanced numbers in base 2 (A031443).|
+|345397|a(n) is the least number k such that  k, k^2, ..., k^n  are all digitally balanced numbers in base 2 (A031443), or 0 if no such k exists.|
 |345402|Numbers k such that (42^k-1)/41 is prime.|
 |345404|a(n) is the smallest positive integer k such that |tan(k) - round(tan(k))| is smaller than 10^(-n), but greater than 10^(-n-1).|
 |345406|Integers k such that k = d1^(c) + d2^(c) + ... + dc^(c), where d^(c) denotes the rising factorial of d, c is the length of k and di is the i-th digit of k in base 10.|
 |345407|a(n) is the first semiprime that starts a sequence of n distinct semiprimes under the map A001414.|
-|345438|Number of primes in the ring R = {x+y*sqrt(-2): x, y rational integers} with norm x^2+2*y^2 equal to A341784(n).|
+|345438|Number of primes in the ring R =  x+y*sqrt(-2): x, y rational integers  with norm x^2+2*y^2 equal to A341784(n).|
 |345441|Numerators of irregular triangle of fractions arising from a problem of projecting into Hilbert space.|
 |345442|Denominators of irregular triangle of fractions arising from a problem of projecting into Hilbert space.|
-|345443|a(n) = smallest m such that for every red-blue edge-coloring of the graph K_{m,m} there exists either a red 4-cycle or a blue K_{1,n}.|
+|345443|a(n) = smallest m such that for every red-blue edge-coloring of the graph K_ m,m  there exists either a red 4-cycle or a blue K_ 1,n .|
 |345459|Number of polygons formed when connecting all 4n points on the perimeter of an n X n square by infinite lines.|
 |345460|Odd numbers k with (k-1)/2 not prime such that p-1 | k-1 or k-1 | p-1 for every prime p | 2^(k-1)-1.|
 |345464|Second column of A345461 - Number of distinct permutations after one step of the "optimist" sorting algorithm.|
@@ -20723,7 +20723,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |345899|Exponents d of powers of 2, q, such that each of q-1 and q+1 are either a power of prime or a semiprime.|
 |345900|Integers e such that each of q-1, q + sqrt(2*q) + 1 and q - sqrt(2*q) + 1 are either a power of prime or a semiprime, where q =  2^(2*e+1).|
 |345908|Traces of the matrices (A345197) counting integer compositions by length and alternating sum.|
-|345928|Decimal expansion of Integral_{x>=0} (zeta(x)-1) dx (negated).|
+|345928|Decimal expansion of Integral_ x>=0  (zeta(x)-1) dx (negated).|
 |345976|a(n) is the least sum of n consecutive primes that has exactly n distinct prime divisors.|
 |345977|a(n) is the first term in the n-term sum corresponding to A345976(n).|
 |345979|a(n) = integral spum of an n-cycle.|
@@ -20736,7 +20736,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |346069|Place the numbers 1 to n on a square grid and multiply both numbers in all created orthogonally adjacent pairs; a(n) gives the maximum possible value of the sum of all pair products.|
 |346071|a(n) is the smallest number m such that m^3 = x^3 + y^3 + z^3, x > y > z > 0, has at least n different solutions.|
 |346112|Size of the smallest regular polygon chain for a regular polygon with n sides.|
-|346115|Least number k such that k^2 can be expressed in exactly n ways as x^2 + y^4 with {x, y} >= 1.|
+|346115|Least number k such that k^2 can be expressed in exactly n ways as x^2 + y^4 with  x, y  >= 1.|
 |346123|Numbers m such that no self-avoiding walk of length m + 1 on the honeycomb net fits into the smallest circle that can enclose a walk of length m.|
 |346124|Numbers m such that no self-avoiding walk of length m + 1 on the square lattice fits into the smallest circle that can enclose a walk of length m.|
 |346125|Numbers m such that no self-avoiding walk that can make turns from the set +-Pi/5, +-3*Pi/5, of length m + 1 fits into the smallest circle that can enclose a walk of length m.|
@@ -20748,7 +20748,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |346131|Numbers m such that no self-avoiding walk that can make turns from the set +-Pi/11, +-3*Pi/11, +-5*Pi/11, +-7*Pi/11, +-9*Pi/11, of length m + 1 fits into the smallest circle that can enclose a walk of length m.|
 |346132|Numbers m such that no self-avoiding walk that can make turns from the set 0, +-Pi/6, +-2*Pi/6, +-3*Pi/6, +-4*Pi/6, +-5*Pi/6, of length m + 1 fits into the smallest circle that can enclose a walk of length m.|
 |346136|a(n) is the number of iterations that n requires to reach 1 under the map n -> A346063(n).|
-|346140|Numbers m such that there exist positive integers i <= m and j >= m such that m = Sum_{k=i..j} A001065(k), where A001065(k) = sum of the proper divisors of k, and i and j do not both equal m.|
+|346140|Numbers m such that there exist positive integers i <= m and j >= m such that m = Sum_ k=i..j  A001065(k), where A001065(k) = sum of the proper divisors of k, and i and j do not both equal m.|
 |346142|a(n) is the number of linear orthogonal cellular automata pairs with maximal period 2^2n-1.|
 |346143|Number of maximal irredundant sets in the n-triangular grid graph.|
 |346144|Number of maximal irredundant sets in the n-Bruhat graph.|
@@ -20768,13 +20768,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |346293|Maximum possible order of the automorphism group of a compact Riemann surface of genus n.|
 |346311|Maximum number of edges a single edge crosses in a drawing of the complete graph K_n where every vertex lies on the outer face.|
 |346382|Smallest k such that sum of first k primes has exactly n distinct prime divisors.|
-|346387|Number of permutations f of {1,...,prime(n)-1} with f(prime(n)-1) = prime(n)-1 and f(prime(n)-2) = prime(n)-2 such that 1/(f(1)*f(2)) + 1/(f(2)*f(3)) + ... + 1/(f(prime(n)-2)*f(prime(n)-1)) + 1/(f(prime(n)-1)*f(1)) == 0 (mod prime(n)^2).|
-|346391|Number of permutations f of {1,...,n} with f(n) = n and f(n-1) > f(1) such that f(1)*f(2) + ... + f(n-1)*f(n) + f(n)*f(1) == 0 (mod n^2).|
+|346387|Number of permutations f of  1,...,prime(n)-1  with f(prime(n)-1) = prime(n)-1 and f(prime(n)-2) = prime(n)-2 such that 1/(f(1)*f(2)) + 1/(f(2)*f(3)) + ... + 1/(f(prime(n)-2)*f(prime(n)-1)) + 1/(f(prime(n)-1)*f(1)) == 0 (mod prime(n)^2).|
+|346391|Number of permutations f of  1,...,n  with f(n) = n and f(n-1) > f(1) such that f(1)*f(2) + ... + f(n-1)*f(n) + f(n)*f(1) == 0 (mod n^2).|
 |346401|a(n) is the minimum number of pebbles such that any assignment of those pebbles on a complete graph with n vertices is a next-player winning game in the two-player impartial (3, 2) pebbling game.|
 |346413|Number of labeled totally ordered monoids with n elements.|
 |346414|Number of labeled totally ordered commutative semigroups.|
-|346423|Numbers m such that Sum_{k=1..m} omega(k) = sigma(m).|
-|346448|Number of nontrivial disconnected induced K_{1,3}-saturated graphs on n vertices.|
+|346423|Numbers m such that Sum_ k=1..m  omega(k) = sigma(m).|
+|346448|Number of nontrivial disconnected induced K_ 1,3 -saturated graphs on n vertices.|
 |346497|List of powers of 2 written in base 3 which contain no zero digits.|
 |346509|Number of positive integers with n digits that are the product of two integers greater than 1 and ending with 1.|
 |346530|a(n) is the number of faces of the polycube called "tower" described in A221529 where n is the longest side of its base.|
@@ -20791,11 +20791,11 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |346559|Reversible primes with k digits, of the form concat(a,b), such that, with all the possible k-1 concatenation of two numbers a and b, we get k-1 distinct primes (a mod b) and the sum of these k-1 primes is a reversible prime itself.|
 |346569|Carmichael numbers (A002997) k such that A003961(k) is also a Carmichael number.|
 |346574|Numbers k at which phi(tau(k))/tau(phi(k)) reaches a record high.|
-|346575|a(n) is the number of 6-tuples (a_1,a_2,a_3,a_4,a_5,a_6) having all terms in {1,...,n} such that there exists a tetrahedron ABCD with those edge-lengths.|
+|346575|a(n) is the number of 6-tuples (a_1,a_2,a_3,a_4,a_5,a_6) having all terms in  1,...,n  such that there exists a tetrahedron ABCD with those edge-lengths.|
 |346601|Record values in A346599.|
 |346624|Irregular triangle read by rows: T(n,k) is the number of distinct Wilf classes of subsets of exactly k patterns in S_n, for 0 <= k <= n!.|
 |346645|Mersenne prime exponents p which are twin primes, so p-2 and/or p+2 is prime.|
-|346658|Number of permutations of {0, 1, ..., n} that start with 0 and have pairwise distinct differences between adjacent terms.|
+|346658|Number of permutations of  0, 1, ..., n  that start with 0 and have pairwise distinct differences between adjacent terms.|
 |346661|Number of cyclic patterns of length n that avoid the vincular pattern 23-4-1.|
 |346673|Number of symmetry types of undirected graphs with n unlabeled nodes.|
 |346685|a(n) is the smallest positive integer k such that for all x >= k, at least 50% of the integers in the range 1..x contain n in their decimal expansion. In other words, it is the largest integer k such that exactly half of the integers 1..k have n in their decimal expansion.|
@@ -20829,7 +20829,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |347138|Numbers k such that (100^k + 1)/101 is prime.|
 |347139|Continued fraction expansion of the elementary charge in natural units.|
 |347141|a(1) = 11; for n > 1, a(n) is the smallest prime factor of 2^a(n-1) - 1.|
-|347145|Decimal expansion of Sum_{n>=1} 1/(n*H(n)^2) where H(n) is the n-th harmonic number.|
+|347145|Decimal expansion of Sum_ n>=1  1/(n*H(n)^2) where H(n) is the n-th harmonic number.|
 |347167|Numbers k such that phi(binomial(k,2)) is a power of 2.|
 |347169|Numbers k for which sigma(k)/k = 16/7.|
 |347189|Positive integers that can be expressed as the sum of powers of their digits (from right to left) with consecutive natural exponents.|
@@ -20842,14 +20842,14 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |347261|Numbers k for which sigma(k)/k = 32/11.|
 |347273|Number of positive widths in the symmetric representation of sigma(n).|
 |347282|a(n) is the least number of unit resistors in an electrical network with total resistance A007305(n)/A007306(n) such that all currents through the resistors are distinct and > 0.|
-|347310|a(n) = smallest k such that Sum_{i=1..k} log(p_i)/p_i >= n, where p_i is the i-th prime.|
-|347311|a(n) is the smallest prime q such that Sum_{primes p <= q} log(p)/p >= n.|
+|347310|a(n) = smallest k such that Sum_ i=1..k  log(p_i)/p_i >= n, where p_i is the i-th prime.|
+|347311|a(n) is the smallest prime q such that Sum_ primes p <= q  log(p)/p >= n.|
 |347314|Fixed points of A347113.|
 |347320|A344857(2*n).|
 |347321|A146212(2*n).|
 |347322|A344899(2*n).|
 |347332|Unsafe primes (primes in A059456) for which there is exactly one divisor d of p - 1 such that o(d) = L(p), where o(k) is the multiplicative order of k modulo p and L(p) is the least common multiple of o(k)'s among all divisors k of p - 1.|
-|347359|Decimal expansion of Product_{p in A077800} (1 - 1/p).|
+|347359|Decimal expansion of Product_ p in A077800  (1 - 1/p).|
 |347361|Number of widths that are zero in the symmetric representation of sigma(n).|
 |347362|Smallest number which can be decomposed into exactly n sums of three distinct positive cubes, but cannot be decomposed into more than one such sum containing the same cube.|
 |347383|Odd composites k, not powers of primes, such that for all their nontrivial unitary divisors d it holds that A347381(d) > A347381(k).|
@@ -20865,7 +20865,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |347480|Number of total dominating sets in the n-diagonal intersection graph.|
 |347482|Number of total dominating sets in the n-folded cube graph.|
 |347483|Number of total dominating sets in the n-halved cube graph Q_n/2.|
-|347498|Least k such that there exists an n-element subset S of {1,2,...,k} with the property that all products i * j are distinct for i <= j.|
+|347498|Least k such that there exists an n-element subset S of  1,2,...,k  with the property that all products i * j are distinct for i <= j.|
 |347500|Number of dominating sets in the n-Apollonian network.|
 |347504|Number of dominating sets in the n X n X n grid graph.|
 |347505|Number of dominating sets in the n-Hanoi graph.|
@@ -20956,7 +20956,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |348116|a(n) is the number of (strict) chains of subspaces with ends 0 and (F_2)^n, counted up to coordinate permutation.|
 |348117|a(n) is the number of (strict) chains of subspaces with ends 0 and (F_3)^n, counted up to coordinate permutation.|
 |348118|a(n) is the number of (strict) chains of subspaces with ends 0 and (F_4)^n, counted up to coordinate permutation.|
-|348126|a(n) is the least k for which x(k) > Sum_{j=1..k} 1/j, where x(k) is the Newton iterate (starting from x(1)=1) for exp(-P(n,x)) and P(n,x) is the n-th Maclaurin polynomial for exp(x).|
+|348126|a(n) is the least k for which x(k) > Sum_ j=1..k  1/j, where x(k) is the Newton iterate (starting from x(1)=1) for exp(-P(n,x)) and P(n,x) is the n-th Maclaurin polynomial for exp(x).|
 |348130|Number of ways to place n nonattacking queens on a 2n X 2n board.|
 |348133|Minimal number of horizontal and vertical lines needed to partition a square into rectangles which can be reassembled into n distinct squares.|
 |348142|Square array read by upward antidiagonals in which T(w,p) is the smallest number k whose symmetric representation of sigma(k) consists of p parts with maximum width w occurring in everyone of its p parts.|
@@ -20976,7 +20976,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |348222|Number of uniquely-3-colorable graphs on n vertices up to isomorphism.|
 |348224|Lower matching number of the n-triangular honeycomb acute knight graph.|
 |348226|a(n) is the smallest positive integer that when expressed in bases 2 to n, but read in base n, is always prime.|
-|348240|a(n) = Sum_{k = 1..floor(n/2)} A003041(n-2*k).|
+|348240|a(n) = Sum_ k = 1..floor(n/2)  A003041(n-2*k).|
 |348256|Indices of records in A348249.|
 |348260|Number of inequivalent maximal antichains of the Boolean lattice on a set of n elements.|
 |348263|Orders of Parker fields.|
@@ -21015,7 +21015,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |348463|Size of largest bipartite biregular Moore graph of diameter 6 and degrees n and n.|
 |348464|Turan numbers T(n,6,4).|
 |348465|a(n) = minimum L such that a ternary linear code of length L, dimension 6, and minimum distance n exists.|
-|348481|a(n) is the number of n-element subsets of {1,2,3,...,A347498(n)} with the property that all products i * j are distinct for i <= j.|
+|348481|a(n) is the number of n-element subsets of  1,2,3,...,A347498(n)  with the property that all products i * j are distinct for i <= j.|
 |348484|Maximum number of squares on an n X n chessboard such that no two are two steps apart horizontally or vertically.|
 |348514|Numbers k for which A003961(k) = 2k+1, where A003961 shifts the prime factorization of n one step towards larger primes.|
 |348525|Noninfinitary weird numbers: noninfinitary abundant numbers (A348274) that are not equal to the sum of any subset of their noninfinitary divisors.|
@@ -21028,12 +21028,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |348567|Number of fully symmetric recurrent sandpiles on an n X n grid.|
 |348571|In Zeckendorf representation: integers that set a new record for the number of Reverse and Add steps (A349239) needed to reach a palindrome (A094202).|
 |348572|In Zeckendorf representation, records for the number of 'Reverse and Add' steps (A349239) needed to reach a palindrome.|
-|348574|Length of the shortest string over the alphabet {1,...,n} such that every subset of {1,...,n} appears as a substring (in some order).|
+|348574|Length of the shortest string over the alphabet  1,...,n  such that every subset of  1,...,n  appears as a substring (in some order).|
 |348578|Primes that begin a record list of consecutive primes whose sum of any 2 consecutive terms is divisible by 3.|
 |348583|Numbers k such that k | A002129(k).|
 |348584|Numbers k such that k | A328258(k).|
 |348601|Nonexponential multiply-perfect numbers: numbers k such that k | A160135(k).|
-|348619|a(n) = #G_{2n}(3n) for n >= 0, where G_{K}(N) is the set of pure K-sparse gapset of genus N.|
+|348619|a(n) = #G_ 2n (3n) for n >= 0, where G_ K (N) is the set of pure K-sparse gapset of genus N.|
 |348620|Total of the chromatic numbers of all simple graphs on n nodes.|
 |348625|Number of Egyptian fractions with squared denominators: number of solutions of 1 = 1/x_1^2 + ... + 1/x_n^2 where 0 < x_1 <= ... <= x_n.|
 |348628|Numbers k such that k and k+1 have the same sum of nonexponential divisors (A160135).|
@@ -21098,8 +21098,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |349100|a(n) is the product of the new Fibonacci divisors that appear when A129655(n) sets a new record for number of Fibonacci divisors.|
 |349101|Number of fixed polyarcs with n cells.|
 |349121|a(n) is the smallest prime p, such that p + k + k^2 are consecutive primes for 0 <= k <= n, but not for k>n.|
-|349145|Number of ordered n-tuple (x_1, x_2, x_3, ..., x_n) such that Sum_{k=1..n} k/x_k is an integer and x_k is an integer between 1 and n for 1 <= k <= n.|
-|349148|Number of unordered n-tuple {x_1, x_2, x_3, ..., x_n} such that Sum_{k=1..n} 1/x_k is an integer and x_k is an integer between 1 and n for 1 <= k <= n.|
+|349145|Number of ordered n-tuple (x_1, x_2, x_3, ..., x_n) such that Sum_ k=1..n  k/x_k is an integer and x_k is an integer between 1 and n for 1 <= k <= n.|
+|349148|Number of unordered n-tuple  x_1, x_2, x_3, ..., x_n  such that Sum_ k=1..n  1/x_k is an integer and x_k is an integer between 1 and n for 1 <= k <= n.|
 |349179|Numbers with a record number of nonempty subsets of divisors whose harmonic mean is an integer (A339665).|
 |349188|Largest n-phobe number.|
 |349189|Number of n-phobe numbers.|
@@ -21111,16 +21111,16 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |349208|a(n) is the largest side length (size) of an element of the simple perfect squared square of order n leading to a maximum of the ratio of the size of its smallest element A349207(n) to the size of its largest element.|
 |349209|a(n) is the maximum of the side lengths of the smallest elements of all simple perfect squared squares of order n.|
 |349210|a(n) is the minimum of the side lengths of the largest elements of all simple perfect squared squares of order n.|
-|349232|Decimal expansion of lim_{x->oo} (1/x) * Sum_{s(k+1) <= x} (s(k+1) - s(k))^2, where s(k) = A005117(k) is the k-th squarefree number.|
-|349237|Decimal expansion of lim_{x->oo} (1/x) * Sum_{c(k+1) <= x} (c(k+1) - c(k))^2, where c(k) = A004709(k) is the k-th cubefree number.|
+|349232|Decimal expansion of lim_ x->oo  (1/x) * Sum_ s(k+1) <= x  (s(k+1) - s(k))^2, where s(k) = A005117(k) is the k-th squarefree number.|
+|349237|Decimal expansion of lim_ x->oo  (1/x) * Sum_ c(k+1) <= x  (c(k+1) - c(k))^2, where c(k) = A004709(k) is the k-th cubefree number.|
 |349244|Minimal sequence of single-tile sliding moves that transpose the upper-left triangle of size 2, then 3, then 4, ... of an infinite square matrix (see comments for details).|
 |349245|Minimal sequence of single-tile sliding moves that progressively transpose elements 0 through k (k = 1, 2, 3, ...) of the infinite square matrix, cf. comments for details.|
-|349257|Largest integer that can be expressed as Sum_{k=1..n} k/p(k), where p is a permutation of [n].|
+|349257|Largest integer that can be expressed as Sum_ k=1..n  k/p(k), where p is a permutation of [n].|
 |349261|a(n) is the least number k such that A349258(k) = A349258(k+1) = n.|
 |349262|a(n) is the start of the least run of exactly n consecutive numbers with the same value of A349258.|
 |349263|Main diagonal of A349271.|
 |349279|Fixed points of A349278.|
-|349294|Numbers m such that there exists a permutation p of {1,2,...,m} with p(k) dividing p(k+1) + p(k+2) for all k in {1,2,...,m-2}.|
+|349294|Numbers m such that there exists a permutation p of  1,2,...,m  with p(k) dividing p(k+1) + p(k+2) for all k in  1,2,...,m-2 .|
 |349305|a(n) is the start of the least run of exactly n consecutive numbers with the same number of nonunitary divisors.|
 |349367|Number of n-element unlabeled disconnected N-free posets.|
 |349401|Number of unlabeled disconnected posets with n elements.|
@@ -21128,7 +21128,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |349413|Number of smooth positroid varieties corresponding to derangements in S_n.|
 |349421|Numbers k such that a regular k-gon, when its vertices are connected by infinite lines, creates polygons outside the k-gon with more sides than any polygon inside the k-gon, excluding the central k-sided polygon for odd values of k.|
 |349428|Smallest k such that A349410(k) = n or -1 if no such number exists.|
-|349430|Number of set partitions of [5n] into 5-element subsets {i, i+k, i+2k, i+3k, i+4k} with 1<=k<=n.|
+|349430|Number of set partitions of [5n] into 5-element subsets  i, i+k, i+2k, i+3k, i+4k  with 1<=k<=n.|
 |349456|Number of singular positroid varieties corresponding to derangements in S_n.|
 |349457|Number of singular positroids in the Grassmannian variety Gr(k,n) for a fixed n and any 0 <= k <= n.|
 |349478|a(n) is the least number k such that the sequence of elements of the continued fraction of the harmonic mean of the divisors of k is palindromic with length n, or -1 is no such k exists.|
@@ -21152,7 +21152,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |349739|Number of ordered pairs of commuting elements (partial permutations) in the symmetric inverse semigroup on [n].|
 |349744|a(n) is the number of distinct numbers of steps required for the last n digits of integers to repeat themselves by iterating the map m -> m^3.|
 |349764|a(n) is the smallest number which can be represented as the sum of n distinct n-th powers of primes in exactly n ways.|
-|349775|The maximum cardinality of an irreducible subset of {0, 1, 2, ..., n}.|
+|349775|The maximum cardinality of an irreducible subset of  0, 1, 2, ..., n .|
 |349800|Number of integer compositions of n that are weakly alternating and have at least two adjacent equal parts.|
 |349817|Number of 4 X n Fibonacci minimal checkerboards.|
 |349818|Central column (ignoring the zeros) of A349815, or leading entries in rows of A349816.|
@@ -21238,8 +21238,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |350568|a(n)/n! is the average number of key comparisons required to perform an indirect sort of n records with distinct keys using a two-way merge (A. D. Woodall's mergesort).|
 |350569|a(n)/n! is the average number of key comparisons required to sort n records with distinct keys using a modified heapsort (Algorithm H in Don Knuth's TAOCP Vol. 3, answer to exercise 18).|
 |350580|Number of n-celled polytans with holes.|
-|350581|Decimal expansion of sum of reciprocals of maximal prime gap primes: Sum_{n>=1} 1/A002386(n).|
-|350582|Decimal expansion of sum of reciprocals of maximal prime gap primes: Sum_{n>=1} 1/A000101(n).|
+|350581|Decimal expansion of sum of reciprocals of maximal prime gap primes: Sum_ n>=1  1/A002386(n).|
+|350582|Decimal expansion of sum of reciprocals of maximal prime gap primes: Sum_ n>=1  1/A000101(n).|
 |350585|a(n) is the number of distinct numbers of transversals that an orthogonal diagonal Latin square of order n can have.|
 |350592|Integers m such that b(m) := 20^m*(5^(m+1) - 1)/4 + (20^m - 1)/19 is a prime.|
 |350601|Array read by antidiagonals: row n lists even numbers that are "generated" (in Kaprekar's sense) in all bases 2, 4, 6, ..., 2n.|
@@ -21282,8 +21282,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |350875|a(n) is the number of nonisomorphic left-right-alternative magmas with n elements. That is, a(n) is the number of nonisomorphic magmas with n elements which satisfy the identities (xx)y = x(xy) and x(yy) = (xy)y for all x and y.|
 |350876|a(n) is the number of nonisomorphic flexible left-right-alternative magmas with n elements. That is, a(n) is the number of nonisomorphic magmas with n elements which satisfy all of the identities x(yx) = (xy)x, (xx)y = x(xy), and x(yy) = (xy)y (for all x and y).|
 |350878|Integers m that divide the sum of values d*p < m, where d is a divisor of m, p is a prime, and d*p does not divide m.|
-|350887|Let X,Y,Z be positive integer solutions to X^2 = Sum_{j=0..Y-1} (1+Z*j)^2, where solutions for Y or Z < 1 are excluded. This sequence lists the values for Y sorted by X.|
-|350888|Let X,Y,Z be positive integer solutions to X^2 = Sum_{j=0..Y-1} (1+Z*j)^2, where solutions for Y or Z < 1 are excluded. This sequence lists the values for Z sorted by X.|
+|350887|Let X,Y,Z be positive integer solutions to X^2 = Sum_ j=0..Y-1  (1+Z*j)^2, where solutions for Y or Z < 1 are excluded. This sequence lists the values for Y sorted by X.|
+|350888|Let X,Y,Z be positive integer solutions to X^2 = Sum_ j=0..Y-1  (1+Z*j)^2, where solutions for Y or Z < 1 are excluded. This sequence lists the values for Z sorted by X.|
 |350911|Number of regular digraphs on n unlabeled nodes.|
 |350930|Minimal determinant of an n X n Toeplitz matrix using the integers 1 to 2*n - 1.|
 |350931|Maximal determinant of an n X n Toeplitz matrix using the integers 1 to 2*n - 1.|
@@ -21304,7 +21304,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |351020|Maximal permanent of an n X n symmetric Toeplitz matrix using the integers 1 to n.|
 |351021|Minimal permanent of an n X n symmetric Toeplitz matrix using the first n prime numbers.|
 |351022|Maximal permanent of an n X n symmetric Toeplitz matrix using the first n prime numbers.|
-|351027|a(n) is the least number that starts a sequence of exactly n nonsquarefree numbers under the iteration x_{n+1} = x_n^2 - x_n + 1.|
+|351027|a(n) is the least number that starts a sequence of exactly n nonsquarefree numbers under the iteration x_ n+1  = x_n^2 - x_n + 1.|
 |351029|Number of integers whose arithmetic derivative is equal to the n-th primorial.|
 |351041|Minimal number of steps for a Racetrack car (using Moore neighborhood) to go around a circle of radius n.|
 |351042|Minimal number of steps for a Racetrack car (using von Neumann neighborhood) to go around a circle of radius n.|
@@ -21342,7 +21342,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |351297|a(n) is the least number k such that (6*i+2)*k^2-1 is prime for i = 0..n-1 but not for i = n.|
 |351299|a(n) is the number of distinct bipartitions of a solid triangular array of edge n, discounting inversions, reflections, and rotations.|
 |351326|a(n) is the least number k such that k and all larger numbers can be expressed as the sum of n-th powers of distinct primes.|
-|351335|Number of unlabeled directed graphs on n nodes without a subgraph isomorphic to directed K_{2,2} that have the maximal number of edges (=A191873(n)).|
+|351335|Number of unlabeled directed graphs on n nodes without a subgraph isomorphic to directed K_ 2,2  that have the maximal number of edges (=A191873(n)).|
 |351349|Numerator of the square of the radius of the largest circle, centered at the origin, around which a Racetrack car (using Moore neighborhood) can run a full lap in n steps.|
 |351350|Denominator of the square of the radius of the largest circle, centered at the origin, around which a Racetrack car (using Moore neighborhood) can run a full lap in n steps.|
 |351351|Numerator of the square of the radius of the largest circle, centered at the origin, around which a Racetrack car (using von Neumann neighborhood) can run a full lap in n steps.|
@@ -21384,12 +21384,12 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |351694|Positions of records in A351532, divided by 3.|
 |351695|Records in A351532.|
 |351713|Numbers whose binary and minimal Lucas representations are both palindromic.|
-|351722|a(n) is the number of permutations p of {1, 2, ..., 2*n} such that for any k in 1..2*n, k and p(k) do not share a common 1-bit.|
+|351722|a(n) is the number of permutations p of  1, 2, ..., 2*n  such that for any k in 1..2*n, k and p(k) do not share a common 1-bit.|
 |351727|Decimal expansion of e^^e (tetration of the base e = 2.718281828... of height e), using H. Kneser's proposal for a tetration function.|
 |351729|a(n) is the least prime that starts a sequence of exactly n primes under the iteration p -> p + reverse(p) + 1.|
 |351730|Number of labeled idempotent semigroups of order n.|
 |351731|Number of labeled idempotent monoids of order n.|
-|351738|Decimal expansion of Sum_{k>0} sin(sqrt(k)) / k.|
+|351738|Decimal expansion of Sum_ k>0  sin(sqrt(k)) / k.|
 |351741|Numbers k such that the concatenation of 1,2,...,k and the concatenation of k,k-1,...,1 have the same number of prime factors, counted with multiplicity.|
 |351753|Take the first n digits on the binary Champernowne string (cf. A030302); a(n) gives the starting index of the second occurrence of this n-digit string within the binary Champernowne string.|
 |351821|Maximal sum of inverse squares of the singular values of Toeplitz anti-Hadamard matrices of order n.|
@@ -21399,7 +21399,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |351900|a(n) is the smallest positive integer not the sum of one or more nonzero powers of p_0, p_1, ..., p_n, where p_0 = 1 and p_n = prime(n) for n >= 1.|
 |351903|a(n) is the smallest number k such that the symmetric representation of sigma(k) has at least one part n.|
 |351904|a(n) is the smallest number k such that the symmetric representation of sigma(k) has at least one subpart n.|
-|351911|a(n) is the least integer m such that every m-element subset of {1,2,3,...,n} contains two nonempty and disjoint subsets whose sums are equal.|
+|351911|a(n) is the least integer m such that every m-element subset of  1,2,3,...,n  contains two nonempty and disjoint subsets whose sums are equal.|
 |351921|a(n) is the smallest nonzero number k such that gcd(prime(1)^k + 1, prime(2)^k + 1, ..., prime(n)^k + 1) > 1 and gcd(prime(1)^k + 1, prime(2)^k + 1, ..., prime(n+1)^k + 1) = 1.|
 |351922|Consider well-formed strings consisting of n operands, n - 1 binary operators +, -, *, /, ^, and n-1 pairs of parentheses, and call two such strings equivalent if they are algebraically identical; a(n) is the number of equivalence classes.|
 |351983|Number of integer compositions of n with exactly one part above the diagonal.|
@@ -21412,7 +21412,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |352079|The number of nonnegative integers that have a shortest divisor addition chain of length n.|
 |352083|Numbers k such that (3^k - k^3)/2 is prime.|
 |352086|a(n) is the smallest positive integer k such that wt(k^2) / wt(k) = n where wt(k) = A000120(k) is the binary weight of k.|
-|352099|Number of inequivalent {-1,1} matrices of order n, up to permutation of rows and/or columns and multiplication of rows and/or columns by -1.|
+|352099|Number of inequivalent  -1,1  matrices of order n, up to permutation of rows and/or columns and multiplication of rows and/or columns by -1.|
 |352102|Number of graph minors of the n-centipede graph.|
 |352124|Fibonacci numbers k such that pi(k) is also a Fibonacci number.|
 |352134|Numbers k such that the centered cube number k^3 + (k+1)^3 is equal to at least one other sum of two cubes.|
@@ -21428,7 +21428,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |352174|The number of connected Feynman graphs in phi^4 theory with n vertices, 2 external legs.|
 |352175|The number of Feynman graphs in phi^3 theory with 2n vertices, 2 external legs.|
 |352177|a(n) is the number of symmetric Toeplitz anti-Hadamard matrices of order n whose sum of the inverse squares of their singular values is maximal.|
-|352178|Let S = {t_1, t_2, ..., t_n} be a set of n distinct integers and consider the sums t_i + t_j (i<j); a(n) is the maximum number of such sums that are powers of 2, over all choices for S.|
+|352178|Let S =  t_1, t_2, ..., t_n  be a set of n distinct integers and consider the sums t_i + t_j (i<j); a(n) is the maximum number of such sums that are powers of 2, over all choices for S.|
 |352205|a(0) = 0; for n>0, a(n) is the index of the last term in A109812 that is <= 2^n - 1.|
 |352206|a(n) = A109812(A352205(n) + 1).|
 |352208|Largest number of maximal 3-colorable node-induced subgraphs of an n-node graph.|
@@ -21458,7 +21458,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |352316|Perimeter of primitive integer-sided triangles such that the distance d = OI between the circumcenter O and the incenter I is also a positive integer.|
 |352325|Number of ways of placing A352241(n) nonattacking black-square queens on an n X n board.|
 |352334|Composite numbers that when written in base 2 are a concatenation of their distinct prime factors without multiplicity in some order.|
-|352348|Maximum determinant of n X n matrix composed of {-1, 0, 1} with pairwise orthogonal rows.|
+|352348|Maximum determinant of n X n matrix composed of  -1, 0, 1  with pairwise orthogonal rows.|
 |352349|a(n) is the largest number that is not the sum of distinct centered n-gonal numbers.|
 |352350|a(n) is the largest number that is not the sum of distinct n-gonal pyramidal numbers.|
 |352388|Number of solutions to Snake Number Problem for snakes with n-periodic instructions in an infinite square grid (see Comments).|
@@ -21491,9 +21491,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |352698|Numbers k such that A308485(k) is a multiple of k.|
 |352712|a(n) is the smallest prime p(1) in a symmetrical constellation of at least n consecutive pairs of cousin primes: p(1), p(1) + 4, ..., p(n), p(n) + 4.|
 |352734|Records of the total number of parts in all partitions of a positive integer into consecutive parts.|
-|352736|a(n) is the smallest b >= 2 such that 1 + Sum_{k=0..n} b^(2^k) is prime, or 1 if no such b exists.|
+|352736|a(n) is the smallest b >= 2 such that 1 + Sum_ k=0..n  b^(2^k) is prime, or 1 if no such b exists.|
 |352745|a(n) is the number of Lyndon factors of the Fibonacci string of length n.|
-|352752|a(n) is the smallest nonnegative number that requires n applications of the modified Sisyphus function of order 3, x -> A350709(x) to reach any number in the cycle {4031, 4112, 4220}.|
+|352752|a(n) is the smallest nonnegative number that requires n applications of the modified Sisyphus function of order 3, x -> A350709(x) to reach any number in the cycle  4031, 4112, 4220 .|
 |352765|Number of asymmetric n-node graphs with the smallest number (A352764(n)) of edges.|
 |352766|Maximum number of inequivalent orientations of an n-node graph.|
 |352767|Number of n-node graphs with the maximum number (A352766(n)) of orientations.|
@@ -21520,13 +21520,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |352932|Where the parity of A352931 changes.|
 |352941|Number of graph minors in the n-alkane graph.|
 |352959|a(n) is the first prime to start a sequence of exactly n primes under the iteration p -> (p^2 + 3*p + 1)/5.|
-|352969|Start with {1}, then at each step replace it with the set of all pairwise products and sums of its elements (an element can be paired with itself). a(n) gives the number of elements after n-th step.|
+|352969|Start with  1 , then at each step replace it with the set of all pairwise products and sums of its elements (an element can be paired with itself). a(n) gives the number of elements after n-th step.|
 |353002|Numbers k such that the k-th triangular number mod the sum (with multiplicity) of prime factors of k, and the k-th triangular number mod the sum of divisors of k, are the same prime.|
 |353028|Number of subgraphs of the directed square lattice with n vertices and all vertices reachable from the origin.|
 |353038|Unitary harmonic numbers (A006086) that are not unitary arithmetic numbers (A103826).|
 |353040|Unitary harmonic numbers (A006086) with a record number of unitary divisors.|
 |353043|a(n) is the smallest number whose name in Bengali has n letters, or -1 if so such word exists.|
-|353052|Number of inequivalent {-1,1} matrices of order n, up to permutation of rows and/or columns, multiplication of rows and/or columns by -1, and transposition.|
+|353052|Number of inequivalent  -1,1  matrices of order n, up to permutation of rows and/or columns, multiplication of rows and/or columns by -1, and transposition.|
 |353060|Solution to Snake Numbers Problems from 1 to n for an n X n square grid with chess knight moves (see Comments).|
 |353064|Numbers simultaneously square and heptagonal pyramidal.|
 |353069|Positions k such that A097465(k) and A097465(k+1) are odd.|
@@ -21557,7 +21557,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |353259|Solution to Snake Numbers Problems for Snakes from 1 to n for an n X n square grid (see Comments).|
 |353302|Numbers k such that A004394(k)-1 and A004394(k)+1 are twin primes.|
 |353340|Smallest positive number k such that there are exactly n integers b with k > b > 1 where the base-b representation of k is periodic.|
-|353343|Smallest k such that k-th derivative of f_n(x) at x=1 is nonpositive, where f_{-1}(x)=0 and f_n(x)=x^(f_{n-1}(x)).|
+|353343|Smallest k such that k-th derivative of f_n(x) at x=1 is nonpositive, where f_ -1 (x)=0 and f_n(x)=x^(f_ n-1 (x)).|
 |353390|Number of compositions of n whose own run-lengths are a subsequence (not necessarily consecutive).|
 |353391|Number of compositions of n that are empty, a singleton, or whose run-lengths are a subsequence that is already counted.|
 |353392|Number of compositions of n whose own run-lengths are a consecutive subsequence.|
@@ -21568,8 +21568,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |353425|Number of graph minors in the n-wheel complement graph.|
 |353426|Number of integer partitions of n that are empty or a singleton or whose multiplicities are a sub-multiset that is already counted.|
 |353430|Number of integer compositions of n that are empty, a singleton, or whose own run-lengths are a consecutive subsequence that is already counted.|
-|353535|a(n) is the cardinality of the set S(n) obtained by the following process: Start with the set S(0) of a single monomial {x}. In step n, the set S(n) is the union of all polynomials obtained by the m*(m+1)/2 sums and the m*(m+1)/2 products formed with the pairs of polynomials in the Cartesian product S(n-1) x S(n-1) with m = card(S(n-1)).|
-|353536|a(n) is the cardinality of the set S(n) obtained by the following process: Start with the set S(0) = {i}, where i is the imaginary unit. In step n, the set S(n) is the union of all Gaussian integers obtained by the m*(m+1)/2 sums and the m*(m+1)/2 products formed with the pairs of numbers in the Cartesian product S(n-1) x S(n-1) with m = card(S(n-1)).|
+|353535|a(n) is the cardinality of the set S(n) obtained by the following process: Start with the set S(0) of a single monomial  x . In step n, the set S(n) is the union of all polynomials obtained by the m*(m+1)/2 sums and the m*(m+1)/2 products formed with the pairs of polynomials in the Cartesian product S(n-1) x S(n-1) with m = card(S(n-1)).|
+|353536|a(n) is the cardinality of the set S(n) obtained by the following process: Start with the set S(0) =  i , where i is the imaginary unit. In step n, the set S(n) is the union of all Gaussian integers obtained by the m*(m+1)/2 sums and the m*(m+1)/2 products formed with the pairs of numbers in the Cartesian product S(n-1) x S(n-1) with m = card(S(n-1)).|
 |353542|a(n) is the least start of a run of n consecutive numbers whose abundancy index is larger than Pi^2/6.|
 |353588|Simultaneously fill a square spiral and an infinite square array by antidiagonals with distinct nonnegative integers so that the sum of numbers in any 2 X 2 square equals a square.|
 |353599|Number of graph minors in the n-dipyramidal graph.|
@@ -21619,8 +21619,8 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |354146|Even numbers in A353730 in order of appearance.|
 |354150|Index of 2^n in A090252, or -1 if 2^n does not appear.|
 |354159|Terms 2*p (p prime) in A090252, divided by 2, in order of appearance.|
-|354167|Let M_p = 2^p-1 be a Mersenne prime, where p is an odd prime. Sequence lists p such that b_{p-2} == 2^((p+1)/2) mod M_p, where {b_k} is defined in the Comments.|
-|354168|Let M_p = 2^p-1 be a Mersenne prime, where p is an odd prime. Sequence lists p such that b_{p-2} == -2^((p+1)/2) mod M_p, where {b_k} is defined in the Comments.|
+|354167|Let M_p = 2^p-1 be a Mersenne prime, where p is an odd prime. Sequence lists p such that b_ p-2  == 2^((p+1)/2) mod M_p, where  b_k  is defined in the Comments.|
+|354168|Let M_p = 2^p-1 be a Mersenne prime, where p is an odd prime. Sequence lists p such that b_ p-2  == -2^((p+1)/2) mod M_p, where  b_k  is defined in the Comments.|
 |354212|Numbers k such that A297330(k)*k and k have the same digits but in a different order.|
 |354215|a(n) is the row number of the Trithoff (tribonacci) array where we can find the tail of the following sequence: apply the difference operator n times to the tribonacci sequence.|
 |354226|a(n) is the number of distinct prime factors of (p^p - 1)/(p - 1) where p = prime(n).|
@@ -21643,13 +21643,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |354405|Number of fixed pseudo-polytans with n cells.|
 |354406|Number of one-sided pseudo-polyarcs with n cells.|
 |354407|Number of fixed pseudo-polyarcs with n cells.|
-|354423|a(0)=1; a(n) is the smallest positive integer that cannot be obtained from the integers {1, ..., n} using each number at most once, and the operators addition and multiplication.|
+|354423|a(0)=1; a(n) is the smallest positive integer that cannot be obtained from the integers  1, ..., n  using each number at most once, and the operators addition and multiplication.|
 |354426|Primes p such that q divides p^2 + p + 1, r divides q^2 + q + 1 and p divides r + 1 for some primes q and r.|
 |354427|Primes p such that q divides p + 1, r divides q^2 + q + 1 and p divides r^2 + r + 1 for some primes q and r.|
 |354428|Primes p such that q divides p^2 + p + 1, r divides q + 1 and p divides r^2 + r + 1 for some primes q and r.|
 |354431|Numbers k such that there are no bipartite graphs with k edge coverings.|
 |354440|Digitally delicate primes where the number of digits appended on the left needed to get a prime increases.|
-|354444|Least initial term of a set of n consecutive primes {p_1 .. p_n} such that Sum_{k=p_1..p_2} d(k) = ... = Sum_{k=p_(n-1)..p_n} d(k), where d(k) is the number of divisors function A000005.|
+|354444|Least initial term of a set of n consecutive primes  p_1 .. p_n  such that Sum_ k=p_1..p_2  d(k) = ... = Sum_ k=p_(n-1)..p_n  d(k), where d(k) is the number of divisors function A000005.|
 |354445|Number of polynomials per row where the minimum number of rows and polynomials per row necessary to transform A335105 into a triangular array are present.|
 |354456|a(n) is the least number k such that k - 5^i is prime for i = 1..n.|
 |354457|a(n) is the least integer for which there exist two disjoint sets of n positive integers each, all distinct, for which the product of the integers in either set is a(n).|
@@ -21707,7 +21707,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |354743|Smallest first term of arithmetic progression of exactly n primes with difference A033188(n).|
 |354744|Last term of arithmetic progression of exactly n primes with difference A033188(n) and first term = A354743(n).|
 |354768|Numbers k such that d(k)/k >= d(m)/m for all m > k, where d(k) is the number-of-divisors function A000005(k).|
-|354769|Numbers k such that d(k)/k = sup {d(m)/m | m > k}, where d(k) is the number-of-divisors function A000005(k).|
+|354769|Numbers k such that d(k)/k = sup  d(m)/m | m > k , where d(k) is the number-of-divisors function A000005(k).|
 |354772|For the imaginary quadratic field of discriminant -47, odd primes p such that the Iwasawa lambda invariant lambda_p exceeds 1.|
 |354786|Irregular triangle read by rows: T(n,k) (n>=0, k>=0) is the number of anti-palindromic compositions of n of length k.|
 |354787|Irregular triangle read by rows: T(n,k) (n>=0, k>=0) is the number of reduced anti-palindromic compositions of n of length k.|
@@ -21715,7 +21715,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |354842|a(n) is the smallest number k such that A354841(k) = n.|
 |354854|Smallest number of powers of n with positive exponents that sum to a factorial.|
 |354864|a(n) is the number of free equable polyominoes of size 2n and perimeter 2n.|
-|354865|a(n) is the hafnian of the 2n X 2n symmetric matrix whose element M_{i,j} equals phi(abs(i-j)).|
+|354865|a(n) is the hafnian of the 2n X 2n symmetric matrix whose element M_ i,j  equals phi(abs(i-j)).|
 |354878|a(n) is the index of the Stieltjes constant at the beginning of the first set of exactly n successive constants of the same sign.|
 |354879|a(n) is the index of the Stieltjes constant at the beginning of the last set of exactly n successive constants of the same sign.|
 |354883|a(n) is the number of tuples of length n corresponding to cycles of a "pseudo-Collatz" iteration.|
@@ -21727,7 +21727,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |354949|a(n) is the first interprime that is divisible by exactly n squares of primes.|
 |354950|The number of squarefree numbers whose largest prime divisor is prime(n) and that are averages of twin prime pairs.|
 |354951|The number of squarefree abundant numbers whose largest prime divisor is prime(n).|
-|354952|Decimal expansion of Sum_{p primes} 1/(p*log(p) - 1).|
+|354952|Decimal expansion of Sum_ p primes  1/(p*log(p) - 1).|
 |355015|The least integer with cost n, using the cost function used in sequence A354914.|
 |355016|Least prime p such that the n smallest primitive roots modulo p are the first n primes.|
 |355041|Numbers k such that A152763(2^k) < A152763(2^k-1).|
@@ -21738,7 +21738,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |355187|Number of Collatz trajectories (A070165) for all positive integers <= 10^n that contain 2^4 as the greatest power of 2 within its trajectory.|
 |355188|Primes p such that (2^p+p^2)/3 is prime.|
 |355240|Numbers of steps until the Collatz iteration started at k > 4 returns to either k-1 or k+1.|
-|355243|a(n) is the largest integer value of Product_{k=1..n} (2 + 1/t_k) with integers t_k > 1.|
+|355243|a(n) is the largest integer value of Product_ k=1..n  (2 + 1/t_k) with integers t_k > 1.|
 |355256|a(n) is the number of n-th order n X n magic arrays composed of the numbers from 1 to n^2 in which each 2 X 2 subsquare has the same sum, counted up to rotations and reflections.|
 |355276|Number of n-digit terms in A347475.|
 |355279|Numbers k such that S(S(S(k))) = k, with S(n) = sigma(n)/4: 1/4-sociable numbers of order 1 or 3.|
@@ -21763,9 +21763,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |355458|Numbers k that set a new record m where m is the largest left-truncatable prime up to the final k (stop on reaching the final k).|
 |355477|Maximum number of skew-tetrominoes that can be packed into an n X n square.|
 |355483|a(1) = 1; for n > 1, a(n) is the smallest positive number that has not yet appeared such that the number of 1-bits in the binary expansion of a(n) equals the number of divisors of a(n-1).|
-|355516|a(n) is the number of distinct integer values of Product_{k=1..n} (2 + 1/t_k) with integers t_k > 1.|
+|355516|a(n) is the number of distinct integer values of Product_ k=1..n  (2 + 1/t_k) with integers t_k > 1.|
 |355517|Number of nonisomorphic systems enumerated by A334254; that is, the number of inequivalent closure operators on a set of n elements where all singletons are closed.|
-|355539|a(1) = 1; for n >= 2, a(n) is the earliest occurrence k of the next distinct pair {x(k), y(k)}, where x(k) and y(k) denote the count of zero digits in A355318(k) and A355317(k), respectively.|
+|355539|a(1) = 1; for n >= 2, a(n) is the earliest occurrence k of the next distinct pair  x(k), y(k) , where x(k) and y(k) denote the count of zero digits in A355318(k) and A355317(k), respectively.|
 |355541|Numbers k such that A061201(k) is divisible by k.|
 |355542|Numbers k such that A272718(k) is divisible by k.|
 |355544|Numbers k such that the arithmetic mean of the first k squarefree numbers is an integer.|
@@ -21788,10 +21788,10 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |355600|a(1) = 37. For n > 1, a(n) = smallest prime q such that q^(a(n-1)-1) == 1 (mod a(n-1)^2).|
 |355601|a(1) = 47. For n > 1, a(n) = smallest prime q such that q^(a(n-1)-1) == 1 (mod a(n-1)^2).|
 |355602|a(1) = 61. For n > 1, a(n) = smallest prime q such that q^(a(n-1)-1) == 1 (mod a(n-1)^2).|
-|355626|a(n) is the number of tuples (t_1, ..., t_n) with integers 2 <= t_1 <= ... <= t_n such that Product_{i = 1..n} (3 + 1/t_i) is integer.|
-|355628|a(n) is the number of positive integers p that can be written as p = Product_{i = 1..n) (3 + 1/t_i) with integers t_i >= 2.|
-|355629|a(n) is the number of tuples (t_1, ..., t_n) with integers 2 <= t_1 <= ... <= t_n such that 3^n + 1 = Product_{i = 1..n} (3 + 1/t_i).|
-|355630|a(n) is the largest integer that can be written as Product_{i = 1..n} (3 + 1/t_i) with integers t_i >= 2.|
+|355626|a(n) is the number of tuples (t_1, ..., t_n) with integers 2 <= t_1 <= ... <= t_n such that Product_ i = 1..n  (3 + 1/t_i) is integer.|
+|355628|a(n) is the number of positive integers p that can be written as p = Product_ i = 1..n) (3 + 1/t_i) with integers t_i >= 2.|
+|355629|a(n) is the number of tuples (t_1, ..., t_n) with integers 2 <= t_1 <= ... <= t_n such that 3^n + 1 = Product_ i = 1..n  (3 + 1/t_i).|
+|355630|a(n) is the largest integer that can be written as Product_ i = 1..n  (3 + 1/t_i) with integers t_i >= 2.|
 |355637|The fixed points of A355636.|
 |355638|Number of polyhedra (3-polytopes) of graph radius 1 on n edges.|
 |355648|The fixed points of A355647.|
@@ -21819,7 +21819,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |355907|A355906(n)/3.|
 |355908|A335905(n) + A335906(n).|
 |355909|Number of nodes at level n in the tree T_0 mentioned in A355905.|
-|355910|Number of nodes at level n in the tree T_{-2}.|
+|355910|Number of nodes at level n in the tree T_ -2 .|
 |355911|Number of alt-unary-binary trees with n nodes.|
 |355919|Let n = p_1*p_2*...*p_k be the prime factorization of n, with the primes sorted in descending order; let b(n) = 7^(p_1 - 1)*13^(p_2 - 1)*19^(p_3 - 1)*...*A002476(k)^(p_k - 1). Sequence lists m such that b(m) > A343771(m).|
 |355920|Largest prime number p such that x^n + y^n mod p does not take all values on Z/pZ.|
@@ -21848,13 +21848,13 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |356108|Numbers == 2 (mod 6) that cannot be written as p^2 + q where p and q are primes.|
 |356136|a(n) is the smallest number k > 1 such that, in the interval 1..k, there are as many integers that have exactly 2n divisors as there are primes (or -1 if no such number exists).|
 |356179|Positions of records in A279497, i.e., integers whose number of pentagonal divisors sets a new record.|
-|356187|Number of permutations f of {1,...,n} with f(1) = 1 such that those k*f(k) + 1 (k = 1..n) are n distinct primes.|
+|356187|Number of permutations f of  1,...,n  with f(1) = 1 such that those k*f(k) + 1 (k = 1..n) are n distinct primes.|
 |356197|Number of Baxter 3-permutations of length n.|
 |356201|a(n) is the first component x of the distance vector (x,y), x >= y >= 0, between two nodes of an infinite square lattice of one-ohm resistors, such that the resistance R between the two nodes is as close as possible to n ohms, i.e., abs(R - n) is minimized. y is A356202(n).|
 |356202|a(n) is the second component y of the distance vector (x,y), x >= y >= 0, between two nodes of an infinite square lattice of one-ohm resistors, such that the resistance R between the two nodes is as close as possible to n ohms, i.e., abs(R - n) is minimized. x is A356201(n).|
 |356203|a(n) is the first component x of the distance vector (x,y) in an oblique 120-degree coordinate system, 0 <= y <= x, between two nodes of an infinite triangular lattice of one-ohm resistors, such that the resistance R between the two nodes is as close as possible to n ohms, i.e., abs(R - n) is minimized. y is A356204(n).|
 |356204|a(n) is the second component y of the distance vector (x,y) in an oblique 120-degree coordinate system, 0 <= y <= x, between two nodes of an infinite triangular lattice of one-ohm resistors, such that the resistance R between the two nodes is as close as possible to n ohms, i.e., abs(R - n) is minimized. x is A356203(n).|
-|356210|a(n) is the number of tuples (t_1, ..., t_n) with integers 2 <= t_1 <= ... <= t_n such that 2^n + 1 = Product_{i = 1..n} (2 + 1/t_i).|
+|356210|a(n) is the number of tuples (t_1, ..., t_n) with integers 2 <= t_1 <= ... <= t_n such that 2^n + 1 = Product_ i = 1..n  (2 + 1/t_i).|
 |356211|Odd numbers that cannot be written as a product of an arbitrary number of rational factors of the form 2 + 1/t_k with integers t_k > 1.|
 |356212|Number of edge covers in the n-cycle complement graph bar C_n.|
 |356213|Number of edge covers in the n-trapezohedral graph.|
@@ -21877,7 +21877,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |356416|a(n) is the least start of exactly n consecutive numbers that have an equal sum of even and odd exponents in their prime factorization (A356413), or -1 if no such run of consecutive numbers exists.|
 |356425|a(n) = 1; a(n+1) is the number of times a(n) with a positive or negative sign can be produced by continually subtracting one or more consecutive terms in the sequence so far (subtracting in either direction). See example.|
 |356429|Smallest m such that A356428(m) = n, or -1 if there is no such m.|
-|356446|Number of permutations f of {1,...,n} with f(1) = 2 and f(2) = 1 such that the numbers f(k)*f(k+1) (0 < k < n) are distinct and Sum_{k=1..n-1} 1/(f(k)*f(k+1)) = 1.|
+|356446|Number of permutations f of  1,...,n  with f(1) = 2 and f(2) = 1 such that the numbers f(k)*f(k+1) (0 < k < n) are distinct and Sum_ k=1..n-1  1/(f(k)*f(k+1)) = 1.|
 |356467|Smallest prime congruent to 1 (mod prime(n)) which is the norm of some principal ideal in the ring of prime(n)-th cyclotomic integers.|
 |356481|a(n) is the hafnian of a symmetric Toeplitz matrix M(2*n) whose first row consists of 1, 2, ..., 2*n.|
 |356482|a(n) is the hafnian of a symmetric Toeplitz matrix M(2*n) whose first row consists of 2*n, 2*n-1, ..., 1.|
@@ -21892,7 +21892,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |356558|Triangle read by rows: T(n,k), where n, k >= 2, is the number of n-element unlabeled connected series-parallel posets with k ordinal terms that are either the singleton or disconnected posets.|
 |356567|Numbers that generate increasing numbers of consecutive primes when doubled and added to the sequence of odd squares. (Positions of records in A354499.)|
 |356570|a(n) is the first prime that starts a sequence of exactly n consecutive primes that are in A048519.|
-|356639|Number of integer sequences b with b(1) = 1, b(m) > 0 and b(m+1) - b(m) > 0, of length n which transform under the map S into a nonnegative integer sequence. The transform c = S(b) is defined by c(m) = Product_{k=1..m} b(k) / Product_{k=2..m}( b(k)-b(k-1)).|
+|356639|Number of integer sequences b with b(1) = 1, b(m) > 0 and b(m+1) - b(m) > 0, of length n which transform under the map S into a nonnegative integer sequence. The transform c = S(b) is defined by c(m) = Product_ k=1..m  b(k) / Product_ k=2..m ( b(k)-b(k-1)).|
 |356643|a(n) is the number of order-n magic triangles composed of the numbers from 1 to n(n+1)/2 in which the sum of the k-th row and the (n-k)-th row is same for all k and all three directions, counted up to rotations and reflections.|
 |356649|Domination number of the Cartesian product of three n-cycles.|
 |356650|Domination number of the Cartesian product of four n-cycles.|
@@ -21913,18 +21913,18 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |356711|Numbers k such that Mordell's equation y^2 = x^3 + k^3 has exactly 5 integral solutions.|
 |356712|Numbers k such that Mordell's equation y^2 = x^3 + k^3 has exactly 7 integral solutions.|
 |356715|Total number of distinct numbers that can be obtained by starting with 1 and applying the "Choix de Bruxelles", version 2 operation at most n times in ternary (base 3).|
-|356722|Number of n X n tables where each row represents a permutation of { 1, 2, ..., n } and the column sums are equal.|
-|356723|Number of n X n tables where each row represents a permutation of { 1, 2, ..., n } and the column sums are equal, with the first row being the identity permutation.|
-|356724|Number of n X n tables where each row represents a permutation of { 1, 2, ..., n } and the column sums are equal, up to permutation of rows.|
-|356725|Number of n X n tables where each row represents a permutation of { 1, 2, ..., n } and the column sums are equal, up to permutation of rows and columns.|
+|356722|Number of n X n tables where each row represents a permutation of   1, 2, ..., n   and the column sums are equal.|
+|356723|Number of n X n tables where each row represents a permutation of   1, 2, ..., n   and the column sums are equal, with the first row being the identity permutation.|
+|356724|Number of n X n tables where each row represents a permutation of   1, 2, ..., n   and the column sums are equal, up to permutation of rows.|
+|356725|Number of n X n tables where each row represents a permutation of   1, 2, ..., n   and the column sums are equal, up to permutation of rows and columns.|
 |356739|a(n) is the smallest k such that k! has at least n consecutive zeros immediately after the leading digit in base 10.|
 |356740|a(n) is the least emirp that begins a sequence of exactly n emirps under the map p -> (p*R(p)) mod (p+R(p)), where R(p) is the digit reversal of p.|
 |356745|a(n) is the first prime that starts a string of exactly n consecutive primes where the prime + the next prime + 1 is prime.|
-|356747|Numbers m that divide A306070(m) = Sum_{k=1..m} bphi(k), where bphi is the bi-unitary totient function (A116550).|
+|356747|Numbers m that divide A306070(m) = Sum_ k=1..m  bphi(k), where bphi is the bi-unitary totient function (A116550).|
 |356751|Positive integers m such that x^2 - x + m contains more than m/2 prime numbers for x = 1, 2, ..., m.|
 |356756|Positive integers m such that x^2 + x + m contains at least m/2 prime numbers for x = 1, 2, ..., m.|
 |356764|Semiprimes divisible by their indices in the sequence of semiprimes, divided by those indices.|
-|356793|Decimal expansion of sum of squares of reciprocals of lesser twin primes, Sum_{j>=1} 1/(A001359(j))^2.|
+|356793|Decimal expansion of sum of squares of reciprocals of lesser twin primes, Sum_ j>=1  1/(A001359(j))^2.|
 |356801|a(n) is the least semiprime p*q such that p*q+i*(p+q) is prime for i from 1 to n but not n+1.|
 |356808|Number of n-level magic triangles.|
 |356821|Lucas-Carmichael numbers k that have an abundancy index sigma(k)/k that is larger than the abundancy indices of all smaller Lucas-Carmichael numbers.|
@@ -21937,7 +21937,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |356878|a(n) is the least number of binary zeros of squares with binary weight n.|
 |356890|a(n) is the first twin prime that begins a sequence of exactly n twin primes under the map t -> 3*t+2.|
 |356893|a(n) is the smallest number m such that m, m+1, m+2 and m+3 each have exactly n prime factors (counted with multiplicity).|
-|356928|a(n) is the number of solutions, j >= 0 and 1 <= m_1 <= ... <= m_n, of the equation Sum_{k=1..n} F(m_k) = 2^j where F(i) is the i-th Fibonacci number.|
+|356928|a(n) is the number of solutions, j >= 0 and 1 <= m_1 <= ... <= m_n, of the equation Sum_ k=1..n  F(m_k) = 2^j where F(i) is the i-th Fibonacci number.|
 |356932|Number of multiset partitions of integer partitions of n such that all blocks have odd size.|
 |356933|Number of multisets of multisets, each of odd size, whose multiset union is a size-n multiset covering an initial interval.|
 |356934|Number of multisets of odd-size multisets whose multiset union is a size-n multiset covering an initial interval with weakly decreasing multiplicities.|
@@ -21949,7 +21949,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |356953|Least nonzero starting number in the first run of exactly n consecutive numbers having the same number of prime factors counted with multiplicity, or -1 if no such number exists.|
 |356954|Number of multisets of multisets, each covering an initial interval, whose multiset union is of size n and has weakly decreasing multiplicities.|
 |356975|a(n) is the number of n-celled pseudo-polyominoes with holes.|
-|356977|a(n) is the number of solutions, j >= 0 and 2 <= m_1 <= ... <= m_n, of the equation Sum_{k=1..n} F(m_k) = 2^j where F(i) is the i-th Fibonacci number.|
+|356977|a(n) is the number of solutions, j >= 0 and 2 <= m_1 <= ... <= m_n, of the equation Sum_ k=1..n  F(m_k) = 2^j where F(i) is the i-th Fibonacci number.|
 |356978|a(n) is the first number k such that k^i is a quasi-Niven number (A209871) for 1<=i<=n but not for i=n+1.|
 |357000|Number of non-isomorphic cyclic Haar graphs on 2*n nodes.|
 |357001|a(n) = A002729(n)-A357000(n)-1.|
@@ -21959,16 +21959,16 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |357055|Integers k such that k^k + k^2 + 3*k + 2 is prime.|
 |357056|Integers k such that k^k + k^2 + 2*k + 1 is prime.|
 |357057|a(n) = A356886(2^n+1)/A356886(2^n-1).|
-|357059|Decimal expansion of sum of squares of reciprocals of primes whose distance to the next prime is equal to 4, Sum_{j>=1} 1/A029710(j)^2.|
+|357059|Decimal expansion of sum of squares of reciprocals of primes whose distance to the next prime is equal to 4, Sum_ j>=1  1/A029710(j)^2.|
 |357066|Decimal expansion of the limit of k/A357065(k) as k goes to infinity.|
 |357067|Decimial expansion of the limit of A091411(k)/2^(k-1) as k goes to infinity.|
 |357068|Decimal expansion of the limit of A357063(k)/3^(k-1) as k goes to infinity.|
 |357083|a(n) is the number of free polycubes of size n with holes.|
 |357110|Numbers k such that 1 + k^2 * 2^k + k^3 * 3^k is prime.|
-|357123|Number of sets S of size A066063(n) such that {1, 2, ..., n} is a subset of S + S.|
+|357123|Number of sets S of size A066063(n) such that  1, 2, ..., n  is a subset of S + S.|
 |357128|a(n) is the least even number k > 2 such that the sum of the lower elements and the sum of the upper elements in the Goldbach partitions of k are both divisible by 2^n, but not both divisible by 2^(n+1).|
 |357129|Indices of records in A357052.|
-|357212|a(n) = number of nonempty subsets of {1,2,...,n} having a partition into two subsets with the same sum of elements.|
+|357212|a(n) = number of nonempty subsets of  1,2,...,n  having a partition into two subsets with the same sum of elements.|
 |357234|a(n) is the maximum length of a snake-like polyomino in an n X n square that starts and ends at opposite corners.|
 |357264|Circumference of the n x n giraffe graph.|
 |357269|Maximum number of stable matchings in the stable marriage problem of order n.|
@@ -21991,9 +21991,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |357387|Starts of record-length runs of consecutive positive integers with the same value of A071626.|
 |357389|a(n) is the start of the least run of exactly n consecutive positive integers with strictly increasing values of A071626, or -1 if no such run exists.|
 |357391|a(n) is the start of the least run of exactly n consecutive positive integers with strictly decreasing values of A071626, or -1 if no such run exists.|
-|357411|Number of nonempty subsets of {1..n} whose elements have an odd harmonic mean.|
-|357412|Number of nonempty subsets of {1..n} whose elements have an even harmonic mean.|
-|357414|Number of nonempty subsets of {1..n} whose elements have an even geometric mean.|
+|357411|Number of nonempty subsets of  1..n  whose elements have an odd harmonic mean.|
+|357412|Number of nonempty subsets of  1..n  whose elements have an even harmonic mean.|
+|357414|Number of nonempty subsets of  1..n  whose elements have an even geometric mean.|
 |357419|a(n) is the hafnian of the 2n X 2n symmetric Pascal matrix defined by M[i, j] = A007318(i + j - 2, i - 2).|
 |357420|a(n) is the hafnian of the 2n X 2n symmetric matrix defined by M[i,j] = abs(i - j) if min(i, j) < max(i, j) <= 2*min(i, j), and otherwise 0.|
 |357421|a(n) is the hafnian of the 2n X 2n symmetric matrix whose generic element M[i,j] is equal to the digital root of i*j.|
@@ -22007,7 +22007,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |357446|Number of connected cubic graphs with 2*n nodes and zero edge-Kempe equivalence classes.|
 |357447|Number of connected cubic graphs with 2*n nodes and exactly one edge-Kempe equivalence class.|
 |357473|Number of types of generalized symmetries in diagonal Latin squares of order n|
-|357483|Decimal expansion of sum of squares of reciprocals of primes whose distance to the next prime is equal to 6, Sum_{j>=1} 1/A031924(j)^2.|
+|357483|Decimal expansion of sum of squares of reciprocals of primes whose distance to the next prime is equal to 6, Sum_ j>=1  1/A031924(j)^2.|
 |357493|Numbers k such that s(k) = 3*k, where s(k) is the sum of divisors of k that have a square factor (A162296).|
 |357494|Numbers k such that s(k) = 4*k, where s(k) is the sum of divisors of k that have a square factor (A162296).|
 |357499|Triangle read by rows: T(n,k) is the length of the longest induced path in the n-dimensional hypercube, such that the end points of the path are at Hamming distance k, 0 <= k <= n.|
@@ -22016,7 +22016,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |357503|a(n) is the hafnian of the 2n X 2n symmetric matrix whose element (i,j) equals abs(i-j).|
 |357514|Minimum number of transversals in an orthogonal diagonal Latin square of order n.|
 |357516|Number of snake-like polyominoes in an n X n square that start at the NW corner and end at the SE corner and have the maximum length.|
-|357528|Decimal expansion of Sum_{j>=1} 1/A031926(j)^2.|
+|357528|Decimal expansion of Sum_ j>=1  1/A031926(j)^2.|
 |357582|a(n) = A061300(n+1)/A061300(n).|
 |357592|Number of edges of the Minkowski sum of n simplices with vertices e_(i+1), e_(i+2), e_(i+3) for i=0,...,n-1, where e_i is a standard basis vector.|
 |357593|Number of faces of the Minkowski sum of n simplices with vertices e_(i+1), e_(i+2), e_(i+3) for i=0,...,n-1, where e_i is a standard basis vector.|
@@ -22029,9 +22029,9 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |357678|Numbers k equal to the integer log of the sum of k and its digit reversal.|
 |357741|Semiprimes k such that k is divisible by its index in the sequence of semiprimes.|
 |357742|a(n) is the maximum binary weight of the squares of n-bit numbers.|
-|357766|Number of n X n tables where rows represent distinct permutations of { 1, 2, ..., n } and the column sums are equal.|
-|357767|Number of n X n tables where rows represent distinct permutations of { 1, 2, ..., n } and the column sums are equal, up to permutation of rows.|
-|357768|Number of n X n tables where rows represent distinct permutations of { 1, 2, ..., n } and the column sums are equal, up to permutations of rows and columns.|
+|357766|Number of n X n tables where rows represent distinct permutations of   1, 2, ..., n   and the column sums are equal.|
+|357767|Number of n X n tables where rows represent distinct permutations of   1, 2, ..., n   and the column sums are equal, up to permutation of rows.|
+|357768|Number of n X n tables where rows represent distinct permutations of   1, 2, ..., n   and the column sums are equal, up to permutations of rows and columns.|
 |357808|Semiprimes k such that k is congruent to 4 modulo k's index in the sequence of semiprimes.|
 |357827|Number of automorphisms of the n-folded cube graph.|
 |357855|Number of closed trails starting and ending at a fixed vertex in the complete undirected graph on n labeled vertices.|
@@ -22040,7 +22040,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |357867|Numbers k such that A334499(k) is not divisible by k.|
 |357870|Triangle of integers related to generalized Markov numbers, read by rows.|
 |357888|a(n) is the minimal squared length of the longest side of a strictly convex grid polygon of smallest area.|
-|357891|a(1) = 1; a(n+1) is the smallest integer > 0 that cannot be obtained from the integers {a(1), ..., a(n)} using each number exactly once and the operators +, -, *, /.|
+|357891|a(1) = 1; a(n+1) is the smallest integer > 0 that cannot be obtained from the integers  a(1), ..., a(n)  using each number exactly once and the operators +, -, *, /.|
 |357893|a(d) is the minimal integer k such that all Jensen polynomials Jd,nPL(x) associated to MacMahon's plane partition function PL(n) have real roots for x >= k.|
 |357895|Number of partitions of the complete graph on n vertices into strokes.|
 |357918|Odd numbers that can be written as phi(k) + d(k) for more than one k, where phi(k) = A000010(k) is Euler's totient function and d(k) = A000005(k) is the number of divisors of k.|
@@ -22050,7 +22050,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |358022|Least odd number m such that m*2^n is an amicable number, and -1 if no such number exists.|
 |358041|The number of maximal antichains in the lattice of set partitions of an n-element set.|
 |358044|a(n) is the smallest number k such that n consecutive integers starting at k have the same number of triangular divisors (A007862).|
-|358075|a(1) = 1; a(n+1) is the smallest integer > 0 that cannot be obtained from the integers {a(1), ..., a(n)} using each number exactly once and the operators +, -, *, /, where intermediate subexpressions must be integers.|
+|358075|a(1) = 1; a(n+1) is the smallest integer > 0 that cannot be obtained from the integers  a(1), ..., a(n)  using each number exactly once and the operators +, -, *, /, where intermediate subexpressions must be integers.|
 |358144|Number of strict closure operators on a set of n elements such that all pairs of distinct points can be separated by clopen sets.|
 |358152|Number of strict closure operators on a set of n elements such that every point and every set disjoint from that point can be separated by clopen sets.|
 |358158|a(n) is the hafnian of the 2n X 2n symmetric matrix defined by M[i,j] = floor(i*j/3).|
@@ -22100,7 +22100,7 @@ There are 22104 sequences in the table. Last update is 22/11/2022 13:31:12
 |358455|Number of recursively anti-transitive ordered rooted trees with n nodes.|
 |358456|Number of recursively bi-anti-transitive ordered rooted trees with n nodes.|
 |358460|Number of locally disjoint ordered rooted trees with n nodes.|
-|358464|a(n) is the greatest m such that Sum_{k = 1..m} 1/(1 + n*k) <= 1.|
+|358464|a(n) is the greatest m such that Sum_ k = 1..m  1/(1 + n*k) <= 1.|
 |358485|a(n) is the maximal determinant of an n X n matrix using the integers 0 to n^2 - 1.|
 |358486|a(n) is the minimal permanent of an n X n matrix using the integers 0 to n^2 - 1.|
 |358487|a(n) is the maximal permanent of an n X n matrix using the integers 0 to n^2 - 1.|

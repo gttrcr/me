@@ -5,7 +5,7 @@ There are 115 sequences in the table. Last update is 22/11/2022 13:31:12
 |7998|Number of primitive solutions to x + y + z = 0 (mod n).|
 |11792|Number of directed animals on a certain lattice.|
 |18189|Population of "Triangle" cellular automaton at n-th generation.|
-|28380|a_n = - sum_{i=1..n-1} C(i+1, n-i) (-1)^(n-i) a_i.|
+|28380|a_n = - sum_ i=1..n-1  C(i+1, n-i) (-1)^(n-i) a_i.|
 |35403|Related to Rogers-Ramanujan Identities.|
 |56755|Number of n-celled polyominoes, where the cells are 1 X 2 rectangles with some of the edges of length 2 replaced by curved arcs that either sag inwards or bulge outwards.|
 |56843|Number of polydudes(1): a(n) is the number of polydudes with n cells. See the first link for the source of this sequence. The definition is unknown. Not the same as A091130.|
@@ -84,11 +84,11 @@ There are 115 sequences in the table. Last update is 22/11/2022 13:31:12
 |147513|Numbers such that the n-th and (n+1)st terms are the successors of prime numbers and primes themselves and n+1 > n.|
 |147847|Concerning hypotenuses of triangles such that the sum of the two legs is a perfect square.|
 |147995|Array of N X N grid hopping "almost-walk", read by antidiagonals.|
-|152270|Let f(n)=Floor[Mod[10^k*(7/(4*k + 1) - 6/(4*k + 3) - 1/(4*k + 5)), 3]]; M0 = {{0, 1}, {1, 1/2}}; M = {{0, 2}, {2, 1}}; as Mh=M0.M.(M0+I*f[n]); v[(n)=Mh.v(n-1), then a(n) is the first element of v.|
-|152396|Let f(M,k) denote the decimal concatenation of k numbers starting with M: M | M-1 | M-2 | ... | M-k+1, k > 1. Then a(n) is the smallest M such that for all m in {1,..,n} an m-th prime occurs as f(M,k) for the smallest possible k, order prioritized m = 1 through n.|
-|152602|A symmetrical vector coefficient recursion sequence: a(n)=2*{0,a(n-2,0}+2*{-1/2,a(n-1)}+2*{a(n-1),-1/2}.|
+|152270|Let f(n)=Floor[Mod[10^k*(7/(4*k + 1) - 6/(4*k + 3) - 1/(4*k + 5)), 3]]; M0 =   0, 1 ,  1, 1/2  ; M =   0, 2 ,  2, 1  ; as Mh=M0.M.(M0+I*f[n]); v[(n)=Mh.v(n-1), then a(n) is the first element of v.|
+|152396|Let f(M,k) denote the decimal concatenation of k numbers starting with M: M | M-1 | M-2 | ... | M-k+1, k > 1. Then a(n) is the smallest M such that for all m in  1,..,n  an m-th prime occurs as f(M,k) for the smallest possible k, order prioritized m = 1 through n.|
+|152602|A symmetrical vector coefficient recursion sequence: a(n)=2* 0,a(n-2,0 +2* -1/2,a(n-1) +2* a(n-1),-1/2 .|
 |152722|Triangle read by rows: T(n,0) = prime(n+2), T(n,1) = 1 - T(n,0), T(n,k) = T(n-1,k-1), T(1,0) = 1 T(n,n) = -1,|
-|154382|The basic sequence using the Multi-Symbol Function with M()={+,-,*} indexed by prime numbers.|
+|154382|The basic sequence using the Multi-Symbol Function with M()= +,-,*  indexed by prime numbers.|
 |154606|Numbers n with the property of the enumerated trees without the convex hull.|
 |157608|Array read by antidiagonals, giving number of hexagonal polyominoes embedded in the square lattice of height n and their series expansion by hexagonal cell count.|
 |157926|Coefficients of the first modulo two factor of polynomials of the type: p(x,n)=(x^Prime[n] + 1)/(x + 1).|
@@ -98,13 +98,13 @@ There are 115 sequences in the table. Last update is 22/11/2022 13:31:12
 |159572|A triangular array related to ordered partitions and having row sums 1,2,5,14,43,144,523,2048,8597... A047970.|
 |161787|Number of (undirected) cycles in the graph with nodes labeled 1..n, and nodes i and j joined by an edge if i divides j or vice versa.|
 |164040|2*alpha^4*e^(Pi/(4*alpha))*(e/2)^(1/4), where alpha is the fine structure constant A003673.|
-|166451|Many interesting things occur with this set of five numbers and its relationship to the sets: {34,35,45,46,56} and {34,35,45,46,56,57,35,45,46,56,57}|
+|166451|Many interesting things occur with this set of five numbers and its relationship to the sets:  34,35,45,46,56  and  34,35,45,46,56,57,35,45,46,56,57 |
 |173252|A sequence of coefficients of 3^n when x_n = x_oi.|
 |173777|Infinite sequence gradually builds a triangle plus another more widely spaced triangle on top of it, or overlapping, if you will.|
 |173838|A sequence of coefficients of 3^n, when x = x_oj.|
-|175794|a(n) = Sum_{k=1..n} (-1)^A001620(k).|
+|175794|a(n) = Sum_ k=1..n  (-1)^A001620(k).|
 |177101|The number of cycles in the Vers de Verres game, where 'worms' are transferred between 'cups' in a deterministic fashion. Because this defines a finite-state automaton, we know that every state eventually enters a cycle (or fixed point, which is essentially a cycle of length 1). The number of 'cups' (frequently called 'n') is a parameter for this automaton, and so we count the cycles (and fixed points) with respect to n.|
-|211189|Number of prime divisors formed by {2} and the consecutive Pythagorean primes for the all composites k^2 + 1 between the two primes A002496(n) and A002496(n+1).|
+|211189|Number of prime divisors formed by  2  and the consecutive Pythagorean primes for the all composites k^2 + 1 between the two primes A002496(n) and A002496(n+1).|
 |212420|Known primes such that there are no pairwise coprime solutions to the Diophantine equation of the form x^3 + y^3 = p^a z^n with a >= 1 an integer and n >= p^(2p) prime.|
 |218005|Nonsquare semiprimes p*q (10 excluded) giving record large smallest number p^r * q^s such that each decimal digit appears a prime number of times.|
 |239738|Normal distributions from the primes. The contracted sequence of integers generated from the frequencies of the summation of elements of the subsets of the Cartesian product of the natural numbers of ascending prime cardinality. that is, given a number of sets of the natural numbers of ascending modulo P(n+1), the probabilities of generating a given number from the selection of one element from each set form the given sequence.|
