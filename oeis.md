@@ -9,7 +9,8 @@ I have been using OEIS for research for many years and find it to be a really us
 
 |Task|Description|OEIS request|Sequence list|
 |:-:|:-:|:-:|:-:|
-|Nothing to do|List of sequences allocated for a specific user||[allocated](oeis_mds/allocated.md)|
+|Broken links| This is the list of sequences that contains broken links|
+|Nothing to do|List of sequences allocated for a specific user|Look out for broken links in the OEIS. When you find a bad link, be a detective and track down the new URL.|[allocated](oeis_mds/broken_links.md)|
 ||||[dead](oeis_mds/dead.md)|
 |Check if this list if always empty|Done is a deprecated keyword, than this list must be always empty||[done](oeis_mds/done_keyword.md)|
 |Check if this list if always empty|Dupe is a deprecated keyword, than this list must be always empty||[dupe](oeis_mds/dupe_keyword.md)|
