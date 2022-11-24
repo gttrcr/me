@@ -1,8 +1,7 @@
 ---
-title-heading: false
+layout: post
+title: Research
 ---
-
-## Research
 
 ## Number theory and discrete mathematics
 * [Gatti, R. Gilbreath Sequences and Proof of Conditions for Gilbreath Conjecture. Preprints 2020, 2020030145](https://www.preprints.org/manuscript/202003.0145/v3)
