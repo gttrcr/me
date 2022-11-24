@@ -1,4 +1,3 @@
-# Obscure sequences
-There are 115 sequences in the table. Last update is 22/11/2022 13:31:12
+# Obscure sequencesThere are 115 sequences in the table. Last update is 22/11/2022 13:31:12
 |Number||Number||Number||Number|
 |-|-|-|-|-|-|-|
