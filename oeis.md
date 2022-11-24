@@ -21,6 +21,6 @@ I have been using OEIS for research for many years and find it to be a really us
 |Add maple code|[maple](https://www.maplesoft.com/) is a mathemas-based software used to compute terms of sequences|Add code|[maple](oeis_mds/need_maple.md)|
 |Add mathematica code|[mathematica](https://www.maplesoft.com/) is a mathematics-based software used to compute terms of sequences|Add code|[mathematica](oeis_mds/need_mathematica.md)|
 |Add more terms|List of sequences that needs more terms| Add more terms|[more terms](oeis_mds/need_more_terms.md)|
-|Make the sequence more understandable|obsc is keyword used by OEIS to identity an obscure sequence, indicates that a description is known, but it may be difficult to understand or not very enlightening. (If no description at all is known for the sequence, keyword:unkn should be used.)||[obscure](oeis_mds/obsc.md)|
+|Make the sequence more understandable|obsc is keyword used by OEIS to identity an obscure sequence, indicates that a description is known, but it may be difficult to understand or not very enlightening. (If no description at all is known for the sequence, keyword:unkn should be used.)||[obscure](oeis_mds/obsc_sequences.md)|
 ||||[part](oeis_mds/part_keywords.md)|
 ||||[uned](oeis_mds/uned_sequences.md)|
