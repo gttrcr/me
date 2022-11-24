@@ -1,1 +1,4 @@
-# Portfolio
+---
+layout: page
+title: Portfolio
+---

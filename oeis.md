@@ -1,4 +1,7 @@
-# OEIS
+---
+layout: page
+title: OEIS
+---
 
 ## This section is dedicated to the contributions to the OEIS
 
