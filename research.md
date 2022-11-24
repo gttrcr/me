@@ -1,6 +1,5 @@
 ---
-layout: home
-list_title: ' '
+title-heading: false
 ---
 
 # Research
