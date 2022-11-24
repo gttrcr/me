@@ -1,6 +1,6 @@
 # Research
 
-## Number theory and discrete mathematics
+## Number theory and discrete mathematics title
 * [Gatti, R. Gilbreath Sequences and Proof of Conditions for Gilbreath Conjecture. Preprints 2020, 2020030145](https://www.preprints.org/manuscript/202003.0145/v3)
 * [OEIS Foundation Inc. (2022), Triangle read by rows where row m is the m-th Gilbreath polynomial and column n is the numerator of the coefficient of the n-th degree term., Entry A347924 in The On-Line Encyclopedia of Integer Sequences, http://oeis.org/A347924.](http://oeis.org/A347924)
 * [OEIS Foundation Inc. (2022), a(n) is the lowest common denominator of n-th Gilbreath polynomial., Entry A347925 in The On-Line Encyclopedia of Integer Sequences, http://oeis.org/A347925.](http://oeis.org/A347925)
