@@ -5,3 +5,5 @@ header_pages:
   - portfolio.md
   - research.md
   - oeis.md
+minima:
+  skin: dark
