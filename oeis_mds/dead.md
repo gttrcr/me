@@ -4,6 +4,7 @@ title: Dead sequences
 ---
 
 There are 1755 sequences in the table. Last update is 22/11/2022 13:31:12
+
 |Number||Number||Number||Number|
 |-|-|-|-|-|-|-|
 |[17](https://oeis.org/A000017)||[154](https://oeis.org/A000154)||[381](https://oeis.org/A000381)||[783](https://oeis.org/A000783)|

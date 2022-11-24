@@ -4,6 +4,7 @@ title: Sequences with look deprecated keyword
 ---
 
 There are 3300 sequences in the table. Last update is 22/11/2022 13:31:12
+
 |Number||Number||Number||Number|
 |-|-|-|-|-|-|-|
 |[30](https://oeis.org/A000030)||[119](https://oeis.org/A000119)||[120](https://oeis.org/A000120)||[360](https://oeis.org/A000360)|
