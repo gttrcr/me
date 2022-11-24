@@ -3,7 +3,6 @@ layout: page
 title: Sequences that needs examples
 ---
 There are 33 sequences in the table. Last update is 22/11/2022 13:31:12
-
 |Number||Number||Number||Number|
 |-|-|-|-|-|-|-|
 |[2875](https://oeis.org/A002875)||[7458](https://oeis.org/A007458)||[7762](https://oeis.org/A007762)||[11792](https://oeis.org/A011792)|
