@@ -1,3 +1,7 @@
-# Sequences that needs mathematica codeThere are 175449 sequences in the table. Last update is 22/11/2022 13:31:12
+---
+layout: page
+title: Sequences that needs mathematica code
+---
+There are 175449 sequences in the table. Last update is 22/11/2022 13:31:12
 |Number||Number||Number||Number|
 |-|-|-|-|-|-|-|
