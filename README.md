@@ -25,4 +25,5 @@ This sentence from Kant was my starting point from which I discovered the greatn
 ## Other issues
 
 ## Public conferences
-
+* [Il peso dell'universo, pesi e misure del nostro mondo](https://www.youtube.com/watch?v=nFTdi6EMYgg)
+* [Dall'effetto doppler ai buchi neri](https://www.youtube.com/watch?v=_kMhOes90vw)
