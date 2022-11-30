@@ -1,10 +1,3 @@
----
-layout: page
-title: gttrcr website
----
-
-## *Always looking for something I don't know*
-
 Co-Founder and senior researcher: my research activity in mathematics ranges from number theory to Riemannian manifolds. I have a great passion for physics and computer science but I have always thought that mathematics was the art of ideas, the study of the logic of thought under which it was possible to describe what the human intellect knows and communicates.
 
 *All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.*
