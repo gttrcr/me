@@ -9,6 +9,11 @@ I have been using OEIS for research for many years and find it to be a really us
 
 I am still working of the [broken](oeis_mds/broken_links.md) list because it is a slightly longer and more complicated process check every link, but the list is updated daily until all sequences have been checked by a software. All lists are updated every month. I cannot, for the moment, guarantee the precise day on which the update is carried out but certainly the time between one update and the next is less than 30 days.
 
+## Future works
+
+* improved broken link search algorithm (the algorithm will improve and the list will become more complete, now the search includes the sequences from 1 to 500)
+* search for incorrect mathematica codes
+
 |Task|Description|OEIS request|Sequence list|
 |:-:|:-:|:-:|:-:|
 |Broken links| This is the list of sequences that contains broken links|Fix broken links|[broken](oeis_mds/broken_links.md)|
