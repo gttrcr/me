@@ -20,9 +20,9 @@ This sentence from Kant was my starting point from which I discovered the greatn
 * [OEIS Foundation Inc. (2022), a(n) is the lowest common denominator of n-th Gilbreath polynomial., Entry A347925 in The On-Line Encyclopedia of Integer Sequences, http://oeis.org/A347925.](http://oeis.org/A347925)
 * [All OEIS contributions](https://oeis.org/search?q=author:_riccardo+gatti_)
 
-## Knowledge theory
+<!--## Knowledge theory-->
 
-## Other issues
+<!--## Other issues-->
 
 ## Public conferences
 * [Il peso dell'universo, pesi e misure del nostro mondo](https://www.youtube.com/watch?v=nFTdi6EMYgg)
