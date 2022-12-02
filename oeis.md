@@ -24,11 +24,11 @@ The code for this OEIS sanitization can be found [here](https://github.com/gttrc
 |Check if this list if always empty|Done is a deprecated keyword, than this list must be always empty||[done](oeis_mds/done_keyword.md)|
 |Check if this list if always empty|Dupe is a deprecated keyword, than this list must be always empty||[dupe](oeis_mds/dupe_keyword.md)|
 |Check if this list if always empty|Huge is a deprecated keyword, than this list must be always empty||[huge](oeis_mds/huge_keyword.md)|
-|Nothing to do|Look is used by OEIS on sequences, where a link to the page showing a pin plot and scatter plot is helpfu||[look](oeis_mds/look_keywords.md)|
+|Nothing to do|Look is used by OEIS on sequences, where a link to the page showing a pin plot and scatter plot is helpful||[look](oeis_mds/look_keywords.md)|
 |Add some example|List of sequences that needs some example||[examples](oeis_mds/need_examples.md)|
 |must be known|What happens when the Editors of the OEIS don't know any information about the sequence? The sequence is then usually added to the OEIS but given keyword:unkn, in the hope that someone will come along who does know the answer.|what is its provenance?|[unkn](oeis_mds/need_knowledge.md)
 |Add maple code|[maple](https://www.maplesoft.com/) is a mathemas-based software used to compute terms of sequences|Add code|[maple](oeis_mds/need_maple.md)|
-|Add mathematica code|[mathematica](https://www.maplesoft.com/) is a mathematics-based software used to compute terms of sequences|Add code|[mathematica](oeis_mds/need_mathematica.md)|
+|Add mathematica code|[mathematica](https://www.wolfram.com/mathematica/) is a mathematics-based software used to compute terms of sequences|Add code|[mathematica](oeis_mds/need_mathematica.md)|
 |Add more terms|List of sequences that needs more terms| Add more terms|[more terms](oeis_mds/need_more_terms.md)|
 |Make the sequence more understandable|obsc is keyword used by OEIS to identity an obscure sequence, indicates that a description is known, but it may be difficult to understand or not very enlightening. (If no description at all is known for the sequence, keyword:unkn should be used.)||[obscure](oeis_mds/obsc_sequences.md)|
 ||||[part](oeis_mds/part_keywords.md)|

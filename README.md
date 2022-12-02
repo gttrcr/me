@@ -25,5 +25,54 @@ This sentence from Kant was my starting point from which I discovered the greatn
 <!--## Other issues-->
 
 ## Public conferences
-* [Il peso dell'universo, pesi e misure del nostro mondo](https://www.youtube.com/watch?v=nFTdi6EMYgg)
-* [Dall'effetto doppler ai buchi neri](https://www.youtube.com/watch?v=_kMhOes90vw)
+* [Il peso dell'universo, pesi e misure del nostro mondo (ita)](https://www.youtube.com/watch?v=nFTdi6EMYgg)
+* [Dall'effetto doppler ai buchi neri (ita)](https://www.youtube.com/watch?v=_kMhOes90vw)
+
+<!--
+## Remarkable references
+|Reference|
+|-|
+|[A Primer of Mathematical Writing.pdf](link)|
+|[A Table of Integrals of the Error Functions.pdf](link)|
+|[A Tutorial on Fisher Information.pdf](link)|
+|[Cayley's hyperdeterminant a combinatorial approach via representation theory.pdf](link)|
+|[David Hilbert and the Axiomatization of Physics.pdf](link)|
+|[Discriminants, Resultants, and Multidimensional Determinants.pdf](link)|
+|[Energy and entropy Path from game theory to statistical mechanics.pdf](link)|
+|[Entropy Games and Matrix Multiplication Games.pdf](link)|
+|[Exact Solutions of Einstein’s Field Equations.pdf](link)|
+|[F-Information, a Unitless Variant of Fisher Information.pdf](link)|
+|[Fisher Information Properties.pdf](link)|
+|[Game theory, maximum entropy, minimum discrepancy and robust bayesian decision theory.pdf](link)|
+|[General Relativity An Introduction to Black Holes, Gravitational Waves, and Cosmology.pdf](link)|
+|[Gravitation.pdf](link)|
+|[Hilbert's 6th problem exact and approximate hydrodynamic manifolds for kinetic equations.pdf](link)|
+|[Hilbert’s sixth problem.pdf](link)|
+|[How to write and publish a math paper.pdf](link)|
+|[Hyperdeterminant and Tensor Rank.pdf](link)|
+|[Hyperdeterminants and symmetric functions.pdf](link)|
+|[Hyperdeterminants.pdf](link)|
+|[Introduction to the hyperdeterminant and to the rank of multidimensional matrices.pdf](link)|
+|[Lectures on the Geometry of Quantization.pdf](link)|
+|[Mathematische Probleme.pdf](link)|
+|[Meijer G Function Representations.pdf](link)|
+|[Most Tensor Problems Are NP-Hard.pdf](link)|
+|[New directions in enumerative chess problems.pdf](link)|
+|[Physics from Fisher Information.pdf](link)|
+|[Probability density of determinants of random matrices.pdf](link)|
+|[Product of n independent Uniform Random Variables.pdf](link)|
+|[Random matrices law of determinant.pdf](link)|
+|[Singularities of hyperdeterminants.pdf](link)|
+|[Software diversity Security, Entropy and Game Theory.pdf](link)|
+|[Spectra of uniform hypergraph.pdf](link)|
+|[Tensors and hypermatrices.pdf](link)|
+|[The Distribution of the Sum and the Product of Independent Uniform Random Variables Distributed at Different Intervals.pdf](link)|
+|[The Wave Equation in 3 Dimensions.pdf](link)|
+|[The gravitational field equations.pdf](link)|
+|[The heat and wave equations in 2D and 3D.pdf](link)|
+|[The heat equation.pdf](link)|
+|[The operator approach to entropy games.pdf](link)|
+|[The two dimensional heat equation.pdf](link)|
+|[The two dimensional wave equation.pdf](link)|
+|[Uber iterirte functionen.pdf](link)|
+-->
