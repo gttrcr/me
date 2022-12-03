@@ -5,4 +5,7 @@ google_analytics: G-YT63QQMRMS
 header_pages:
   - blog.md
   - oeis.md
-  
+social_links:
+  - platform: linkedin
+    user_url: "https://www.linkedin.com/in/gttrcr/"
+    title: linkedin
