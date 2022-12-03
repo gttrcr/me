@@ -18,6 +18,6 @@ The majority of scientific researches and publications are produced by people wh
 
 Just to mention the most interesting articles.
 
-*So there are many people with a degree who, driven by their work or passion, would like to be able to carry on their research, and perhaps publish it if it leads to interesting results.*
+*So there are many people with a degree, or more, who, driven by their work or passion, would like to be able to carry on their research, and perhaps publish it if it leads to interesting results.*
 
-This is the starting point of my proposal.
+<!--This is the starting point of my proposal.-->
