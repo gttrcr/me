@@ -1,6 +1,8 @@
 title: gttrcr
 description: physics studies the universe, mathematics ideas, philosophy the spirit
 theme: minima
+google_analytics: G-G5D2H4EWKE
 header_pages:
+  - blog.md
   - oeis.md
   
