@@ -3,24 +3,22 @@ layout: page
 title: Sequences that contains broken links
 ---
 
-There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
+There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 
 |Number|Links|
 |-|-|
 |[5](https://oeis.org/A000005)|[http://www.jordanbell.org/history/lambert.pdf](http://www.jordanbell.org/history/lambert.pdf), [http://www.math.uncc.edu/~hbreiter/DivisorsLasVegas.pdf](http://www.math.uncc.edu/~hbreiter/DivisorsLasVegas.pdf)|
 |[8](https://oeis.org/A000008)|[http://ecs.inria.fr/services/structure?nbr=174](http://ecs.inria.fr/services/structure?nbr=174)|
 |[9](https://oeis.org/A000009)|[http://ecs.inria.fr/services/structure?nbr=108](http://ecs.inria.fr/services/structure?nbr=108)|
-|[10](https://oeis.org/A000010)|[http://arXiv.org/abs/math.NT/9907204](http://arXiv.org/abs/math.NT/9907204)|
-|[27](https://oeis.org/A000027)|[http://everything2.net/index.pl?node_id=17633&amp](http://everything2.net/index.pl?node_id=17633&amp), [http://sunsite.utk.edu/math_archives/.http/hypermail/historia/may99/0210.html](http://sunsite.utk.edu/math_archives/.http/hypermail/historia/may99/0210.html), [http://users.pipeline.com.au/owen/Numbers.html](http://users.pipeline.com.au/owen/Numbers.html)|
+|[27](https://oeis.org/A000027)|[http://sunsite.utk.edu/math_archives/.http/hypermail/historia/may99/0210.html](http://sunsite.utk.edu/math_archives/.http/hypermail/historia/may99/0210.html), [http://everything2.net/index.pl?node_id=17633&amp](http://everything2.net/index.pl?node_id=17633&amp), [http://users.pipeline.com.au/owen/Numbers.html](http://users.pipeline.com.au/owen/Numbers.html)|
 |[29](https://oeis.org/A000029)|[https://doi.org/10.1364/OE.24.001133](https://doi.org/10.1364/OE.24.001133)|
 |[31](https://oeis.org/A000031)|[http://ecs.inria.fr/services/structure?nbr=2](http://ecs.inria.fr/services/structure?nbr=2), [http://ecs.inria.fr/services/structure?nbr=130](http://ecs.inria.fr/services/structure?nbr=130)|
-|[32](https://oeis.org/A000032)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf), [http://arXiv.org/abs/math.NT/0204173](http://arXiv.org/abs/math.NT/0204173)|
+|[32](https://oeis.org/A000032)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
 |[34](https://oeis.org/A000034)|[http://ecs.inria.fr/services/structure?nbr=383](http://ecs.inria.fr/services/structure?nbr=383)|
 |[38](https://oeis.org/A000038)|[http://www.gutenberg.org/ebooks/3651](http://www.gutenberg.org/ebooks/3651)|
-|[40](https://oeis.org/A000040)|[http://www.gutenberg.org/etext/65](http://www.gutenberg.org/etext/65), [http://everything2.net/index.pl?node_id=74889&amp](http://everything2.net/index.pl?node_id=74889&amp), [http://arXiv.org/abs/math.NT/0211334](http://arXiv.org/abs/math.NT/0211334), [http://arXiv.org/abs/math.HO/0501118](http://arXiv.org/abs/math.HO/0501118), [http://arXiv.org/abs/math.NT/0210282](http://arXiv.org/abs/math.NT/0210282), [http://wwwmaths.anu.edu.au/~brent/pub/pub120.html](http://wwwmaths.anu.edu.au/~brent/pub/pub120.html), [http://britton.disted.camosun.bc.ca/jbprimelist.htm](http://britton.disted.camosun.bc.ca/jbprimelist.htm), [http://www.flonnet.com/fl1917/19171290.htm](http://www.flonnet.com/fl1917/19171290.htm), [http://arXiv.org/abs/math.HO/0512143](http://arXiv.org/abs/math.HO/0512143), [http://arXiv.org/abs/math.NT/0210312](http://arXiv.org/abs/math.NT/0210312), [http://arXiv.org/abs/math.NT/0506067](http://arXiv.org/abs/math.NT/0506067), [http://members.cox.net/mathmistakes/primes.htm](http://members.cox.net/mathmistakes/primes.htm), [http://campmath.uqam.ca/infos2004/conf_double.pdf](http://campmath.uqam.ca/infos2004/conf_double.pdf), [http://campmath.uqam.ca/2005/nbPremMysEnj.pdf](http://campmath.uqam.ca/2005/nbPremMysEnj.pdf), [http://www.maths.ex.ac.uk/~mwatkins/zeta/unusual.htm](http://www.maths.ex.ac.uk/~mwatkins/zeta/unusual.htm), [http://w210.Ub.uni-tuebingen.de/dbt/volltexte/2001/420/pdf/dissertation.pdf](http://w210.Ub.uni-tuebingen.de/dbt/volltexte/2001/420/pdf/dissertation.pdf)|
-|[41](https://oeis.org/A000041)|[http://www-ang.kfunigraz.ac.at/~fripert/fga/k1partn.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1partn.html), [http://rgp.ufl.edu/explore/v05n2/math.html](http://rgp.ufl.edu/explore/v05n2/math.html), [http://citeseer.nj.nec.com/correct/513487](http://citeseer.nj.nec.com/correct/513487), [http://arXiv.org/abs/math-ph/0307033](http://arXiv.org/abs/math-ph/0307033), [http://pubmedcentral.com/articlerender.fcgi?artid=1266147](http://pubmedcentral.com/articlerender.fcgi?artid=1266147), [http://www2.rowan.edu/mars/depts/math/HASSEN/NT/Playpart.html](http://www2.rowan.edu/mars/depts/math/HASSEN/NT/Playpart.html), [http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf](http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf), [http://wsgfl.westsussex.gov.uk/maths/Ramanujan.htm](http://wsgfl.westsussex.gov.uk/maths/Ramanujan.htm), [http://ecs.inria.fr/services/structure?nbr=61](http://ecs.inria.fr/services/structure?nbr=61), [http://www.math.niu.edu/~rusin/known-math/95/partitions](http://www.math.niu.edu/~rusin/known-math/95/partitions), [http://10.1007/s11139-006-9576-1](http://10.1007/s11139-006-9576-1), [http://ecs.inria.fr/services/structure?nbr=74](http://ecs.inria.fr/services/structure?nbr=74)|
-|[43](https://oeis.org/A000043)|[http://arXiv.org/abs/math.HO/0501118](http://arXiv.org/abs/math.HO/0501118)|
-|[45](https://oeis.org/A000045)|[http://education.lanl.gov/RESOURCES/ATPS/CHPTR02/P011.HTM](http://education.lanl.gov/RESOURCES/ATPS/CHPTR02/P011.HTM), [http://www.branta.connectfree.co.uk/fibonacci.htm](http://www.branta.connectfree.co.uk/fibonacci.htm), [http://ccins.camosun.bc.ca/~jbritton/fibonacci/jbfibapplet.htm](http://ccins.camosun.bc.ca/~jbritton/fibonacci/jbfibapplet.htm), [http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205), [http://www.newton.cam.ac.uk/wmy2kposters/january](http://www.newton.cam.ac.uk/wmy2kposters/january), [http://library.thinkquest.org/27890/theSeries.html](http://library.thinkquest.org/27890/theSeries.html), [http://arXiv.org/abs/physics/0411195](http://arXiv.org/abs/physics/0411195), [http://www.users.bigpond.net.au/renton/903.htm](http://www.users.bigpond.net.au/renton/903.htm), [http://ecs.inria.fr/services/structure?nbr=9](http://ecs.inria.fr/services/structure?nbr=9), [http://www.math.northwestern.edu/~mlerma/problem_solving/results/recurrences.pdf](http://www.math.northwestern.edu/~mlerma/problem_solving/results/recurrences.pdf), [http://arXiv.org/abs/0710.3765](http://arXiv.org/abs/0710.3765), [http://www.cs.uwaterloo.ca/journals/JIS/VOL9/Spivey/spivey7.html](http://www.cs.uwaterloo.ca/journals/JIS/VOL9/Spivey/spivey7.html), [http://pw1.netcom.com/~merrills/fibphi.html](http://pw1.netcom.com/~merrills/fibphi.html), [http://202.195.112.2/xsjl/szh/ConFn.pdf](http://202.195.112.2/xsjl/szh/ConFn.pdf), [http://thesaurus.maths.org/dictionary/map/word/3788](http://thesaurus.maths.org/dictionary/map/word/3788)|
+|[40](https://oeis.org/A000040)|[http://wwwmaths.anu.edu.au/~brent/pub/pub120.html](http://wwwmaths.anu.edu.au/~brent/pub/pub120.html), [http://britton.disted.camosun.bc.ca/jbprimelist.htm](http://britton.disted.camosun.bc.ca/jbprimelist.htm), [http://www.gutenberg.org/etext/65](http://www.gutenberg.org/etext/65), [http://everything2.net/index.pl?node_id=74889&amp](http://everything2.net/index.pl?node_id=74889&amp), [http://www.flonnet.com/fl1917/19171290.htm](http://www.flonnet.com/fl1917/19171290.htm), [http://members.cox.net/mathmistakes/primes.htm](http://members.cox.net/mathmistakes/primes.htm), [http://campmath.uqam.ca/infos2004/conf_double.pdf](http://campmath.uqam.ca/infos2004/conf_double.pdf), [http://campmath.uqam.ca/2005/nbPremMysEnj.pdf](http://campmath.uqam.ca/2005/nbPremMysEnj.pdf), [http://www.maths.ex.ac.uk/~mwatkins/zeta/unusual.htm](http://www.maths.ex.ac.uk/~mwatkins/zeta/unusual.htm), [http://w210.Ub.uni-tuebingen.de/dbt/volltexte/2001/420/pdf/dissertation.pdf](http://w210.Ub.uni-tuebingen.de/dbt/volltexte/2001/420/pdf/dissertation.pdf)|
+|[41](https://oeis.org/A000041)|[http://www-ang.kfunigraz.ac.at/~fripert/fga/k1partn.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1partn.html), [http://rgp.ufl.edu/explore/v05n2/math.html](http://rgp.ufl.edu/explore/v05n2/math.html), [http://citeseer.nj.nec.com/correct/513487](http://citeseer.nj.nec.com/correct/513487), [http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf](http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf), [http://www2.rowan.edu/mars/depts/math/HASSEN/NT/Playpart.html](http://www2.rowan.edu/mars/depts/math/HASSEN/NT/Playpart.html), [http://wsgfl.westsussex.gov.uk/maths/Ramanujan.htm](http://wsgfl.westsussex.gov.uk/maths/Ramanujan.htm), [http://pubmedcentral.com/articlerender.fcgi?artid=1266147](http://pubmedcentral.com/articlerender.fcgi?artid=1266147), [http://ecs.inria.fr/services/structure?nbr=61](http://ecs.inria.fr/services/structure?nbr=61), [http://10.1007/s11139-006-9576-1](http://10.1007/s11139-006-9576-1), [http://ecs.inria.fr/services/structure?nbr=74](http://ecs.inria.fr/services/structure?nbr=74)|
+|[45](https://oeis.org/A000045)|[http://education.lanl.gov/RESOURCES/ATPS/CHPTR02/P011.HTM](http://education.lanl.gov/RESOURCES/ATPS/CHPTR02/P011.HTM), [https://cs.uwaterloo.ca/journals/JIS/VOL21/Munagi/munagi10.html](https://cs.uwaterloo.ca/journals/JIS/VOL21/Munagi/munagi10.html), [http://www.branta.connectfree.co.uk/fibonacci.htm](http://www.branta.connectfree.co.uk/fibonacci.htm), [http://ccins.camosun.bc.ca/~jbritton/fibonacci/jbfibapplet.htm](http://ccins.camosun.bc.ca/~jbritton/fibonacci/jbfibapplet.htm), [http://www.newton.cam.ac.uk/wmy2kposters/january](http://www.newton.cam.ac.uk/wmy2kposters/january), [https://statweb.stanford.edu/~cgates/PERSI/papers/sequential_sampling_10.pdf](https://statweb.stanford.edu/~cgates/PERSI/papers/sequential_sampling_10.pdf), [http://library.thinkquest.org/27890/theSeries.html](http://library.thinkquest.org/27890/theSeries.html), [http://www.users.bigpond.net.au/renton/903.htm](http://www.users.bigpond.net.au/renton/903.htm), [http://ecs.inria.fr/services/structure?nbr=9](http://ecs.inria.fr/services/structure?nbr=9), [http://statweb.stanford.edu/~cgates/PERSI/papers/probabilizing-fibonacci.pdf](http://statweb.stanford.edu/~cgates/PERSI/papers/probabilizing-fibonacci.pdf), [http://pw1.netcom.com/~merrills/fibphi.html](http://pw1.netcom.com/~merrills/fibphi.html), [http://202.195.112.2/xsjl/szh/ConFn.pdf](http://202.195.112.2/xsjl/szh/ConFn.pdf), [http://thesaurus.maths.org/dictionary/map/word/3788](http://thesaurus.maths.org/dictionary/map/word/3788), [http://www-irma.u-strasbg.fr/~foata/paper/pub71.html](http://www-irma.u-strasbg.fr/~foata/paper/pub71.html)|
 |[48](https://oeis.org/A000048)|[http://abel.harvard.edu/archive/118r_spring_05/docs/may.pdf](http://abel.harvard.edu/archive/118r_spring_05/docs/may.pdf)|
 |[51](https://oeis.org/A000051)|[http://ecs.inria.fr/services/structure?nbr=114](http://ecs.inria.fr/services/structure?nbr=114), [http://ecs.inria.fr/services/structure?nbr=362](http://ecs.inria.fr/services/structure?nbr=362)|
 |[55](https://oeis.org/A000055)|[http://www.arbelos.co.uk/Papers/Enumerating-nets.pdf](http://www.arbelos.co.uk/Papers/Enumerating-nets.pdf)|
@@ -28,90 +26,77 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[66](https://oeis.org/A000066)|[http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
 |[70](https://oeis.org/A000070)|[http://ecs.inria.fr/services/structure?nbr=113](http://ecs.inria.fr/services/structure?nbr=113), [http://ecs.inria.fr/services/structure?nbr=126](http://ecs.inria.fr/services/structure?nbr=126)|
 |[71](https://oeis.org/A000071)|[http://ecs.inria.fr/services/structure?nbr=384](http://ecs.inria.fr/services/structure?nbr=384)|
-|[73](https://oeis.org/A000073)|[http://ecs.inria.fr/services/structure?nbr=10](http://ecs.inria.fr/services/structure?nbr=10), [http://toc.ui.ac.ir/article_24437.html](http://toc.ui.ac.ir/article_24437.html)|
+|[73](https://oeis.org/A000073)|[https://statweb.stanford.edu/~cgates/PERSI/papers/sequential_sampling_10.pdf](https://statweb.stanford.edu/~cgates/PERSI/papers/sequential_sampling_10.pdf), [http://ecs.inria.fr/services/structure?nbr=10](http://ecs.inria.fr/services/structure?nbr=10)|
 |[78](https://oeis.org/A000078)|[http://ecs.inria.fr/services/structure?nbr=11](http://ecs.inria.fr/services/structure?nbr=11)|
-|[79](https://oeis.org/A000079)|[http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf](http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf), [http://ecs.inria.fr/services/structure?nbr=6](http://ecs.inria.fr/services/structure?nbr=6), [http://ecs.inria.fr/services/structure?nbr=68](http://ecs.inria.fr/services/structure?nbr=68), [http://ecs.inria.fr/services/structure?nbr=72](http://ecs.inria.fr/services/structure?nbr=72), [http://ecs.inria.fr/services/structure?nbr=267](http://ecs.inria.fr/services/structure?nbr=267)|
+|[79](https://oeis.org/A000079)|[http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf](http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf), [http://cdli.ucla.edu/search/search_results.php?SearchMode=Text&amp](http://cdli.ucla.edu/search/search_results.php?SearchMode=Text&amp), [http://ecs.inria.fr/services/structure?nbr=6](http://ecs.inria.fr/services/structure?nbr=6), [http://ecs.inria.fr/services/structure?nbr=68](http://ecs.inria.fr/services/structure?nbr=68), [http://ecs.inria.fr/services/structure?nbr=72](http://ecs.inria.fr/services/structure?nbr=72), [http://ecs.inria.fr/services/structure?nbr=267](http://ecs.inria.fr/services/structure?nbr=267)|
 |[81](https://oeis.org/A000081)|[http://www.theory.cs.uvic.ca/~cos/inf/tree/RootedTree.html](http://www.theory.cs.uvic.ca/~cos/inf/tree/RootedTree.html), [http://ecs.inria.fr/services/structure?nbr=57](http://ecs.inria.fr/services/structure?nbr=57)|
-|[84](https://oeis.org/A000084)|[http://arXiv.org/abs/cond-mat/9707023](http://arXiv.org/abs/cond-mat/9707023)|
-|[85](https://oeis.org/A000085)|[http://arXiv.org/abs/quant-ph/0409152](http://arXiv.org/abs/quant-ph/0409152), [http://arXiv.org/abs/quant-ph/0405103](http://arXiv.org/abs/quant-ph/0405103), [http://arXiv.org/abs/quant-ph/0310174](http://arXiv.org/abs/quant-ph/0310174), [http://129.81.170.14/~vhm/papers_html/invo-may12.pdf](http://129.81.170.14/~vhm/papers_html/invo-may12.pdf), [http://ecs.inria.fr/services/structure?nbr=22](http://ecs.inria.fr/services/structure?nbr=22), [http://ecs.inria.fr/services/structure?nbr=17](http://ecs.inria.fr/services/structure?nbr=17)|
+|[85](https://oeis.org/A000085)|[http://129.81.170.14/~vhm/papers_html/invo-may12.pdf](http://129.81.170.14/~vhm/papers_html/invo-may12.pdf), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://ecs.inria.fr/services/structure?nbr=17](http://ecs.inria.fr/services/structure?nbr=17), [http://ecs.inria.fr/services/structure?nbr=22](http://ecs.inria.fr/services/structure?nbr=22)|
 |[88](https://oeis.org/A000088)|[http://www.roard.com/docs/cookbook/cbsu5.html#x8-170001.5](http://www.roard.com/docs/cookbook/cbsu5.html#x8-170001.5)|
 |[96](https://oeis.org/A000096)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm), [http://ecs.inria.fr/services/structure?nbr=1018](http://ecs.inria.fr/services/structure?nbr=1018)|
+|[105](https://oeis.org/A000105)|[https://doi.org/10.5445/IR/1000082991](https://doi.org/10.5445/IR/1000082991)|
 |[106](https://oeis.org/A000106)|[http://ecs.inria.fr/services/structure?nbr=385](http://ecs.inria.fr/services/structure?nbr=385)|
 |[107](https://oeis.org/A000107)|[http://ecs.inria.fr/services/structure?nbr=123](http://ecs.inria.fr/services/structure?nbr=123)|
-|[108](https://oeis.org/A000108)|[http://arXiv.org/abs/math.CO/0405597](http://arXiv.org/abs/math.CO/0405597), [http://arXiv.org/abs/math.CO/0610234](http://arXiv.org/abs/math.CO/0610234), [http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301), [http://arXiv.org/abs/math.CO/0612572](http://arXiv.org/abs/math.CO/0612572), [http://ecs.inria.fr/services/structure?nbr=48](http://ecs.inria.fr/services/structure?nbr=48), [http://ecs.inria.fr/services/structure?nbr=52](http://ecs.inria.fr/services/structure?nbr=52), [http://ecs.inria.fr/services/structure?nbr=71](http://ecs.inria.fr/services/structure?nbr=71), [http://ecs.inria.fr/services/structure?nbr=76](http://ecs.inria.fr/services/structure?nbr=76), [http://ecs.inria.fr/services/structure?nbr=284](http://ecs.inria.fr/services/structure?nbr=284)|
-|[110](https://oeis.org/A000110)|[http://spectacle.berkeley.edu/~fiorillo/7genjimon.html](http://spectacle.berkeley.edu/~fiorillo/7genjimon.html), [http://www-ang.kfunigraz.ac.at/~fripert/fga/k1bell.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1bell.html), [http://www.iteratedfunctions.com/Combinatorics/index.html](http://www.iteratedfunctions.com/Combinatorics/index.html), [http://arXiv.org/abs/quant-ph/0212072](http://arXiv.org/abs/quant-ph/0212072), [http://arXiv.org/abs/math.CO/0612572](http://arXiv.org/abs/math.CO/0612572), [http://arXiv.org/abs/physics/9712026](http://arXiv.org/abs/physics/9712026), [http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027), [http://arXiv.org/abs/quant-ph/0409152](http://arXiv.org/abs/quant-ph/0409152), [http://arXiv.org/abs/quant-ph/0310174](http://arXiv.org/abs/quant-ph/0310174), [http://arXiv.org/abs/quant-ph/0312202](http://arXiv.org/abs/quant-ph/0312202), [http://arXiv.org/abs/quant-ph/0409082](http://arXiv.org/abs/quant-ph/0409082), [http://arXiv.org/abs/math.CO/0506358](http://arXiv.org/abs/math.CO/0506358), [http://ecs.inria.fr/services/structure?nbr=291](http://ecs.inria.fr/services/structure?nbr=291), [http://arXiv.org/abs/math.CO/0110036](http://arXiv.org/abs/math.CO/0110036), [http://arXiv.org/abs/0708.3301](http://arXiv.org/abs/0708.3301), [http://plaza27.mbn.or.jp/~921/kumiko/genjiko/genjikou.html](http://plaza27.mbn.or.jp/~921/kumiko/genjiko/genjikou.html), [http://ecs.inria.fr/services/structure?nbr=15](http://ecs.inria.fr/services/structure?nbr=15), [http://ecs.inria.fr/services/structure?nbr=65](http://ecs.inria.fr/services/structure?nbr=65), [http://ecs.inria.fr/services/structure?nbr=73](http://ecs.inria.fr/services/structure?nbr=73)|
-|[111](https://oeis.org/A000111)|[http://arXiv.org/abs/math.CA/0101168](http://arXiv.org/abs/math.CA/0101168), [http://arXiv.org/abs/math.NT/0109108](http://arXiv.org/abs/math.NT/0109108)|
+|[108](https://oeis.org/A000108)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://dmg.tuwien.ac.at/mwallner/files/lpintro.pdf](http://dmg.tuwien.ac.at/mwallner/files/lpintro.pdf), [http://ecs.inria.fr/services/structure?nbr=48](http://ecs.inria.fr/services/structure?nbr=48), [http://ecs.inria.fr/services/structure?nbr=52](http://ecs.inria.fr/services/structure?nbr=52), [http://ecs.inria.fr/services/structure?nbr=71](http://ecs.inria.fr/services/structure?nbr=71), [http://ecs.inria.fr/services/structure?nbr=76](http://ecs.inria.fr/services/structure?nbr=76), [http://ecs.inria.fr/services/structure?nbr=284](http://ecs.inria.fr/services/structure?nbr=284)|
+|[109](https://oeis.org/A000109)|[https://i11www.iti.kit.edu/_media/teaching/theses/ma-jungeblut-19.pdf](https://i11www.iti.kit.edu/_media/teaching/theses/ma-jungeblut-19.pdf)|
+|[110](https://oeis.org/A000110)|[http://spectacle.berkeley.edu/~fiorillo/7genjimon.html](http://spectacle.berkeley.edu/~fiorillo/7genjimon.html), [http://www-ang.kfunigraz.ac.at/~fripert/fga/k1bell.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1bell.html), [http://www.iteratedfunctions.com/Combinatorics/index.html](http://www.iteratedfunctions.com/Combinatorics/index.html), [http://statweb.stanford.edu/~cgates/PERSI/papers/setpartition_stats10.pdf](http://statweb.stanford.edu/~cgates/PERSI/papers/setpartition_stats10.pdf), [http://ecs.inria.fr/services/structure?nbr=291](http://ecs.inria.fr/services/structure?nbr=291), [http://ecs.inria.fr/services/structure?nbr=15](http://ecs.inria.fr/services/structure?nbr=15), [http://plaza27.mbn.or.jp/~921/kumiko/genjiko/genjikou.html](http://plaza27.mbn.or.jp/~921/kumiko/genjiko/genjikou.html), [http://ecs.inria.fr/services/structure?nbr=65](http://ecs.inria.fr/services/structure?nbr=65), [http://ecs.inria.fr/services/structure?nbr=73](http://ecs.inria.fr/services/structure?nbr=73)|
+|[111](https://oeis.org/A000111)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[112](https://oeis.org/A000112)|[http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf)|
-|[118](https://oeis.org/A000118)|[http://arXiv.org/abs/math.CO/9206203](http://arXiv.org/abs/math.CO/9206203), [http://arXiv.org/abs/math.NT/0407061](http://arXiv.org/abs/math.NT/0407061)|
-|[120](https://oeis.org/A000120)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
 |[123](https://oeis.org/A000123)|[http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf](http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf)|
-|[124](https://oeis.org/A000124)|[https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf](https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf), [http://arXiv.org/abs/math.CO/9909019](http://arXiv.org/abs/math.CO/9909019), [http://ecs.inria.fr/services/structure?nbr=386](http://ecs.inria.fr/services/structure?nbr=386)|
-|[129](https://oeis.org/A000129)|[https://doi.org/10.26900/jsp.4.005](https://doi.org/10.26900/jsp.4.005), [http://www.mth.pdx.edu/~caughman/Ian%20Walker%20501.pdf](http://www.mth.pdx.edu/~caughman/Ian%20Walker%20501.pdf), [http://ecs.inria.fr/services/structure?nbr=135](http://ecs.inria.fr/services/structure?nbr=135)|
-|[142](https://oeis.org/A000142)|[http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsncyc.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsncyc.html), [http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsn.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsn.html), [http://ecs.inria.fr/services/structure?nbr=20](http://ecs.inria.fr/services/structure?nbr=20), [http://ecs.inria.fr/services/structure?nbr=297](http://ecs.inria.fr/services/structure?nbr=297)|
-|[143](https://oeis.org/A000143)|[http://arXiv.org/abs/math.NT/0407061](http://arXiv.org/abs/math.NT/0407061)|
-|[144](https://oeis.org/A000144)|[http://arXiv.org/abs/math.NT/0407061](http://arXiv.org/abs/math.NT/0407061)|
+|[124](https://oeis.org/A000124)|[https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf](https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf), [http://ecs.inria.fr/services/structure?nbr=386](http://ecs.inria.fr/services/structure?nbr=386)|
+|[129](https://oeis.org/A000129)|[http://www.mth.pdx.edu/~caughman/Ian%20Walker%20501.pdf](http://www.mth.pdx.edu/~caughman/Ian%20Walker%20501.pdf), [https://doi.org/10.26900/jsp.4.005](https://doi.org/10.26900/jsp.4.005), [http://ecs.inria.fr/services/structure?nbr=135](http://ecs.inria.fr/services/structure?nbr=135)|
+|[142](https://oeis.org/A000142)|[http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsn.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsn.html), [http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsncyc.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsncyc.html), [http://ecs.inria.fr/services/structure?nbr=20](http://ecs.inria.fr/services/structure?nbr=20), [http://ecs.inria.fr/services/structure?nbr=297](http://ecs.inria.fr/services/structure?nbr=297)|
 |[151](https://oeis.org/A000151)|[http://ecs.inria.fr/services/structure?nbr=387](http://ecs.inria.fr/services/structure?nbr=387)|
-|[156](https://oeis.org/A000156)|[http://arXiv.org/abs/math.NT/0407061](http://arXiv.org/abs/math.NT/0407061)|
 |[165](https://oeis.org/A000165)|[http://ecs.inria.fr/services/structure?nbr=136](http://ecs.inria.fr/services/structure?nbr=136)|
 |[166](https://oeis.org/A000166)|[http://www-ang.kfunigraz.ac.at/~fripert/fga/k1rencontre.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1rencontre.html), [http://www.springerlink.com/content/0003-9519/21/3/](http://www.springerlink.com/content/0003-9519/21/3/), [http://ecs.inria.fr/services/structure?nbr=21](http://ecs.inria.fr/services/structure?nbr=21)|
 |[169](https://oeis.org/A000169)|[http://ecs.inria.fr/services/structure?nbr=67](http://ecs.inria.fr/services/structure?nbr=67)|
 |[173](https://oeis.org/A000173)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[182](https://oeis.org/A000182)|[https://vestnik.susu.ru/mmph/article/viewFile/8337/6806](https://vestnik.susu.ru/mmph/article/viewFile/8337/6806)|
-|[184](https://oeis.org/A000184)|[https://vestnik.susu.ru/mmph/article/viewFile/8337/6806](https://vestnik.susu.ru/mmph/article/viewFile/8337/6806)|
+|[178](https://oeis.org/A000178)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[188](https://oeis.org/A000188)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
-|[201](https://oeis.org/A000201)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[203](https://oeis.org/A000203)|[http://arXiv.org/abs/math.CO/0503436](http://arXiv.org/abs/math.CO/0503436)|
 |[204](https://oeis.org/A000204)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
 |[214](https://oeis.org/A000214)|[http://www-ang.kfunigraz.ac.at/~fripert/linaffproj.html](http://www-ang.kfunigraz.ac.at/~fripert/linaffproj.html), [http://www-ang.kfunigraz.ac.at/~fripert/fga/k1zyklap.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1zyklap.html)|
 |[215](https://oeis.org/A000215)|[http://mathdb.org/resource_sharing/excalibur/Eng_v7_n4.pdf](http://mathdb.org/resource_sharing/excalibur/Eng_v7_n4.pdf)|
 |[217](https://oeis.org/A000217)|[http://ecs.inria.fr/services/structure?nbr=253](http://ecs.inria.fr/services/structure?nbr=253)|
-|[219](https://oeis.org/A000219)|[http://arXiv.org/abs/hep-th/0608050](http://arXiv.org/abs/hep-th/0608050), [http://arXiv.org/abs/cond-mat/0303607](http://arXiv.org/abs/cond-mat/0303607), [http://ecs.inria.fr/services/structure?nbr=141](http://ecs.inria.fr/services/structure?nbr=141)|
+|[219](https://oeis.org/A000219)|[http://ecs.inria.fr/services/structure?nbr=141](http://ecs.inria.fr/services/structure?nbr=141)|
 |[225](https://oeis.org/A000225)|[http://thesaurus.maths.org/dictionary/map/word/3371](http://thesaurus.maths.org/dictionary/map/word/3371), [http://citeseer.ifi.unizh.ch/correct/467051](http://citeseer.ifi.unizh.ch/correct/467051), [http://wwwmaths.anu.edu.au/~brent/pub/pub200.html](http://wwwmaths.anu.edu.au/~brent/pub/pub200.html), [http://wwwmaths.anu.edu.au/~brent/pub/pub134.html](http://wwwmaths.anu.edu.au/~brent/pub/pub134.html), [http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf](http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf), [http://ecs.inria.fr/services/structure?nbr=138](http://ecs.inria.fr/services/structure?nbr=138), [http://www.cs.uvm.edu/~snapp/teaching/CS5/lectures/hanoi.pdf](http://www.cs.uvm.edu/~snapp/teaching/CS5/lectures/hanoi.pdf), [http://ecs.inria.fr/services/structure?nbr=345](http://ecs.inria.fr/services/structure?nbr=345), [http://ecs.inria.fr/services/structure?nbr=371](http://ecs.inria.fr/services/structure?nbr=371), [http://ecs.inria.fr/services/structure?nbr=880](http://ecs.inria.fr/services/structure?nbr=880), [http://www.jimloy.com/puzz/hanoi.htm](http://www.jimloy.com/puzz/hanoi.htm)|
 |[238](https://oeis.org/A000238)|[https://www.labmath.uqam.ca/~annales/english/volumes/16-1.html](https://www.labmath.uqam.ca/~annales/english/volumes/16-1.html)|
-|[241](https://oeis.org/A000241)|[http://arXiv.org/abs/math/0609707](http://arXiv.org/abs/math/0609707)|
-|[244](https://oeis.org/A000244)|[http://ecs.inria.fr/services/structure?nbr=268](http://ecs.inria.fr/services/structure?nbr=268), [http://ecs.inria.fr/services/structure?nbr=7](http://ecs.inria.fr/services/structure?nbr=7)|
-|[245](https://oeis.org/A000245)|[http://arXiv.org/abs/math.CO/0211380](http://arXiv.org/abs/math.CO/0211380)|
-|[247](https://oeis.org/A000247)|[http://arXiv.org/abs/cs/0411002](http://arXiv.org/abs/cs/0411002), [http://arXiv.org/abs/math.CO/0202219](http://arXiv.org/abs/math.CO/0202219)|
+|[244](https://oeis.org/A000244)|[http://ecs.inria.fr/services/structure?nbr=7](http://ecs.inria.fr/services/structure?nbr=7), [http://ecs.inria.fr/services/structure?nbr=268](http://ecs.inria.fr/services/structure?nbr=268)|
 |[248](https://oeis.org/A000248)|[http://ecs.inria.fr/services/structure?nbr=117](http://ecs.inria.fr/services/structure?nbr=117)|
 |[254](https://oeis.org/A000254)|[http://epublications.bond.edu.au/ejsie/vol8/iss2/4](http://epublications.bond.edu.au/ejsie/vol8/iss2/4), [http://www.kalva.demon.co.uk/putnam/psoln/psol9211.html](http://www.kalva.demon.co.uk/putnam/psoln/psol9211.html), [http://ecs.inria.fr/services/structure?nbr=31](http://ecs.inria.fr/services/structure?nbr=31)|
-|[258](https://oeis.org/A000258)|[http://arXiv.org/abs/quant-ph/0501155](http://arXiv.org/abs/quant-ph/0501155), [http://arXiv.org/abs/quant-ph/0312202](http://arXiv.org/abs/quant-ph/0312202), [http://ecs.inria.fr/services/structure?nbr=70](http://ecs.inria.fr/services/structure?nbr=70), [http://ecs.inria.fr/services/structure?nbr=292](http://ecs.inria.fr/services/structure?nbr=292)|
-|[262](https://oeis.org/A000262)|[http://arXiv.org/abs/quant-ph/0212072](http://arXiv.org/abs/quant-ph/0212072), [http://arXiv.org/abs/quant-ph/0312202](http://arXiv.org/abs/quant-ph/0312202), [http://ecs.inria.fr/services/structure?nbr=40](http://ecs.inria.fr/services/structure?nbr=40)|
+|[258](https://oeis.org/A000258)|[http://ecs.inria.fr/services/structure?nbr=292](http://ecs.inria.fr/services/structure?nbr=292), [http://ecs.inria.fr/services/structure?nbr=70](http://ecs.inria.fr/services/structure?nbr=70)|
+|[262](https://oeis.org/A000262)|[http://ecs.inria.fr/services/structure?nbr=40](http://ecs.inria.fr/services/structure?nbr=40)|
 |[266](https://oeis.org/A000266)|[http://ecs.inria.fr/services/structure?nbr=104](http://ecs.inria.fr/services/structure?nbr=104)|
 |[268](https://oeis.org/A000268)|[http://ecs.inria.fr/services/structure?nbr=299](http://ecs.inria.fr/services/structure?nbr=299)|
-|[272](https://oeis.org/A000272)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/), [http://arXiv.org/abs/math.CO/0407456](http://arXiv.org/abs/math.CO/0407456), [http://arXiv.org/abs/math/0605183](http://arXiv.org/abs/math/0605183), [http://ecs.inria.fr/services/structure?nbr=78](http://ecs.inria.fr/services/structure?nbr=78)|
-|[290](https://oeis.org/A000290)|[http://ecs.inria.fr/services/structure?nbr=338](http://ecs.inria.fr/services/structure?nbr=338), [http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
-|[292](https://oeis.org/A000292)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
-|[293](https://oeis.org/A000293)|[http://www.physics.iitm.ac.in/~suresh/theses/NaveenThesis.pd](http://www.physics.iitm.ac.in/~suresh/theses/NaveenThesis.pd), [http://arXiv.org/abs/cond-mat/0303607](http://arXiv.org/abs/cond-mat/0303607)|
-|[294](https://oeis.org/A000294)|[http://arXiv.org/abs/cond-mat/0303607](http://arXiv.org/abs/cond-mat/0303607)|
+|[272](https://oeis.org/A000272)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/), [http://ecs.inria.fr/services/structure?nbr=78](http://ecs.inria.fr/services/structure?nbr=78)|
+|[290](https://oeis.org/A000290)|[https://www.dmg.tuwien.ac.at/drmota/alongsquares.pdf](https://www.dmg.tuwien.ac.at/drmota/alongsquares.pdf), [http://ecs.inria.fr/services/structure?nbr=338](http://ecs.inria.fr/services/structure?nbr=338), [http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
+|[293](https://oeis.org/A000293)|[http://www.physics.iitm.ac.in/~suresh/theses/NaveenThesis.pd](http://www.physics.iitm.ac.in/~suresh/theses/NaveenThesis.pd)|
 |[295](https://oeis.org/A000295)|[http://ecs.inria.fr/services/structure?nbr=388](http://ecs.inria.fr/services/structure?nbr=388)|
-|[296](https://oeis.org/A000296)|[http://ecs.inria.fr/services/structure?nbr=16](http://ecs.inria.fr/services/structure?nbr=16)|
+|[296](https://oeis.org/A000296)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://ecs.inria.fr/services/structure?nbr=16](http://ecs.inria.fr/services/structure?nbr=16)|
 |[302](https://oeis.org/A000302)|[http://ecs.inria.fr/services/structure?nbr=8](http://ecs.inria.fr/services/structure?nbr=8), [http://ecs.inria.fr/services/structure?nbr=269](http://ecs.inria.fr/services/structure?nbr=269)|
-|[307](https://oeis.org/A000307)|[http://arXiv.org/abs/quant-ph/0312202](http://arXiv.org/abs/quant-ph/0312202), [http://ecs.inria.fr/services/structure?nbr=293](http://ecs.inria.fr/services/structure?nbr=293)|
+|[307](https://oeis.org/A000307)|[http://ecs.inria.fr/services/structure?nbr=293](http://ecs.inria.fr/services/structure?nbr=293)|
 |[310](https://oeis.org/A000310)|[http://ecs.inria.fr/services/structure?nbr=300](http://ecs.inria.fr/services/structure?nbr=300)|
 |[311](https://oeis.org/A000311)|[http://ecs.inria.fr/services/structure?nbr=69](http://ecs.inria.fr/services/structure?nbr=69)|
 |[312](https://oeis.org/A000312)|[http://ecs.inria.fr/services/structure?nbr=36](http://ecs.inria.fr/services/structure?nbr=36)|
-|[326](https://oeis.org/A000326)|[http://arXiv.org/abs/math.HO/0505373](http://arXiv.org/abs/math.HO/0505373), [http://ecs.inria.fr/services/structure?nbr=339](http://ecs.inria.fr/services/structure?nbr=339)|
+|[315](https://oeis.org/A000315)|[http://ccom.uprrp.edu/~labemmy/Wordpress/wp-content/uploads/2010/11/4_Presentation_Some-Properties-of-Latin-Squares_March2009.pdf](http://ccom.uprrp.edu/~labemmy/Wordpress/wp-content/uploads/2010/11/4_Presentation_Some-Properties-of-Latin-Squares_March2009.pdf)|
+|[326](https://oeis.org/A000326)|[http://ecs.inria.fr/services/structure?nbr=339](http://ecs.inria.fr/services/structure?nbr=339)|
 |[332](https://oeis.org/A000332)|[http://ecs.inria.fr/services/structure?nbr=254](http://ecs.inria.fr/services/structure?nbr=254)|
 |[334](https://oeis.org/A000334)|[http://www.physics.iitm.ac.in/~suresh/theses/NaveenThesis.pdf](http://www.physics.iitm.ac.in/~suresh/theses/NaveenThesis.pdf)|
 |[337](https://oeis.org/A000337)|[http://www.math.neu.edu/~schulte/polyhedmaps.pdf](http://www.math.neu.edu/~schulte/polyhedmaps.pdf)|
 |[340](https://oeis.org/A000340)|[http://ecs.inria.fr/services/structure?nbr=389](http://ecs.inria.fr/services/structure?nbr=389)|
 |[344](https://oeis.org/A000344)|[http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf](http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf)|
 |[351](https://oeis.org/A000351)|[http://ecs.inria.fr/services/structure?nbr=270](http://ecs.inria.fr/services/structure?nbr=270)|
-|[352](https://oeis.org/A000352)|[http://arXiv.org/abs/math.CO/0609704](http://arXiv.org/abs/math.CO/0609704)|
 |[354](https://oeis.org/A000354)|[http://emis.ams.org/journals/SLC/wpapers/s55chow.html](http://emis.ams.org/journals/SLC/wpapers/s55chow.html)|
 |[357](https://oeis.org/A000357)|[http://ecs.inria.fr/services/structure?nbr=294](http://ecs.inria.fr/services/structure?nbr=294)|
 |[358](https://oeis.org/A000358)|[http://ecs.inria.fr/services/structure?nbr=119](http://ecs.inria.fr/services/structure?nbr=119)|
 |[359](https://oeis.org/A000359)|[http://ecs.inria.fr/services/structure?nbr=301](http://ecs.inria.fr/services/structure?nbr=301)|
-|[367](https://oeis.org/A000367)|[http://arXiv.org/abs/math.NT/0109108](http://arXiv.org/abs/math.NT/0109108), [http://arXiv.org/abs/math.HO/0408082](http://arXiv.org/abs/math.HO/0408082), [http://arXiv.org/abs/math.NT/0409223](http://arXiv.org/abs/math.NT/0409223)|
-|[369](https://oeis.org/A000369)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
+|[364](https://oeis.org/A000364)|[http://www.emis.de/journals/INTEGERS/papers/i1/i1.Abstract.html](http://www.emis.de/journals/INTEGERS/papers/i1/i1.Abstract.html)|
+|[367](https://oeis.org/A000367)|[http://emmy.uprrp.edu/lmedina/papers/eulerian/EulerianFinal.pdf](http://emmy.uprrp.edu/lmedina/papers/eulerian/EulerianFinal.pdf)|
 |[372](https://oeis.org/A000372)|[http://mam2000.mathforum.org/epigone/sci.math/plebrungchoo](http://mam2000.mathforum.org/epigone/sci.math/plebrungchoo)|
 |[375](https://oeis.org/A000375)|[http://benchmarksgame.alioth.debian.org/u64q/performance.php?test=fannkuchredux](http://benchmarksgame.alioth.debian.org/u64q/performance.php?test=fannkuchredux)|
-|[377](https://oeis.org/A000377)|[http://arXiv.org/abs/math.NT/0611300](http://arXiv.org/abs/math.NT/0611300)|
 |[378](https://oeis.org/A000378)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
 |[384](https://oeis.org/A000384)|[http://ecs.inria.fr/services/structure?nbr=340](http://ecs.inria.fr/services/structure?nbr=340)|
 |[389](https://oeis.org/A000389)|[http://www.matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf](http://www.matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf), [http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html), [http://ecs.inria.fr/services/structure?nbr=255](http://ecs.inria.fr/services/structure?nbr=255)|
 |[392](https://oeis.org/A000392)|[http://ecs.inria.fr/services/structure?nbr=346](http://ecs.inria.fr/services/structure?nbr=346)|
-|[396](https://oeis.org/A000396)|[http://www-maths.swan.ac.uk/pgrads/bb/project/node3.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node3.html), [http://www-maths.swan.ac.uk/pgrads/bb/project/node43.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node43.html), [http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://wwwmaths.anu.edu.au/~brent/pub/pub100.html](http://wwwmaths.anu.edu.au/~brent/pub/pub100.html), [http://wwwmaths.anu.edu.au/~brent/pub/pub106.html](http://wwwmaths.anu.edu.au/~brent/pub/pub106.html), [http://arXiv.org/abs/math.GR/0104012](http://arXiv.org/abs/math.GR/0104012), [http://arXiv.org/abs/math.NT/0511410](http://arXiv.org/abs/math.NT/0511410), [http://uzweb.uz.ac.zw/science/maths/zimaths/51/perfect.htm](http://uzweb.uz.ac.zw/science/maths/zimaths/51/perfect.htm)|
+|[396](https://oeis.org/A000396)|[http://www-maths.swan.ac.uk/pgrads/bb/project/node3.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node3.html), [http://www-maths.swan.ac.uk/pgrads/bb/project/node43.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node43.html), [http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://wwwmaths.anu.edu.au/~brent/pub/pub100.html](http://wwwmaths.anu.edu.au/~brent/pub/pub100.html), [http://wwwmaths.anu.edu.au/~brent/pub/pub106.html](http://wwwmaths.anu.edu.au/~brent/pub/pub106.html), [http://uzweb.uz.ac.zw/science/maths/zimaths/51/perfect.htm](http://uzweb.uz.ac.zw/science/maths/zimaths/51/perfect.htm)|
 |[399](https://oeis.org/A000399)|[http://ecs.inria.fr/services/structure?nbr=32](http://ecs.inria.fr/services/structure?nbr=32)|
 |[400](https://oeis.org/A000400)|[http://ecs.inria.fr/services/structure?nbr=271](http://ecs.inria.fr/services/structure?nbr=271)|
 |[405](https://oeis.org/A000405)|[http://ecs.inria.fr/services/structure?nbr=295](http://ecs.inria.fr/services/structure?nbr=295)|
@@ -122,13 +107,11 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[454](https://oeis.org/A000454)|[http://ecs.inria.fr/services/structure?nbr=33](http://ecs.inria.fr/services/structure?nbr=33)|
 |[474](https://oeis.org/A000474)|[http://www1.ams.org/samplings/feature-column/fcarc-sports](http://www1.ams.org/samplings/feature-column/fcarc-sports)|
 |[481](https://oeis.org/A000481)|[http://ecs.inria.fr/services/structure?nbr=348](http://ecs.inria.fr/services/structure?nbr=348)|
+|[498](https://oeis.org/A000498)|[http://emmy.uprrp.edu/lmedina/papers/eulerian/EulerianFinal.pdf](http://emmy.uprrp.edu/lmedina/papers/eulerian/EulerianFinal.pdf)|
 |[503](https://oeis.org/A000503)|[http://math.udel.edu/~lazebnik/papers/tan_n.pdf](http://math.udel.edu/~lazebnik/papers/tan_n.pdf)|
-|[511](https://oeis.org/A000511)|[http://arXiv.org/abs/math.NT/0404427](http://arXiv.org/abs/math.NT/0404427)|
 |[513](https://oeis.org/A000513)|[https://www.alazmi95.com/ewExternalFiles/iso_rej.pdf](https://www.alazmi95.com/ewExternalFiles/iso_rej.pdf)|
-|[517](https://oeis.org/A000517)|[http://arXiv.org/abs/math.CO/0005180](http://arXiv.org/abs/math.CO/0005180)|
-|[521](https://oeis.org/A000521)|[http://www.maths.nott.ac.uk/personal/jec](http://www.maths.nott.ac.uk/personal/jec), [http://arXiv.org/abs/hep-th/0307293](http://arXiv.org/abs/hep-th/0307293), [http://www.openquestions.com/oq-ma017.htm](http://www.openquestions.com/oq-ma017.htm)|
-|[522](https://oeis.org/A000522)|[http://home.earthlink.net/~jsondow/PrimesAndE.pdf](http://home.earthlink.net/~jsondow/PrimesAndE.pdf), [http://arXiv.org/abs/quant-ph/0501155](http://arXiv.org/abs/quant-ph/0501155), [http://ecs.inria.fr/services/structure?nbr=35](http://ecs.inria.fr/services/structure?nbr=35)|
-|[558](https://oeis.org/A000558)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
+|[521](https://oeis.org/A000521)|[http://www.maths.nott.ac.uk/personal/jec](http://www.maths.nott.ac.uk/personal/jec), [http://www.openquestions.com/oq-ma017.htm](http://www.openquestions.com/oq-ma017.htm)|
+|[522](https://oeis.org/A000522)|[http://home.earthlink.net/~jsondow/PrimesAndE.pdf](http://home.earthlink.net/~jsondow/PrimesAndE.pdf), [http://ecs.inria.fr/services/structure?nbr=35](http://ecs.inria.fr/services/structure?nbr=35)|
 |[566](https://oeis.org/A000566)|[http://ecs.inria.fr/services/structure?nbr=341](http://ecs.inria.fr/services/structure?nbr=341)|
 |[567](https://oeis.org/A000567)|[http://ecs.inria.fr/services/structure?nbr=342](http://ecs.inria.fr/services/structure?nbr=342)|
 |[568](https://oeis.org/A000568)|[http://www.gutenberg.org/ebooks/42833](http://www.gutenberg.org/ebooks/42833)|
@@ -139,7 +122,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[581](https://oeis.org/A000581)|[http://ecs.inria.fr/services/structure?nbr=258](http://ecs.inria.fr/services/structure?nbr=258)|
 |[582](https://oeis.org/A000582)|[http://ecs.inria.fr/services/structure?nbr=259](http://ecs.inria.fr/services/structure?nbr=259)|
 |[588](https://oeis.org/A000588)|[http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf](http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf)|
-|[594](https://oeis.org/A000594)|[http://mathsource.wri.com/MathSource22/Enhancements/NumberTheory/0200-978/Documentation.txt](http://mathsource.wri.com/MathSource22/Enhancements/NumberTheory/0200-978/Documentation.txt), [http://www.currentscience.ac.in/Downloads/article_id_017_06_0179_0180_0.pdf](http://www.currentscience.ac.in/Downloads/article_id_017_06_0179_0180_0.pdf), [http://www.institut.math.jussieu.fr/~brunault/FonctionTau.pdf](http://www.institut.math.jussieu.fr/~brunault/FonctionTau.pdf), [http://www.maths.nott.ac.uk/personal/jec](http://www.maths.nott.ac.uk/personal/jec), [http://www.arXiv.org/abs/math.NT/0607591](http://www.arXiv.org/abs/math.NT/0607591), [http://arXiv.org/abs/math.NT/0201265](http://arXiv.org/abs/math.NT/0201265)|
+|[594](https://oeis.org/A000594)|[http://mathsource.wri.com/MathSource22/Enhancements/NumberTheory/0200-978/Documentation.txt](http://mathsource.wri.com/MathSource22/Enhancements/NumberTheory/0200-978/Documentation.txt), [http://www.institut.math.jussieu.fr/~brunault/FonctionTau.pdf](http://www.institut.math.jussieu.fr/~brunault/FonctionTau.pdf), [http://www.currentscience.ac.in/Downloads/article_id_017_06_0179_0180_0.pdf](http://www.currentscience.ac.in/Downloads/article_id_017_06_0179_0180_0.pdf), [http://www.maths.nott.ac.uk/personal/jec](http://www.maths.nott.ac.uk/personal/jec)|
 |[598](https://oeis.org/A000598)|[http://ecs.inria.fr/services/structure?nbr=1](http://ecs.inria.fr/services/structure?nbr=1)|
 |[601](https://oeis.org/A000601)|[http://ecs.inria.fr/services/structure?nbr=196](http://ecs.inria.fr/services/structure?nbr=196)|
 |[607](https://oeis.org/A000607)|[http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf](http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf), [http://www.dli.gov.in/rawdataupload/upload/insa/INSA_2/20005ad0_185.pdf](http://www.dli.gov.in/rawdataupload/upload/insa/INSA_2/20005ad0_185.pdf)|
@@ -149,49 +132,40 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[632](https://oeis.org/A000632)|[http://www.cs.sandia.gov/~jfaulon/PUBLICATION/Rev-Comp-Chem.pdf-save](http://www.cs.sandia.gov/~jfaulon/PUBLICATION/Rev-Comp-Chem.pdf-save)|
 |[638](https://oeis.org/A000638)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
 |[668](https://oeis.org/A000668)|[http://thesaurus.maths.org/dictionary/map/word/990](http://thesaurus.maths.org/dictionary/map/word/990)|
-|[669](https://oeis.org/A000669)|[http://arXiv.org/abs/cond-mat/9707023](http://arXiv.org/abs/cond-mat/9707023), [http://ecs.inria.fr/services/structure?nbr=44](http://ecs.inria.fr/services/structure?nbr=44)|
-|[670](https://oeis.org/A000670)|[http://www2.wiwi.hu-berlin.de/institute/bartosz/VariableChoiceOA.pdf](http://www2.wiwi.hu-berlin.de/institute/bartosz/VariableChoiceOA.pdf), [http://arXiv.org/abs/quant-ph/0312202](http://arXiv.org/abs/quant-ph/0312202), [http://arXiv.org/abs/math.NT/0307150](http://arXiv.org/abs/math.NT/0307150), [http://ecs.inria.fr/services/structure?nbr=41](http://ecs.inria.fr/services/structure?nbr=41)|
-|[682](https://oeis.org/A000682)|[http://arXiv.org/abs/hep-th/9607039](http://arXiv.org/abs/hep-th/9607039), [http://arXiv.org/abs/math-ph/9911002](http://arXiv.org/abs/math-ph/9911002)|
-|[688](https://oeis.org/A000688)|[http://arXiv.org/abs/math.CO/0503183](http://arXiv.org/abs/math.CO/0503183)|
-|[695](https://oeis.org/A000695)|[http://www.jstor.org/stable/2689100](http://www.jstor.org/stable/2689100)|
-|[698](https://oeis.org/A000698)|[http://arXiv.org/abs/1103.4936](http://arXiv.org/abs/1103.4936), [http://arXiv.org/abs/math-ph/0303049](http://arXiv.org/abs/math-ph/0303049)|
-|[699](https://oeis.org/A000699)|[http://arXiv.org/abs/hep-th/9912093](http://arXiv.org/abs/hep-th/9912093)|
-|[705](https://oeis.org/A000705)|[http://arXiv.org/abs/math.NT/0008177](http://arXiv.org/abs/math.NT/0008177)|
+|[669](https://oeis.org/A000669)|[http://ecs.inria.fr/services/structure?nbr=44](http://ecs.inria.fr/services/structure?nbr=44)|
+|[670](https://oeis.org/A000670)|[http://www2.wiwi.hu-berlin.de/institute/bartosz/VariableChoiceOA.pdf](http://www2.wiwi.hu-berlin.de/institute/bartosz/VariableChoiceOA.pdf), [http://ecs.inria.fr/services/structure?nbr=41](http://ecs.inria.fr/services/structure?nbr=41)|
+|[688](https://oeis.org/A000688)|[http://www.bdim.eu/item?id=RLINA_1971_8_51_3-4_177_0](http://www.bdim.eu/item?id=RLINA_1971_8_51_3-4_177_0)|
+|[698](https://oeis.org/A000698)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[712](https://oeis.org/A000712)|[http://ecs.inria.fr/services/structure?nbr=129](http://ecs.inria.fr/services/structure?nbr=129)|
 |[713](https://oeis.org/A000713)|[http://ecs.inria.fr/services/structure?nbr=390](http://ecs.inria.fr/services/structure?nbr=390)|
 |[716](https://oeis.org/A000716)|[http://ecs.inria.fr/services/structure?nbr=391](http://ecs.inria.fr/services/structure?nbr=391)|
 |[720](https://oeis.org/A000720)|[http://www.maths.ex.ac.uk/~mwatkins/zeta/wolfgas.htm](http://www.maths.ex.ac.uk/~mwatkins/zeta/wolfgas.htm)|
-|[726](https://oeis.org/A000726)|[http://arXiv.org/abs/hep-th/0409011](http://arXiv.org/abs/hep-th/0409011)|
-|[729](https://oeis.org/A000729)|[http://arXiv.org/abs/math/0509424](http://arXiv.org/abs/math/0509424)|
-|[731](https://oeis.org/A000731)|[http://arXiv.org/abs/math/0509424](http://arXiv.org/abs/math/0509424)|
 |[770](https://oeis.org/A000770)|[http://ecs.inria.fr/services/structure?nbr=349](http://ecs.inria.fr/services/structure?nbr=349)|
 |[771](https://oeis.org/A000771)|[http://ecs.inria.fr/services/structure?nbr=350](http://ecs.inria.fr/services/structure?nbr=350)|
 |[776](https://oeis.org/A000776)|[http://ecs.inria.fr/services/structure?nbr=140](http://ecs.inria.fr/services/structure?nbr=140)|
 |[780](https://oeis.org/A000780)|[http://ecs.inria.fr/services/structure?nbr=392](http://ecs.inria.fr/services/structure?nbr=392)|
 |[788](https://oeis.org/A000788)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[791](https://oeis.org/A000791)|[http://www.public.iastate.edu/~ricardo/ramsey](http://www.public.iastate.edu/~ricardo/ramsey), [http://mathdb.org/notes_download/elementary/combinatorics/de_D7/de_D7.pdf](http://mathdb.org/notes_download/elementary/combinatorics/de_D7/de_D7.pdf)|
-|[796](https://oeis.org/A000796)|[https://doi.org/10.48550/arXiv.2201.12601](https://doi.org/10.48550/arXiv.2201.12601), [http://pi.nersc.gov/](http://pi.nersc.gov/), [http://users.skynet.be/ekurea/toutpi.html](http://users.skynet.be/ekurea/toutpi.html)|
-|[798](https://oeis.org/A000798)|[http://www-ifm.math.uni-hannover.de/html/preprints.phtml](http://www-ifm.math.uni-hannover.de/html/preprints.phtml), [http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf)|
-|[808](https://oeis.org/A000808)|[http://ecs.inria.fr/services/structure?nbr=49](http://ecs.inria.fr/services/structure?nbr=49), [http://ecs.inria.fr/services/structure?nbr=51](http://ecs.inria.fr/services/structure?nbr=51)|
+|[796](https://oeis.org/A000796)|[http://pi.nersc.gov/](http://pi.nersc.gov/), [http://users.skynet.be/ekurea/toutpi.html](http://users.skynet.be/ekurea/toutpi.html)|
+|[798](https://oeis.org/A000798)|[http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf), [http://www-ifm.math.uni-hannover.de/html/preprints.phtml](http://www-ifm.math.uni-hannover.de/html/preprints.phtml)|
+|[808](https://oeis.org/A000808)|[http://ecs.inria.fr/services/structure?nbr=51](http://ecs.inria.fr/services/structure?nbr=51), [http://ecs.inria.fr/services/structure?nbr=49](http://ecs.inria.fr/services/structure?nbr=49)|
 |[918](https://oeis.org/A000918)|[http://ecs.inria.fr/services/structure?nbr=77](http://ecs.inria.fr/services/structure?nbr=77)|
 |[919](https://oeis.org/A000919)|[http://www.exp-math.uni-essen.de/~immink/pdf/jsac13.pdf](http://www.exp-math.uni-essen.de/~immink/pdf/jsac13.pdf)|
 |[921](https://oeis.org/A000921)|[http://eprints.maths.ox.ac.uk/158/01/kummer.pdf](http://eprints.maths.ox.ac.uk/158/01/kummer.pdf)|
 |[922](https://oeis.org/A000922)|[http://eprints.maths.ox.ac.uk/158/01/kummer.pdf](http://eprints.maths.ox.ac.uk/158/01/kummer.pdf)|
 |[923](https://oeis.org/A000923)|[http://eprints.maths.ox.ac.uk/158/01/kummer.pdf](http://eprints.maths.ox.ac.uk/158/01/kummer.pdf)|
-|[926](https://oeis.org/A000926)|[http://arXiv.org/abs/math.NT/0312440](http://arXiv.org/abs/math.NT/0312440)|
 |[928](https://oeis.org/A000928)|[http://everything2.net/index.pl?node_id=1214159&amp](http://everything2.net/index.pl?node_id=1214159&amp)|
-|[930](https://oeis.org/A000930)|[http://ecs.inria.fr/services/structure?nbr=14](http://ecs.inria.fr/services/structure?nbr=14), [http://ecs.inria.fr/services/structure?nbr=376](http://ecs.inria.fr/services/structure?nbr=376)|
-|[931](https://oeis.org/A000931)|[http://arXiv.org/abs/hep-th/9609128](http://arXiv.org/abs/hep-th/9609128), [http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf), [http://arXiv.org/abs/math/0605348](http://arXiv.org/abs/math/0605348), [http://arXiv.org/abs/math/0601151](http://arXiv.org/abs/math/0601151), [http://ecs.inria.fr/services/structure?nbr=393](http://ecs.inria.fr/services/structure?nbr=393)|
-|[934](https://oeis.org/A000934)|[http://www.c3lanl.gov/maga-math/gloss/math/4ct.html](http://www.c3lanl.gov/maga-math/gloss/math/4ct.html), [http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/The_four_colour_theorem.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/The_four_colour_theorem.html), [http://arXiv.org/abs/math.CO/0408384](http://arXiv.org/abs/math.CO/0408384), [http://bhs.broo.k12.wv.us/discrete/4Color.htm](http://bhs.broo.k12.wv.us/discrete/4Color.htm)|
-|[957](https://oeis.org/A000957)|[http://arXiv.org/abs/math.CO/0203033](http://arXiv.org/abs/math.CO/0203033)|
+|[930](https://oeis.org/A000930)|[http://ecs.inria.fr/services/structure?nbr=376](http://ecs.inria.fr/services/structure?nbr=376), [http://ecs.inria.fr/services/structure?nbr=14](http://ecs.inria.fr/services/structure?nbr=14)|
+|[931](https://oeis.org/A000931)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf), [http://ecs.inria.fr/services/structure?nbr=393](http://ecs.inria.fr/services/structure?nbr=393)|
+|[934](https://oeis.org/A000934)|[http://www.c3lanl.gov/maga-math/gloss/math/4ct.html](http://www.c3lanl.gov/maga-math/gloss/math/4ct.html), [http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/The_four_colour_theorem.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/The_four_colour_theorem.html), [http://bhs.broo.k12.wv.us/discrete/4Color.htm](http://bhs.broo.k12.wv.us/discrete/4Color.htm)|
 |[959](https://oeis.org/A000959)|[http://crypt.org/hv/maths/lucky_1e8.bz2](http://crypt.org/hv/maths/lucky_1e8.bz2)|
-|[975](https://oeis.org/A000975)|[http://arXiv.org/abs/nlin.SI/0104020](http://arXiv.org/abs/nlin.SI/0104020), [http://ecs.inria.fr/services/structure?nbr=394](http://ecs.inria.fr/services/structure?nbr=394)|
-|[982](https://oeis.org/A000982)|[http://arXiv.org/abs/nlin.SI/0104020](http://arXiv.org/abs/nlin.SI/0104020), [http://hdl.handle.net/2042/32240](http://hdl.handle.net/2042/32240)|
-|[984](https://oeis.org/A000984)|[http://pareonline.net/getvn.asp?v=18&amp](http://pareonline.net/getvn.asp?v=18&amp), [http://www-centre.mpce.mq.edu.au/alfpapers/a084.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a084.pdf), [http://arXiv.org/abs/math.CA/0505270](http://arXiv.org/abs/math.CA/0505270)|
-|[1002](https://oeis.org/A001002)|[http://ecs.inria.fr/services/structure?nbr=395](http://ecs.inria.fr/services/structure?nbr=395)|
-|[1003](https://oeis.org/A001003)|[http://repository.uwyo.edu/ela/vol30/iss1/7](http://repository.uwyo.edu/ela/vol30/iss1/7), [http://ecs.inria.fr/services/structure?nbr=42](http://ecs.inria.fr/services/structure?nbr=42)|
+|[975](https://oeis.org/A000975)|[http://ecs.inria.fr/services/structure?nbr=394](http://ecs.inria.fr/services/structure?nbr=394)|
+|[982](https://oeis.org/A000982)|[http://hdl.handle.net/2042/32240](http://hdl.handle.net/2042/32240)|
+|[984](https://oeis.org/A000984)|[http://pareonline.net/getvn.asp?v=18&amp](http://pareonline.net/getvn.asp?v=18&amp), [http://www-centre.mpce.mq.edu.au/alfpapers/a084.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a084.pdf), [http://dmg.tuwien.ac.at/mwallner/files/lpintro.pdf](http://dmg.tuwien.ac.at/mwallner/files/lpintro.pdf), [http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf](http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf)|
+|[1002](https://oeis.org/A001002)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://ecs.inria.fr/services/structure?nbr=395](http://ecs.inria.fr/services/structure?nbr=395)|
+|[1003](https://oeis.org/A001003)|[http://repository.uwyo.edu/ela/vol30/iss1/7](http://repository.uwyo.edu/ela/vol30/iss1/7), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://ecs.inria.fr/services/structure?nbr=42](http://ecs.inria.fr/services/structure?nbr=42)|
 |[1005](https://oeis.org/A001005)|[http://ecs.inria.fr/services/structure?nbr=396](http://ecs.inria.fr/services/structure?nbr=396)|
-|[1006](https://oeis.org/A001006)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf.T.](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf.T.), [http://ami.ektf.hu.N.](http://ami.ektf.hu.N.), [http://arXiv.org/abs/math.CO/0512570](http://arXiv.org/abs/math.CO/0512570), [http://arXiv.org/abs/math.CO/0307050](http://arXiv.org/abs/math.CO/0307050), [http://arXiv.org/abs/math.NT/0109108](http://arXiv.org/abs/math.NT/0109108), [http://ecs.inria.fr/services/structure?nbr=50](http://ecs.inria.fr/services/structure?nbr=50), [http://bioinformatics.bc.edu/~ponty/docs/AsymptoticsRNAShapes-JCompBiol-LorenzPontyClote.pdf](http://bioinformatics.bc.edu/~ponty/docs/AsymptoticsRNAShapes-JCompBiol-LorenzPontyClote.pdf), [http://arXiv.org/abs/math.CO/0110039](http://arXiv.org/abs/math.CO/0110039)|
+|[1006](https://oeis.org/A001006)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf.T.](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf.T.), [http://ami.ektf.hu.N.](http://ami.ektf.hu.N.), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://ecs.inria.fr/services/structure?nbr=50](http://ecs.inria.fr/services/structure?nbr=50), [http://dmg.tuwien.ac.at/mwallner/files/lpintro.pdf](http://dmg.tuwien.ac.at/mwallner/files/lpintro.pdf), [http://bioinformatics.bc.edu/~ponty/docs/AsymptoticsRNAShapes-JCompBiol-LorenzPontyClote.pdf](http://bioinformatics.bc.edu/~ponty/docs/AsymptoticsRNAShapes-JCompBiol-LorenzPontyClote.pdf)|
 |[1018](https://oeis.org/A001018)|[http://ecs.inria.fr/services/structure?nbr=273](http://ecs.inria.fr/services/structure?nbr=273)|
 |[1019](https://oeis.org/A001019)|[http://ecs.inria.fr/services/structure?nbr=274](http://ecs.inria.fr/services/structure?nbr=274)|
 |[1020](https://oeis.org/A001020)|[http://ecs.inria.fr/services/structure?nbr=275](http://ecs.inria.fr/services/structure?nbr=275)|
@@ -203,12 +177,13 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[1026](https://oeis.org/A001026)|[http://ecs.inria.fr/services/structure?nbr=281](http://ecs.inria.fr/services/structure?nbr=281)|
 |[1027](https://oeis.org/A001027)|[http://ecs.inria.fr/services/structure?nbr=282](http://ecs.inria.fr/services/structure?nbr=282)|
 |[1029](https://oeis.org/A001029)|[http://ecs.inria.fr/services/structure?nbr=283](http://ecs.inria.fr/services/structure?nbr=283)|
-|[1035](https://oeis.org/A001035)|[http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf), [http://www-ifm.math.uni-hannover.de/html/preprints.phtml](http://www-ifm.math.uni-hannover.de/html/preprints.phtml)|
-|[1037](https://oeis.org/A001037)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf), [http://arXiv.org/abs/0706.2297](http://arXiv.org/abs/0706.2297)|
+|[1035](https://oeis.org/A001035)|[http://www-ifm.math.uni-hannover.de/html/preprints.phtml](http://www-ifm.math.uni-hannover.de/html/preprints.phtml), [http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf)|
+|[1037](https://oeis.org/A001037)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
 |[1045](https://oeis.org/A001045)|[http://ecs.inria.fr/services/structure?nbr=142](http://ecs.inria.fr/services/structure?nbr=142)|
 |[1047](https://oeis.org/A001047)|[http://ecs.inria.fr/services/structure?nbr=397](http://ecs.inria.fr/services/structure?nbr=397)|
-|[1048](https://oeis.org/A001048)|[http://ecs.inria.fr/services/structure?nbr=101](http://ecs.inria.fr/services/structure?nbr=101), [http://ecs.inria.fr/services/structure?nbr=97](http://ecs.inria.fr/services/structure?nbr=97), [http://ecs.inria.fr/services/structure?nbr=641](http://ecs.inria.fr/services/structure?nbr=641)|
+|[1048](https://oeis.org/A001048)|[http://ecs.inria.fr/services/structure?nbr=641](http://ecs.inria.fr/services/structure?nbr=641), [http://ecs.inria.fr/services/structure?nbr=101](http://ecs.inria.fr/services/structure?nbr=101), [http://ecs.inria.fr/services/structure?nbr=97](http://ecs.inria.fr/services/structure?nbr=97)|
 |[1049](https://oeis.org/A001049)|[http://www.mta.nyc.ny.us/nyct/service/fourline.htm](http://www.mta.nyc.ny.us/nyct/service/fourline.htm)|
+|[1075](https://oeis.org/A001075)|[http://kskedlaya.org/putnam-archive/2015.pdf](http://kskedlaya.org/putnam-archive/2015.pdf), [http://kskedlaya.org/putnam-archive/2015s.pdf](http://kskedlaya.org/putnam-archive/2015s.pdf)|
 |[1076](https://oeis.org/A001076)|[http://ecs.inria.fr/services/structure?nbr=398](http://ecs.inria.fr/services/structure?nbr=398)|
 |[1106](https://oeis.org/A001106)|[http://ecs.inria.fr/services/structure?nbr=343](http://ecs.inria.fr/services/structure?nbr=343)|
 |[1107](https://oeis.org/A001107)|[http://ecs.inria.fr/services/structure?nbr=344](http://ecs.inria.fr/services/structure?nbr=344)|
@@ -216,9 +191,8 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[1118](https://oeis.org/A001118)|[http://www.exp-math.uni-essen.de/~immink/pdf/jsac13.pdf](http://www.exp-math.uni-essen.de/~immink/pdf/jsac13.pdf)|
 |[1131](https://oeis.org/A001131)|[http://www.theory.cs.uvic.ca/~cos/inf/tree/RedBlackTree.html](http://www.theory.cs.uvic.ca/~cos/inf/tree/RedBlackTree.html)|
 |[1138](https://oeis.org/A001138)|[http://www.theory.cs.uvic.ca/~cos/inf/tree/RedBlackTree.html](http://www.theory.cs.uvic.ca/~cos/inf/tree/RedBlackTree.html)|
-|[1147](https://oeis.org/A001147)|[http://arXiv.org/abs/math.ST/0409132](http://arXiv.org/abs/math.ST/0409132), [http://arXiv.org/abs/math.NT/0506155](http://arXiv.org/abs/math.NT/0506155), [http://ecs.inria.fr/services/structure?nbr=23](http://ecs.inria.fr/services/structure?nbr=23), [http://ecs.inria.fr/services/structure?nbr=106](http://ecs.inria.fr/services/structure?nbr=106)|
-|[1169](https://oeis.org/A001169)|[http://arXiv.org/abs/math.CO/9801016](http://arXiv.org/abs/math.CO/9801016)|
-|[1175](https://oeis.org/A001175)|[http://arXiv.org/abs/math.NT/0506155](http://arXiv.org/abs/math.NT/0506155)|
+|[1142](https://oeis.org/A001142)|[http://www.jstor.org/stable/2691040](http://www.jstor.org/stable/2691040)|
+|[1147](https://oeis.org/A001147)|[http://repository.wit.ie/1693](http://repository.wit.ie/1693), [http://ecs.inria.fr/services/structure?nbr=23](http://ecs.inria.fr/services/structure?nbr=23), [http://ecs.inria.fr/services/structure?nbr=106](http://ecs.inria.fr/services/structure?nbr=106)|
 |[1181](https://oeis.org/A001181)|[http://sci.haifa.ac.il/~ackerman/publications/soda04.pdf](http://sci.haifa.ac.il/~ackerman/publications/soda04.pdf)|
 |[1186](https://oeis.org/A001186)|[http://vega.ijp.si/doku.php](http://vega.ijp.si/doku.php), [http://www.ijp.si/vega/HtmlDoc/MANUAL/HAMCUB2.HTM](http://www.ijp.si/vega/HtmlDoc/MANUAL/HAMCUB2.HTM)|
 |[1190](https://oeis.org/A001190)|[http://ecs.inria.fr/services/structure?nbr=45](http://ecs.inria.fr/services/structure?nbr=45), [http://ecs.inria.fr/services/structure?nbr=43](http://ecs.inria.fr/services/structure?nbr=43)|
@@ -226,11 +200,10 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[1206](https://oeis.org/A001206)|[http://www.labri.u-bordeaux.fr/~loeb/london](http://www.labri.u-bordeaux.fr/~loeb/london)|
 |[1220](https://oeis.org/A001220)|[http://www.math.jussieu.fr/~miw/articles/pdf/abcLahore2013VI.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/abcLahore2013VI.pdf)|
 |[1221](https://oeis.org/A001221)|[http://britton.disted.camosun.bc.ca/jbprimefactor.htm](http://britton.disted.camosun.bc.ca/jbprimefactor.htm)|
-|[1223](https://oeis.org/A001223)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes), [http://arXiv.org/abs/math.NT/0506067](http://arXiv.org/abs/math.NT/0506067), [http://arXiv.org/abs/cond-mat/0310148](http://arXiv.org/abs/cond-mat/0310148)|
+|[1223](https://oeis.org/A001223)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
 |[1228](https://oeis.org/A001228)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html#table4](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html#table4)|
 |[1235](https://oeis.org/A001235)|[http://cdl.best.vwh.net/JavaScript/Cubes.html](http://cdl.best.vwh.net/JavaScript/Cubes.html)|
-|[1246](https://oeis.org/A001246)|[http://arXiv.org/abs/hep-th/9506030](http://arXiv.org/abs/hep-th/9506030)|
-|[1263](https://oeis.org/A001263)|[http://cartan.u-strasbg.fr/irma/publications/1997/97040.shtml](http://cartan.u-strasbg.fr/irma/publications/1997/97040.shtml), [http://repository.uwyo.edu/ela/vol30/iss1/7](http://repository.uwyo.edu/ela/vol30/iss1/7), [http://arXiv.org/abs/0804.1028](http://arXiv.org/abs/0804.1028)|
+|[1263](https://oeis.org/A001263)|[http://cartan.u-strasbg.fr/irma/publications/1997/97040.shtml](http://cartan.u-strasbg.fr/irma/publications/1997/97040.shtml), [http://repository.uwyo.edu/ela/vol30/iss1/7](http://repository.uwyo.edu/ela/vol30/iss1/7)|
 |[1286](https://oeis.org/A001286)|[http://ecs.inria.fr/services/structure?nbr=399](http://ecs.inria.fr/services/structure?nbr=399)|
 |[1287](https://oeis.org/A001287)|[http://ecs.inria.fr/services/structure?nbr=260](http://ecs.inria.fr/services/structure?nbr=260)|
 |[1288](https://oeis.org/A001288)|[http://ecs.inria.fr/services/structure?nbr=261](http://ecs.inria.fr/services/structure?nbr=261)|
@@ -249,7 +222,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[1314](https://oeis.org/A001314)|[http://ecs.inria.fr/services/structure?nbr=183](http://ecs.inria.fr/services/structure?nbr=183)|
 |[1316](https://oeis.org/A001316)|[http://alea2016.gforge.inria.fr/cours-dumas.pdf](http://alea2016.gforge.inria.fr/cours-dumas.pdf)|
 |[1317](https://oeis.org/A001317)|[http://www.mathforum.org/dr.math/faq/formulas/faq/regpoly.html](http://www.mathforum.org/dr.math/faq/formulas/faq/regpoly.html)|
-|[1318](https://oeis.org/A001318)|[http://ucbconocimiento.cba.ucb.edu.bo/index.php/RAN/article/download/485/427](http://ucbconocimiento.cba.ucb.edu.bo/index.php/RAN/article/download/485/427)|
 |[1319](https://oeis.org/A001319)|[http://ecs.inria.fr/services/structure?nbr=184](http://ecs.inria.fr/services/structure?nbr=184)|
 |[1333](https://oeis.org/A001333)|[https://www.pdfdrive.com/math-problem-book-i-compiled-by-kin-y-li-d10918617.html](https://www.pdfdrive.com/math-problem-book-i-compiled-by-kin-y-li-d10918617.html), [http://ecs.inria.fr/services/structure?nbr=143](http://ecs.inria.fr/services/structure?nbr=143)|
 |[1339](https://oeis.org/A001339)|[http://ecs.inria.fr/services/structure?nbr==400](http://ecs.inria.fr/services/structure?nbr==400)|
@@ -260,25 +232,19 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[1381](https://oeis.org/A001381)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[1383](https://oeis.org/A001383)|[http://ecs.inria.fr/services/structure?nbr=62](http://ecs.inria.fr/services/structure?nbr=62)|
 |[1384](https://oeis.org/A001384)|[http://ecs.inria.fr/services/structure?nbr=63](http://ecs.inria.fr/services/structure?nbr=63)|
-|[1399](https://oeis.org/A001399)|[http://www.cwpatterson.com/pdfs/ab-Asymptotic%20Eigensolutions%20of%20Fourth%20and%20Sixth%20Rank%20Octahe.pdf](http://www.cwpatterson.com/pdfs/ab-Asymptotic%20Eigensolutions%20of%20Fourth%20and%20Sixth%20Rank%20Octahe.pdf), [http://zfn.mpdl.mpg.de/data/Reihe_A/52/ZNA-1997-52a-0867.pdf](http://zfn.mpdl.mpg.de/data/Reihe_A/52/ZNA-1997-52a-0867.pdf), [http://arXiv.org/abs/0707.0115](http://arXiv.org/abs/0707.0115), [https://liforce.usthb.dz/sites/default/files/2020-11/article1.pdf](https://liforce.usthb.dz/sites/default/files/2020-11/article1.pdf), [http://ecs.inria.fr/services/structure?nbr=352](http://ecs.inria.fr/services/structure?nbr=352)|
+|[1399](https://oeis.org/A001399)|[http://www.cwpatterson.com/pdfs/ab-Asymptotic%20Eigensolutions%20of%20Fourth%20and%20Sixth%20Rank%20Octahe.pdf](http://www.cwpatterson.com/pdfs/ab-Asymptotic%20Eigensolutions%20of%20Fourth%20and%20Sixth%20Rank%20Octahe.pdf), [http://ecs.inria.fr/services/structure?nbr=352](http://ecs.inria.fr/services/structure?nbr=352)|
 |[1400](https://oeis.org/A001400)|[http://ecs.inria.fr/services/structure?nbr=353](http://ecs.inria.fr/services/structure?nbr=353)|
 |[1401](https://oeis.org/A001401)|[http://ecs.inria.fr/services/structure?nbr=354](http://ecs.inria.fr/services/structure?nbr=354)|
 |[1402](https://oeis.org/A001402)|[http://ecs.inria.fr/services/structure?nbr=355](http://ecs.inria.fr/services/structure?nbr=355)|
 |[1403](https://oeis.org/A001403)|[http://www.ijp.si/Configurations2004/papers.html](http://www.ijp.si/Configurations2004/papers.html), [http://preprinti.imfm.si/PDF/00938.pdf](http://preprinti.imfm.si/PDF/00938.pdf)|
-|[1405](https://oeis.org/A001405)|[http://puma.dimai.unifi.it/22_2/manara_perelli-cippo.pdf](http://puma.dimai.unifi.it/22_2/manara_perelli-cippo.pdf), [http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf](http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf)|
+|[1405](https://oeis.org/A001405)|[http://puma.dimai.unifi.it/22_2/manara_perelli-cippo.pdf](http://puma.dimai.unifi.it/22_2/manara_perelli-cippo.pdf), [http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf](http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[1423](https://oeis.org/A001423)|[http://hpc.gap-system.org/Preprints/DK-AISC08-cr2.pdf](http://hpc.gap-system.org/Preprints/DK-AISC08-cr2.pdf)|
 |[1438](https://oeis.org/A001438)|[http://www.emba.uvm.edu/~jdinitz/preprints/molssurv.pdf](http://www.emba.uvm.edu/~jdinitz/preprints/molssurv.pdf)|
 |[1441](https://oeis.org/A001441)|[http://www.costasarrays.org/Enumeration27TalkWeb.pdf](http://www.costasarrays.org/Enumeration27TalkWeb.pdf)|
 |[1453](https://oeis.org/A001453)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf)|
-|[1469](https://oeis.org/A001469)|[http://arXiv.org/abs/math.CO/0610234](http://arXiv.org/abs/math.CO/0610234)|
 |[1472](https://oeis.org/A001472)|[http://ecs.inria.fr/services/structure?nbr=25](http://ecs.inria.fr/services/structure?nbr=25)|
-|[1479](https://oeis.org/A001479)|[http://arXiv.org/abs/math.NT/0701251](http://arXiv.org/abs/math.NT/0701251)|
-|[1480](https://oeis.org/A001480)|[http://arXiv.org/abs/math.NT/0701251](http://arXiv.org/abs/math.NT/0701251)|
-|[1498](https://oeis.org/A001498)|[http://arXiv.org/abs/math.CO/0110056](http://arXiv.org/abs/math.CO/0110056)|
-|[1515](https://oeis.org/A001515)|[http://arXiv.org/abs/quant-ph/0501155](http://arXiv.org/abs/quant-ph/0501155)|
 |[1517](https://oeis.org/A001517)|[http://ecs.inria.fr/services/structure?nbr=131](http://ecs.inria.fr/services/structure?nbr=131)|
 |[1519](https://oeis.org/A001519)|[http://dx.doi.org/10.1364/OE.22.004499](http://dx.doi.org/10.1364/OE.22.004499), [http://ecs.inria.fr/services/structure?nbr=127](http://ecs.inria.fr/services/structure?nbr=127)|
-|[1524](https://oeis.org/A001524)|[http://www.arXiv.org/abs/math.CO/0403168](http://www.arXiv.org/abs/math.CO/0403168)|
 |[1532](https://oeis.org/A001532)|[http://www.hpl.hp.com/techreports/2012/HPL-2012-113.pdf](http://www.hpl.hp.com/techreports/2012/HPL-2012-113.pdf)|
 |[1550](https://oeis.org/A001550)|[http://ecs.inria.fr/services/structure?nbr=363](http://ecs.inria.fr/services/structure?nbr=363)|
 |[1551](https://oeis.org/A001551)|[http://ecs.inria.fr/services/structure?nbr=364](http://ecs.inria.fr/services/structure?nbr=364)|
@@ -294,15 +260,12 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[1591](https://oeis.org/A001591)|[http://ecs.inria.fr/services/structure?nbr=12](http://ecs.inria.fr/services/structure?nbr=12)|
 |[1592](https://oeis.org/A001592)|[http://ecs.inria.fr/services/structure?nbr=13](http://ecs.inria.fr/services/structure?nbr=13)|
 |[1595](https://oeis.org/A001595)|[http://ecs.inria.fr/services/structure?nbr=1019](http://ecs.inria.fr/services/structure?nbr=1019)|
-|[1597](https://oeis.org/A001597)|[http://arXiv.org/abs/math.NT/0312440](http://arXiv.org/abs/math.NT/0312440)|
 |[1608](https://oeis.org/A001608)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
 |[1611](https://oeis.org/A001611)|[http://ecs.inria.fr/services/structure?nbr=402](http://ecs.inria.fr/services/structure?nbr=402)|
-|[1620](https://oeis.org/A001620)|[http://wwwmaths.anu.edu.au/~brent/pub/pub139.html](http://wwwmaths.anu.edu.au/~brent/pub/pub139.html), [http://arXiv.org/abs/math/0610499](http://arXiv.org/abs/math/0610499)|
+|[1620](https://oeis.org/A001620)|[http://wwwmaths.anu.edu.au/~brent/pub/pub139.html](http://wwwmaths.anu.edu.au/~brent/pub/pub139.html)|
 |[1622](https://oeis.org/A001622)|[http://www.gutenberg.org/etext/633](http://www.gutenberg.org/etext/633)|
-|[1628](https://oeis.org/A001628)|[http://arXiv.org/abs/math.CO/0301157](http://arXiv.org/abs/math.CO/0301157), [http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205)|
 |[1629](https://oeis.org/A001629)|[http://www.imfm.si/preprinti/PDF/01150.pdf](http://www.imfm.si/preprinti/PDF/01150.pdf)|
 |[1653](https://oeis.org/A001653)|[http://ecs.inria.fr/services/structure?nbr=403](http://ecs.inria.fr/services/structure?nbr=403)|
-|[1656](https://oeis.org/A001656)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
 |[1669](https://oeis.org/A001669)|[http://ecs.inria.fr/services/structure?nbr=296](http://ecs.inria.fr/services/structure?nbr=296)|
 |[1678](https://oeis.org/A001678)|[http://ecs.inria.fr/services/structure?nbr=404](http://ecs.inria.fr/services/structure?nbr=404)|
 |[1680](https://oeis.org/A001680)|[http://ecs.inria.fr/services/structure?nbr=18](http://ecs.inria.fr/services/structure?nbr=18)|
@@ -314,29 +277,24 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[1715](https://oeis.org/A001715)|[http://ecs.inria.fr/services/structure?nbr=263](http://ecs.inria.fr/services/structure?nbr=263)|
 |[1720](https://oeis.org/A001720)|[http://ecs.inria.fr/services/structure?nbr=264](http://ecs.inria.fr/services/structure?nbr=264)|
 |[1725](https://oeis.org/A001725)|[http://ecs.inria.fr/services/structure?nbr=265](http://ecs.inria.fr/services/structure?nbr=265)|
-|[1726](https://oeis.org/A001726)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[1727](https://oeis.org/A001727)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
 |[1730](https://oeis.org/A001730)|[http://ecs.inria.fr/services/structure?nbr=266](http://ecs.inria.fr/services/structure?nbr=266)|
-|[1752](https://oeis.org/A001752)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[1761](https://oeis.org/A001761)|[http://arXiv.org/abs/quant-ph/0111151](http://arXiv.org/abs/quant-ph/0111151), [http://ecs.inria.fr/services/structure?nbr=80](http://ecs.inria.fr/services/structure?nbr=80)|
-|[1762](https://oeis.org/A001762)|[http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp](http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp), [http://134.76.163.65/servlet/digbib?template=view.html&amp](http://134.76.163.65/servlet/digbib?template=view.html&amp)|
+|[1761](https://oeis.org/A001761)|[http://ecs.inria.fr/services/structure?nbr=80](http://ecs.inria.fr/services/structure?nbr=80)|
+|[1762](https://oeis.org/A001762)|[http://134.76.163.65/servlet/digbib?template=view.html&amp](http://134.76.163.65/servlet/digbib?template=view.html&amp), [http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp](http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp)|
 |[1763](https://oeis.org/A001763)|[http://ecs.inria.fr/services/structure?nbr=407](http://ecs.inria.fr/services/structure?nbr=407)|
-|[1764](https://oeis.org/A001764)|[http://arXiv.org/abs/quant-ph/0111151](http://arXiv.org/abs/quant-ph/0111151), [http://ecs.inria.fr/services/structure?nbr=53](http://ecs.inria.fr/services/structure?nbr=53), [http://cis.csuohio.edu/~somos/nwic.html](http://cis.csuohio.edu/~somos/nwic.html), [http://ecs.inria.fr/services/structure?nbr=285](http://ecs.inria.fr/services/structure?nbr=285)|
+|[1764](https://oeis.org/A001764)|[http://ecs.inria.fr/services/structure?nbr=53](http://ecs.inria.fr/services/structure?nbr=53), [http://ecs.inria.fr/services/structure?nbr=285](http://ecs.inria.fr/services/structure?nbr=285), [http://cis.csuohio.edu/~somos/nwic.html](http://cis.csuohio.edu/~somos/nwic.html)|
 |[1765](https://oeis.org/A001765)|[http://ecs.inria.fr/services/structure?nbr=303](http://ecs.inria.fr/services/structure?nbr=303)|
 |[1772](https://oeis.org/A001772)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[1774](https://oeis.org/A001774)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[1775](https://oeis.org/A001775)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
-|[1787](https://oeis.org/A001787)|[http://arXiv.org/abs/math.CO/0211380](http://arXiv.org/abs/math.CO/0211380), [http://ecs.inria.fr/services/structure?nbr=408](http://ecs.inria.fr/services/structure?nbr=408)|
-|[1792](https://oeis.org/A001792)|[http://ecs.inria.fr/services/structure?nbr=146](http://ecs.inria.fr/services/structure?nbr=146), [http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf](http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf)|
-|[1795](https://oeis.org/A001795)|[http://dx.doi.org/10.1090/S0025-5718-1948-0023123-5](http://dx.doi.org/10.1090/S0025-5718-1948-0023123-5)|
+|[1787](https://oeis.org/A001787)|[http://ecs.inria.fr/services/structure?nbr=408](http://ecs.inria.fr/services/structure?nbr=408)|
+|[1792](https://oeis.org/A001792)|[http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf](http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf), [http://ecs.inria.fr/services/structure?nbr=146](http://ecs.inria.fr/services/structure?nbr=146)|
 |[1813](https://oeis.org/A001813)|[http://ecs.inria.fr/services/structure?nbr=115](http://ecs.inria.fr/services/structure?nbr=115)|
-|[1815](https://oeis.org/A001815)|[http://arXiv.org/abs/math.CO/0012029](http://arXiv.org/abs/math.CO/0012029), [http://ecs.inria.fr/services/structure?nbr=103](http://ecs.inria.fr/services/structure?nbr=103), [http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf)|
+|[1815](https://oeis.org/A001815)|[http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf), [http://ecs.inria.fr/services/structure?nbr=103](http://ecs.inria.fr/services/structure?nbr=103)|
 |[1818](https://oeis.org/A001818)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/solutions/June2009.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/solutions/June2009.html)|
 |[1835](https://oeis.org/A001835)|[http://ecs.inria.fr/services/structure?nbr=409](http://ecs.inria.fr/services/structure?nbr=409)|
-|[1837](https://oeis.org/A001837)|[http://arXiv.org/abs/math/9804025](http://arXiv.org/abs/math/9804025)|
-|[1840](https://oeis.org/A001840)|[http://arXiv.org/abs/hep-th/9604128](http://arXiv.org/abs/hep-th/9604128), [http://ecs.inria.fr/services/structure?nbr=207](http://ecs.inria.fr/services/structure?nbr=207), [http://grail.eecs.csuohio.edu/~somos/somospol.html](http://grail.eecs.csuohio.edu/~somos/somospol.html)|
+|[1840](https://oeis.org/A001840)|[http://ecs.inria.fr/services/structure?nbr=207](http://ecs.inria.fr/services/structure?nbr=207), [http://grail.eecs.csuohio.edu/~somos/somospol.html](http://grail.eecs.csuohio.edu/~somos/somospol.html)|
 |[1844](https://oeis.org/A001844)|[http://epublications.bond.edu.au/ejsie/vol8/iss2/4](http://epublications.bond.edu.au/ejsie/vol8/iss2/4)|
-|[1850](https://oeis.org/A001850)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf), [http://arXiv.org/abs/math.CO/0003192](http://arXiv.org/abs/math.CO/0003192)|
+|[1850](https://oeis.org/A001850)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
 |[1855](https://oeis.org/A001855)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[1861](https://oeis.org/A001861)|[http://ecs.inria.fr/services/structure?nbr=66](http://ecs.inria.fr/services/structure?nbr=66), [http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
 |[1864](https://oeis.org/A001864)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
@@ -344,35 +302,27 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[1867](https://oeis.org/A001867)|[http://ecs.inria.fr/services/structure?nbr=3](http://ecs.inria.fr/services/structure?nbr=3)|
 |[1868](https://oeis.org/A001868)|[http://ecs.inria.fr/services/structure?nbr=4](http://ecs.inria.fr/services/structure?nbr=4)|
 |[1869](https://oeis.org/A001869)|[http://ecs.inria.fr/services/structure?nbr=5](http://ecs.inria.fr/services/structure?nbr=5)|
-|[1872](https://oeis.org/A001872)|[http://arXiv.org/abs/math.CO/0301157](http://arXiv.org/abs/math.CO/0301157)|
-|[1896](https://oeis.org/A001896)|[http://arXiv.org/abs/0708.0809](http://arXiv.org/abs/0708.0809)|
-|[1897](https://oeis.org/A001897)|[http://arXiv.org/abs/0708.0809](http://arXiv.org/abs/0708.0809)|
-|[1906](https://oeis.org/A001906)|[http://www.fq.math.ca/Scanned/38-5/lang.pdf](http://www.fq.math.ca/Scanned/38-5/lang.pdf), [http://ecs.inria.fr/services/structure?nbr=147](http://ecs.inria.fr/services/structure?nbr=147), [http://grail.cba.csuohio.edu/~somos/step2.txt](http://grail.cba.csuohio.edu/~somos/step2.txt)|
-|[1911](https://oeis.org/A001911)|[http://arXiv.org/abs/hep-th/9604128](http://arXiv.org/abs/hep-th/9604128), [http://arXiv.org/abs/0910.4432](http://arXiv.org/abs/0910.4432)|
+|[1906](https://oeis.org/A001906)|[http://ecs.inria.fr/services/structure?nbr=147](http://ecs.inria.fr/services/structure?nbr=147), [http://grail.cba.csuohio.edu/~somos/step2.txt](http://grail.cba.csuohio.edu/~somos/step2.txt)|
 |[1913](https://oeis.org/A001913)|[http://turing.wins.uva.nl/~moree/varia.htm](http://turing.wins.uva.nl/~moree/varia.htm)|
 |[1927](https://oeis.org/A001927)|[http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf)|
 |[1928](https://oeis.org/A001928)|[http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf)|
 |[1929](https://oeis.org/A001929)|[http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf)|
-|[1930](https://oeis.org/A001930)|[http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf), [http://www.math.niu.edu/~rusin/known-math/97/finite.top](http://www.math.niu.edu/~rusin/known-math/97/finite.top), [http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html](http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html)|
+|[1930](https://oeis.org/A001930)|[http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf), [http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html](http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html)|
 |[1935](https://oeis.org/A001935)|[http://demmath.mini.pw.edu.pl/archive/dm42_2/4.pdf](http://demmath.mini.pw.edu.pl/archive/dm42_2/4.pdf)|
-|[1970](https://oeis.org/A001970)|[http://arXiv.org/abs/math.CO/0307064](http://arXiv.org/abs/math.CO/0307064), [http://ecs.inria.fr/services/structure?nbr=148](http://ecs.inria.fr/services/structure?nbr=148)|
+|[1970](https://oeis.org/A001970)|[http://ecs.inria.fr/services/structure?nbr=148](http://ecs.inria.fr/services/structure?nbr=148)|
 |[1972](https://oeis.org/A001972)|[http://ecs.inria.fr/services/structure?nbr=208](http://ecs.inria.fr/services/structure?nbr=208)|
 |[2001](https://oeis.org/A002001)|[http://theory2.phys.cwru.edu/~pete/java_chaos/KochApplet.html](http://theory2.phys.cwru.edu/~pete/java_chaos/KochApplet.html), [http://ecs.inria.fr/services/structure?nbr=456](http://ecs.inria.fr/services/structure?nbr=456)|
-|[2025](https://oeis.org/A002025)|[http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://oai.cwi.nl/oai/asset/4143/04143D.pdf](http://oai.cwi.nl/oai/asset/4143/04143D.pdf), [http://oai.cwi.nl/oai/asset/6222/6222A.pdf](http://oai.cwi.nl/oai/asset/6222/6222A.pdf), [http://arXiv.org/abs/math.NT/0409196](http://arXiv.org/abs/math.NT/0409196)|
-|[2034](https://oeis.org/A002034)|[http://arXiv.org/abs/math/0311056](http://arXiv.org/abs/math/0311056)|
+|[2025](https://oeis.org/A002025)|[http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://oai.cwi.nl/oai/asset/4143/04143D.pdf](http://oai.cwi.nl/oai/asset/4143/04143D.pdf), [http://oai.cwi.nl/oai/asset/6222/6222A.pdf](http://oai.cwi.nl/oai/asset/6222/6222A.pdf)|
 |[2045](https://oeis.org/A002045)|[http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_1/20005ac7_134.pdf](http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_1/20005ac7_134.pdf)|
-|[2046](https://oeis.org/A002046)|[http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://arXiv.org/abs/math.NT/0409196](http://arXiv.org/abs/math.NT/0409196)|
+|[2046](https://oeis.org/A002046)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm)|
 |[2050](https://oeis.org/A002050)|[http://ecs.inria.fr/services/structure?nbr=149](http://ecs.inria.fr/services/structure?nbr=149)|
-|[2061](https://oeis.org/A002061)|[http://arXiv.org/abs/math/0107159](http://arXiv.org/abs/math/0107159)|
 |[2091](https://oeis.org/A002091)|[http://www.springerlink.com/content/v8p0525xw284234t/](http://www.springerlink.com/content/v8p0525xw284234t/)|
 |[2104](https://oeis.org/A002104)|[http://ecs.inria.fr/services/structure?nbr=116](http://ecs.inria.fr/services/structure?nbr=116)|
-|[2106](https://oeis.org/A002106)|[http://arXiv.org/abs/math.CO/0506520](http://arXiv.org/abs/math.CO/0506520)|
+|[2105](https://oeis.org/A002105)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[2110](https://oeis.org/A002110)|[http://groups.csail.mit.edu/cis/theses/sutherland-phd.pdf](http://groups.csail.mit.edu/cis/theses/sutherland-phd.pdf)|
-|[2117](https://oeis.org/A002117)|[http://arXiv.org/abs/math/0202159](http://arXiv.org/abs/math/0202159)|
 |[2133](https://oeis.org/A002133)|[https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf](https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf)|
 |[2145](https://oeis.org/A002145)|[http://harry-j-smith-memorial.com/GPrimes/index.html](http://harry-j-smith-memorial.com/GPrimes/index.html)|
 |[2155](https://oeis.org/A002155)|[http://people.umw.edu/~llehman/ranktwo.htm](http://people.umw.edu/~llehman/ranktwo.htm)|
-|[2171](https://oeis.org/A002171)|[http://arXiv.org/abs/math/0509424](http://arXiv.org/abs/math/0509424), [http://arXiv.org/abs/math.NT/0701251](http://arXiv.org/abs/math.NT/0701251)|
 |[2182](https://oeis.org/A002182)|[http://www.math.jussieu.fr/~miw/articles/pdf/LegacyRamanujan2013Text.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/LegacyRamanujan2013Text.pdf)|
 |[2203](https://oeis.org/A002203)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
 |[2234](https://oeis.org/A002234)|[http://science.kennesaw.edu/~jdemaio/generali.htm](http://science.kennesaw.edu/~jdemaio/generali.htm)|
@@ -390,13 +340,13 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[2378](https://oeis.org/A002378)|[http://ecs.inria.fr/services/structure?nbr=410](http://ecs.inria.fr/services/structure?nbr=410)|
 |[2387](https://oeis.org/A002387)|[http://epublications.bond.edu.au/ejsie/vol8/iss2/4](http://epublications.bond.edu.au/ejsie/vol8/iss2/4)|
 |[2410](https://oeis.org/A002410)|[http://arifatmath.co.uk](http://arifatmath.co.uk), [http://oldweb.cecm.sfu.ca/personal/wgalway/SlidesETC/RH-computations-slides.pdf](http://oldweb.cecm.sfu.ca/personal/wgalway/SlidesETC/RH-computations-slides.pdf), [http://www.dmae.upm.es/WebpersonalBartolo/papers/BenfordPrimesProcRSA.pdf](http://www.dmae.upm.es/WebpersonalBartolo/papers/BenfordPrimesProcRSA.pdf), [http://www.openquestions.com/oq-ma014.htm](http://www.openquestions.com/oq-ma014.htm), [http://www.maths.ex.ac.uk/~mwatkins/zeta/cipra.htm](http://www.maths.ex.ac.uk/~mwatkins/zeta/cipra.htm), [http://www.secamlocal.ex.ac.uk/people/staff/mrwatkin/zeta/GSB-RHproof.pdf](http://www.secamlocal.ex.ac.uk/people/staff/mrwatkin/zeta/GSB-RHproof.pdf), [http://mathfaculty.fullerton.edu/mathews/c2003/RiemannHypothesisBib/Links/RiemannHypothesisBib_lnk_3.html](http://mathfaculty.fullerton.edu/mathews/c2003/RiemannHypothesisBib/Links/RiemannHypothesisBib_lnk_3.html), [http://henri.voici.org](http://henri.voici.org)|
-|[2418](https://oeis.org/A002418)|[https://cs.uwaterloo.ca/journals/JIS/VOL24/Verde/verde4.html](https://cs.uwaterloo.ca/journals/JIS/VOL24/Verde/verde4.html)|
 |[2420](https://oeis.org/A002420)|[http://ecs.inria.fr/services/structure?nbr=411](http://ecs.inria.fr/services/structure?nbr=411)|
-|[2450](https://oeis.org/A002450)|[https://cs.uwaterloo.ca/journals/JIS/VOL17/Mukherjee/mukh2.html](https://cs.uwaterloo.ca/journals/JIS/VOL17/Mukherjee/mukh2.html), [http://ecs.inria.fr/services/structure?nbr=373](http://ecs.inria.fr/services/structure?nbr=373)|
+|[2450](https://oeis.org/A002450)|[http://ecs.inria.fr/services/structure?nbr=373](http://ecs.inria.fr/services/structure?nbr=373)|
 |[2478](https://oeis.org/A002478)|[http://ecs.inria.fr/services/structure?nbr=412](http://ecs.inria.fr/services/structure?nbr=412)|
 |[2485](https://oeis.org/A002485)|[http://www.ipsl.jussieu.fr/~omamce/SP/Oct00/Marc_Daumas.pdf](http://www.ipsl.jussieu.fr/~omamce/SP/Oct00/Marc_Daumas.pdf), [http://www.math.jmu.edu/~lucassk/Papers](http://www.math.jmu.edu/~lucassk/Papers)|
 |[2486](https://oeis.org/A002486)|[http://www.ipsl.jussieu.fr/~omamce/SP/Oct00/Marc_Daumas.pdf](http://www.ipsl.jussieu.fr/~omamce/SP/Oct00/Marc_Daumas.pdf)|
 |[2487](https://oeis.org/A002487)|[http://www.math.jussieu.fr/~allouche/bibliorecente.html](http://www.math.jussieu.fr/~allouche/bibliorecente.html), [http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
+|[2524](https://oeis.org/A002524)|[https://statweb.stanford.edu/~cgates/PERSI/papers/sequential_sampling_10.pdf](https://statweb.stanford.edu/~cgates/PERSI/papers/sequential_sampling_10.pdf)|
 |[2562](https://oeis.org/A002562)|[http://queens.inf.tu-dresden.de](http://queens.inf.tu-dresden.de)|
 |[2577](https://oeis.org/A002577)|[http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf](http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf)|
 |[2605](https://oeis.org/A002605)|[http://ecs.inria.fr/services/structure?nbr=476](http://ecs.inria.fr/services/structure?nbr=476)|
@@ -409,7 +359,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[2626](https://oeis.org/A002626)|[http://ecs.inria.fr/services/structure?nbr=206](http://ecs.inria.fr/services/structure?nbr=206)|
 |[2627](https://oeis.org/A002627)|[http://ecs.inria.fr/services/structure?nbr=150](http://ecs.inria.fr/services/structure?nbr=150)|
 |[2697](https://oeis.org/A002697)|[http://ecs.inria.fr/services/structure?nbr=414](http://ecs.inria.fr/services/structure?nbr=414)|
-|[2717](https://oeis.org/A002717)|[http://www.math.ku.dk/~mel/mel.pdf](http://www.math.ku.dk/~mel/mel.pdf)|
 |[2720](https://oeis.org/A002720)|[http://ecs.inria.fr/services/structure?nbr=64](http://ecs.inria.fr/services/structure?nbr=64)|
 |[2747](https://oeis.org/A002747)|[http://oldweb.cecm.sfu.ca/cgi-bin/isc/lookup?number=1.8134302039235&amp](http://oldweb.cecm.sfu.ca/cgi-bin/isc/lookup?number=1.8134302039235&amp)|
 |[2807](https://oeis.org/A002807)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
@@ -421,18 +370,19 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[2864](https://oeis.org/A002864)|[http://baldric.uwo.ca/article.php3?section=baldric&amp](http://baldric.uwo.ca/article.php3?section=baldric&amp)|
 |[2865](https://oeis.org/A002865)|[http://ecs.inria.fr/services/structure?nbr=100](http://ecs.inria.fr/services/structure?nbr=100)|
 |[2866](https://oeis.org/A002866)|[http://ecs.inria.fr/services/structure?nbr=121](http://ecs.inria.fr/services/structure?nbr=121)|
-|[2952](https://oeis.org/A002952)|[http://amicable.homepage.dk/knwnunap.htm](http://amicable.homepage.dk/knwnunap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[2953](https://oeis.org/A002953)|[http://amicable.homepage.dk/knwnunap.htm](http://amicable.homepage.dk/knwnunap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[2952](https://oeis.org/A002952)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://amicable.homepage.dk/knwnunap.htm](http://amicable.homepage.dk/knwnunap.htm)|
+|[2953](https://oeis.org/A002953)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://amicable.homepage.dk/knwnunap.htm](http://amicable.homepage.dk/knwnunap.htm)|
 |[2966](https://oeis.org/A002966)|[http://www.magnesium.net/~palomer/egypt.cpp](http://www.magnesium.net/~palomer/egypt.cpp)|
 |[2982](https://oeis.org/A002982)|[http://83.143.57.194:16384/Factorial/](http://83.143.57.194:16384/Factorial/)|
 |[2997](https://oeis.org/A002997)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#78](http://www.chalcedon.demon.co.uk/rgep/publish.html#78), [http://www.chalcedon.demon.co.uk/rgep/publish.html#82](http://www.chalcedon.demon.co.uk/rgep/publish.html#82), [http://www.chalcedon.demon.co.uk/rgep/publish.html#37](http://www.chalcedon.demon.co.uk/rgep/publish.html#37)|
 |[3000](https://oeis.org/A003000)|[http://faculty.missouri.edu/~stephen/preprints/unforgeable.html](http://faculty.missouri.edu/~stephen/preprints/unforgeable.html)|
 |[3020](https://oeis.org/A003020)|[http://www.h4.dion.ne.jp/~rep/](http://www.h4.dion.ne.jp/~rep/)|
-|[3024](https://oeis.org/A003024)|[http://arXiv.org/abs/math.CO/0310423](http://arXiv.org/abs/math.CO/0310423)|
+|[3021](https://oeis.org/A003021)|[http://gmplib.org/~tege/fac10p.txt](http://gmplib.org/~tege/fac10p.txt)|
+|[3095](https://oeis.org/A003095)|[http://ocw.upm.es/ciencia-de-la-computacion-e-inteligencia-artificial/computational-logic/contenidos/04interpretation.pdf](http://ocw.upm.es/ciencia-de-la-computacion-e-inteligencia-artificial/computational-logic/contenidos/04interpretation.pdf)|
 |[3111](https://oeis.org/A003111)|[http://turing.csie.ntu.edu.tw/~arping/cm](http://turing.csie.ntu.edu.tw/~arping/cm)|
 |[3132](https://oeis.org/A003132)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[3149](https://oeis.org/A003149)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2006.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2006.html)|
-|[3168](https://oeis.org/A003168)|[http://ecs.inria.fr/services/structure?nbr=415](http://ecs.inria.fr/services/structure?nbr=415)|
+|[3168](https://oeis.org/A003168)|[http://ecs.inria.fr/services/structure?nbr=415](http://ecs.inria.fr/services/structure?nbr=415), [http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf](http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf)|
 |[3169](https://oeis.org/A003169)|[http://ecs.inria.fr/services/structure?nbr=416](http://ecs.inria.fr/services/structure?nbr=416)|
 |[3188](https://oeis.org/A003188)|[http://logic.csci.unt.edu/tarau/research/2009/fISO.pdf](http://logic.csci.unt.edu/tarau/research/2009/fISO.pdf), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[3229](https://oeis.org/A003229)|[http://ecs.inria.fr/services/structure?nbr=417](http://ecs.inria.fr/services/structure?nbr=417)|
@@ -457,7 +407,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[3517](https://oeis.org/A003517)|[http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf](http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf)|
 |[3518](https://oeis.org/A003518)|[http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf](http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf)|
 |[3520](https://oeis.org/A003520)|[http://ecs.inria.fr/services/structure?nbr=378](http://ecs.inria.fr/services/structure?nbr=378)|
-|[3558](https://oeis.org/A003558)|[http://www.scipress.org/journals/forma/pdf/1804/18040249.pdf](http://www.scipress.org/journals/forma/pdf/1804/18040249.pdf), [http://harry-j-smith-memorial.com/download.html#XICalc](http://harry-j-smith-memorial.com/download.html#XICalc), [http://math.coe.uga.edu/tme/issues/v05n1/hiltonPederson.pm.pdf](http://math.coe.uga.edu/tme/issues/v05n1/hiltonPederson.pm.pdf)|
+|[3558](https://oeis.org/A003558)|[http://harry-j-smith-memorial.com/download.html#XICalc](http://harry-j-smith-memorial.com/download.html#XICalc), [http://www.scipress.org/journals/forma/pdf/1804/18040249.pdf](http://www.scipress.org/journals/forma/pdf/1804/18040249.pdf), [http://math.coe.uga.edu/tme/issues/v05n1/hiltonPederson.pm.pdf](http://math.coe.uga.edu/tme/issues/v05n1/hiltonPederson.pm.pdf)|
 |[3605](https://oeis.org/A003605)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[3645](https://oeis.org/A003645)|[http://ecs.inria.fr/services/structure?nbr=652](http://ecs.inria.fr/services/structure?nbr=652)|
 |[3661](https://oeis.org/A003661)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
@@ -476,11 +426,15 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[3953](https://oeis.org/A003953)|[http://ecs.inria.fr/services/structure?nbr=312](http://ecs.inria.fr/services/structure?nbr=312)|
 |[3954](https://oeis.org/A003954)|[http://ecs.inria.fr/services/structure?nbr=313](http://ecs.inria.fr/services/structure?nbr=313)|
 |[3957](https://oeis.org/A003957)|[http://www.nonlinearscience.com/paper.php?pid=0000000113](http://www.nonlinearscience.com/paper.php?pid=0000000113)|
+|[4003](https://oeis.org/A004003)|[http://dx.doi.org/10.1103/PhysRev.124.1664](http://dx.doi.org/10.1103/PhysRev.124.1664), [http://www.combinatorics.org/ojs/index.php/eljc/article/view/v22i1p66](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v22i1p66), [http://www.combinatorics.org/ojs/index.php/eljc/article/view/v4i1r29](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v4i1r29), [http://images.math.cnrs.fr/Le-modele-de-dimeres.html](http://images.math.cnrs.fr/Le-modele-de-dimeres.html), [http://www-math.mit.edu/~rstan/papers/comb.pdf](http://www-math.mit.edu/~rstan/papers/comb.pdf), [https://web.archive.org/web/20190411024906/http://www.mathematica-journal.com/issue/v9i3/polyominoes.html](https://web.archive.org/web/20190411024906/http://www.mathematica-journal.com/issue/v9i3/polyominoes.html)|
 |[4111](https://oeis.org/A004111)|[http://ecs.inria.fr/services/structure?nbr=56](http://ecs.inria.fr/services/structure?nbr=56)|
-|[4116](https://oeis.org/A004116)|[http://arXiv.org/abs/math.CO/0309220](http://arXiv.org/abs/math.CO/0309220), [http://ecs.inria.fr/services/structure?nbr=420](http://ecs.inria.fr/services/structure?nbr=420)|
+|[4116](https://oeis.org/A004116)|[http://ecs.inria.fr/services/structure?nbr=420](http://ecs.inria.fr/services/structure?nbr=420)|
 |[4147](https://oeis.org/A004147)|[http://grail.cba.csuohio.edu/~somos/busy.html](http://grail.cba.csuohio.edu/~somos/busy.html), [http://grail.cba.csuohio.edu/~somos/bb.html](http://grail.cba.csuohio.edu/~somos/bb.html)|
 |[4148](https://oeis.org/A004148)|[http://ecs.inria.fr/services/structure?nbr=421](http://ecs.inria.fr/services/structure?nbr=421)|
-|[4253](https://oeis.org/A004253)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://ecs.inria.fr/services/structure?nbr=422](http://ecs.inria.fr/services/structure?nbr=422)|
+|[4159](https://oeis.org/A004159)|[http://www.dmg.tuwien.ac.at/drmota/dmr6.pdf](http://www.dmg.tuwien.ac.at/drmota/dmr6.pdf)|
+|[4164](https://oeis.org/A004164)|[http://www.dmg.tuwien.ac.at/drmota/dmr6.pdf](http://www.dmg.tuwien.ac.at/drmota/dmr6.pdf)|
+|[4166](https://oeis.org/A004166)|[http://web.archive.org/web/20090729113659/http://www.paulcooijmans.com:80/others/intcont2003.html](http://web.archive.org/web/20090729113659/http://www.paulcooijmans.com:80/others/intcont2003.html)|
+|[4253](https://oeis.org/A004253)|[http://ecs.inria.fr/services/structure?nbr=422](http://ecs.inria.fr/services/structure?nbr=422), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[4273](https://oeis.org/A004273)|[http://glooscap.cs.dal.ca:8087/advancedCalc](http://glooscap.cs.dal.ca:8087/advancedCalc)|
 |[4490](https://oeis.org/A004490)|[http://www.math.jussieu.fr/~miw/articles/pdf/LegacyRamanujan2013Text.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/LegacyRamanujan2013Text.pdf)|
 |[4523](https://oeis.org/A004523)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
@@ -490,7 +444,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[4607](https://oeis.org/A004607)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
 |[4718](https://oeis.org/A004718)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[4741](https://oeis.org/A004741)|[http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf](http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf)|
-|[4747](https://oeis.org/A004747)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
 |[4771](https://oeis.org/A004771)|[http://ecs.inria.fr/services/structure?nbr=962](http://ecs.inria.fr/services/structure?nbr=962)|
 |[5036](https://oeis.org/A005036)|[http://com2mac.postech.ac.kr/papers/2001/01-06.pdf](http://com2mac.postech.ac.kr/papers/2001/01-06.pdf)|
 |[5040](https://oeis.org/A005040)|[http://com2mac.postech.ac.kr/](http://com2mac.postech.ac.kr/)|
@@ -500,14 +453,14 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[5054](https://oeis.org/A005054)|[http://ecs.inria.fr/services/structure?nbr=458](http://ecs.inria.fr/services/structure?nbr=458)|
 |[5100](https://oeis.org/A005100)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
 |[5101](https://oeis.org/A005101)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
+|[5118](https://oeis.org/A005118)|[http://www-math.mit.edu/~rstan/papers/comb.pdf](http://www-math.mit.edu/~rstan/papers/comb.pdf)|
 |[5126](https://oeis.org/A005126)|[http://ecs.inria.fr/services/structure?nbr=921](http://ecs.inria.fr/services/structure?nbr=921)|
-|[5132](https://oeis.org/A005132)|[https://youtu.be/xl1yLPWypmo](https://youtu.be/xl1yLPWypmo)|
 |[5153](https://oeis.org/A005153)|[http://www.currentscience.ac.in/Downloads/article_id_017_06_0179_0180_0.pdf](http://www.currentscience.ac.in/Downloads/article_id_017_06_0179_0180_0.pdf)|
+|[5159](https://oeis.org/A005159)|[http://repository.wit.ie/1693/](http://repository.wit.ie/1693/)|
 |[5180](https://oeis.org/A005180)|[http://for.mat.bham.ac.uk/atlas/html](http://for.mat.bham.ac.uk/atlas/html)|
 |[5187](https://oeis.org/A005187)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[5188](https://oeis.org/A005188)|[http://everything2.net/index.pl?node_id=1525466&amp](http://everything2.net/index.pl?node_id=1525466&amp), [http://everything2.net/index.pl?node_id=1407017&amp](http://everything2.net/index.pl?node_id=1407017&amp)|
+|[5188](https://oeis.org/A005188)|[http://everything2.net/index.pl?node_id=1407017&amp](http://everything2.net/index.pl?node_id=1407017&amp), [http://everything2.net/index.pl?node_id=1525466&amp](http://everything2.net/index.pl?node_id=1525466&amp)|
 |[5231](https://oeis.org/A005231)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
-|[5232](https://oeis.org/A005232)|[http://zfn.mpdl.mpg.de/data/Reihe_A/52/ZNA-1997-52a-0867.pdf](http://zfn.mpdl.mpg.de/data/Reihe_A/52/ZNA-1997-52a-0867.pdf)|
 |[5245](https://oeis.org/A005245)|[http://expmath.lumii.lv/wiki/index.php/Special:Complexity](http://expmath.lumii.lv/wiki/index.php/Special:Complexity), [http://hdl.handle.net/10515/sy5sj1b71](http://hdl.handle.net/10515/sy5sj1b71)|
 |[5251](https://oeis.org/A005251)|[http://ecs.inria.fr/services/structure?nbr=98](http://ecs.inria.fr/services/structure?nbr=98)|
 |[5252](https://oeis.org/A005252)|[http://ecs.inria.fr/services/structure?nbr=424](http://ecs.inria.fr/services/structure?nbr=424)|
@@ -515,7 +468,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[5259](https://oeis.org/A005259)|[http://www.math.jussieu.fr/~allouche/bibliorecente.html](http://www.math.jussieu.fr/~allouche/bibliorecente.html)|
 |[5271](https://oeis.org/A005271)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
 |[5314](https://oeis.org/A005314)|[http://ecs.inria.fr/services/structure?nbr=426](http://ecs.inria.fr/services/structure?nbr=426)|
-|[5322](https://oeis.org/A005322)|[https://liforce.usthb.dz/sites/default/files/2020-11/article1.pdf](https://liforce.usthb.dz/sites/default/files/2020-11/article1.pdf)|
 |[5390](https://oeis.org/A005390)|[http://mathematik.htwm.de/software/gedit/index.html.en](http://mathematik.htwm.de/software/gedit/index.html.en)|
 |[5408](https://oeis.org/A005408)|[http://ecs.inria.fr/services/structure?nbr=935](http://ecs.inria.fr/services/structure?nbr=935), [http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
 |[5422](https://oeis.org/A005422)|[http://www.h4.dion.ne.jp/~rep/](http://www.h4.dion.ne.jp/~rep/)|
@@ -525,20 +477,21 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[5450](https://oeis.org/A005450)|[http://users.forthnet.gr/ath/asin/proandsol.htm](http://users.forthnet.gr/ath/asin/proandsol.htm)|
 |[5451](https://oeis.org/A005451)|[http://users.forthnet.gr/ath/asin/proandsol.htm](http://users.forthnet.gr/ath/asin/proandsol.htm)|
 |[5471](https://oeis.org/A005471)|[https://doi:10.2969/jmsj/02630447](https://doi:10.2969/jmsj/02630447)|
-|[5487](https://oeis.org/A005487)|[http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi](http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi)|
+|[5487](https://oeis.org/A005487)|[http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi](http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi), [http://www-math.mit.edu/~rstan/papers/od.ps](http://www-math.mit.edu/~rstan/papers/od.ps)|
 |[5493](https://oeis.org/A005493)|[http://ecs.inria.fr/services/structure?nbr=152](http://ecs.inria.fr/services/structure?nbr=152)|
-|[5513](https://oeis.org/A005513)|[http://zfn.mpdl.mpg.de/data/Reihe_A/52/ZNA-1997-52a-0867.pdf](http://zfn.mpdl.mpg.de/data/Reihe_A/52/ZNA-1997-52a-0867.pdf)|
-|[5514](https://oeis.org/A005514)|[http://zfn.mpdl.mpg.de/data/Reihe_A/52/ZNA-1997-52a-0867.pdf](http://zfn.mpdl.mpg.de/data/Reihe_A/52/ZNA-1997-52a-0867.pdf)|
 |[5536](https://oeis.org/A005536)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[5563](https://oeis.org/A005563)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[5568](https://oeis.org/A005568)|[http://webpages.ursinus.edu/nscoville/DMFIntegersSubmission.pdf](http://webpages.ursinus.edu/nscoville/DMFIntegersSubmission.pdf)|
 |[5572](https://oeis.org/A005572)|[http://ecs.inria.fr/services/structure?nbr=153](http://ecs.inria.fr/services/structure?nbr=153)|
+|[5573](https://oeis.org/A005573)|[http://repository.wit.ie/1693](http://repository.wit.ie/1693)|
 |[5581](https://oeis.org/A005581)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
 |[5583](https://oeis.org/A005583)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
 |[5584](https://oeis.org/A005584)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[5594](https://oeis.org/A005594)|[http://ecs.inria.fr/services/structure?nbr=111](http://ecs.inria.fr/services/structure?nbr=111), [http://ecs.inria.fr/services/structure?nbr=107](http://ecs.inria.fr/services/structure?nbr=107)|
+|[5594](https://oeis.org/A005594)|[http://ecs.inria.fr/services/structure?nbr=107](http://ecs.inria.fr/services/structure?nbr=107), [http://ecs.inria.fr/services/structure?nbr=111](http://ecs.inria.fr/services/structure?nbr=111)|
 |[5602](https://oeis.org/A005602)|[http://ksc9.th.com/warut/cunningham.html](http://ksc9.th.com/warut/cunningham.html)|
-|[5649](https://oeis.org/A005649)|[http://arXiv.org/abs/math.CO/9406220](http://arXiv.org/abs/math.CO/9406220), [http://ecs.inria.fr/services/structure?nbr=154](http://ecs.inria.fr/services/structure?nbr=154), [https://doi.org/10.22108/toc.2022.130037.1894](https://doi.org/10.22108/toc.2022.130037.1894)|
+|[5649](https://oeis.org/A005649)|[http://ecs.inria.fr/services/structure?nbr=154](http://ecs.inria.fr/services/structure?nbr=154)|
+|[5652](https://oeis.org/A005652)|[http://www-math.mit.edu/~tchow/add.pdf](http://www-math.mit.edu/~tchow/add.pdf)|
+|[5653](https://oeis.org/A005653)|[http://www-math.mit.edu/~tchow/add.pdf](http://www-math.mit.edu/~tchow/add.pdf)|
 |[5668](https://oeis.org/A005668)|[http://ecs.inria.fr/services/structure?nbr=427](http://ecs.inria.fr/services/structure?nbr=427)|
 |[5704](https://oeis.org/A005704)|[http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf](http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf)|
 |[5705](https://oeis.org/A005705)|[http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf](http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf)|
@@ -550,7 +503,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[5750](https://oeis.org/A005750)|[http://ecs.inria.fr/services/structure?nbr=428](http://ecs.inria.fr/services/structure?nbr=428)|
 |[5753](https://oeis.org/A005753)|[http://ecs.inria.fr/services/structure?nbr=429](http://ecs.inria.fr/services/structure?nbr=429)|
 |[5754](https://oeis.org/A005754)|[http://ecs.inria.fr/services/structure?nbr=430](http://ecs.inria.fr/services/structure?nbr=430)|
-|[5773](https://oeis.org/A005773)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/mansour_shattuck.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/mansour_shattuck.pdf)|
+|[5773](https://oeis.org/A005773)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/mansour_shattuck.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/mansour_shattuck.pdf), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[5807](https://oeis.org/A005807)|[http://ecs.inria.fr/services/structure?nbr=431](http://ecs.inria.fr/services/structure?nbr=431)|
 |[5811](https://oeis.org/A005811)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[5820](https://oeis.org/A005820)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
@@ -560,14 +513,15 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[5864](https://oeis.org/A005864)|[http://saturn.hut.fi/~pat/](http://saturn.hut.fi/~pat/)|
 |[5900](https://oeis.org/A005900)|[http://members.fortunecity.fr/polynexus/index.html](http://members.fortunecity.fr/polynexus/index.html)|
 |[5942](https://oeis.org/A005942)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[6006](https://oeis.org/A006006)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
+|[5986](https://oeis.org/A005986)|[http://www-math.mit.edu/~rstan//pubs/pubfiles/12-2.pdf](http://www-math.mit.edu/~rstan//pubs/pubfiles/12-2.pdf)|
+|[5987](https://oeis.org/A005987)|[http://www-math.mit.edu/~rstan/pubs/pubfiles/12-2.pdf](http://www-math.mit.edu/~rstan/pubs/pubfiles/12-2.pdf)|
 |[6012](https://oeis.org/A006012)|[http://ecs.inria.fr/services/structure?nbr=155](http://ecs.inria.fr/services/structure?nbr=155)|
 |[6013](https://oeis.org/A006013)|[http://ecs.inria.fr/services/structure?nbr=432](http://ecs.inria.fr/services/structure?nbr=432), [http://grail.cba.csuohio.edu/~somos/nwic.html](http://grail.cba.csuohio.edu/~somos/nwic.html)|
-|[6028](https://oeis.org/A006028)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
 |[6037](https://oeis.org/A006037)|[http://bib.tiera.ru/ShiZ/math/other/Handbook%20Of%20Number%20Theory%20II%20-%20J.%20Sandor](http://bib.tiera.ru/ShiZ/math/other/Handbook%20Of%20Number%20Theory%20II%20-%20J.%20Sandor)|
 |[6053](https://oeis.org/A006053)|[http://ecs.inria.fr/services/structure?nbr=433](http://ecs.inria.fr/services/structure?nbr=433)|
 |[6054](https://oeis.org/A006054)|[http://ecs.inria.fr/services/structure?nbr=434](http://ecs.inria.fr/services/structure?nbr=434)|
 |[6066](https://oeis.org/A006066)|[http://www004.upp.so-net.ne.jp/s_honma/triangle/triangle2.htm](http://www004.upp.so-net.ne.jp/s_honma/triangle/triangle2.htm)|
+|[6125](https://oeis.org/A006125)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[6127](https://oeis.org/A006127)|[http://ecs.inria.fr/services/structure?nbr=435](http://ecs.inria.fr/services/structure?nbr=435)|
 |[6130](https://oeis.org/A006130)|[http://ecs.inria.fr/services/structure?nbr=436](http://ecs.inria.fr/services/structure?nbr=436)|
 |[6131](https://oeis.org/A006131)|[http://ecs.inria.fr/services/structure?nbr=437](http://ecs.inria.fr/services/structure?nbr=437)|
@@ -578,28 +532,27 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[6166](https://oeis.org/A006166)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[6190](https://oeis.org/A006190)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf), [http://ecs.inria.fr/services/structure?nbr=158](http://ecs.inria.fr/services/structure?nbr=158)|
 |[6247](https://oeis.org/A006247)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[6318](https://oeis.org/A006318)|[http://oai.cwi.nl/oai/asset/21313/21313A.pdf](http://oai.cwi.nl/oai/asset/21313/21313A.pdf), [http://ecs.inria.fr/services/structure?nbr=159](http://ecs.inria.fr/services/structure?nbr=159)|
+|[6318](https://oeis.org/A006318)|[http://oai.cwi.nl/oai/asset/21313/21313A.pdf](http://oai.cwi.nl/oai/asset/21313/21313A.pdf), [http://ecs.inria.fr/services/structure?nbr=159](http://ecs.inria.fr/services/structure?nbr=159), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[6345](https://oeis.org/A006345)|[http://www2.ims.nus.edu.sg/preprints/2007-19.pdf](http://www2.ims.nus.edu.sg/preprints/2007-19.pdf)|
-|[6355](https://oeis.org/A006355)|[http://ecs.inria.fr/services/structure?nbr=898](http://ecs.inria.fr/services/structure?nbr=898), [http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf)|
+|[6355](https://oeis.org/A006355)|[http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf), [http://ecs.inria.fr/services/structure?nbr=898](http://ecs.inria.fr/services/structure?nbr=898)|
 |[6356](https://oeis.org/A006356)|[http://ecs.inria.fr/services/structure?nbr=451](http://ecs.inria.fr/services/structure?nbr=451)|
 |[6505](https://oeis.org/A006505)|[http://ecs.inria.fr/services/structure?nbr=102](http://ecs.inria.fr/services/structure?nbr=102)|
 |[6516](https://oeis.org/A006516)|[http://faculty.missouri.edu/~bankswd/papers/2008_Descartes_Final.pdf](http://faculty.missouri.edu/~bankswd/papers/2008_Descartes_Final.pdf)|
 |[6518](https://oeis.org/A006518)|[http://www-centre.mpce.mq.edu.au/alfpapers/a107.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a107.pdf)|
 |[6534](https://oeis.org/A006534)|[http://www.g4g4.com/contentsmmpp.html](http://www.g4g4.com/contentsmmpp.html)|
-|[6568](https://oeis.org/A006568)|[http://arXiv.org/abs/math/0509637](http://arXiv.org/abs/math/0509637)|
-|[6569](https://oeis.org/A006569)|[http://arXiv.org/abs/0708.0809](http://arXiv.org/abs/0708.0809)|
+|[6600](https://oeis.org/A006600)|[http://math.mit.edu/~poonen/papers/ngon.m](http://math.mit.edu/~poonen/papers/ngon.m)|
 |[6632](https://oeis.org/A006632)|[http://ecs.inria.fr/services/structure?nbr=438](http://ecs.inria.fr/services/structure?nbr=438)|
 |[6677](https://oeis.org/A006677)|[http://ecs.inria.fr/services/structure?nbr=160](http://ecs.inria.fr/services/structure?nbr=160)|
+|[6689](https://oeis.org/A006689)|[https://dmg.tuwien.ac.at/bgitten/Theses/sedlitz.pdf](https://dmg.tuwien.ac.at/bgitten/Theses/sedlitz.pdf)|
 |[6716](https://oeis.org/A006716)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
-|[6720](https://oeis.org/A006720)|[http://arXiv.org/abs/0807.2538](http://arXiv.org/abs/0807.2538), [http://grail.eecs.csuohio.edu/~somos/somos6.html](http://grail.eecs.csuohio.edu/~somos/somos6.html), [http://grail.eecs.csuohio.edu/~somos/wxyz.gp](http://grail.eecs.csuohio.edu/~somos/wxyz.gp)|
+|[6720](https://oeis.org/A006720)|[http://grail.eecs.csuohio.edu/~somos/somos6.html](http://grail.eecs.csuohio.edu/~somos/somos6.html), [http://grail.eecs.csuohio.edu/~somos/wxyz.gp](http://grail.eecs.csuohio.edu/~somos/wxyz.gp)|
 |[6721](https://oeis.org/A006721)|[http://grail.eecs.csuohio.edu/~somos/somos6.html](http://grail.eecs.csuohio.edu/~somos/somos6.html)|
 |[6722](https://oeis.org/A006722)|[http://grail.eecs.csuohio.edu/~somos/somos6.html](http://grail.eecs.csuohio.edu/~somos/somos6.html)|
 |[6723](https://oeis.org/A006723)|[http://grail.eecs.csuohio.edu/~somos/somos7.html](http://grail.eecs.csuohio.edu/~somos/somos7.html)|
-|[6752](https://oeis.org/A006752)|[https://www.gutenberg.org/ebooks/682](https://www.gutenberg.org/ebooks/682), [http://www.gutenberg.org/etext/812](http://www.gutenberg.org/etext/812)|
+|[6752](https://oeis.org/A006752)|[http://www.gutenberg.org/etext/812](http://www.gutenberg.org/etext/812), [https://www.gutenberg.org/ebooks/682](https://www.gutenberg.org/ebooks/682)|
 |[6753](https://oeis.org/A006753)|[http://everything2.net/index.pl?node_id=1104442&amp](http://everything2.net/index.pl?node_id=1104442&amp)|
 |[6769](https://oeis.org/A006769)|[http://grail.eecs.csuohio.edu/~somos/nwic.html](http://grail.eecs.csuohio.edu/~somos/nwic.html)|
-|[6884](https://oeis.org/A006884)|[http://pcbarina.fit.vutbr.cz/path-records.htm](http://pcbarina.fit.vutbr.cz/path-records.htm)|
-|[6918](https://oeis.org/A006918)|[http://zfn.mpdl.mpg.de/data/Reihe_A/52/ZNA-1997-52a-0867.pdf](http://zfn.mpdl.mpg.de/data/Reihe_A/52/ZNA-1997-52a-0867.pdf)|
+|[6944](https://oeis.org/A006944)|[http://www.gpo.gov/fdsys/pkg/GPO-STYLEMANUAL-2008/pdf/GPO-STYLEMANUAL-2008.pdf](http://www.gpo.gov/fdsys/pkg/GPO-STYLEMANUAL-2008/pdf/GPO-STYLEMANUAL-2008.pdf)|
 |[6951](https://oeis.org/A006951)|[http://ecs.inria.fr/services/structure?nbr=161](http://ecs.inria.fr/services/structure?nbr=161)|
 |[6952](https://oeis.org/A006952)|[http://ecs.inria.fr/services/structure?nbr=162](http://ecs.inria.fr/services/structure?nbr=162)|
 |[6963](https://oeis.org/A006963)|[http://ecs.inria.fr/services/structure?nbr=109](http://ecs.inria.fr/services/structure?nbr=109)|
@@ -607,6 +560,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[6966](https://oeis.org/A006966)|[http://www-ifm.math.uni-hannover.de/forschung/preprintsifm.html](http://www-ifm.math.uni-hannover.de/forschung/preprintsifm.html)|
 |[6982](https://oeis.org/A006982)|[http://www-ifm.math.uni-hannover.de/forschung/preprintsifm.html](http://www-ifm.math.uni-hannover.de/forschung/preprintsifm.html), [http://www-ifm.math.uni-hannover.de/html/preprints.phtml](http://www-ifm.math.uni-hannover.de/html/preprints.phtml)|
 |[6995](https://oeis.org/A006995)|[http://faculty.missouri.edu/~bankswd/papers/2006_palindromes_iii.pdf](http://faculty.missouri.edu/~bankswd/papers/2006_palindromes_iii.pdf)|
+|[6997](https://oeis.org/A006997)|[http://www-math.mit.edu/~rstan/papers/od.ps](http://www-math.mit.edu/~rstan/papers/od.ps)|
 |[7006](https://oeis.org/A007006)|[http://www.labri.u-bordeaux.fr/~loeb/nov94](http://www.labri.u-bordeaux.fr/~loeb/nov94)|
 |[7009](https://oeis.org/A007009)|[http://www.labri.u-bordeaux.fr/~loeb/vote.html](http://www.labri.u-bordeaux.fr/~loeb/vote.html)|
 |[7010](https://oeis.org/A007010)|[http://www.labri.u-bordeaux.fr/~loeb/vote.html](http://www.labri.u-bordeaux.fr/~loeb/vote.html)|
@@ -617,13 +571,13 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[7070](https://oeis.org/A007070)|[http://ecs.inria.fr/services/structure?nbr=440](http://ecs.inria.fr/services/structure?nbr=440)|
 |[7097](https://oeis.org/A007097)|[https://www.longeri.org/prime/nature.html](https://www.longeri.org/prime/nature.html)|
 |[7113](https://oeis.org/A007113)|[http://ecs.inria.fr/services/structure?nbr=75](http://ecs.inria.fr/services/structure?nbr=75)|
-|[7138](https://oeis.org/A007138)|[http://www.h4.dion.ne.jp/~rep/Repunit100.txt](http://www.h4.dion.ne.jp/~rep/Repunit100.txt)|
+|[7138](https://oeis.org/A007138)|[https://gmplib.org/~tege/fac10m.txt](https://gmplib.org/~tege/fac10m.txt), [http://www.h4.dion.ne.jp/~rep/Repunit100.txt](http://www.h4.dion.ne.jp/~rep/Repunit100.txt)|
 |[7238](https://oeis.org/A007238)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[7290](https://oeis.org/A007290)|[http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf)|
+|[7297](https://oeis.org/A007297)|[http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf](http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf)|
 |[7302](https://oeis.org/A007302)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[7305](https://oeis.org/A007305)|[http://www-math.ias.tokushima-u.ac.jp/journal/2013/Katayama47.pdf](http://www-math.ias.tokushima-u.ac.jp/journal/2013/Katayama47.pdf)|
-|[7317](https://oeis.org/A007317)|[http://www.tfh-berlin.de/~grude/PapRekursion.pdf](http://www.tfh-berlin.de/~grude/PapRekursion.pdf), [http://ecs.inria.fr/services/structure?nbr=124](http://ecs.inria.fr/services/structure?nbr=124)|
-|[7318](https://oeis.org/A007318)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
+|[7317](https://oeis.org/A007317)|[http://www.tfh-berlin.de/~grude/PapRekursion.pdf](http://www.tfh-berlin.de/~grude/PapRekursion.pdf), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://ecs.inria.fr/services/structure?nbr=124](http://ecs.inria.fr/services/structure?nbr=124), [http://www-math.mit.edu/~rstan/papers/hextrees.pdf](http://www-math.mit.edu/~rstan/papers/hextrees.pdf)|
 |[7321](https://oeis.org/A007321)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
 |[7357](https://oeis.org/A007357)|[http://amicable.adsl.dk/aliquot/i1/i1.txt](http://amicable.adsl.dk/aliquot/i1/i1.txt)|
 |[7363](https://oeis.org/A007363)|[http://www.labri.u-bordeaux.fr/~loeb/vote.html](http://www.labri.u-bordeaux.fr/~loeb/vote.html)|
@@ -634,15 +588,15 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[7477](https://oeis.org/A007477)|[http://ecs.inria.fr/services/structure?nbr=441](http://ecs.inria.fr/services/structure?nbr=441)|
 |[7482](https://oeis.org/A007482)|[http://ecs.inria.fr/services/structure?nbr=442](http://ecs.inria.fr/services/structure?nbr=442)|
 |[7494](https://oeis.org/A007494)|[http://ecs.inria.fr/services/structure?nbr=1002](http://ecs.inria.fr/services/structure?nbr=1002)|
+|[7519](https://oeis.org/A007519)|[http://math.mit.edu/~brubaker/781hw5sol.pdf](http://math.mit.edu/~brubaker/781hw5sol.pdf)|
 |[7539](https://oeis.org/A007539)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
 |[7550](https://oeis.org/A007550)|[http://ecs.inria.fr/services/structure?nbr=166](http://ecs.inria.fr/services/structure?nbr=166)|
 |[7556](https://oeis.org/A007556)|[http://ecs.inria.fr/services/structure?nbr=290](http://ecs.inria.fr/services/structure?nbr=290)|
 |[7563](https://oeis.org/A007563)|[http://ecs.inria.fr/services/structure?nbr=167](http://ecs.inria.fr/services/structure?nbr=167)|
-|[7564](https://oeis.org/A007564)|[http://ecs.inria.fr/services/structure?nbr=443](http://ecs.inria.fr/services/structure?nbr=443)|
+|[7564](https://oeis.org/A007564)|[http://ecs.inria.fr/services/structure?nbr=443](http://ecs.inria.fr/services/structure?nbr=443), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[7582](https://oeis.org/A007582)|[http://ecs.inria.fr/services/structure?nbr=168](http://ecs.inria.fr/services/structure?nbr=168)|
 |[7583](https://oeis.org/A007583)|[http://ecs.inria.fr/services/structure?nbr=893](http://ecs.inria.fr/services/structure?nbr=893)|
 |[7600](https://oeis.org/A007600)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
-|[7623](https://oeis.org/A007623)|[http://home.coqui.net/dejterij/acson.pdf](http://home.coqui.net/dejterij/acson.pdf)|
 |[7647](https://oeis.org/A007647)|[http://www.primzahlenarchiv.de/primes10.html](http://www.primzahlenarchiv.de/primes10.html)|
 |[7665](https://oeis.org/A007665)|[http://www.rialto.k12.ca.us/frisbie/mathfair/hanoilegend.html](http://www.rialto.k12.ca.us/frisbie/mathfair/hanoilegend.html)|
 |[7689](https://oeis.org/A007689)|[http://ecs.inria.fr/services/structure?nbr=169](http://ecs.inria.fr/services/structure?nbr=169)|
@@ -650,34 +604,32 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[7721](https://oeis.org/A007721)|[http://atm2003.eurocontrol.fr/past-seminars/5th-seminar-budapest-hungary-june-2003/papers/paper_033/view](http://atm2003.eurocontrol.fr/past-seminars/5th-seminar-budapest-hungary-june-2003/papers/paper_033/view)|
 |[7814](https://oeis.org/A007814)|[http://jipam.vu.edu.au/article.php?sid=498](http://jipam.vu.edu.au/article.php?sid=498)|
 |[7840](https://oeis.org/A007840)|[http://ecs.inria.fr/services/structure?nbr=122](http://ecs.inria.fr/services/structure?nbr=122)|
-|[7901](https://oeis.org/A007901)|[http://www.7427466391.com/](http://www.7427466391.com/), [http://www.7427466391.com.](http://www.7427466391.com.)|
+|[7901](https://oeis.org/A007901)|[http://www.7427466391.com.](http://www.7427466391.com.), [http://www.7427466391.com/](http://www.7427466391.com/)|
 |[7908](https://oeis.org/A007908)|[http://99.121.249.54:1200](http://99.121.249.54:1200), [http://99.121.249.54:1200](http://99.121.249.54:1200)|
 |[7909](https://oeis.org/A007909)|[http://ecs.inria.fr/services/structure?nbr=444](http://ecs.inria.fr/services/structure?nbr=444)|
-|[7921](https://oeis.org/A007921)|[http://www.gallup.unm.edu/~smarandache/SNAQINT.txt](http://www.gallup.unm.edu/~smarandache/SNAQINT.txt), [http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
+|[7921](https://oeis.org/A007921)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
 |[7923](https://oeis.org/A007923)|[http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf](http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf), [http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
-|[7924](https://oeis.org/A007924)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf), [http://www.gallup.unm.edu/~smarandache/Kashihara.pdf](http://www.gallup.unm.edu/~smarandache/Kashihara.pdf), [http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf](http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf)|
+|[7924](https://oeis.org/A007924)|[http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf](http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf), [http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf), [http://www.gallup.unm.edu/~smarandache/Kashihara.pdf](http://www.gallup.unm.edu/~smarandache/Kashihara.pdf)|
 |[7925](https://oeis.org/A007925)|[http://harry-j-smith-memorial.com/Display/xyyx.html](http://harry-j-smith-memorial.com/Display/xyyx.html), [http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
-|[7936](https://oeis.org/A007936)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
-|[7939](https://oeis.org/A007939)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
-|[7940](https://oeis.org/A007940)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
-|[7949](https://oeis.org/A007949)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
-|[7950](https://oeis.org/A007950)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf), [http://www.gallup.unm.edu/~smarandache/SNAQINT.txt](http://www.gallup.unm.edu/~smarandache/SNAQINT.txt)|
-|[7952](https://oeis.org/A007952)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
+|[7931](https://oeis.org/A007931)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
+|[7934](https://oeis.org/A007934)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
+|[7944](https://oeis.org/A007944)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf), [http://www.gallup.unm.edu/~smarandache/Kashihara.pdf](http://www.gallup.unm.edu/~smarandache/Kashihara.pdf)|
+|[7948](https://oeis.org/A007948)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf), [http://www.gallup.unm.edu/~smarandache/Bottomley-Sm-Mult-Functions.htm](http://www.gallup.unm.edu/~smarandache/Bottomley-Sm-Mult-Functions.htm)|
+|[7949](https://oeis.org/A007949)|[http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf](http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf), [http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
+|[7951](https://oeis.org/A007951)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
 |[7962](https://oeis.org/A007962)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf), [http://www.gallup.unm.edu/~smarandache/Kashihara.pdf](http://www.gallup.unm.edu/~smarandache/Kashihara.pdf)|
 |[7964](https://oeis.org/A007964)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
 |[7992](https://oeis.org/A007992)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
 |[8277](https://oeis.org/A008277)|[http://oai.cwi.nl/oai/asset/2304/2304A.pdf](http://oai.cwi.nl/oai/asset/2304/2304A.pdf)|
-|[8287](https://oeis.org/A008287)|[https://cs.uwaterloo.ca/journals/JIS/VOL17/Neuschel/neuschel4.html](https://cs.uwaterloo.ca/journals/JIS/VOL17/Neuschel/neuschel4.html)|
 |[8288](https://oeis.org/A008288)|[https://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n4/Ensayos_Meijer2010_PI_.3r.pdf](https://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n4/Ensayos_Meijer2010_PI_.3r.pdf), [http://www.fq.mat.ca/43-2.html](http://www.fq.mat.ca/43-2.html), [http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf](http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf)|
 |[8290](https://oeis.org/A008290)|[http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf](http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf)|
 |[8292](https://oeis.org/A008292)|[http://binomial.csuhayward.edu/Euler.html](http://binomial.csuhayward.edu/Euler.html)|
-|[8297](https://oeis.org/A008297)|[http://arXiv.org/abs/quant-ph/0212072](http://arXiv.org/abs/quant-ph/0212072), [http://puma.dimai.unifi.it/23_2/mansour_schork.pdf](http://puma.dimai.unifi.it/23_2/mansour_schork.pdf)|
-|[8321](https://oeis.org/A008321)|[http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf](http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf)|
+|[8297](https://oeis.org/A008297)|[http://puma.dimai.unifi.it/23_2/mansour_schork.pdf](http://puma.dimai.unifi.it/23_2/mansour_schork.pdf)|
+|[8321](https://oeis.org/A008321)|[http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf](http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf), [http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf](http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf)|
+|[8322](https://oeis.org/A008322)|[http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf](http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf)|
 |[8346](https://oeis.org/A008346)|[http://ecs.inria.fr/services/structure?nbr=445](http://ecs.inria.fr/services/structure?nbr=445)|
-|[8352](https://oeis.org/A008352)|[http://arXiv.org/abs/0803.0852](http://arXiv.org/abs/0803.0852)|
 |[8404](https://oeis.org/A008404)|[http://www.costasarrays.org/costasrefs/sort_date.html#1984](http://www.costasarrays.org/costasrefs/sort_date.html#1984), [http://www.costasarrays.org/Enumeration27TalkWeb.pdf](http://www.costasarrays.org/Enumeration27TalkWeb.pdf)|
-|[8407](https://oeis.org/A008407)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
-|[8409](https://oeis.org/A008409)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
+|[8407](https://oeis.org/A008407)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes), [http://math.mit.edu/~primegaps](http://math.mit.edu/~primegaps)|
 |[8466](https://oeis.org/A008466)|[http://ecs.inria.fr/services/structure?nbr=1020](http://ecs.inria.fr/services/structure?nbr=1020)|
 |[8483](https://oeis.org/A008483)|[http://ecs.inria.fr/services/structure?nbr=446](http://ecs.inria.fr/services/structure?nbr=446)|
 |[8574](https://oeis.org/A008574)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
@@ -691,7 +643,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[8588](https://oeis.org/A008588)|[http://ecs.inria.fr/services/structure?nbr=318](http://ecs.inria.fr/services/structure?nbr=318)|
 |[8589](https://oeis.org/A008589)|[http://ecs.inria.fr/services/structure?nbr=319](http://ecs.inria.fr/services/structure?nbr=319)|
 |[8590](https://oeis.org/A008590)|[http://ecs.inria.fr/services/structure?nbr=320](http://ecs.inria.fr/services/structure?nbr=320)|
-|[8591](https://oeis.org/A008591)|[http://ecs.inria.fr/services/structure?nbr=321](http://ecs.inria.fr/services/structure?nbr=321)|
+|[8591](https://oeis.org/A008591)|[http://cdli.ucla.edu/search/archival_view.php?ObjectID=P254585](http://cdli.ucla.edu/search/archival_view.php?ObjectID=P254585), [http://ecs.inria.fr/services/structure?nbr=321](http://ecs.inria.fr/services/structure?nbr=321)|
 |[8592](https://oeis.org/A008592)|[http://ecs.inria.fr/services/structure?nbr=322](http://ecs.inria.fr/services/structure?nbr=322)|
 |[8593](https://oeis.org/A008593)|[http://ecs.inria.fr/services/structure?nbr=323](http://ecs.inria.fr/services/structure?nbr=323)|
 |[8594](https://oeis.org/A008594)|[http://ecs.inria.fr/services/structure?nbr=324](http://ecs.inria.fr/services/structure?nbr=324)|
@@ -714,8 +666,8 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[8616](https://oeis.org/A008616)|[http://ecs.inria.fr/services/structure?nbr=213](http://ecs.inria.fr/services/structure?nbr=213)|
 |[8617](https://oeis.org/A008617)|[http://ecs.inria.fr/services/structure?nbr=214](http://ecs.inria.fr/services/structure?nbr=214)|
 |[8618](https://oeis.org/A008618)|[http://ecs.inria.fr/services/structure?nbr=215](http://ecs.inria.fr/services/structure?nbr=215)|
-|[8619](https://oeis.org/A008619)|[http://ecs.inria.fr/services/structure?nbr=120](http://ecs.inria.fr/services/structure?nbr=120), [http://ecs.inria.fr/services/structure?nbr=209](http://ecs.inria.fr/services/structure?nbr=209), [http://ecs.inria.fr/services/structure?nbr=351](http://ecs.inria.fr/services/structure?nbr=351)|
-|[8620](https://oeis.org/A008620)|[http://ecs.inria.fr/services/structure?nbr=449](http://ecs.inria.fr/services/structure?nbr=449), [http://ecs.inria.fr/services/structure?nbr=210](http://ecs.inria.fr/services/structure?nbr=210)|
+|[8619](https://oeis.org/A008619)|[http://ecs.inria.fr/services/structure?nbr=351](http://ecs.inria.fr/services/structure?nbr=351), [http://ecs.inria.fr/services/structure?nbr=120](http://ecs.inria.fr/services/structure?nbr=120), [http://ecs.inria.fr/services/structure?nbr=209](http://ecs.inria.fr/services/structure?nbr=209)|
+|[8620](https://oeis.org/A008620)|[http://ecs.inria.fr/services/structure?nbr=210](http://ecs.inria.fr/services/structure?nbr=210), [http://ecs.inria.fr/services/structure?nbr=449](http://ecs.inria.fr/services/structure?nbr=449)|
 |[8621](https://oeis.org/A008621)|[http://ecs.inria.fr/services/structure?nbr=211](http://ecs.inria.fr/services/structure?nbr=211)|
 |[8622](https://oeis.org/A008622)|[http://ecs.inria.fr/services/structure?nbr=231](http://ecs.inria.fr/services/structure?nbr=231)|
 |[8636](https://oeis.org/A008636)|[http://ecs.inria.fr/services/structure?nbr=356](http://ecs.inria.fr/services/structure?nbr=356)|
@@ -748,6 +700,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[8680](https://oeis.org/A008680)|[http://ecs.inria.fr/services/structure?nbr=228](http://ecs.inria.fr/services/structure?nbr=228)|
 |[8681](https://oeis.org/A008681)|[http://ecs.inria.fr/services/structure?nbr=237](http://ecs.inria.fr/services/structure?nbr=237)|
 |[8682](https://oeis.org/A008682)|[http://ecs.inria.fr/services/structure?nbr=229](http://ecs.inria.fr/services/structure?nbr=229)|
+|[8683](https://oeis.org/A008683)|[http://www-math.mit.edu/~rstan/papers/comb.pdf](http://www-math.mit.edu/~rstan/papers/comb.pdf)|
 |[8719](https://oeis.org/A008719)|[http://ecs.inria.fr/services/structure?nbr=242](http://ecs.inria.fr/services/structure?nbr=242)|
 |[8720](https://oeis.org/A008720)|[http://ecs.inria.fr/services/structure?nbr=223](http://ecs.inria.fr/services/structure?nbr=223)|
 |[8721](https://oeis.org/A008721)|[http://ecs.inria.fr/services/structure?nbr=224](http://ecs.inria.fr/services/structure?nbr=224)|
@@ -766,6 +719,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[8776](https://oeis.org/A008776)|[http://ecs.inria.fr/services/structure?nbr=170](http://ecs.inria.fr/services/structure?nbr=170)|
 |[8804](https://oeis.org/A008804)|[http://ecs.inria.fr/services/structure?nbr=197](http://ecs.inria.fr/services/structure?nbr=197)|
 |[8840](https://oeis.org/A008840)|[http://www.labri.u-bordeaux.fr/~loeb](http://www.labri.u-bordeaux.fr/~loeb)|
+|[8844](https://oeis.org/A008844)|[http://www.jstor.org/stable/10.4169/math.mag.84.5.339](http://www.jstor.org/stable/10.4169/math.mag.84.5.339), [http://www.jstor.org/stable/2968551](http://www.jstor.org/stable/2968551)|
 |[8976](https://oeis.org/A008976)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
 |[8998](https://oeis.org/A008998)|[http://ecs.inria.fr/services/structure?nbr=452](http://ecs.inria.fr/services/structure?nbr=452)|
 |[8999](https://oeis.org/A008999)|[http://ecs.inria.fr/services/structure?nbr=479](http://ecs.inria.fr/services/structure?nbr=479)|
@@ -777,20 +731,9 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[9318](https://oeis.org/A009318)|[http://ecs.inria.fr/services/structure?nbr=172](http://ecs.inria.fr/services/structure?nbr=172)|
 |[9324](https://oeis.org/A009324)|[http://ecs.inria.fr/services/structure?nbr=173](http://ecs.inria.fr/services/structure?nbr=173)|
 |[9444](https://oeis.org/A009444)|[http://ecs.inria.fr/services/structure?nbr=125](http://ecs.inria.fr/services/structure?nbr=125)|
-|[9766](https://oeis.org/A009766)|[http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf](http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf), [http://home.coqui.net/dejterij/anumeral.pdf](http://home.coqui.net/dejterij/anumeral.pdf), [http://home.coqui.net/dejterij/aneliese.pdf](http://home.coqui.net/dejterij/aneliese.pdf), [http://home.coqui.net/dejterij/acson.pdf](http://home.coqui.net/dejterij/acson.pdf)|
-|[10031](https://oeis.org/A010031)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[10048](https://oeis.org/A010048)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf), [http://arXiv.org/abs/math/9905079](http://arXiv.org/abs/math/9905079)|
-|[10060](https://oeis.org/A010060)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://oai.cwi.nl/oai/asset/21313/21313A.pdf](http://oai.cwi.nl/oai/asset/21313/21313A.pdf)|
-|[10080](https://oeis.org/A010080)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[10081](https://oeis.org/A010081)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[10082](https://oeis.org/A010082)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[10083](https://oeis.org/A010083)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[10084](https://oeis.org/A010084)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[10085](https://oeis.org/A010085)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[10086](https://oeis.org/A010086)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[10087](https://oeis.org/A010087)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[10088](https://oeis.org/A010088)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[10089](https://oeis.org/A010089)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
+|[9766](https://oeis.org/A009766)|[http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf](http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[10048](https://oeis.org/A010048)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
+|[10060](https://oeis.org/A010060)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://oai.cwi.nl/oai/asset/21313/21313A.pdf](http://oai.cwi.nl/oai/asset/21313/21313A.pdf), [http://www.dmg.tuwien.ac.at/drmota/alongsquares.pdf](http://www.dmg.tuwien.ac.at/drmota/alongsquares.pdf)|
 |[10124](https://oeis.org/A010124)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
 |[10136](https://oeis.org/A010136)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
 |[10145](https://oeis.org/A010145)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
@@ -801,9 +744,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[10350](https://oeis.org/A010350)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
 |[10353](https://oeis.org/A010353)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
 |[10354](https://oeis.org/A010354)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
-|[10463](https://oeis.org/A010463)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[10554](https://oeis.org/A010554)|[http://arXiv.org/abs/math.NT/0605019](http://arXiv.org/abs/math.NT/0605019)|
-|[10683](https://oeis.org/A010683)|[https://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n4/Ensayos_Meijer2010_PI_.3r.pdf](https://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n4/Ensayos_Meijer2010_PI_.3r.pdf)|
+|[10683](https://oeis.org/A010683)|[https://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n4/Ensayos_Meijer2010_PI_.3r.pdf](https://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n4/Ensayos_Meijer2010_PI_.3r.pdf), [http://www-math.mit.edu/~rstan/papers/hip.pdf](http://www-math.mit.edu/~rstan/papers/hip.pdf)|
 |[10693](https://oeis.org/A010693)|[http://ecs.inria.fr/services/structure?nbr=466](http://ecs.inria.fr/services/structure?nbr=466)|
 |[10694](https://oeis.org/A010694)|[http://ecs.inria.fr/services/structure?nbr=1073](http://ecs.inria.fr/services/structure?nbr=1073)|
 |[10701](https://oeis.org/A010701)|[http://ecs.inria.fr/services/structure?nbr=1011](http://ecs.inria.fr/services/structure?nbr=1011)|
@@ -820,13 +761,18 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[11541](https://oeis.org/A011541)|[http://everything2.net/node/1028223](http://everything2.net/node/1028223)|
 |[11943](https://oeis.org/A011943)|[http://alum.wpi.edu/~tiberio/vita/AMM3302.pdf](http://alum.wpi.edu/~tiberio/vita/AMM3302.pdf)|
 |[11971](https://oeis.org/A011971)|[http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf](http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf)|
+|[12250](https://oeis.org/A012250)|[http://math.mit.edu/~rstan/papers/distinctparts.pdf](http://math.mit.edu/~rstan/papers/distinctparts.pdf)|
+|[13594](https://oeis.org/A013594)|[http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf](http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf)|
 |[13609](https://oeis.org/A013609)|[http://www.http://www.ms.uky.edu/~jrge/Papers/Eulerian_binomial_old_old.pdf](http://www.http://www.ms.uky.edu/~jrge/Papers/Eulerian_binomial_old_old.pdf)|
 |[13928](https://oeis.org/A013928)|[http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005abb_196.pdf](http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005abb_196.pdf)|
+|[13998](https://oeis.org/A013998)|[http://web.archive.org/web/20120330094207/http://www.fortunecity.com/emachines/e11/86/padovan.html](http://web.archive.org/web/20120330094207/http://www.fortunecity.com/emachines/e11/86/padovan.html)|
+|[13999](https://oeis.org/A013999)|[http://www-math.mit.edu/~rstan/papers/multfree.pdf](http://www-math.mit.edu/~rstan/papers/multfree.pdf)|
+|[14088](https://oeis.org/A014088)|[http://statweb.stanford.edu/~cgates/PERSI/papers/mosteller89.pdf](http://statweb.stanford.edu/~cgates/PERSI/papers/mosteller89.pdf)|
 |[14113](https://oeis.org/A014113)|[http://ecs.inria.fr/services/structure?nbr=457](http://ecs.inria.fr/services/structure?nbr=457)|
 |[14206](https://oeis.org/A014206)|[http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf), [http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/bitonic/bitonicen.htm](http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/bitonic/bitonicen.htm)|
 |[14217](https://oeis.org/A014217)|[http://www.math-cs.ucmo.edu/~mjms/1998.3/prob.ps](http://www.math-cs.ucmo.edu/~mjms/1998.3/prob.ps), [http://www.math-cs.ucmo.edu/~mjms/2000.1/soln.ps](http://www.math-cs.ucmo.edu/~mjms/2000.1/soln.ps)|
 |[14233](https://oeis.org/A014233)|[http://www-fs.informatik.uni-tuebingen.de/~reinhard/krypto/English/2.3.1.e.html](http://www-fs.informatik.uni-tuebingen.de/~reinhard/krypto/English/2.3.1.e.html), [http://www.security-labs.org/full-page.php3?page=5](http://www.security-labs.org/full-page.php3?page=5)|
-|[14293](https://oeis.org/A014293)|[http://www.tickey.co.za/maths/Puzzles%20-%20%20Coconut%20puzzle.pdf](http://www.tickey.co.za/maths/Puzzles%20-%20%20Coconut%20puzzle.pdf), [http://math.knox.edu/puzzles/Catalog-Old/jan25tofeb1_2000.html](http://math.knox.edu/puzzles/Catalog-Old/jan25tofeb1_2000.html)|
+|[14293](https://oeis.org/A014293)|[http://www.tickey.co.za/maths/Puzzles%20-%20%20Coconut%20puzzle.pdf](http://www.tickey.co.za/maths/Puzzles%20-%20%20Coconut%20puzzle.pdf)|
 |[14297](https://oeis.org/A014297)|[http://ecs.inria.fr/services/structure?nbr=506](http://ecs.inria.fr/services/structure?nbr=506)|
 |[14300](https://oeis.org/A014300)|[https://lrecits.usthb.dz/6.5.pdf](https://lrecits.usthb.dz/6.5.pdf)|
 |[14405](https://oeis.org/A014405)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
@@ -837,7 +783,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[14567](https://oeis.org/A014567)|[http://www.math-cs.ucmo.edu/~mjms/2003.3/feist.pdf](http://www.math-cs.ucmo.edu/~mjms/2003.3/feist.pdf)|
 |[14576](https://oeis.org/A014576)|[http://www.magic-squares.net/narciss.htm](http://www.magic-squares.net/narciss.htm)|
 |[14983](https://oeis.org/A014983)|[http://ecs.inria.fr/services/structure?nbr=927](http://ecs.inria.fr/services/structure?nbr=927)|
-|[15052](https://oeis.org/A015052)|[http://www.gallup.unm.edu/~smarandache/Ibstedt-surfing.pdf](http://www.gallup.unm.edu/~smarandache/Ibstedt-surfing.pdf)|
+|[15052](https://oeis.org/A015052)|[http://www.gallup.unm.edu/~smarandache/Ibstedt-surfing.pdf](http://www.gallup.unm.edu/~smarandache/Ibstedt-surfing.pdf), [http://www.gallup.unm.edu/~smarandache/CP2.pdf](http://www.gallup.unm.edu/~smarandache/CP2.pdf)|
 |[15630](https://oeis.org/A015630)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
 |[16061](https://oeis.org/A016061)|[http://www.chm.davidson.edu/vce/crystals/ZincBlende.html](http://www.chm.davidson.edu/vce/crystals/ZincBlende.html)|
 |[16114](https://oeis.org/A016114)|[http://www.magic-squares.net/primes.htm#Circular](http://www.magic-squares.net/primes.htm#Circular)|
@@ -860,25 +806,22 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[18237](https://oeis.org/A018237)|[http://academic.uofs.edu/faculty/doughertys1/we3.htm](http://academic.uofs.edu/faculty/doughertys1/we3.htm)|
 |[18247](https://oeis.org/A018247)|[http://freespace.virgin.net/anthony.edey/automorph.htm](http://freespace.virgin.net/anthony.edey/automorph.htm)|
 |[18248](https://oeis.org/A018248)|[http://freespace.virgin.net/anthony.edey/automorph.htm](http://freespace.virgin.net/anthony.edey/automorph.htm)|
-|[18321](https://oeis.org/A018321)|[http://www.scienceu.com/geometry/articles/tritile/nice.html](http://www.scienceu.com/geometry/articles/tritile/nice.html)|
 |[18807](https://oeis.org/A018807)|[http://zealint.ru/maxflow-kings-1dwalks-comp.html](http://zealint.ru/maxflow-kings-1dwalks-comp.html)|
 |[18818](https://oeis.org/A018818)|[http://www.dli.gov.in/rawdataupload/upload/insa/INSA_2/20005a84_1276.pdf](http://www.dli.gov.in/rawdataupload/upload/insa/INSA_2/20005a84_1276.pdf)|
 |[18886](https://oeis.org/A018886)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
-|[18891](https://oeis.org/A018891)|[http://arXiv.org/abs/hep-th/9609128](http://arXiv.org/abs/hep-th/9609128)|
-|[18895](https://oeis.org/A018895)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
 |[18897](https://oeis.org/A018897)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/)|
+|[18899](https://oeis.org/A018899)|[http://www.liafa.jussieu.fr/~berthe/publi.html](http://www.liafa.jussieu.fr/~berthe/publi.html)|
 |[18902](https://oeis.org/A018902)|[http://ecs.inria.fr/services/structure?nbr=474](http://ecs.inria.fr/services/structure?nbr=474)|
 |[18903](https://oeis.org/A018903)|[http://ecs.inria.fr/services/structure?nbr=879](http://ecs.inria.fr/services/structure?nbr=879)|
 |[19276](https://oeis.org/A019276)|[http://repos.project.cwi.nl:8888/cwi_repository/docs/I/10/10355A.pdf](http://repos.project.cwi.nl:8888/cwi_repository/docs/I/10/10355A.pdf)|
-|[19516](https://oeis.org/A019516)|[http://www.gallup.unm.edu/~smarandache/CP2.pdf](http://www.gallup.unm.edu/~smarandache/CP2.pdf)|
-|[19518](https://oeis.org/A019518)|[http://www.gallup.unm.edu/~smarandache/CP2.pdf](http://www.gallup.unm.edu/~smarandache/CP2.pdf), [http://www.gallup.unm.edu/~smarandache/SmConPri.txt](http://www.gallup.unm.edu/~smarandache/SmConPri.txt)|
-|[19538](https://oeis.org/A019538)|[http://www.arXiv.org/abs/math.CO/0509207](http://www.arXiv.org/abs/math.CO/0509207)|
-|[19549](https://oeis.org/A019549)|[https://www.gallup.unm.edu/~smarandache/SYLSMITH.HTM](https://www.gallup.unm.edu/~smarandache/SYLSMITH.HTM)|
-|[19553](https://oeis.org/A019553)|[https://www.gallup.unm.edu/~smarandache/SYLSMITH.HTM](https://www.gallup.unm.edu/~smarandache/SYLSMITH.HTM)|
+|[19516](https://oeis.org/A019516)|[http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf](http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf)|
+|[19517](https://oeis.org/A019517)|[http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf](http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf)|
+|[19518](https://oeis.org/A019518)|[http://www.gallup.unm.edu/~smarandache/SmConPri.txt](http://www.gallup.unm.edu/~smarandache/SmConPri.txt), [http://www.gallup.unm.edu/~smarandache/CP2.pdf](http://www.gallup.unm.edu/~smarandache/CP2.pdf)|
+|[19519](https://oeis.org/A019519)|[http://www.gallup.unm.edu/~smarandache/CP2.pdf](http://www.gallup.unm.edu/~smarandache/CP2.pdf), [http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf](http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf)|
 |[19554](https://oeis.org/A019554)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
 |[19555](https://oeis.org/A019555)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
 |[19569](https://oeis.org/A019569)|[http://ingrate.8k.com/nrep/intro.html](http://ingrate.8k.com/nrep/intro.html)|
-|[19590](https://oeis.org/A019590)|[http://www.cs.wichita.edu/~chang/fermat.html](http://www.cs.wichita.edu/~chang/fermat.html), [http://www.simonsingh.com/Fermat_Corner.html](http://www.simonsingh.com/Fermat_Corner.html), [http://www.prometheus.demon.co.uk/01/01fermat.htm](http://www.prometheus.demon.co.uk/01/01fermat.htm), [http://users.forthnet.gr/ath/kimon/FLTmilestones.htm](http://users.forthnet.gr/ath/kimon/FLTmilestones.htm), [http://students.bath.ac.uk/ma0sjbs/fermat.html](http://students.bath.ac.uk/ma0sjbs/fermat.html), [http://www.public.iastate.edu/~kchoi/time.htm](http://www.public.iastate.edu/~kchoi/time.htm), [http://www-centre.mpce.mq.edu.au/alfpapers/a142e.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a142e.pdf), [http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Fermat&#39](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Fermat&#39), [http://library.thinkquest.org/28049/final_stages_in_proving_fermat.htm](http://library.thinkquest.org/28049/final_stages_in_proving_fermat.htm), [http://mathematics.gulfcoast.edu/mgf1107/newpage11.htm](http://mathematics.gulfcoast.edu/mgf1107/newpage11.htm), [http://personales.ya.com/casanchi/mat/conjeturafermat.pdf](http://personales.ya.com/casanchi/mat/conjeturafermat.pdf), [http://www.public.iastate.edu/~kchoi/fermat.htm](http://www.public.iastate.edu/~kchoi/fermat.htm), [http://www.math.uncc.edu/~hbreiter/m6105/pythag.pdf](http://www.math.uncc.edu/~hbreiter/m6105/pythag.pdf), [http://mathdb.org/gallery/poster/description/e_poster_02.htm](http://mathdb.org/gallery/poster/description/e_poster_02.htm), [http://www.ulb.ac.be/assoc/bms/info/rechmath.pdf](http://www.ulb.ac.be/assoc/bms/info/rechmath.pdf)|
+|[19590](https://oeis.org/A019590)|[http://www.cs.wichita.edu/~chang/fermat.html](http://www.cs.wichita.edu/~chang/fermat.html), [http://www.simonsingh.com/Fermat_Corner.html](http://www.simonsingh.com/Fermat_Corner.html), [http://www.prometheus.demon.co.uk/01/01fermat.htm](http://www.prometheus.demon.co.uk/01/01fermat.htm), [http://users.forthnet.gr/ath/kimon/FLTmilestones.htm](http://users.forthnet.gr/ath/kimon/FLTmilestones.htm), [http://students.bath.ac.uk/ma0sjbs/fermat.html](http://students.bath.ac.uk/ma0sjbs/fermat.html), [http://www.public.iastate.edu/~kchoi/time.htm](http://www.public.iastate.edu/~kchoi/time.htm), [http://www.uz.ac.zw/science/maths/zimaths/flt.htm](http://www.uz.ac.zw/science/maths/zimaths/flt.htm), [http://www-centre.mpce.mq.edu.au/alfpapers/a142e.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a142e.pdf), [http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Fermat&#39](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Fermat&#39), [http://library.thinkquest.org/28049/final_stages_in_proving_fermat.htm](http://library.thinkquest.org/28049/final_stages_in_proving_fermat.htm), [http://mathematics.gulfcoast.edu/mgf1107/newpage11.htm](http://mathematics.gulfcoast.edu/mgf1107/newpage11.htm), [http://personales.ya.com/casanchi/mat/conjeturafermat.pdf](http://personales.ya.com/casanchi/mat/conjeturafermat.pdf), [http://www.public.iastate.edu/~kchoi/fermat.htm](http://www.public.iastate.edu/~kchoi/fermat.htm), [http://www.math.uncc.edu/~hbreiter/m6105/pythag.pdf](http://www.math.uncc.edu/~hbreiter/m6105/pythag.pdf), [http://mathdb.org/gallery/poster/description/e_poster_02.htm](http://mathdb.org/gallery/poster/description/e_poster_02.htm), [http://www.ulb.ac.be/assoc/bms/info/rechmath.pdf](http://www.ulb.ac.be/assoc/bms/info/rechmath.pdf)|
 |[20699](https://oeis.org/A020699)|[http://ecs.inria.fr/services/structure?nbr=1037](http://ecs.inria.fr/services/structure?nbr=1037)|
 |[20711](https://oeis.org/A020711)|[http://ecs.inria.fr/services/structure?nbr=911](http://ecs.inria.fr/services/structure?nbr=911)|
 |[20714](https://oeis.org/A020714)|[http://ecs.inria.fr/services/structure?nbr=1003](http://ecs.inria.fr/services/structure?nbr=1003)|
@@ -898,13 +841,17 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[25167](https://oeis.org/A025167)|[http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf](http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf)|
 |[25225](https://oeis.org/A025225)|[http://ecs.inria.fr/services/structure?nbr=653](http://ecs.inria.fr/services/structure?nbr=653)|
 |[25227](https://oeis.org/A025227)|[http://ecs.inria.fr/services/structure?nbr=657](http://ecs.inria.fr/services/structure?nbr=657), [http://ecs.inria.fr/services/structure?nbr=655](http://ecs.inria.fr/services/structure?nbr=655)|
-|[25237](https://oeis.org/A025237)|[https://cs.uwaterloo.ca/journals/JIS/VOL18/Capparelli/cap3.html](https://cs.uwaterloo.ca/journals/JIS/VOL18/Capparelli/cap3.html)|
+|[25235](https://oeis.org/A025235)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[25237](https://oeis.org/A025237)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[25242](https://oeis.org/A025242)|[http://puma.dimai.unifi.it/22_2/mansour_shattuck.pdf](http://puma.dimai.unifi.it/22_2/mansour_shattuck.pdf)|
 |[25246](https://oeis.org/A025246)|[http://ecs.inria.fr/services/structure?nbr=666](http://ecs.inria.fr/services/structure?nbr=666)|
 |[25262](https://oeis.org/A025262)|[http://grail.eecs.csuohio.edu/~somos/nwic.html](http://grail.eecs.csuohio.edu/~somos/nwic.html)|
 |[26150](https://oeis.org/A026150)|[http://ecs.inria.fr/services/structure?nbr=1052](http://ecs.inria.fr/services/structure?nbr=1052)|
-|[26741](https://oeis.org/A026741)|[http://arXiv.org/abs/math.HO/0505373](http://arXiv.org/abs/math.HO/0505373), [http://www.math.sci.hokudai.ac.jp/~nakamura/ADEHilb.pdf](http://www.math.sci.hokudai.ac.jp/~nakamura/ADEHilb.pdf)|
+|[26378](https://oeis.org/A026378)|[http://repository.wit.ie/1693](http://repository.wit.ie/1693)|
+|[26671](https://oeis.org/A026671)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[26741](https://oeis.org/A026741)|[http://www.math.sci.hokudai.ac.jp/~nakamura/ADEHilb.pdf](http://www.math.sci.hokudai.ac.jp/~nakamura/ADEHilb.pdf)|
 |[26794](https://oeis.org/A026794)|[http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf](http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf)|
+|[26820](https://oeis.org/A026820)|[http://phystech.com/ftp/A026820.c](http://phystech.com/ftp/A026820.c)|
 |[26905](https://oeis.org/A026905)|[http://ecs.inria.fr/services/structure?nbr=800](http://ecs.inria.fr/services/structure?nbr=800)|
 |[27307](https://oeis.org/A027307)|[http://oai.cwi.nl/oai/asset/21313/21313A.pdf](http://oai.cwi.nl/oai/asset/21313/21313A.pdf)|
 |[27375](https://oeis.org/A027375)|[http://www.math.jussieu.fr/~allouche/bibliorecente.html](http://www.math.jussieu.fr/~allouche/bibliorecente.html)|
@@ -912,7 +859,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[27468](https://oeis.org/A027468)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
 |[27471](https://oeis.org/A027471)|[http://ecs.inria.fr/services/structure?nbr=715](http://ecs.inria.fr/services/structure?nbr=715)|
 |[27567](https://oeis.org/A027567)|[http://www.magic-squares.net/pandiag5.htm](http://www.magic-squares.net/pandiag5.htm)|
-|[27642](https://oeis.org/A027642)|[https://cs.uwaterloo.ca/journals/JIS/VOL17/Srivastava/sriva3.html](https://cs.uwaterloo.ca/journals/JIS/VOL17/Srivastava/sriva3.html)|
 |[27675](https://oeis.org/A027675)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
 |[27676](https://oeis.org/A027676)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
 |[27677](https://oeis.org/A027677)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
@@ -924,7 +870,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[27881](https://oeis.org/A027881)|[http://dipmza.physik.uni-mainz.de/~kreimer/homepage.html](http://dipmza.physik.uni-mainz.de/~kreimer/homepage.html)|
 |[28310](https://oeis.org/A028310)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
 |[28381](https://oeis.org/A028381)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[28382](https://oeis.org/A028382)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm), [http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
+|[28382](https://oeis.org/A028382)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[28384](https://oeis.org/A028384)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[28444](https://oeis.org/A028444)|[http://grail.cba.csuohio.edu/~somos/busy.html](http://grail.cba.csuohio.edu/~somos/busy.html), [http://grail.cba.csuohio.edu/~somos/bb.html](http://grail.cba.csuohio.edu/~somos/bb.html)|
 |[28446](https://oeis.org/A028446)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
@@ -933,11 +879,11 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[28449](https://oeis.org/A028449)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[28450](https://oeis.org/A028450)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[28451](https://oeis.org/A028451)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28452](https://oeis.org/A028452)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28452](https://oeis.org/A028452)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
 |[28453](https://oeis.org/A028453)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28454](https://oeis.org/A028454)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[28454](https://oeis.org/A028454)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[28455](https://oeis.org/A028455)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28456](https://oeis.org/A028456)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[28456](https://oeis.org/A028456)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[28457](https://oeis.org/A028457)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[28458](https://oeis.org/A028458)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[28459](https://oeis.org/A028459)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
@@ -949,13 +895,13 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[28465](https://oeis.org/A028465)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[28466](https://oeis.org/A028466)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[28467](https://oeis.org/A028467)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28468](https://oeis.org/A028468)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28469](https://oeis.org/A028469)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28470](https://oeis.org/A028470)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[28468](https://oeis.org/A028468)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[28469](https://oeis.org/A028469)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[28470](https://oeis.org/A028470)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[28471](https://oeis.org/A028471)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
-|[28472](https://oeis.org/A028472)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28472](https://oeis.org/A028472)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
 |[28473](https://oeis.org/A028473)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28474](https://oeis.org/A028474)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28474](https://oeis.org/A028474)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
 |[28477](https://oeis.org/A028477)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[28478](https://oeis.org/A028478)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[28479](https://oeis.org/A028479)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
@@ -980,6 +926,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[28856](https://oeis.org/A028856)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
 |[28857](https://oeis.org/A028857)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
 |[28858](https://oeis.org/A028858)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
+|[28859](https://oeis.org/A028859)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[28860](https://oeis.org/A028860)|[http://ecs.inria.fr/services/structure?nbr=924](http://ecs.inria.fr/services/structure?nbr=924)|
 |[29725](https://oeis.org/A029725)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
 |[29726](https://oeis.org/A029726)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
@@ -990,17 +937,15 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[30050](https://oeis.org/A030050)|[http://hofprints.hofstra.edu/24/01/Bhargava](http://hofprints.hofstra.edu/24/01/Bhargava)|
 |[30051](https://oeis.org/A030051)|[http://blog.sciencenews.org/2006/03/all_square.html](http://blog.sciencenews.org/2006/03/all_square.html)|
 |[30169](https://oeis.org/A030169)|[http://www.gutenberg.org/etext/634](http://www.gutenberg.org/etext/634)|
-|[30186](https://oeis.org/A030186)|[http://ecs.inria.fr/services/structure?nbr=473](http://ecs.inria.fr/services/structure?nbr=473), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[30186](https://oeis.org/A030186)|[http://ecs.inria.fr/services/structure?nbr=473](http://ecs.inria.fr/services/structure?nbr=473), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
 |[30504](https://oeis.org/A030504)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
 |[30505](https://oeis.org/A030505)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
 |[30506](https://oeis.org/A030506)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
 |[30508](https://oeis.org/A030508)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
 |[30509](https://oeis.org/A030509)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
 |[30510](https://oeis.org/A030510)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
-|[30639](https://oeis.org/A030639)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
 |[30797](https://oeis.org/A030797)|[http://www.gutenberg.org/etext/634](http://www.gutenberg.org/etext/634)|
 |[31131](https://oeis.org/A031131)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
-|[31137](https://oeis.org/A031137)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
 |[31869](https://oeis.org/A031869)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
 |[31870](https://oeis.org/A031870)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
 |[31871](https://oeis.org/A031871)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
@@ -1016,8 +961,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[32190](https://oeis.org/A032190)|[http://ecs.inria.fr/services/structure?nbr=764](http://ecs.inria.fr/services/structure?nbr=764)|
 |[32203](https://oeis.org/A032203)|[http://ecs.inria.fr/services/structure?nbr=79](http://ecs.inria.fr/services/structure?nbr=79)|
 |[32260](https://oeis.org/A032260)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html)|
-|[32279](https://oeis.org/A032279)|[http://zfn.mpdl.mpg.de/data/Reihe_A/52/ZNA-1997-52a-0867.pdf](http://zfn.mpdl.mpg.de/data/Reihe_A/52/ZNA-1997-52a-0867.pdf)|
-|[32280](https://oeis.org/A032280)|[http://zfn.mpdl.mpg.de/data/Reihe_A/52/ZNA-1997-52a-0867.pdf](http://zfn.mpdl.mpg.de/data/Reihe_A/52/ZNA-1997-52a-0867.pdf)|
 |[32435](https://oeis.org/A032435)|[http://www.gutenberg.org/files/26839/26839-pdf.pdf](http://www.gutenberg.org/files/26839/26839-pdf.pdf)|
 |[32436](https://oeis.org/A032436)|[http://www.gutenberg.org/files/26839/26839-pdf.pdf](http://www.gutenberg.org/files/26839/26839-pdf.pdf)|
 |[32766](https://oeis.org/A032766)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf), [http://www.mathdb.org/resource_sharing/prelim/se_00-01_sol.pdf](http://www.mathdb.org/resource_sharing/prelim/se_00-01_sol.pdf)|
@@ -1028,11 +971,12 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[33184](https://oeis.org/A033184)|[http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf](http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf)|
 |[33200](https://oeis.org/A033200)|[http://dongthapvietnam.informe.com/blog/uploads/2012/10/cruxv25_1999.pdf](http://dongthapvietnam.informe.com/blog/uploads/2012/10/cruxv25_1999.pdf)|
 |[33307](https://oeis.org/A033307)|[https://chessprogramming.wikispaces.com/David+Champernowne](https://chessprogramming.wikispaces.com/David+Champernowne)|
+|[33428](https://oeis.org/A033428)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[33506](https://oeis.org/A033506)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[33507](https://oeis.org/A033507)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[33508](https://oeis.org/A033508)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[33509](https://oeis.org/A033509)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33510](https://oeis.org/A033510)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[33510](https://oeis.org/A033510)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[33511](https://oeis.org/A033511)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[33512](https://oeis.org/A033512)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[33513](https://oeis.org/A033513)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
@@ -1066,7 +1010,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[33670](https://oeis.org/A033670)|[http://www.floot.demon.co.uk/palindromes.html](http://www.floot.demon.co.uk/palindromes.html)|
 |[33812](https://oeis.org/A033812)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
 |[33869](https://oeis.org/A033869)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[33877](https://oeis.org/A033877)|[http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp](http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp)|
 |[33889](https://oeis.org/A033889)|[http://demmath.mini.pw.edu.pl/archive/dm46_1/2.pdf](http://demmath.mini.pw.edu.pl/archive/dm46_1/2.pdf)|
 |[33948](https://oeis.org/A033948)|[http://ihome.cuhk.edu.hk/~s005636/number/primitive.pdf](http://ihome.cuhk.edu.hk/~s005636/number/primitive.pdf)|
 |[33999](https://oeis.org/A033999)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
@@ -1077,143 +1020,91 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[34325](https://oeis.org/A034325)|[http://ecs.inria.fr/services/structure?nbr=594](http://ecs.inria.fr/services/structure?nbr=594)|
 |[34472](https://oeis.org/A034472)|[http://ecs.inria.fr/services/structure?nbr=454](http://ecs.inria.fr/services/structure?nbr=454)|
 |[34693](https://oeis.org/A034693)|[http://eprints.maths.ox.ac.uk/166/](http://eprints.maths.ox.ac.uk/166/)|
-|[34827](https://oeis.org/A034827)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
 |[34856](https://oeis.org/A034856)|[http://ecs.inria.fr/services/structure?nbr=471](http://ecs.inria.fr/services/structure?nbr=471)|
-|[34880](https://oeis.org/A034880)|[https://github.com/archmageirvine/joeis/blob/master/src/irvine/oeis/a034/A034880.java](https://github.com/archmageirvine/joeis/blob/master/src/irvine/oeis/a034/A034880.java)|
 |[34943](https://oeis.org/A034943)|[http://ecs.inria.fr/services/structure?nbr=904](http://ecs.inria.fr/services/structure?nbr=904)|
-|[34997](https://oeis.org/A034997)|[http://arXiv.org/abs/hep-ph/9404262](http://arXiv.org/abs/hep-ph/9404262)|
+|[35006](https://oeis.org/A035006)|[http://www-math.mit.edu/~rstan/bij.pdf](http://www-math.mit.edu/~rstan/bij.pdf)|
 |[35051](https://oeis.org/A035051)|[http://ecs.inria.fr/services/structure?nbr=864](http://ecs.inria.fr/services/structure?nbr=864)|
 |[35052](https://oeis.org/A035052)|[http://ecs.inria.fr/services/structure?nbr=862](http://ecs.inria.fr/services/structure?nbr=862)|
 |[35095](https://oeis.org/A035095)|[http://acta.fyx.hu/acta/showCustomerArticle.action?id=5970&amp](http://acta.fyx.hu/acta/showCustomerArticle.action?id=5970&amp)|
 |[35120](https://oeis.org/A035120)|[http://euler.univ-lyon1.fr/home/roblot/tables.html#1](http://euler.univ-lyon1.fr/home/roblot/tables.html#1)|
 |[35138](https://oeis.org/A035138)|[http://www.magic-squares.net/narciss.htm](http://www.magic-squares.net/narciss.htm)|
 |[35263](https://oeis.org/A035263)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[35309](https://oeis.org/A035309)|[http://arXiv.org/abs/0712.2448](http://arXiv.org/abs/0712.2448)|
-|[35315](https://oeis.org/A035315)|[http://arXiv.org/abs/alg-geom/9609022](http://arXiv.org/abs/alg-geom/9609022)|
-|[35343](https://oeis.org/A035343)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
-|[35469](https://oeis.org/A035469)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
 |[35610](https://oeis.org/A035610)|[http://student.plattsburgh.edu/quenelgt/pubpdf/freeprod.pdf](http://student.plattsburgh.edu/quenelgt/pubpdf/freeprod.pdf)|
-|[35928](https://oeis.org/A035928)|[https://doi.org/10.48550/arXiv.2202.13694](https://doi.org/10.48550/arXiv.2202.13694)|
 |[36214](https://oeis.org/A036214)|[http://www.iki.fi/%7Ekarttu/matikka/revpow.htm](http://www.iki.fi/%7Ekarttu/matikka/revpow.htm)|
 |[36215](https://oeis.org/A036215)|[http://www.iki.fi/%7Ekarttu/matikka/revpow.htm](http://www.iki.fi/%7Ekarttu/matikka/revpow.htm)|
 |[36249](https://oeis.org/A036249)|[http://ecs.inria.fr/services/structure?nbr=768](http://ecs.inria.fr/services/structure?nbr=768)|
 |[36287](https://oeis.org/A036287)|[http://www.iki.fi/%7Ekarttu/matikka/vertfibo.htm](http://www.iki.fi/%7Ekarttu/matikka/vertfibo.htm)|
-|[36289](https://oeis.org/A036289)|[http://arXiv.org/abs/math.CO/0411128](http://arXiv.org/abs/math.CO/0411128)|
 |[36469](https://oeis.org/A036469)|[http://ecs.inria.fr/services/structure?nbr=774](http://ecs.inria.fr/services/structure?nbr=774)|
 |[36544](https://oeis.org/A036544)|[http://www.iki.fi/%7ekarttu/software/extrapolator.cl](http://www.iki.fi/%7ekarttu/software/extrapolator.cl)|
-|[36555](https://oeis.org/A036555)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
-|[36572](https://oeis.org/A036572)|[http://arXiv.org/abs/math.CO/0309220](http://arXiv.org/abs/math.CO/0309220)|
-|[36573](https://oeis.org/A036573)|[http://arXiv.org/abs/math.CO/0309220](http://arXiv.org/abs/math.CO/0309220)|
 |[36718](https://oeis.org/A036718)|[http://www.theory.cs.uvic.ca/~cos/inf/tree/RootedTree.html](http://www.theory.cs.uvic.ca/~cos/inf/tree/RootedTree.html)|
+|[36765](https://oeis.org/A036765)|[http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf](http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf)|
 |[36770](https://oeis.org/A036770)|[http://ecs.inria.fr/services/structure?nbr=46](http://ecs.inria.fr/services/structure?nbr=46)|
 |[36771](https://oeis.org/A036771)|[http://ecs.inria.fr/services/structure?nbr=47](http://ecs.inria.fr/services/structure?nbr=47)|
 |[37123](https://oeis.org/A037123)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[37224](https://oeis.org/A037224)|[https://arXiv.org/abs/math.CO/0506334](https://arXiv.org/abs/math.CO/0506334)|
 |[37232](https://oeis.org/A037232)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[37233](https://oeis.org/A037233)|[http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
-|[37301](https://oeis.org/A037301)|[http://arXiv.org/abs/0907.3302](http://arXiv.org/abs/0907.3302)|
 |[37306](https://oeis.org/A037306)|[http://home.earthlink.net/~dwasserm/A037306.html](http://home.earthlink.net/~dwasserm/A037306.html)|
 |[37445](https://oeis.org/A037445)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[38048](https://oeis.org/A038048)|[http://arXiv.org/abs/math-ph/9909023](http://arXiv.org/abs/math-ph/9909023)|
 |[38148](https://oeis.org/A038148)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[38150](https://oeis.org/A038150)|[https://doi.org/10.1016/S0304-3975(01)00070-6](https://doi.org/10.1016/S0304-3975(01)00070-6)|
 |[38156](https://oeis.org/A038156)|[http://ecs.inria.fr/services/structure?nbr=836](http://ecs.inria.fr/services/structure?nbr=836)|
-|[38194](https://oeis.org/A038194)|[http://www.arXiv.org/abs/math.NT/0408319](http://www.arXiv.org/abs/math.NT/0408319)|
 |[38360](https://oeis.org/A038360)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
-|[38395](https://oeis.org/A038395)|[http://arXiv.org/abs/math/0604019](http://arXiv.org/abs/math/0604019)|
-|[38507](https://oeis.org/A038507)|[http://arXiv.org/abs/math.CO/0207204](http://arXiv.org/abs/math.CO/0207204), [http://ecs.inria.fr/services/structure?nbr=834](http://ecs.inria.fr/services/structure?nbr=834), [http://ecs.inria.fr/services/structure?nbr=763](http://ecs.inria.fr/services/structure?nbr=763)|
+|[38507](https://oeis.org/A038507)|[http://ecs.inria.fr/services/structure?nbr=763](http://ecs.inria.fr/services/structure?nbr=763), [http://ecs.inria.fr/services/structure?nbr=834](http://ecs.inria.fr/services/structure?nbr=834)|
 |[38554](https://oeis.org/A038554)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[38717](https://oeis.org/A038717)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
 |[38721](https://oeis.org/A038721)|[http://www.exp-math.uni-essen.de/~immink/pdf/jsac13.pdf](http://www.exp-math.uni-essen.de/~immink/pdf/jsac13.pdf)|
 |[38776](https://oeis.org/A038776)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[38991](https://oeis.org/A038991)|[http://arXiv.org/abs/math-ph/0212015](http://arXiv.org/abs/math-ph/0212015)|
 |[39508](https://oeis.org/A039508)|[http://home.earthlink.net/~dwasserm/EISfile](http://home.earthlink.net/~dwasserm/EISfile)|
 |[39598](https://oeis.org/A039598)|[http://sci-prew.inf.ua/v113/2/S0305004100075964.pdf](http://sci-prew.inf.ua/v113/2/S0305004100075964.pdf)|
-|[39755](https://oeis.org/A039755)|[http://www.arXiv.org/abs/math.CO/0509207](http://www.arXiv.org/abs/math.CO/0509207)|
+|[39599](https://oeis.org/A039599)|[https://repository.wit.ie/1693/1/AoifeThesis.pdf](https://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[39921](https://oeis.org/A039921)|[http://www.maths.leeds.ac.uk/~alastair/](http://www.maths.leeds.ac.uk/~alastair/)|
 |[39951](https://oeis.org/A039951)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
 |[40001](https://oeis.org/A040001)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[40034](https://oeis.org/A040034)|[http://arXiv.org/abs/math.NT/0701251](http://arXiv.org/abs/math.NT/0701251)|
 |[41078](https://oeis.org/A041078)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
 |[41079](https://oeis.org/A041079)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
 |[45310](https://oeis.org/A045310)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[45671](https://oeis.org/A045671)|[http://arXiv.org/abs/math.CO/9809074](http://arXiv.org/abs/math.CO/9809074)|
-|[45672](https://oeis.org/A045672)|[http://arXiv.org/abs/math.CO/9809074](http://arXiv.org/abs/math.CO/9809074)|
-|[45681](https://oeis.org/A045681)|[http://arXiv.org/abs/math.CO/9809074](http://arXiv.org/abs/math.CO/9809074)|
-|[45682](https://oeis.org/A045682)|[http://arXiv.org/abs/math.CO/9809074](http://arXiv.org/abs/math.CO/9809074)|
-|[45775](https://oeis.org/A045775)|[http://arXiv.org/abs/math.CO/9809074](http://arXiv.org/abs/math.CO/9809074)|
 |[45794](https://oeis.org/A045794)|[http://theory2.phys.cwru.edu/~pete/sequence.html](http://theory2.phys.cwru.edu/~pete/sequence.html)|
-|[45900](https://oeis.org/A045900)|[http://arXiv.org/abs/gr-qc/9607033](http://arXiv.org/abs/gr-qc/9607033), [http://arXiv.org/abs/gr-qc/9703074](http://arXiv.org/abs/gr-qc/9703074), [http://arXiv.org/abs/gr-qc/9808050](http://arXiv.org/abs/gr-qc/9808050)|
-|[45980](https://oeis.org/A045980)|[http://arXiv.org/abs/math.NT/0210329](http://arXiv.org/abs/math.NT/0210329)|
 |[46001](https://oeis.org/A046001)|[http://enriques.mathematik.uni-mainz.de/kon/docs/Eflaechen.shtml](http://enriques.mathematik.uni-mainz.de/kon/docs/Eflaechen.shtml)|
 |[46060](https://oeis.org/A046060)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
 |[46061](https://oeis.org/A046061)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
 |[46092](https://oeis.org/A046092)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[46113](https://oeis.org/A046113)|[http://arXiv.org/abs/math.NT/0611300](http://arXiv.org/abs/math.NT/0611300)|
 |[46142](https://oeis.org/A046142)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
 |[46413](https://oeis.org/A046413)|[http://www.h4.dion.ne.jp/~rep](http://www.h4.dion.ne.jp/~rep)|
-|[46530](https://oeis.org/A046530)|[http://arXiv.org/abs/math.NT/0604465](http://arXiv.org/abs/math.NT/0604465)|
-|[46633](https://oeis.org/A046633)|[http://arXiv.org/abs/math.NT/0604465](http://arXiv.org/abs/math.NT/0604465)|
-|[46635](https://oeis.org/A046635)|[http://arXiv.org/abs/math.NT/0604465](http://arXiv.org/abs/math.NT/0604465)|
-|[46691](https://oeis.org/A046691)|[http://arXiv.org/abs/hep-th/9506030](http://arXiv.org/abs/hep-th/9506030)|
-|[46704](https://oeis.org/A046704)|[http://www.cs.uwaterloo.ca/journals/JIS/VOL15/Harman/harman2.html](http://www.cs.uwaterloo.ca/journals/JIS/VOL15/Harman/harman2.html)|
-|[46721](https://oeis.org/A046721)|[http://arXiv.org/abs/hep-th/9506030](http://arXiv.org/abs/hep-th/9506030)|
-|[46723](https://oeis.org/A046723)|[http://arXiv.org/abs/hep-th/9506030](http://arXiv.org/abs/hep-th/9506030)|
-|[46724](https://oeis.org/A046724)|[http://arXiv.org/abs/hep-th/9506030](http://arXiv.org/abs/hep-th/9506030)|
-|[46725](https://oeis.org/A046725)|[http://arXiv.org/abs/hep-th/9506030](http://arXiv.org/abs/hep-th/9506030)|
-|[46736](https://oeis.org/A046736)|[http://arXiv.org/abs/math.CO/9907057](http://arXiv.org/abs/math.CO/9907057), [http://ecs.inria.fr/services/structure?nbr=93](http://ecs.inria.fr/services/structure?nbr=93)|
-|[46759](https://oeis.org/A046759)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#62](http://www.chalcedon.demon.co.uk/rgep/publish.html#62), [http://www.pourlascience.com/index.php?ids=aPyshoMZcCzdxrZZogDE&amp](http://www.pourlascience.com/index.php?ids=aPyshoMZcCzdxrZZogDE&amp), [http://arXiv.org/abs/math.NT/9802046](http://arXiv.org/abs/math.NT/9802046)|
-|[46818](https://oeis.org/A046818)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
-|[46819](https://oeis.org/A046819)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
-|[46825](https://oeis.org/A046825)|[http://www.arXiv.org/abs/math.CO/0104026](http://www.arXiv.org/abs/math.CO/0104026)|
-|[46932](https://oeis.org/A046932)|[http://arXiv.org/abs/math.CO/9910056](http://arXiv.org/abs/math.CO/9910056)|
-|[46988](https://oeis.org/A046988)|[https://doi.org/10.48550/arXiv.2202.11835](https://doi.org/10.48550/arXiv.2202.11835)|
-|[47051](https://oeis.org/A047051)|[http://arXiv.org/abs/math-ph/0303049](http://arXiv.org/abs/math-ph/0303049), [http://arXiv.org/abs/math-ph/0106005](http://arXiv.org/abs/math-ph/0106005)|
+|[46462](https://oeis.org/A046462)|[http://www.gallup.unm.edu/~smarandache/michafleuren.htm](http://www.gallup.unm.edu/~smarandache/michafleuren.htm)|
+|[46736](https://oeis.org/A046736)|[http://ecs.inria.fr/services/structure?nbr=93](http://ecs.inria.fr/services/structure?nbr=93)|
+|[46759](https://oeis.org/A046759)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#62](http://www.chalcedon.demon.co.uk/rgep/publish.html#62), [http://www.pourlascience.com/index.php?ids=aPyshoMZcCzdxrZZogDE&amp](http://www.pourlascience.com/index.php?ids=aPyshoMZcCzdxrZZogDE&amp)|
 |[47053](https://oeis.org/A047053)|[http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf](http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf), [http://ecs.inria.fr/services/structure?nbr=492](http://ecs.inria.fr/services/structure?nbr=492)|
 |[47058](https://oeis.org/A047058)|[http://ecs.inria.fr/services/structure?nbr=528](http://ecs.inria.fr/services/structure?nbr=528)|
 |[47229](https://oeis.org/A047229)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[47329](https://oeis.org/A047329)|[http://highway55.library.yale.edu/PHOTONEGIMG/zoom/Z362/z3624231.jpg](http://highway55.library.yale.edu/PHOTONEGIMG/zoom/Z362/z3624231.jpg)|
 |[47335](https://oeis.org/A047335)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[47625](https://oeis.org/A047625)|[http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf](http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf)|
-|[47819](https://oeis.org/A047819)|[http://arXiv.org/abs/math.CO/9810143](http://arXiv.org/abs/math.CO/9810143)|
 |[47838](https://oeis.org/A047838)|[http://online-judge.uva.es/p/v102/10276.html.](http://online-judge.uva.es/p/v102/10276.html.)|
-|[47849](https://oeis.org/A047849)|[http://arXiv.org/abs/math.CO/0204005](http://arXiv.org/abs/math.CO/0204005)|
-|[47999](https://oeis.org/A047999)|[http://www-math.cudenver.edu/~wcherowi/jcorn6.html](http://www-math.cudenver.edu/~wcherowi/jcorn6.html), [http://www-math.cudenver.edu/~wcherowi/jcorn5.html](http://www-math.cudenver.edu/~wcherowi/jcorn5.html), [http://ccins.camosun.bc.ca/~jbritton/blaise/bigblaise.html](http://ccins.camosun.bc.ca/~jbritton/blaise/bigblaise.html), [http://www.mathforum.org/dr.math/faq/formulas/faq/regpoly.html](http://www.mathforum.org/dr.math/faq/formulas/faq/regpoly.html)|
-|[48116](https://oeis.org/A048116)|[http://arXiv.org/abs/math.CO/0211432](http://arXiv.org/abs/math.CO/0211432)|
+|[47891](https://oeis.org/A047891)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[47999](https://oeis.org/A047999)|[http://www-math.cudenver.edu/~wcherowi/jcorn6.html](http://www-math.cudenver.edu/~wcherowi/jcorn6.html), [http://ccins.camosun.bc.ca/~jbritton/blaise/bigblaise.html](http://ccins.camosun.bc.ca/~jbritton/blaise/bigblaise.html), [http://www-math.cudenver.edu/~wcherowi/jcorn5.html](http://www-math.cudenver.edu/~wcherowi/jcorn5.html), [http://www.mathforum.org/dr.math/faq/formulas/faq/regpoly.html](http://www.mathforum.org/dr.math/faq/formulas/faq/regpoly.html)|
 |[48298](https://oeis.org/A048298)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[48341](https://oeis.org/A048341)|[http://www.magic-squares.net/narciss.htm](http://www.magic-squares.net/narciss.htm)|
 |[48574](https://oeis.org/A048574)|[http://ecs.inria.fr/services/structure?nbr=804](http://ecs.inria.fr/services/structure?nbr=804)|
-|[48601](https://oeis.org/A048601)|[http://arXiv.org/abs/math.CO/9606224](http://arXiv.org/abs/math.CO/9606224), [http://arXiv.org/abs/cond-mat/0409576](http://arXiv.org/abs/cond-mat/0409576)|
 |[48691](https://oeis.org/A048691)|[http://www.kalva.demon.co.uk/putnam/psoln/psol601.html](http://www.kalva.demon.co.uk/putnam/psoln/psol601.html)|
 |[48710](https://oeis.org/A048710)|[http://www.iki.fi/%7Ekartturi/matikka/r90x150a.htm](http://www.iki.fi/%7Ekartturi/matikka/r90x150a.htm)|
 |[48739](https://oeis.org/A048739)|[http://ecs.inria.fr/services/structure?nbr=1065](http://ecs.inria.fr/services/structure?nbr=1065)|
 |[48764](https://oeis.org/A048764)|[http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf](http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf), [http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
-|[48765](https://oeis.org/A048765)|[http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf](http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf)|
 |[48802](https://oeis.org/A048802)|[http://ecs.inria.fr/services/structure?nbr=861](http://ecs.inria.fr/services/structure?nbr=861)|
-|[48854](https://oeis.org/A048854)|[http://arXiv.org/abs/1707.04451](http://arXiv.org/abs/1707.04451)|
 |[48874](https://oeis.org/A048874)|[http://www.css.tayloru.edu/~mdelong/undergrad.html](http://www.css.tayloru.edu/~mdelong/undergrad.html)|
-|[48883](https://oeis.org/A048883)|[http://arXiv.org/abs/math.CO/0307027](http://arXiv.org/abs/math.CO/0307027), [http://www.imfm.si/preprinti/PDF/00696.pdf](http://www.imfm.si/preprinti/PDF/00696.pdf)|
-|[48993](https://oeis.org/A048993)|[http://arXiv.org/abs/quant-ph/0401126](http://arXiv.org/abs/quant-ph/0401126)|
+|[48883](https://oeis.org/A048883)|[http://www.imfm.si/preprinti/PDF/00696.pdf](http://www.imfm.si/preprinti/PDF/00696.pdf)|
 |[49019](https://oeis.org/A049019)|[http://www.math.uakron.edu/~sf34/hedra.htm#index](http://www.math.uakron.edu/~sf34/hedra.htm#index)|
-|[49029](https://oeis.org/A049029)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
-|[49061](https://oeis.org/A049061)|[http://arXiv.org/abs/math/0612135](http://arXiv.org/abs/math/0612135), [http://arXiv.org/abs/math.CO/0602263](http://arXiv.org/abs/math.CO/0602263)|
-|[49118](https://oeis.org/A049118)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027), [http://arXiv.org/abs/quant-ph/0501155](http://arXiv.org/abs/quant-ph/0501155), [http://arXiv.org/abs/quant-ph/0212072](http://arXiv.org/abs/quant-ph/0212072)|
-|[49119](https://oeis.org/A049119)|[http://arXiv.org/abs/quant-ph/0311033](http://arXiv.org/abs/quant-ph/0311033), [http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
-|[49120](https://oeis.org/A049120)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
+|[49130](https://oeis.org/A049130)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[49140](https://oeis.org/A049140)|[http://ecs.inria.fr/services/structure?nbr=659](http://ecs.inria.fr/services/structure?nbr=659)|
+|[49213](https://oeis.org/A049213)|[http://www.cs.uwaterloo.ca/journals/JIS/VOL3/LANG/lang.html](http://www.cs.uwaterloo.ca/journals/JIS/VOL3/LANG/lang.html)|
 |[49287](https://oeis.org/A049287)|[http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
 |[49288](https://oeis.org/A049288)|[http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
 |[49289](https://oeis.org/A049289)|[http://www.math.tu-dresden.de/~poeschel/poePUBLICATIONSps/lispoepp.ps](http://www.math.tu-dresden.de/~poeschel/poePUBLICATIONSps/lispoepp.ps), [http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
 |[49290](https://oeis.org/A049290)|[http://com2mac.postech.ac.kr/resorce/Lecture_text.htm](http://com2mac.postech.ac.kr/resorce/Lecture_text.htm)|
 |[49297](https://oeis.org/A049297)|[http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
 |[49309](https://oeis.org/A049309)|[http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
-|[49310](https://oeis.org/A049310)|[http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf](http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf), [http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
+|[49310](https://oeis.org/A049310)|[http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf](http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf), [http://repository.wit.ie/1693](http://repository.wit.ie/1693)|
 |[49364](https://oeis.org/A049364)|[http://www.immortaltheory.com/NumberTheory/](http://www.immortaltheory.com/NumberTheory/)|
-|[49384](https://oeis.org/A049384)|[http://www.die.uniroma1.it/strutture/labcem/](http://www.die.uniroma1.it/strutture/labcem/), [http://arXiv.org/abs/math.NT/0611293](http://arXiv.org/abs/math.NT/0611293), [http://arXiv.org/abs/math.NT/0406300](http://arXiv.org/abs/math.NT/0406300)|
+|[49384](https://oeis.org/A049384)|[http://www.die.uniroma1.it/strutture/labcem/](http://www.die.uniroma1.it/strutture/labcem/)|
 |[49417](https://oeis.org/A049417)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
 |[49419](https://oeis.org/A049419)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[49464](https://oeis.org/A049464)|[https://arXiv.org/abs/hep-ph/9909336](https://arXiv.org/abs/hep-ph/9909336)|
-|[49488](https://oeis.org/A049488)|[http://www.arXiv.org/abs/math.NT/0408319](http://www.arXiv.org/abs/math.NT/0408319)|
 |[49507](https://oeis.org/A049507)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
 |[49980](https://oeis.org/A049980)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
 |[49981](https://oeis.org/A049981)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
@@ -1227,7 +1118,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[49994](https://oeis.org/A049994)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
 |[49995](https://oeis.org/A049995)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
 |[50289](https://oeis.org/A050289)|[http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsn.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsn.html)|
-|[50351](https://oeis.org/A050351)|[http://arXiv.org/abs/math.CO/0307064](http://arXiv.org/abs/math.CO/0307064)|
 |[50383](https://oeis.org/A050383)|[http://ecs.inria.fr/services/structure?nbr=773](http://ecs.inria.fr/services/structure?nbr=773)|
 |[50407](https://oeis.org/A050407)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
 |[50534](https://oeis.org/A050534)|[http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf)|
@@ -1295,10 +1185,8 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[50617](https://oeis.org/A050617)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50618](https://oeis.org/A050618)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50619](https://oeis.org/A050619)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
-|[50680](https://oeis.org/A050680)|[http://www.gallup.unm.edu/~smarandache/micha.txt](http://www.gallup.unm.edu/~smarandache/micha.txt), [http://www.gallup.unm.edu/~smarandache/michafleuren.htm](http://www.gallup.unm.edu/~smarandache/michafleuren.htm)|
-|[50688](https://oeis.org/A050688)|[http://www.gallup.unm.edu/~smarandache/michafleuren.htm](http://www.gallup.unm.edu/~smarandache/michafleuren.htm)|
+|[50680](https://oeis.org/A050680)|[http://www.gallup.unm.edu/~smarandache/michafleuren.htm](http://www.gallup.unm.edu/~smarandache/michafleuren.htm)|
 |[50694](https://oeis.org/A050694)|[http://home.mindspring.com/~kikiriki/id14.html](http://home.mindspring.com/~kikiriki/id14.html)|
-|[50811](https://oeis.org/A050811)|[http://www.math.niu.edu/~rusin/known-math/95/partitions](http://www.math.niu.edu/~rusin/known-math/95/partitions)|
 |[50830](https://oeis.org/A050830)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50831](https://oeis.org/A050831)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50832](https://oeis.org/A050832)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
@@ -1370,14 +1258,10 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[50906](https://oeis.org/A050906)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50907](https://oeis.org/A050907)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50908](https://oeis.org/A050908)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
-|[50970](https://oeis.org/A050970)|[http://arXiv.org/abs/math.CA/0101168](http://arXiv.org/abs/math.CA/0101168)|
-|[51159](https://oeis.org/A051159)|[http://arXiv.org/abs/physics/0611277](http://arXiv.org/abs/physics/0611277)|
 |[51188](https://oeis.org/A051188)|[http://ecs.inria.fr/services/structure?nbr=614](http://ecs.inria.fr/services/structure?nbr=614)|
 |[51224](https://oeis.org/A051224)|[http://m29s20.vlinux.de/~wschub/nqueen.html](http://m29s20.vlinux.de/~wschub/nqueen.html), [http://m29s20.vlinux.de/~wschub/nqueen.html](http://m29s20.vlinux.de/~wschub/nqueen.html)|
-|[51255](https://oeis.org/A051255)|[http://arXiv.org/abs/cond-mat/0101385](http://arXiv.org/abs/cond-mat/0101385)|
 |[51337](https://oeis.org/A051337)|[http://www.gutenberg.org/ebooks/42833](http://www.gutenberg.org/ebooks/42833)|
 |[51437](https://oeis.org/A051437)|[http://www2.informns.k12.mn.us/schoolties/class/homeroom1.cfm?class=tyoung1](http://www2.informns.k12.mn.us/schoolties/class/homeroom1.cfm?class=tyoung1)|
-|[51496](https://oeis.org/A051496)|[http://arXiv.org/abs/hep-th/9810087](http://arXiv.org/abs/hep-th/9810087)|
 |[51567](https://oeis.org/A051567)|[http://www.scribd.com/doc/207185086/Gardner-1997-the-Last-Recreations](http://www.scribd.com/doc/207185086/Gardner-1997-the-Last-Recreations)|
 |[51578](https://oeis.org/A051578)|[http://ecs.inria.fr/services/structure?nbr=521](http://ecs.inria.fr/services/structure?nbr=521)|
 |[51711](https://oeis.org/A051711)|[http://oldweb.cecm.sfu.ca/projects/IntegerRelations/MAA/emerging98.html](http://oldweb.cecm.sfu.ca/projects/IntegerRelations/MAA/emerging98.html), [http://ecs.inria.fr/services/structure?nbr=647](http://ecs.inria.fr/services/structure?nbr=647)|
@@ -1388,18 +1272,10 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[51855](https://oeis.org/A051855)|[http://pages.prodigy.net/chris_nash/primeform.html](http://pages.prodigy.net/chris_nash/primeform.html)|
 |[51856](https://oeis.org/A051856)|[http://pages.prodigy.net/chris_nash/primeform.html](http://pages.prodigy.net/chris_nash/primeform.html)|
 |[51857](https://oeis.org/A051857)|[http://pages.prodigy.net/chris_nash/primeform.html](http://pages.prodigy.net/chris_nash/primeform.html)|
-|[51862](https://oeis.org/A051862)|[http://arXiv.org/abs/hep-th/9912093](http://arXiv.org/abs/hep-th/9912093)|
 |[51917](https://oeis.org/A051917)|[http://www.eleves.ens.fr:8080/home/madore/math/games.ps.gz](http://www.eleves.ens.fr:8080/home/madore/math/games.ps.gz)|
 |[51936](https://oeis.org/A051936)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
 |[51952](https://oeis.org/A051952)|[http://smallsystems.isn-oldenburg.de/publications/metadocs/ebs.quadratsummen.html](http://smallsystems.isn-oldenburg.de/publications/metadocs/ebs.quadratsummen.html)|
-|[52110](https://oeis.org/A052110)|[http://www.nafindix.com/math/math.html](http://www.nafindix.com/math/math.html)|
-|[52129](https://oeis.org/A052129)|[http://arXiv.org/abs/math/0610499](http://arXiv.org/abs/math/0610499)|
 |[52200](https://oeis.org/A052200)|[http://grail.cba.csuohio.edu/~somos/busy.html](http://grail.cba.csuohio.edu/~somos/busy.html)|
-|[52249](https://oeis.org/A052249)|[http://arXiv.org/abs/hep-th/0001202](http://arXiv.org/abs/hep-th/0001202)|
-|[52250](https://oeis.org/A052250)|[http://arXiv.org/abs/hep-th/0001202](http://arXiv.org/abs/hep-th/0001202)|
-|[52253](https://oeis.org/A052253)|[http://arXiv.org/abs/hep-th/0001202](http://arXiv.org/abs/hep-th/0001202)|
-|[52275](https://oeis.org/A052275)|[http://arXiv.org/abs/math.NT/0604465](http://arXiv.org/abs/math.NT/0604465)|
-|[52291](https://oeis.org/A052291)|[http://arXiv.org/abs/0803.1456](http://arXiv.org/abs/0803.1456)|
 |[52319](https://oeis.org/A052319)|[http://puma.dimai.unifi.it/22_2/jones_remmel.pdf](http://puma.dimai.unifi.it/22_2/jones_remmel.pdf)|
 |[52333](https://oeis.org/A052333)|[http://www.znz.freesurf.fr/pages/titanix.html).](http://www.znz.freesurf.fr/pages/titanix.html).)|
 |[52334](https://oeis.org/A052334)|[http://www.znz.freesurf.fr/pages/titanix.html).](http://www.znz.freesurf.fr/pages/titanix.html).)|
@@ -1605,7 +1481,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52698](https://oeis.org/A052698)|[http://ecs.inria.fr/services/structure?nbr=648](http://ecs.inria.fr/services/structure?nbr=648)|
 |[52699](https://oeis.org/A052699)|[http://ecs.inria.fr/services/structure?nbr=649](http://ecs.inria.fr/services/structure?nbr=649)|
 |[52700](https://oeis.org/A052700)|[http://ecs.inria.fr/services/structure?nbr=650](http://ecs.inria.fr/services/structure?nbr=650)|
-|[52701](https://oeis.org/A052701)|[http://ecs.inria.fr/services/structure?nbr=651](http://ecs.inria.fr/services/structure?nbr=651)|
+|[52701](https://oeis.org/A052701)|[http://ecs.inria.fr/services/structure?nbr=651](http://ecs.inria.fr/services/structure?nbr=651), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[52702](https://oeis.org/A052702)|[http://ecs.inria.fr/services/structure?nbr=654](http://ecs.inria.fr/services/structure?nbr=654)|
 |[52703](https://oeis.org/A052703)|[http://ecs.inria.fr/services/structure?nbr=656](http://ecs.inria.fr/services/structure?nbr=656)|
 |[52704](https://oeis.org/A052704)|[http://ecs.inria.fr/services/structure?nbr=658](http://ecs.inria.fr/services/structure?nbr=658)|
@@ -1753,7 +1629,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52846](https://oeis.org/A052846)|[http://ecs.inria.fr/services/structure?nbr=814](http://ecs.inria.fr/services/structure?nbr=814)|
 |[52847](https://oeis.org/A052847)|[http://ecs.inria.fr/services/structure?nbr=815](http://ecs.inria.fr/services/structure?nbr=815)|
 |[52848](https://oeis.org/A052848)|[http://ecs.inria.fr/services/structure?nbr=816](http://ecs.inria.fr/services/structure?nbr=816)|
-|[52849](https://oeis.org/A052849)|[http://ecs.inria.fr/services/structure?nbr=817](http://ecs.inria.fr/services/structure?nbr=817), [http://ecs.inria.fr/services/structure?nbr=490](http://ecs.inria.fr/services/structure?nbr=490)|
+|[52849](https://oeis.org/A052849)|[http://ecs.inria.fr/services/structure?nbr=490](http://ecs.inria.fr/services/structure?nbr=490), [http://ecs.inria.fr/services/structure?nbr=817](http://ecs.inria.fr/services/structure?nbr=817)|
 |[52850](https://oeis.org/A052850)|[http://ecs.inria.fr/services/structure?nbr=818](http://ecs.inria.fr/services/structure?nbr=818)|
 |[52851](https://oeis.org/A052851)|[http://ecs.inria.fr/services/structure?nbr=819](http://ecs.inria.fr/services/structure?nbr=819)|
 |[52852](https://oeis.org/A052852)|[http://ecs.inria.fr/services/structure?nbr=820](http://ecs.inria.fr/services/structure?nbr=820)|
@@ -1902,8 +1778,11 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52997](https://oeis.org/A052997)|[http://ecs.inria.fr/services/structure?nbr=1075](http://ecs.inria.fr/services/structure?nbr=1075)|
 |[53016](https://oeis.org/A053016)|[http://davidf.faricy.net/polyhedra/Platonic_Solids.html](http://davidf.faricy.net/polyhedra/Platonic_Solids.html), [http://www.lsbu.ac.uk/water/platonic2.html](http://www.lsbu.ac.uk/water/platonic2.html), [http://www.pen.k12.va.us/Div/Winchester/jhhs/math/lessons/geometry/plato.html](http://www.pen.k12.va.us/Div/Winchester/jhhs/math/lessons/geometry/plato.html), [http://matti.usu.edu/nlvm/nav/frames_asid_128_g_3_t_3.html](http://matti.usu.edu/nlvm/nav/frames_asid_128_g_3_t_3.html)|
 |[53089](https://oeis.org/A053089)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
+|[53117](https://oeis.org/A053117)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[53120](https://oeis.org/A053120)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[53121](https://oeis.org/A053121)|[http://repository.wit.ie/1693](http://repository.wit.ie/1693)|
 |[53150](https://oeis.org/A053150)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
-|[53406](https://oeis.org/A053406)|[http://astro.estec.esa.nl/Hipparcos/](http://astro.estec.esa.nl/Hipparcos/), [http://euclid.tp.ph.ic.ac.uk/~albrecht/college-only/astro-notes-old/astro-notes/node106.html](http://euclid.tp.ph.ic.ac.uk/~albrecht/college-only/astro-notes-old/astro-notes/node106.html)|
+|[53406](https://oeis.org/A053406)|[http://euclid.tp.ph.ic.ac.uk/~albrecht/college-only/astro-notes-old/astro-notes/node106.html](http://euclid.tp.ph.ic.ac.uk/~albrecht/college-only/astro-notes-old/astro-notes/node106.html), [http://astro.estec.esa.nl/Hipparcos/](http://astro.estec.esa.nl/Hipparcos/)|
 |[53464](https://oeis.org/A053464)|[http://ecs.inria.fr/services/structure?nbr=756](http://ecs.inria.fr/services/structure?nbr=756)|
 |[53492](https://oeis.org/A053492)|[http://ecs.inria.fr/services/structure?nbr=854](http://ecs.inria.fr/services/structure?nbr=854)|
 |[53529](https://oeis.org/A053529)|[http://puma.dimai.unifi.it/24_1/2.holloway_shattuck.pdf](http://puma.dimai.unifi.it/24_1/2.holloway_shattuck.pdf)|
@@ -1911,14 +1790,16 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[53657](https://oeis.org/A053657)|[http://icm.uaeu.ac.ae/pdf/TomeI.pdf](http://icm.uaeu.ac.ae/pdf/TomeI.pdf)|
 |[54245](https://oeis.org/A054245)|[http://www.gutenberg.org/ebooks/156](http://www.gutenberg.org/ebooks/156)|
 |[54248](https://oeis.org/A054248)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[54320](https://oeis.org/A054320)|[https://doi.org/10.11575/cdm.v3i2.61940](https://doi.org/10.11575/cdm.v3i2.61940)|
 |[54391](https://oeis.org/A054391)|[http://puma.dimai.unifi.it/22_2/mansour_shattuck.pdf](http://puma.dimai.unifi.it/22_2/mansour_shattuck.pdf)|
 |[54591](https://oeis.org/A054591)|[https://math.psu.edu/mass/sites/default/files/reu2003/6.pdf](https://math.psu.edu/mass/sites/default/files/reu2003/6.pdf)|
-|[54729](https://oeis.org/A054729)|[http://arXiv.org/abs/math/0006096](http://arXiv.org/abs/math/0006096)|
+|[54726](https://oeis.org/A054726)|[http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf](http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf)|
 |[54760](https://oeis.org/A054760)|[http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
 |[55060](https://oeis.org/A055060)|[http://www.math.jussieu.fr/~allouche/bibliorecente.html](http://www.math.jussieu.fr/~allouche/bibliorecente.html)|
+|[55069](https://oeis.org/A055069)|[http://www.the-acr.com/codes/cntryno.htm](http://www.the-acr.com/codes/cntryno.htm)|
 |[55096](https://oeis.org/A055096)|[http://www.iki.fi/~kartturi/matikka/A055096e.htm](http://www.iki.fi/~kartturi/matikka/A055096e.htm)|
 |[55199](https://oeis.org/A055199)|[http://gj.mit.edu/pi/digits/](http://gj.mit.edu/pi/digits/)|
-|[55203](https://oeis.org/A055203)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf), [http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html](http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html)|
+|[55203](https://oeis.org/A055203)|[http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html](http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html), [http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
 |[55380](https://oeis.org/A055380)|[http://stop.inferia.ru/](http://stop.inferia.ru/)|
 |[55386](https://oeis.org/A055386)|[http://cage.rug.ac.be/~hvernaev/problems/Proble36.html](http://cage.rug.ac.be/~hvernaev/problems/Proble36.html)|
 |[55503](https://oeis.org/A055503)|[http://physolymp.fml31.ru/olymp/files/f194.pdf](http://physolymp.fml31.ru/olymp/files/f194.pdf)|
@@ -1928,7 +1809,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[55860](https://oeis.org/A055860)|[http://ecs.inria.fr/services/structure?nbr=67](http://ecs.inria.fr/services/structure?nbr=67)|
 |[55870](https://oeis.org/A055870)|[http://dspace.dml.cz/handle/10338.dmlcz/130423](http://dspace.dml.cz/handle/10338.dmlcz/130423)|
 |[55922](https://oeis.org/A055922)|[http://www.dli.gov.in/data_copy/upload/INSA/INSA_2/20005a88_147.pdf](http://www.dli.gov.in/data_copy/upload/INSA/INSA_2/20005a88_147.pdf)|
-|[56004](https://oeis.org/A056004)|[http://www.scielo.org.co/pdf/rcm/v41n2/v41n2a08.pdf](http://www.scielo.org.co/pdf/rcm/v41n2/v41n2a08.pdf)|
 |[56010](https://oeis.org/A056010)|[http://grail.eecs.csuohio.edu/~somos/nwic.html](http://grail.eecs.csuohio.edu/~somos/nwic.html)|
 |[56064](https://oeis.org/A056064)|[http://us.imdb.com/Bio?Benny](http://us.imdb.com/Bio?Benny)|
 |[56220](https://oeis.org/A056220)|[http://puma.dimai.unifi.it/21_2/11_Phillipson_Riehl_Williams.pdf](http://puma.dimai.unifi.it/21_2/11_Phillipson_Riehl_Williams.pdf)|
@@ -1936,8 +1816,9 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[56520](https://oeis.org/A056520)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
 |[56588](https://oeis.org/A056588)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
 |[56605](https://oeis.org/A056605)|[http://home.interserv.com/~mniemiec/objcount.htm](http://home.interserv.com/~mniemiec/objcount.htm)|
-|[56718](https://oeis.org/A056718)|[http://max0526.fcpages.com/2116.zip](http://max0526.fcpages.com/2116.zip), [http://max0526.fcpages.com/2180.zip](http://max0526.fcpages.com/2180.zip)|
+|[56718](https://oeis.org/A056718)|[http://max0526.fcpages.com/2180.zip](http://max0526.fcpages.com/2180.zip), [http://max0526.fcpages.com/2116.zip](http://max0526.fcpages.com/2116.zip)|
 |[56739](https://oeis.org/A056739)|[http://enriques.mathematik.uni-mainz.de/cm/article_primes.pdf](http://enriques.mathematik.uni-mainz.de/cm/article_primes.pdf)|
+|[56940](https://oeis.org/A056940)|[http://www-math.mit.edu/~rstan/pubs/pubfiles/12-2.pdf](http://www-math.mit.edu/~rstan/pubs/pubfiles/12-2.pdf)|
 |[56979](https://oeis.org/A056979)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[56997](https://oeis.org/A056997)|[http://www.ethiopic.com/calendar/ethiopic.htm](http://www.ethiopic.com/calendar/ethiopic.htm)|
 |[57005](https://oeis.org/A057005)|[http://com2mac.postech.ac.kr/resorce/Lecture_text.htm](http://com2mac.postech.ac.kr/resorce/Lecture_text.htm)|
@@ -1946,6 +1827,11 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[57009](https://oeis.org/A057009)|[http://com2mac.postech.ac.kr/resorce/Lecture_text.htm](http://com2mac.postech.ac.kr/resorce/Lecture_text.htm)|
 |[57012](https://oeis.org/A057012)|[http://com2mac.postech.ac.kr/resorce/Lecture_text.htm](http://com2mac.postech.ac.kr/resorce/Lecture_text.htm)|
 |[57014](https://oeis.org/A057014)|[http://com2mac.postech.ac.kr/resorce/Lecture_text.htm](http://com2mac.postech.ac.kr/resorce/Lecture_text.htm)|
+|[57020](https://oeis.org/A057020)|[http://web.science.mq.edu.au/groups/acac/researchstudent_completed/Daniel_Sutantyo.pdf](http://web.science.mq.edu.au/groups/acac/researchstudent_completed/Daniel_Sutantyo.pdf)|
+|[57077](https://oeis.org/A057077)|[https://doi.org/10.11575/cdm.v3i2.61940](https://doi.org/10.11575/cdm.v3i2.61940)|
+|[57079](https://oeis.org/A057079)|[https://doi.org/10.11575/cdm.v3i2.61940](https://doi.org/10.11575/cdm.v3i2.61940)|
+|[57080](https://oeis.org/A057080)|[https://doi.org/10.11575/cdm.v3i2.61940](https://doi.org/10.11575/cdm.v3i2.61940)|
+|[57081](https://oeis.org/A057081)|[https://doi.org/10.11575/cdm.v3i2.61940](https://doi.org/10.11575/cdm.v3i2.61940)|
 |[57112](https://oeis.org/A057112)|[http://www.iki.fi/~kartturi/matikka/permgraf/troctahe.htm](http://www.iki.fi/~kartturi/matikka/permgraf/troctahe.htm)|
 |[57117](https://oeis.org/A057117)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[57118](https://oeis.org/A057118)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -1962,8 +1848,9 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[57364](https://oeis.org/A057364)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
 |[57365](https://oeis.org/A057365)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
 |[57366](https://oeis.org/A057366)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
-|[57406](https://oeis.org/A057406)|[http://www.ms.unimelb.edu.au/~iwan/polygons/series/square.area.1hole.ser](http://www.ms.unimelb.edu.au/~iwan/polygons/series/square.area.1hole.ser)|
+|[57429](https://oeis.org/A057429)|[http://www.mail-archive.com/mersenne@base.com/msg05162.html](http://www.mail-archive.com/mersenne@base.com/msg05162.html)|
 |[57486](https://oeis.org/A057486)|[http://webloria.loria.fr/~zimmerma/irred/57885161.txt](http://webloria.loria.fr/~zimmerma/irred/57885161.txt)|
+|[57501](https://oeis.org/A057501)|[http://www-math.mit.edu/~rstan/ec/catalan.pdf](http://www-math.mit.edu/~rstan/ec/catalan.pdf)|
 |[57502](https://oeis.org/A057502)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[57505](https://oeis.org/A057505)|[http://www-cs-staff.Stanford.EDU/~knuth/fasc4a.ps.gz](http://www-cs-staff.Stanford.EDU/~knuth/fasc4a.ps.gz)|
 |[57508](https://oeis.org/A057508)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -1975,9 +1862,11 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[57646](https://oeis.org/A057646)|[http://webloria.loria.fr/~zimmerma/irred/57885161.txt](http://webloria.loria.fr/~zimmerma/irred/57885161.txt)|
 |[57711](https://oeis.org/A057711)|[http://ki.cs.tu-berlin.de/diplomarbeiten/wolf/da.html](http://ki.cs.tu-berlin.de/diplomarbeiten/wolf/da.html), [http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf)|
 |[57754](https://oeis.org/A057754)|[http://documents.wolfram.com/v3/](http://documents.wolfram.com/v3/)|
-|[57790](https://oeis.org/A057790)|[http://arXiv.org/abs/math.CO/0211432](http://arXiv.org/abs/math.CO/0211432), [http://www.imfm.si/preprinti/PDF/00687.pdf](http://www.imfm.si/preprinti/PDF/00687.pdf)|
+|[57790](https://oeis.org/A057790)|[http://www.imfm.si/preprinti/PDF/00687.pdf](http://www.imfm.si/preprinti/PDF/00687.pdf)|
+|[57817](https://oeis.org/A057817)|[http://math.mit.edu/~apost/papers/](http://math.mit.edu/~apost/papers/)|
 |[57848](https://oeis.org/A057848)|[http://myhome.hanafos.com/~1234chae/myindex.htm](http://myhome.hanafos.com/~1234chae/myindex.htm)|
 |[57853](https://oeis.org/A057853)|[http://wwwtios.cs.utwente.nl/esperanto/hypercourse/getallen.html](http://wwwtios.cs.utwente.nl/esperanto/hypercourse/getallen.html)|
+|[58014](https://oeis.org/A058014)|[http://math.mit.edu/~apost/papers.html](http://math.mit.edu/~apost/papers.html)|
 |[58296](https://oeis.org/A058296)|[http://www.math.siu.edu/mills/interesting_seqs.pdf](http://www.math.siu.edu/mills/interesting_seqs.pdf)|
 |[58529](https://oeis.org/A058529)|[http://pythag.net/node4.html](http://pythag.net/node4.html)|
 |[58635](https://oeis.org/A058635)|[http://pweb.nju.edu.cn/zwsun/39f.pdf](http://pweb.nju.edu.cn/zwsun/39f.pdf)|
@@ -1992,9 +1881,10 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[58947](https://oeis.org/A058947)|[http://www.theory.cs.uvic.ca/~cos/gen/poly.html](http://www.theory.cs.uvic.ca/~cos/gen/poly.html)|
 |[58992](https://oeis.org/A058992)|[http://www.scribd.com/doc/138937268/Extended-9-Dots-Puzzle-to-nxnx-xn-Dots-General-Solving-Method](http://www.scribd.com/doc/138937268/Extended-9-Dots-Puzzle-to-nxnx-xn-Dots-General-Solving-Method)|
 |[59015](https://oeis.org/A059015)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[59066](https://oeis.org/A059066)|[http://www.jstor.org/stable/2691467](http://www.jstor.org/stable/2691467), [http://www.jstor.org/stable/2324927](http://www.jstor.org/stable/2324927), [http://www.jstor.org/stable/3219303](http://www.jstor.org/stable/3219303)|
 |[59090](https://oeis.org/A059090)|[http://search.ieice.or.jp/1997/abs/e80-a_8_1502.htm](http://search.ieice.or.jp/1997/abs/e80-a_8_1502.htm)|
 |[59106](https://oeis.org/A059106)|[https://eprint.panzan.me/articles/langford.pdf](https://eprint.panzan.me/articles/langford.pdf)|
+|[59231](https://oeis.org/A059231)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[59418](https://oeis.org/A059418)|[http://www.dmg.tuwien.ac.at/drmota/recursivetrees.pdf](http://www.dmg.tuwien.ac.at/drmota/recursivetrees.pdf)|
 |[59451](https://oeis.org/A059451)|[http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/February2001.html](http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/February2001.html)|
 |[59452](https://oeis.org/A059452)|[http://ksc9.th.com/warut/cunningham.html](http://ksc9.th.com/warut/cunningham.html)|
 |[59515](https://oeis.org/A059515)|[http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html](http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html)|
@@ -2002,6 +1892,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[59573](https://oeis.org/A059573)|[http://w1.875.telia.com/~u87509703/mathez/polyotessaminoes/polyotessaminonumbers.html](http://w1.875.telia.com/~u87509703/mathez/polyotessaminoes/polyotessaminonumbers.html)|
 |[59688](https://oeis.org/A059688)|[http://ksc9.th.com/warut/cunningham.html](http://ksc9.th.com/warut/cunningham.html)|
 |[59690](https://oeis.org/A059690)|[http://ksc9.th.com/warut/cunningham.html](http://ksc9.th.com/warut/cunningham.html)|
+|[59738](https://oeis.org/A059738)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[59739](https://oeis.org/A059739)|[http://www-home.math.uwo.ca/~srankin/papers/knots/altlnk.submit.pdf](http://www-home.math.uwo.ca/~srankin/papers/knots/altlnk.submit.pdf), [http://knotilus.math.uwo.ca](http://knotilus.math.uwo.ca)|
 |[59919](https://oeis.org/A059919)|[http://www1.uni-hamburg.de/RRZ/W.Keller/GFN03.html](http://www1.uni-hamburg.de/RRZ/W.Keller/GFN03.html)|
 |[59925](https://oeis.org/A059925)|[http://ymmij.de/Nerd/p4/p4-2.pdf](http://ymmij.de/Nerd/p4/p4-2.pdf)|
@@ -2012,15 +1903,15 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[60115](https://oeis.org/A060115)|[http://www.iki.fi/~kartturi/matikka/findnext.txt](http://www.iki.fi/~kartturi/matikka/findnext.txt)|
 |[60116](https://oeis.org/A060116)|[http://www.iki.fi/~kartturi/matikka/findnext.txt](http://www.iki.fi/~kartturi/matikka/findnext.txt)|
 |[60135](https://oeis.org/A060135)|[http://www.iki.fi/~kartturi/matikka/permgraf/troctahe.htm](http://www.iki.fi/~kartturi/matikka/permgraf/troctahe.htm)|
+|[60187](https://oeis.org/A060187)|[http://www-math.mit.edu/~rstan/papers/qbc.pdf](http://www-math.mit.edu/~rstan/papers/qbc.pdf)|
 |[60295](https://oeis.org/A060295)|[http://users.skynet.be/radoux/163.htm](http://users.skynet.be/radoux/163.htm), [http://users.skynet.be/radoux/163-2.htm](http://users.skynet.be/radoux/163-2.htm)|
-|[60410](https://oeis.org/A060410)|[http://pcbarina.fit.vutbr.cz/path-records.htm](http://pcbarina.fit.vutbr.cz/path-records.htm)|
-|[60564](https://oeis.org/A060564)|[http://islab.oregonstate.edu/papers/c21curve.pdf](http://islab.oregonstate.edu/papers/c21curve.pdf)|
+|[60564](https://oeis.org/A060564)|[http://islab.oregonstate.edu/papers/c21curve.pdf](http://islab.oregonstate.edu/papers/c21curve.pdf), [http://www.math.hr/~duje/tors/rankhist.html](http://www.math.hr/~duje/tors/rankhist.html), [http://www.maths.nottingham.ac.uk/personal/jec/ftp/data/INDEX.html](http://www.maths.nottingham.ac.uk/personal/jec/ftp/data/INDEX.html), [http://www.math.brown.edu/~jhs/Presentations/WyomingEllipticCurve.pdf](http://www.math.brown.edu/~jhs/Presentations/WyomingEllipticCurve.pdf), [http://mathworld.wolfram.com/EllipticCurve.html](http://mathworld.wolfram.com/EllipticCurve.html)|
 |[60628](https://oeis.org/A060628)|[http://www-maths.swan.ac.uk/staff/fwc/Gregynog-slides.pdf](http://www-maths.swan.ac.uk/staff/fwc/Gregynog-slides.pdf)|
 |[60693](https://oeis.org/A060693)|[https://m.math.tecnico.ulisboa.pt/seminars/ceafel/index.php.en?action=show&amp](https://m.math.tecnico.ulisboa.pt/seminars/ceafel/index.php.en?action=show&amp)|
 |[60728](https://oeis.org/A060728)|[http://ojas.ucok.edu/98/T98/THIENDO.HTM](http://ojas.ucok.edu/98/T98/THIENDO.HTM), [http://www.biochem.okstate.edu/OAS/OJAS/thiendo.htm](http://www.biochem.okstate.edu/OAS/OJAS/thiendo.htm)|
 |[60803](https://oeis.org/A060803)|[http://logic.csci.unt.edu/tarau/research/2009/fISO.pdf](http://logic.csci.unt.edu/tarau/research/2009/fISO.pdf)|
 |[60843](https://oeis.org/A060843)|[http://grail.cba.csuohio.edu/~somos/busy.html](http://grail.cba.csuohio.edu/~somos/busy.html), [http://grail.cba.csuohio.edu/~somos/bb.html](http://grail.cba.csuohio.edu/~somos/bb.html)|
-|[60873](https://oeis.org/A060873)|[http://www.fq.math.ca/Papers1/42-1/quartscala01_2004.pdf](http://www.fq.math.ca/Papers1/42-1/quartscala01_2004.pdf)|
+|[60941](https://oeis.org/A060941)|[http://dmg.tuwien.ac.at/mwallner/files/Dissertation_Wallner.pdf](http://dmg.tuwien.ac.at/mwallner/files/Dissertation_Wallner.pdf)|
 |[60973](https://oeis.org/A060973)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[60995](https://oeis.org/A060995)|[http://www.kalva.demon.co.uk/imo/isoln/isoln796.html](http://www.kalva.demon.co.uk/imo/isoln/isoln796.html)|
 |[61013](https://oeis.org/A061013)|[http://www-bior.sozwi.uni-kl.de/1998/welcome.htm](http://www-bior.sozwi.uni-kl.de/1998/welcome.htm)|
@@ -2033,22 +1924,21 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[61529](https://oeis.org/A061529)|[http://ladybug.xs4all.nl/arlet/puzzles/solutions/contrib/tictactoe.html](http://ladybug.xs4all.nl/arlet/puzzles/solutions/contrib/tictactoe.html)|
 |[61530](https://oeis.org/A061530)|[http://ladybug.xs4all.nl/arlet/puzzles/solutions/contrib/tictactoe.html](http://ladybug.xs4all.nl/arlet/puzzles/solutions/contrib/tictactoe.html)|
 |[61534](https://oeis.org/A061534)|[http://ecs.inria.fr/services/structure?nbr=1056](http://ecs.inria.fr/services/structure?nbr=1056)|
-|[61547](https://oeis.org/A061547)|[http://arXiv.org/abs/math.CO/0204005](http://arXiv.org/abs/math.CO/0204005)|
+|[61554](https://oeis.org/A061554)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[61712](https://oeis.org/A061712)|[http://www.dmg.tuwien.ac.at/drmota/DMRcomp2.pdf](http://www.dmg.tuwien.ac.at/drmota/DMRcomp2.pdf)|
 |[61854](https://oeis.org/A061854)|[http://www.iki.fi/~kartturi/matikka/tab9766.htm](http://www.iki.fi/~kartturi/matikka/tab9766.htm)|
 |[61855](https://oeis.org/A061855)|[http://www.iki.fi/~kartturi/matikka/tab9766.htm](http://www.iki.fi/~kartturi/matikka/tab9766.htm)|
-|[62054](https://oeis.org/A062054)|[http://www.info.uaic.ro/bin/Annals/Article?v=XIII](http://www.info.uaic.ro/bin/Annals/Article?v=XIII)|
 |[62103](https://oeis.org/A062103)|[http://www.iki.fi/~kartturi/shogi/shoogi.htm](http://www.iki.fi/~kartturi/shogi/shoogi.htm)|
 |[62208](https://oeis.org/A062208)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
+|[62361](https://oeis.org/A062361)|[http://math.mit.edu/~poonen/papers/ngon.pdf](http://math.mit.edu/~poonen/papers/ngon.pdf)|
 |[62536](https://oeis.org/A062536)|[http://thesaurus.maths.org/dictionary/map/word/2105](http://thesaurus.maths.org/dictionary/map/word/2105)|
 |[62692](https://oeis.org/A062692)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
 |[62726](https://oeis.org/A062726)|[http://www.wilkiecollins.demon.co.uk/roman/front.htm](http://www.wilkiecollins.demon.co.uk/roman/front.htm)|
 |[62769](https://oeis.org/A062769)|[http://home.earthlink.net/~usondermann/contfrac.html](http://home.earthlink.net/~usondermann/contfrac.html)|
 |[62890](https://oeis.org/A062890)|[http://www.risc.uni-linz.ac.at/research/combinat/risc/publications/#ppaule](http://www.risc.uni-linz.ac.at/research/combinat/risc/publications/#ppaule)|
 |[62980](https://oeis.org/A062980)|[http://ipht.cea.fr/Docspht/articles/t04/086/public/1126-6708_2004_11_031.pdf](http://ipht.cea.fr/Docspht/articles/t04/086/public/1126-6708_2004_11_031.pdf)|
-|[62993](https://oeis.org/A062993)|[http://arXiv.org/abs/math.CO/9802026](http://arXiv.org/abs/math.CO/9802026)|
 |[63170](https://oeis.org/A063170)|[http://dauns.math.tulane.edu/~vhm/papers_html/schenker.pdf](http://dauns.math.tulane.edu/~vhm/papers_html/schenker.pdf)|
 |[63378](https://oeis.org/A063378)|[http://ksc9.th.com/warut/cunningham.html](http://ksc9.th.com/warut/cunningham.html)|
-|[63443](https://oeis.org/A063443)|[https://cs.uwaterloo.ca/journals/JIS/VOL20/Nilsson/nilsson15.html](https://cs.uwaterloo.ca/journals/JIS/VOL20/Nilsson/nilsson15.html)|
 |[63516](https://oeis.org/A063516)|[http://www.reciprocalsystem.com/nbm/index.htm](http://www.reciprocalsystem.com/nbm/index.htm)|
 |[63574](https://oeis.org/A063574)|[http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf](http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf)|
 |[63637](https://oeis.org/A063637)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
@@ -2058,7 +1948,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[63803](https://oeis.org/A063803)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
 |[63804](https://oeis.org/A063804)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
 |[63805](https://oeis.org/A063805)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63834](https://oeis.org/A063834)|[http://www.nafindix.com/math/academic/ComcategoriesandMultiordersv7.pdf](http://www.nafindix.com/math/academic/ComcategoriesandMultiordersv7.pdf), [http://www.nafindix.com/math/academic/catptn02.pdf](http://www.nafindix.com/math/academic/catptn02.pdf)|
 |[63851](https://oeis.org/A063851)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
 |[63852](https://oeis.org/A063852)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
 |[63853](https://oeis.org/A063853)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
@@ -2073,14 +1962,16 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[63862](https://oeis.org/A063862)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
 |[63863](https://oeis.org/A063863)|[http://cst-www.nrl.navy.mil/lattice/struk/a15.html](http://cst-www.nrl.navy.mil/lattice/struk/a15.html)|
 |[63864](https://oeis.org/A063864)|[http://cst-www.nrl.navy.mil/lattice/struk/a15.html](http://cst-www.nrl.navy.mil/lattice/struk/a15.html)|
-|[63882](https://oeis.org/A063882)|[https://cs.uwaterloo.ca/journals/JIS/VOL10/Tanny/tanny3.html](https://cs.uwaterloo.ca/journals/JIS/VOL10/Tanny/tanny3.html)|
 |[63990](https://oeis.org/A063990)|[http://britton.disted.camosun.bc.ca/amicable.html](http://britton.disted.camosun.bc.ca/amicable.html), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://oai.cwi.nl/oai/asset/4143/04143D.pdf](http://oai.cwi.nl/oai/asset/4143/04143D.pdf), [http://www-maths.swan.ac.uk/pgrads/bb/project/node16.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node16.html), [http://nautilus.fis.uc.pt/mn/i_amigos/amigos.swf](http://nautilus.fis.uc.pt/mn/i_amigos/amigos.swf)|
-|[63991](https://oeis.org/A063991)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://amicable.homepage.dk/knwnunap.htm](http://amicable.homepage.dk/knwnunap.htm)|
+|[63991](https://oeis.org/A063991)|[http://amicable.homepage.dk/knwnunap.htm](http://amicable.homepage.dk/knwnunap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[64005](https://oeis.org/A064005)|[http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf](http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf)|
+|[64006](https://oeis.org/A064006)|[http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf](http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf)|
 |[64035](https://oeis.org/A064035)|[http://www.g4g4.com/contentsmmpp.html](http://www.g4g4.com/contentsmmpp.html)|
 |[64172](https://oeis.org/A064172)|[http://smard.cqu.edu.au/Database/Senior/Maths_B/Introduction_to_Functions/Linear_Functions/](http://smard.cqu.edu.au/Database/Senior/Maths_B/Introduction_to_Functions/Linear_Functions/)|
 |[64383](https://oeis.org/A064383)|[http://home.earthlink.net/~jsondow/PrimesAndE.pdf](http://home.earthlink.net/~jsondow/PrimesAndE.pdf)|
 |[64384](https://oeis.org/A064384)|[http://home.earthlink.net/~jsondow/PrimesAndE.pdf](http://home.earthlink.net/~jsondow/PrimesAndE.pdf)|
 |[64513](https://oeis.org/A064513)|[http://maite71.upc.es/grup_de_grafs/grafs/taula_delta_d.html](http://maite71.upc.es/grup_de_grafs/grafs/taula_delta_d.html)|
+|[64640](https://oeis.org/A064640)|[http://www-math.mit.edu/~rstan/ec/catalan.pdf](http://www-math.mit.edu/~rstan/ec/catalan.pdf)|
 |[64764](https://oeis.org/A064764)|[http://home.earthlink.net/~dwasserm/A064764.html](http://home.earthlink.net/~dwasserm/A064764.html)|
 |[64942](https://oeis.org/A064942)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/solutions/March2000.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/solutions/March2000.html)|
 |[65049](https://oeis.org/A065049)|[http://www.csm.astate.edu/~wpaulsen/primemaze/pmaze.html](http://www.csm.astate.edu/~wpaulsen/primemaze/pmaze.html)|
@@ -2099,15 +1990,25 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[66016](https://oeis.org/A066016)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
 |[66017](https://oeis.org/A066017)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
 |[66180](https://oeis.org/A066180)|[http://www.primes.viner-steward.org/andy/titans.html](http://www.primes.viner-steward.org/andy/titans.html)|
+|[66186](https://oeis.org/A066186)|[http://qseries.org/fgarvan/papers/hspt.pdf](http://qseries.org/fgarvan/papers/hspt.pdf)|
 |[66666](https://oeis.org/A066666)|[http://hypo.ge-dip.etat-ge.ch/www/math/gif/reuleauxt.gif](http://hypo.ge-dip.etat-ge.ch/www/math/gif/reuleauxt.gif)|
 |[66674](https://oeis.org/A066674)|[http://eprints.maths.ox.ac.uk/166/](http://eprints.maths.ox.ac.uk/166/)|
-|[66873](https://oeis.org/A066873)|[http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[66873](https://oeis.org/A066873)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm)|
 |[66910](https://oeis.org/A066910)|[http://www.mathforum.com/epigone/sci.math/sazhazhi](http://www.mathforum.com/epigone/sci.math/sazhazhi)|
 |[66947](https://oeis.org/A066947)|[http://webpages.shepherd.edu/amihailo/AbstractAlgebra.html](http://webpages.shepherd.edu/amihailo/AbstractAlgebra.html)|
 |[66997](https://oeis.org/A066997)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[67063](https://oeis.org/A067063)|[http://www.h4.dion.ne.jp/~rep/](http://www.h4.dion.ne.jp/~rep/)|
+|[67151](https://oeis.org/A067151)|[http://math.mit.edu/~poonen/papers/ngon.m](http://math.mit.edu/~poonen/papers/ngon.m)|
+|[67152](https://oeis.org/A067152)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
+|[67156](https://oeis.org/A067156)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
+|[67157](https://oeis.org/A067157)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
+|[67158](https://oeis.org/A067158)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
+|[67159](https://oeis.org/A067159)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
+|[67162](https://oeis.org/A067162)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
+|[67163](https://oeis.org/A067163)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
+|[67164](https://oeis.org/A067164)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
+|[67165](https://oeis.org/A067165)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
 |[67318](https://oeis.org/A067318)|[http://209.196.11.38/hnh.html](http://209.196.11.38/hnh.html)|
-|[67636](https://oeis.org/A067636)|[http://arXiv.org/abs/math-ph/0102015](http://arXiv.org/abs/math-ph/0102015)|
 |[67699](https://oeis.org/A067699)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[67769](https://oeis.org/A067769)|[http://www.maik.rssi.ru/contents/cryst/cryst1_1v46cont.htm](http://www.maik.rssi.ru/contents/cryst/cryst1_1v46cont.htm)|
 |[68072](https://oeis.org/A068072)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
@@ -2117,26 +2018,27 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[68652](https://oeis.org/A068652)|[http://www.magic-squares.net/primes.htm#Circular](http://www.magic-squares.net/primes.htm#Circular)|
 |[69038](https://oeis.org/A069038)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html), [http://www.magicdragon.com/math.html](http://www.magicdragon.com/math.html)|
 |[69125](https://oeis.org/A069125)|[http://www.members.fortunecity.fr/polynexus/index.html](http://www.members.fortunecity.fr/polynexus/index.html)|
+|[69271](https://oeis.org/A069271)|[http://hdl.handle.net/10019.1/107091](http://hdl.handle.net/10019.1/107091)|
 |[69646](https://oeis.org/A069646)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[69769](https://oeis.org/A069769)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[69771](https://oeis.org/A069771)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[69772](https://oeis.org/A069772)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[69771](https://oeis.org/A069771)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm), [http://www-math.mit.edu/~rstan/ec/catalan.pdf](http://www-math.mit.edu/~rstan/ec/catalan.pdf)|
+|[69772](https://oeis.org/A069772)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm), [http://www-math.mit.edu/~rstan/ec/catalan.pdf](http://www-math.mit.edu/~rstan/ec/catalan.pdf)|
 |[69773](https://oeis.org/A069773)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[69774](https://oeis.org/A069774)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[69775](https://oeis.org/A069775)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[69776](https://oeis.org/A069776)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[69787](https://oeis.org/A069787)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[69888](https://oeis.org/A069888)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[69889](https://oeis.org/A069889)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[69888](https://oeis.org/A069888)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm), [http://www-math.mit.edu/~rstan/ec/catalan.pdf](http://www-math.mit.edu/~rstan/ec/catalan.pdf)|
+|[69889](https://oeis.org/A069889)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm), [http://www-math.mit.edu/~rstan/ec/catalan.pdf](http://www-math.mit.edu/~rstan/ec/catalan.pdf)|
 |[69906](https://oeis.org/A069906)|[http://www.risc.uni-linz.ac.at/research/combinat/risc/publications/#ppaule](http://www.risc.uni-linz.ac.at/research/combinat/risc/publications/#ppaule)|
-|[69918](https://oeis.org/A069918)|[http://www.math.niu.edu/~rusin/known-math/98/partitions](http://www.math.niu.edu/~rusin/known-math/98/partitions)|
 |[69981](https://oeis.org/A069981)|[http://www.risc.uni-linz.ac.at/research/combinat/risc/publications/#ppaule](http://www.risc.uni-linz.ac.at/research/combinat/risc/publications/#ppaule)|
 |[70041](https://oeis.org/A070041)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[70914](https://oeis.org/A070914)|[http://www.math.uakron.edu/~cossey/636papers/hilton%20and%20pedersen.pdf](http://www.math.uakron.edu/~cossey/636papers/hilton%20and%20pedersen.pdf)|
 |[71153](https://oeis.org/A071153)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[71155](https://oeis.org/A071155)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[71157](https://oeis.org/A071157)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[71160](https://oeis.org/A071160)|[http://www2.bc.edu/~lewbel/jugweb/science-1.html](http://www2.bc.edu/~lewbel/jugweb/science-1.html), [http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[71160](https://oeis.org/A071160)|[http://www2.bc.edu/~lewbel/jugweb/science-1.html](http://www2.bc.edu/~lewbel/jugweb/science-1.html), [http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm), [http://www-math.mit.edu/~rstan/papers.html](http://www-math.mit.edu/~rstan/papers.html)|
+|[71356](https://oeis.org/A071356)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[71608](https://oeis.org/A071608)|[http://turing.csie.ntu.edu.tw/~arping/cm](http://turing.csie.ntu.edu.tw/~arping/cm)|
 |[71655](https://oeis.org/A071655)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[71656](https://oeis.org/A071656)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2197,7 +2099,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[72787](https://oeis.org/A072787)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72788](https://oeis.org/A072788)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72798](https://oeis.org/A072798)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[72826](https://oeis.org/A072826)|[https://www.parabola.unsw.edu.au/files/articles/2010-2019/volume-54-2018/issue-3/vol54_no3_4.pdf](https://www.parabola.unsw.edu.au/files/articles/2010-2019/volume-54-2018/issue-3/vol54_no3_4.pdf)|
 |[73121](https://oeis.org/A073121)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[73194](https://oeis.org/A073194)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[73195](https://oeis.org/A073195)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2237,6 +2138,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[73639](https://oeis.org/A073639)|[http://wwwmaths.anu.edu.au/~brent/trinom-old.html](http://wwwmaths.anu.edu.au/~brent/trinom-old.html), [http://wwwmaths.anu.edu.au/~brent/pd/rpb199.pdf](http://wwwmaths.anu.edu.au/~brent/pd/rpb199.pdf)|
 |[73849](https://oeis.org/A073849)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[73850](https://oeis.org/A073850)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[74664](https://oeis.org/A074664)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[74681](https://oeis.org/A074681)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[74682](https://oeis.org/A074682)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[74685](https://oeis.org/A074685)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2277,7 +2179,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[76710](https://oeis.org/A076710)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[76741](https://oeis.org/A076741)|[http://roland.zumkeller.googlepages.com/thesis.html](http://roland.zumkeller.googlepages.com/thesis.html)|
 |[76765](https://oeis.org/A076765)|[http://lita.sciences.univ-metz.fr/~margens/](http://lita.sciences.univ-metz.fr/~margens/)|
-|[76806](https://oeis.org/A076806)|[http://groups.yahoo.com/group/primenumbers/message/9836](http://groups.yahoo.com/group/primenumbers/message/9836)|
 |[76965](https://oeis.org/A076965)|[http://forums.xkcd.com/viewtopic.php?f=17&amp](http://forums.xkcd.com/viewtopic.php?f=17&amp)|
 |[77028](https://oeis.org/A077028)|[http://digital.ipcprintservices.com/display_article.php?id=647987](http://digital.ipcprintservices.com/display_article.php?id=647987)|
 |[77071](https://oeis.org/A077071)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
@@ -2288,15 +2189,16 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[77443](https://oeis.org/A077443)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
 |[77445](https://oeis.org/A077445)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
 |[77447](https://oeis.org/A077447)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
-|[77450](https://oeis.org/A077450)|[http://arXiv.org/abs/cond-mat/0008178](http://arXiv.org/abs/cond-mat/0008178)|
 |[77462](https://oeis.org/A077462)|[https://washingtonart.net/whealton/PFCN.html](https://washingtonart.net/whealton/PFCN.html)|
+|[78391](https://oeis.org/A078391)|[http://www-math.mit.edu/~rstan/ec/catadd.pdf](http://www-math.mit.edu/~rstan/ec/catadd.pdf)|
+|[78588](https://oeis.org/A078588)|[http://www-math.mit.edu/~tchow/cv.html](http://www-math.mit.edu/~tchow/cv.html)|
 |[78881](https://oeis.org/A078881)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[78903](https://oeis.org/A078903)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[78920](https://oeis.org/A078920)|[http://grail.cba.csuohio.edu/~somos/nwic.html](http://grail.cba.csuohio.edu/~somos/nwic.html)|
+|[78993](https://oeis.org/A078993)|[http://www-math.mit.edu/~rstan/transparencies/iap.pdf](http://www-math.mit.edu/~rstan/transparencies/iap.pdf)|
 |[79000](https://oeis.org/A079000)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[79101](https://oeis.org/A079101)|[http://comunidad.ciudad.com.ar/argentina/buenos_aires/avd/subsub.html](http://comunidad.ciudad.com.ar/argentina/buenos_aires/avd/subsub.html)|
 |[79124](https://oeis.org/A079124)|[http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf](http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf)|
-|[79144](https://oeis.org/A079144)|[http://arXiv.org/abs/1111.6766](http://arXiv.org/abs/1111.6766)|
 |[79171](https://oeis.org/A079171)|[http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml](http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml)|
 |[79172](https://oeis.org/A079172)|[http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml](http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml)|
 |[79173](https://oeis.org/A079173)|[http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml](http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml)|
@@ -2328,46 +2230,15 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[79205](https://oeis.org/A079205)|[http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml](http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml)|
 |[79206](https://oeis.org/A079206)|[http://www.contestcen.edu/digits.htm](http://www.contestcen.edu/digits.htm)|
 |[79209](https://oeis.org/A079209)|[http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml](http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml)|
-|[79250](https://oeis.org/A079250)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[79252](https://oeis.org/A079252)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[79253](https://oeis.org/A079253)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[79254](https://oeis.org/A079254)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[79255](https://oeis.org/A079255)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[79256](https://oeis.org/A079256)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[79257](https://oeis.org/A079257)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[79258](https://oeis.org/A079258)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[79259](https://oeis.org/A079259)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
+|[79253](https://oeis.org/A079253)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[79265](https://oeis.org/A079265)|[http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html](http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html)|
-|[79313](https://oeis.org/A079313)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[79325](https://oeis.org/A079325)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[79351](https://oeis.org/A079351)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[79358](https://oeis.org/A079358)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
 |[79438](https://oeis.org/A079438)|[http://www-cs-staff.Stanford.EDU/~knuth/fasc4a.ps.gz](http://www-cs-staff.Stanford.EDU/~knuth/fasc4a.ps.gz)|
-|[79484](https://oeis.org/A079484)|[http://arXiv.org/abs/math.RA/0003072](http://arXiv.org/abs/math.RA/0003072)|
 |[79583](https://oeis.org/A079583)|[http://www.inf.kcl.ac.uk/pg/pississo/approx_covers.pdf](http://www.inf.kcl.ac.uk/pg/pississo/approx_covers.pdf)|
-|[79618](https://oeis.org/A079618)|[http://arXiv.org/abs/math.GM/0702605](http://arXiv.org/abs/math.GM/0702605)|
 |[79708](https://oeis.org/A079708)|[http://willnicholes.com/metaprimes.htm](http://willnicholes.com/metaprimes.htm)|
 |[79731](https://oeis.org/A079731)|[http://www.izzy.net/~jc/PSTInfo/Temper.html](http://www.izzy.net/~jc/PSTInfo/Temper.html)|
 |[79734](https://oeis.org/A079734)|[https://kylejfox.com/publications/fibsum.pdf](https://kylejfox.com/publications/fibsum.pdf)|
 |[79905](https://oeis.org/A079905)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[79921](https://oeis.org/A079921)|[http://arXiv.org/abs/math.CO/0205206](http://arXiv.org/abs/math.CO/0205206)|
 |[79945](https://oeis.org/A079945)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[79967](https://oeis.org/A079967)|[http://arXiv.org/abs/math.CO/0603285](http://arXiv.org/abs/math.CO/0603285)|
-|[80030](https://oeis.org/A080030)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80031](https://oeis.org/A080031)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80032](https://oeis.org/A080032)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80033](https://oeis.org/A080033)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80034](https://oeis.org/A080034)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80081](https://oeis.org/A080081)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80199](https://oeis.org/A080199)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80205](https://oeis.org/A080205)|[http://arXiv.org/abs/math.NT/0301264](http://arXiv.org/abs/math.NT/0301264)|
-|[80219](https://oeis.org/A080219)|[http://arXiv.org/abs/math.NT/0406300](http://arXiv.org/abs/math.NT/0406300)|
-|[80353](https://oeis.org/A080353)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80359](https://oeis.org/A080359)|[http://arXiv.org/abs/0908.2319](http://arXiv.org/abs/0908.2319)|
-|[80455](https://oeis.org/A080455)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80456](https://oeis.org/A080456)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80457](https://oeis.org/A080457)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80460](https://oeis.org/A080460)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
 |[80477](https://oeis.org/A080477)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[80529](https://oeis.org/A080529)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80530](https://oeis.org/A080530)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
@@ -2381,76 +2252,35 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[80538](https://oeis.org/A080538)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80539](https://oeis.org/A080539)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80540](https://oeis.org/A080540)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
-|[80574](https://oeis.org/A080574)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80579](https://oeis.org/A080579)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80580](https://oeis.org/A080580)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80589](https://oeis.org/A080589)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80590](https://oeis.org/A080590)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80591](https://oeis.org/A080591)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
 |[80596](https://oeis.org/A080596)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[80600](https://oeis.org/A080600)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
 |[80611](https://oeis.org/A080611)|[http://www.timehorse.com/](http://www.timehorse.com/)|
-|[80633](https://oeis.org/A080633)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80635](https://oeis.org/A080635)|[http://puma.dimai.unifi.it/22_2/jones_remmel.pdf](http://puma.dimai.unifi.it/22_2/jones_remmel.pdf)|
+|[80635](https://oeis.org/A080635)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://puma.dimai.unifi.it/22_2/jones_remmel.pdf](http://puma.dimai.unifi.it/22_2/jones_remmel.pdf)|
 |[80637](https://oeis.org/A080637)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[80639](https://oeis.org/A080639)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[80640](https://oeis.org/A080640)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80641](https://oeis.org/A080641)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80644](https://oeis.org/A080644)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80645](https://oeis.org/A080645)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[80646](https://oeis.org/A080646)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80653](https://oeis.org/A080653)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[80639](https://oeis.org/A080639)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[80645](https://oeis.org/A080645)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[80653](https://oeis.org/A080653)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[80678](https://oeis.org/A080678)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[80702](https://oeis.org/A080702)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[80707](https://oeis.org/A080707)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80708](https://oeis.org/A080708)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80710](https://oeis.org/A080710)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80711](https://oeis.org/A080711)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80712](https://oeis.org/A080712)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80714](https://oeis.org/A080714)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80720](https://oeis.org/A080720)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80721](https://oeis.org/A080721)|[http://arXiv.org/abs/math/0104151](http://arXiv.org/abs/math/0104151)|
 |[80722](https://oeis.org/A080722)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[80723](https://oeis.org/A080723)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[80724](https://oeis.org/A080724)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[80725](https://oeis.org/A080725)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80726](https://oeis.org/A080726)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[80727](https://oeis.org/A080727)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[80728](https://oeis.org/A080728)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80731](https://oeis.org/A080731)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80745](https://oeis.org/A080745)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80746](https://oeis.org/A080746)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80752](https://oeis.org/A080752)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80753](https://oeis.org/A080753)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80759](https://oeis.org/A080759)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80760](https://oeis.org/A080760)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
+|[80723](https://oeis.org/A080723)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[80724](https://oeis.org/A080724)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[80726](https://oeis.org/A080726)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[80727](https://oeis.org/A080727)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[80762](https://oeis.org/A080762)|[http://tnt.math.se.tmu.ac.jp/simath/MORDELL/](http://tnt.math.se.tmu.ac.jp/simath/MORDELL/)|
 |[80776](https://oeis.org/A080776)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[80780](https://oeis.org/A080780)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
 |[80827](https://oeis.org/A080827)|[http://pareonline.net/getvn.asp?v=18&amp](http://pareonline.net/getvn.asp?v=18&amp)|
-|[80838](https://oeis.org/A080838)|[http://arXiv.org/abs/math.CO/0303317](http://arXiv.org/abs/math.CO/0303317)|
-|[80901](https://oeis.org/A080901)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80903](https://oeis.org/A080903)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80904](https://oeis.org/A080904)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
 |[80915](https://oeis.org/A080915)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80916](https://oeis.org/A080916)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80937](https://oeis.org/A080937)|[http://dx.doi.org/10.1364/OE.22.004499](http://dx.doi.org/10.1364/OE.22.004499)|
-|[80939](https://oeis.org/A080939)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[80949](https://oeis.org/A080949)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
 |[80953](https://oeis.org/A080953)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[80979](https://oeis.org/A080979)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[81023](https://oeis.org/A081023)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[81024](https://oeis.org/A081024)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
 |[81134](https://oeis.org/A081134)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[81174](https://oeis.org/A081174)|[http://arXiv.org/abs/math.NT/0111212](http://arXiv.org/abs/math.NT/0111212)|
 |[81225](https://oeis.org/A081225)|[http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf](http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf)|
 |[81226](https://oeis.org/A081226)|[http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf](http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf)|
-|[81260](https://oeis.org/A081260)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[81358](https://oeis.org/A081358)|[http://arXiv.org/abs/math.HO/0004188](http://arXiv.org/abs/math.HO/0004188)|
 |[81876](https://oeis.org/A081876)|[http://harry-j-smith-memorial.com/Pi/](http://harry-j-smith-memorial.com/Pi/)|
 |[82007](https://oeis.org/A082007)|[http://www.tiac.net/~sw/2009/10/Clumpy_heapsort/](http://www.tiac.net/~sw/2009/10/Clumpy_heapsort/)|
 |[82008](https://oeis.org/A082008)|[http://www.tiac.net/~sw/2009/10/Clumpy_heapsort](http://www.tiac.net/~sw/2009/10/Clumpy_heapsort), [http://www.tiac.net/~sw/2009/10/Clumpy_heapsort/](http://www.tiac.net/~sw/2009/10/Clumpy_heapsort/)|
-|[82125](https://oeis.org/A082125)|[http://arXiv.org/abs/math.CO/0305348](http://arXiv.org/abs/math.CO/0305348)|
+|[82298](https://oeis.org/A082298)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[82315](https://oeis.org/A082315)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[82316](https://oeis.org/A082316)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[82327](https://oeis.org/A082327)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2475,16 +2305,15 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[82362](https://oeis.org/A082362)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[82363](https://oeis.org/A082363)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[82364](https://oeis.org/A082364)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[82380](https://oeis.org/A082380)|[http://arXiv.org/abs/math.CO/0304095](http://arXiv.org/abs/math.CO/0304095)|
+|[82647](https://oeis.org/A082647)|[http://kskedlaya.org/putnam-archive/2015.pdf](http://kskedlaya.org/putnam-archive/2015.pdf)|
 |[82654](https://oeis.org/A082654)|[http://dspace.opu.ua/jspui/bitstream/123456789/7943/1/240-247.pdf](http://dspace.opu.ua/jspui/bitstream/123456789/7943/1/240-247.pdf)|
-|[82679](https://oeis.org/A082679)|[http://arXiv.org/abs/math.CO/9801016](http://arXiv.org/abs/math.CO/9801016)|
+|[82844](https://oeis.org/A082844)|[https://kskedlaya.org/putnam-archive/2020s.pdf](https://kskedlaya.org/putnam-archive/2020s.pdf)|
 |[82856](https://oeis.org/A082856)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
 |[82857](https://oeis.org/A082857)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
 |[82858](https://oeis.org/A082858)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
 |[82859](https://oeis.org/A082859)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
 |[82860](https://oeis.org/A082860)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
 |[82861](https://oeis.org/A082861)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
-|[82970](https://oeis.org/A082970)|[http://arXiv.org/abs/math.CO/0105073](http://arXiv.org/abs/math.CO/0105073)|
 |[82976](https://oeis.org/A082976)|[http://highway55.library.yale.edu/PHOTONEGIMG/zoom/Z362/z3624231.jpg](http://highway55.library.yale.edu/PHOTONEGIMG/zoom/Z362/z3624231.jpg)|
 |[82977](https://oeis.org/A082977)|[http://highway55.library.yale.edu/PHOTONEGIMG/zoom/Z362/z3624231.jpg](http://highway55.library.yale.edu/PHOTONEGIMG/zoom/Z362/z3624231.jpg)|
 |[83038](https://oeis.org/A083038)|[http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt2fractal.jpg](http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt2fractal.jpg)|
@@ -2493,37 +2322,17 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[83056](https://oeis.org/A083056)|[http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt3fractal.jpg](http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt3fractal.jpg)|
 |[83057](https://oeis.org/A083057)|[http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt3fractal.jpg](http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt3fractal.jpg)|
 |[83340](https://oeis.org/A083340)|[http://cado-nfs.gforge.inria.fr/](http://cado-nfs.gforge.inria.fr/)|
-|[83349](https://oeis.org/A083349)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
-|[83350](https://oeis.org/A083350)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
-|[83355](https://oeis.org/A083355)|[http://arXiv.org/abs/quant-ph/0312202](http://arXiv.org/abs/quant-ph/0312202)|
-|[83385](https://oeis.org/A083385)|[http://arXiv.org/abs/math.CO/0307064](http://arXiv.org/abs/math.CO/0307064)|
+|[83343](https://oeis.org/A083343)|[https://doi.org/10.1112/jlms/s1-2.4.210](https://doi.org/10.1112/jlms/s1-2.4.210)|
 |[83386](https://oeis.org/A083386)|[http://mathematik.htwm.de/software/gedit/index.html.en](http://mathematik.htwm.de/software/gedit/index.html.en)|
-|[83488](https://oeis.org/A083488)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
 |[83652](https://oeis.org/A083652)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[83844](https://oeis.org/A083844)|[http://arXiv.org/abs/0803.1456](http://arXiv.org/abs/0803.1456)|
+|[83737](https://oeis.org/A083737)|[http://www.mathe-schule.de/download/pdf/Primzahl/PSP.pdf](http://www.mathe-schule.de/download/pdf/Primzahl/PSP.pdf)|
 |[83886](https://oeis.org/A083886)|[http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf](http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf)|
-|[83905](https://oeis.org/A083905)|[http://arXiv.org/abs/math.CO/0307027](http://arXiv.org/abs/math.CO/0307027)|
 |[83927](https://oeis.org/A083927)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[83928](https://oeis.org/A083928)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[83945](https://oeis.org/A083945)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
-|[83946](https://oeis.org/A083946)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
-|[83952](https://oeis.org/A083952)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
-|[83953](https://oeis.org/A083953)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
-|[83954](https://oeis.org/A083954)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
-|[84203](https://oeis.org/A084203)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
-|[84249](https://oeis.org/A084249)|[http://arXiv.org/abs/math.CO/9808080](http://arXiv.org/abs/math.CO/9808080)|
-|[84357](https://oeis.org/A084357)|[http://arXiv.org/abs/quant-ph/0312202](http://arXiv.org/abs/quant-ph/0312202), [http://arXiv.org/abs/quant-ph/0312202](http://arXiv.org/abs/quant-ph/0312202), [http://arXiv.org/abs/math.CO/0307064](http://arXiv.org/abs/math.CO/0307064)|
-|[84358](https://oeis.org/A084358)|[http://arXiv.org/abs/math.CO/0307064](http://arXiv.org/abs/math.CO/0307064)|
-|[84362](https://oeis.org/A084362)|[http://arXiv.org/abs/math.CO/0307064](http://arXiv.org/abs/math.CO/0307064)|
-|[84477](https://oeis.org/A084477)|[http://arXiv.org/abs/math.CO/0610925](http://arXiv.org/abs/math.CO/0610925), [http://arXiv.org/abs/math.CO/9905012](http://arXiv.org/abs/math.CO/9905012)|
-|[84480](https://oeis.org/A084480)|[http://arXiv.org/abs/math.CO/9905012](http://arXiv.org/abs/math.CO/9905012)|
-|[84481](https://oeis.org/A084481)|[http://arXiv.org/abs/math.CO/9905012](http://arXiv.org/abs/math.CO/9905012)|
-|[84535](https://oeis.org/A084535)|[http://arXiv.org/abs/math/0107159](http://arXiv.org/abs/math/0107159)|
 |[84554](https://oeis.org/A084554)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[84575](https://oeis.org/A084575)|[http://arXiv.org/abs/math.CO/0301048](http://arXiv.org/abs/math.CO/0301048)|
-|[84793](https://oeis.org/A084793)|[http://www.arXiv.org/abs/math/0305305](http://www.arXiv.org/abs/math/0305305)|
 |[84825](https://oeis.org/A084825)|[https://home.comcast.net/~davejanelle/packing.html](https://home.comcast.net/~davejanelle/packing.html)|
 |[84828](https://oeis.org/A084828)|[https://home.comcast.net/~davejanelle/packing.html](https://home.comcast.net/~davejanelle/packing.html)|
+|[84849](https://oeis.org/A084849)|[http://repository.wit.ie/1693](http://repository.wit.ie/1693)|
 |[84975](https://oeis.org/A084975)|[http://harry-j-smith-memorial.com/PrimeSR/](http://harry-j-smith-memorial.com/PrimeSR/)|
 |[84976](https://oeis.org/A084976)|[http://harry-j-smith-memorial.com/PrimeSR/](http://harry-j-smith-memorial.com/PrimeSR/)|
 |[84977](https://oeis.org/A084977)|[http://harry-j-smith-memorial.com/PrimeSR/](http://harry-j-smith-memorial.com/PrimeSR/)|
@@ -2543,12 +2352,9 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[85174](https://oeis.org/A085174)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[85175](https://oeis.org/A085175)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[85283](https://oeis.org/A085283)|[http://206.21.170.2/csci180/99f/projects/project1.html](http://206.21.170.2/csci180/99f/projects/project1.html)|
-|[85458](https://oeis.org/A085458)|[https://doi.org/10.48550/arXiv.2003.04912](https://doi.org/10.48550/arXiv.2003.04912)|
-|[85506](https://oeis.org/A085506)|[http://arXiv.org/abs/math.CO/0310423](http://arXiv.org/abs/math.CO/0310423)|
-|[85517](https://oeis.org/A085517)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
-|[85583](https://oeis.org/A085583)|[http://arXiv.org/abs/math.CO/0307050](http://arXiv.org/abs/math.CO/0307050)|
-|[85584](https://oeis.org/A085584)|[http://arXiv.org/abs/math.CO/0307050](http://arXiv.org/abs/math.CO/0307050)|
 |[85628](https://oeis.org/A085628)|[http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html](http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html)|
+|[85639](https://oeis.org/A085639)|[http://www.bdim.eu/item?id=BUMI_1953_3_8_3_269_0](http://www.bdim.eu/item?id=BUMI_1953_3_8_3_269_0)|
+|[85906](https://oeis.org/A085906)|[http://www.bdim.eu/item?id=BUMI_1953_3_8_3_269_0](http://www.bdim.eu/item?id=BUMI_1953_3_8_3_269_0)|
 |[86113](https://oeis.org/A086113)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html)|
 |[86114](https://oeis.org/A086114)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html)|
 |[86115](https://oeis.org/A086115)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html)|
@@ -2565,73 +2371,28 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[86431](https://oeis.org/A086431)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[86433](https://oeis.org/A086433)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[86434](https://oeis.org/A086434)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[86581](https://oeis.org/A086581)|[http://arXiv.org/abs/math.CO/0110039](http://arXiv.org/abs/math.CO/0110039)|
 |[86747](https://oeis.org/A086747)|[http://oai.cwi.nl/oai/asset/21313/21313A.pdf](http://oai.cwi.nl/oai/asset/21313/21313A.pdf)|
 |[86792](https://oeis.org/A086792)|[http://java.ugent.be/~tdemedts/leinster/](http://java.ugent.be/~tdemedts/leinster/)|
+|[86811](https://oeis.org/A086811)|[http://www.bdim.eu/item?id=BUMI_1953_3_8_3_269_0](http://www.bdim.eu/item?id=BUMI_1953_3_8_3_269_0)|
 |[86839](https://oeis.org/A086839)|[http://web.syr.edu/~rsholmes/games/cellaut/r90.html](http://web.syr.edu/~rsholmes/games/cellaut/r90.html)|
-|[86892](https://oeis.org/A086892)|[http://arXiv.org/abs/math/0202102](http://arXiv.org/abs/math/0202102)|
-|[87132](https://oeis.org/A087132)|[http://arXiv.org/abs/math.CO/0606370](http://arXiv.org/abs/math.CO/0606370)|
-|[87451](https://oeis.org/A087451)|[http://arXiv.org/abs/math.NT/0204173](http://arXiv.org/abs/math.NT/0204173)|
 |[87613](https://oeis.org/A087613)|[http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf](http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf)|
 |[87614](https://oeis.org/A087614)|[http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf](http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf)|
 |[87615](https://oeis.org/A087615)|[http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf](http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf)|
 |[87616](https://oeis.org/A087616)|[http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf](http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf)|
-|[87692](https://oeis.org/A087692)|[http://arXiv.org/abs/math.NT/0604465](http://arXiv.org/abs/math.NT/0604465)|
 |[87733](https://oeis.org/A087733)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[87735](https://oeis.org/A087735)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://134.76.163.65/servlet/digbib?template=view.html&amp](http://134.76.163.65/servlet/digbib?template=view.html&amp), [http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp](http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp)|
+|[87735](https://oeis.org/A087735)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp](http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp), [http://134.76.163.65/servlet/digbib?template=view.html&amp](http://134.76.163.65/servlet/digbib?template=view.html&amp)|
 |[87788](https://oeis.org/A087788)|[http://eprints.maths.ox.ac.uk/680/1/carmichael.pdf](http://eprints.maths.ox.ac.uk/680/1/carmichael.pdf)|
 |[87911](https://oeis.org/A087911)|[http://free.pages.at/neuenkirchen/palindrom/](http://free.pages.at/neuenkirchen/palindrom/)|
 |[88164](https://oeis.org/A088164)|[http://imperator.usc.edu/~bruck/research/stirling/](http://imperator.usc.edu/~bruck/research/stirling/)|
-|[88430](https://oeis.org/A088430)|[http://arXiv.org/abs/math.NT/0404188](http://arXiv.org/abs/math.NT/0404188)|
-|[88532](https://oeis.org/A088532)|[http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf](http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf), [http://arXiv.org/abs/math.CO/0404181](http://arXiv.org/abs/math.CO/0404181)|
+|[88532](https://oeis.org/A088532)|[http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf](http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf)|
 |[88720](https://oeis.org/A088720)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[88848](https://oeis.org/A088848)|[http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt), [http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt)|
-|[88849](https://oeis.org/A088849)|[http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt), [http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt)|
-|[88896](https://oeis.org/A088896)|[http://issc.rau.ac.za/appliedmaths/tgw3a/png/tgw3a6s.html](http://issc.rau.ac.za/appliedmaths/tgw3a/png/tgw3a6s.html), [http://math.knox.edu/puzzles/Catalog-Old/current_puzzle.html](http://math.knox.edu/puzzles/Catalog-Old/current_puzzle.html)|
-|[88921](https://oeis.org/A088921)|[http://arXiv.org/abs/math.CO/0210014](http://arXiv.org/abs/math.CO/0210014)|
-|[88931](https://oeis.org/A088931)|[http://arXiv.org/abs/math.CO/0312418](http://arXiv.org/abs/math.CO/0312418)|
-|[88954](https://oeis.org/A088954)|[http://arXiv.org/abs/math.CO/0312418](http://arXiv.org/abs/math.CO/0312418)|
+|[88848](https://oeis.org/A088848)|[http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt), [http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt)|
+|[88849](https://oeis.org/A088849)|[http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt), [http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt)|
+|[88896](https://oeis.org/A088896)|[http://issc.rau.ac.za/appliedmaths/tgw3a/png/tgw3a6s.html](http://issc.rau.ac.za/appliedmaths/tgw3a/png/tgw3a6s.html)|
 |[88972](https://oeis.org/A088972)|[http://home.earthlink.net/~dwasserm/Polyforms/ColoredPolyominoes.html](http://home.earthlink.net/~dwasserm/Polyforms/ColoredPolyominoes.html)|
-|[89089](https://oeis.org/A089089)|[http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205)|
-|[89092](https://oeis.org/A089092)|[http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205)|
-|[89093](https://oeis.org/A089093)|[http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205)|
-|[89096](https://oeis.org/A089096)|[http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205)|
-|[89097](https://oeis.org/A089097)|[http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205)|
-|[89098](https://oeis.org/A089098)|[http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205)|
-|[89102](https://oeis.org/A089102)|[http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205)|
-|[89106](https://oeis.org/A089106)|[http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205)|
-|[89107](https://oeis.org/A089107)|[http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205)|
-|[89108](https://oeis.org/A089108)|[https://arXiv.org/abs/math.CO/0311205](https://arXiv.org/abs/math.CO/0311205)|
-|[89109](https://oeis.org/A089109)|[http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205)|
-|[89113](https://oeis.org/A089113)|[http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205)|
-|[89114](https://oeis.org/A089114)|[http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205)|
-|[89117](https://oeis.org/A089117)|[http://arXiv.org/abs/math.CO/0311205](http://arXiv.org/abs/math.CO/0311205)|
 |[89162](https://oeis.org/A089162)|[http://wwwmaths.anu.edu.au/~brent/pub/pub067.html](http://wwwmaths.anu.edu.au/~brent/pub/pub067.html)|
-|[89177](https://oeis.org/A089177)|[http://arXiv.org/abs/math.CO/0312418](http://arXiv.org/abs/math.CO/0312418)|
-|[89178](https://oeis.org/A089178)|[http://arXiv.org/abs/math.CO/0312418](http://arXiv.org/abs/math.CO/0312418)|
-|[89198](https://oeis.org/A089198)|[http://arXiv.org/abs/math.CO/0312418](http://arXiv.org/abs/math.CO/0312418)|
-|[89239](https://oeis.org/A089239)|[http://arXiv.org/abs/math.CO/0312418](http://arXiv.org/abs/math.CO/0312418)|
-|[89240](https://oeis.org/A089240)|[http://arXiv.org/abs/math.CO/0312418](http://arXiv.org/abs/math.CO/0312418)|
-|[89264](https://oeis.org/A089264)|[http://arXiv.org/abs/math.CO/0012029](http://arXiv.org/abs/math.CO/0012029)|
-|[89267](https://oeis.org/A089267)|[http://arXiv.org/abs/math.NT/0008221](http://arXiv.org/abs/math.NT/0008221)|
-|[89300](https://oeis.org/A089300)|[http://arXiv.org/abs/math.CO/0312418](http://arXiv.org/abs/math.CO/0312418)|
-|[89378](https://oeis.org/A089378)|[http://arXiv.org/abs/math.CO/0307064](http://arXiv.org/abs/math.CO/0307064)|
-|[89472](https://oeis.org/A089472)|[http://arXiv.org/abs/math.CO/0401179](http://arXiv.org/abs/math.CO/0401179)|
-|[89518](https://oeis.org/A089518)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
-|[89519](https://oeis.org/A089519)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
-|[89829](https://oeis.org/A089829)|[http://www.radiantprimes.com/](http://www.radiantprimes.com/)|
-|[89830](https://oeis.org/A089830)|[http://arXiv.org/abs/math.CO/0112281](http://arXiv.org/abs/math.CO/0112281)|
-|[89932](https://oeis.org/A089932)|[http://arXiv.org/abs/math.CO/0112281](http://arXiv.org/abs/math.CO/0112281)|
-|[89947](https://oeis.org/A089947)|[http://arXiv.org/abs/math.CO/0112281](http://arXiv.org/abs/math.CO/0112281)|
 |[89955](https://oeis.org/A089955)|[http://home.mindspring.com/~kikiriki/id0.html](http://home.mindspring.com/~kikiriki/id0.html)|
-|[90045](https://oeis.org/A090045)|[http://arXiv.org/abs/hep-th/0002240](http://arXiv.org/abs/hep-th/0002240)|
-|[90209](https://oeis.org/A090209)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
-|[90210](https://oeis.org/A090210)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
-|[90211](https://oeis.org/A090211)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
-|[90212](https://oeis.org/A090212)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
-|[90213](https://oeis.org/A090213)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
-|[90214](https://oeis.org/A090214)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
-|[90216](https://oeis.org/A090216)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
+|[90181](https://oeis.org/A090181)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[90245](https://oeis.org/A090245)|[http://www.math.yorku.ca/~zabrocki/set/joyofset.pdf](http://www.math.yorku.ca/~zabrocki/set/joyofset.pdf)|
 |[90246](https://oeis.org/A090246)|[http://galileo.stmarys-ca.edu/bdavis/set.pdf](http://galileo.stmarys-ca.edu/bdavis/set.pdf)|
 |[90277](https://oeis.org/A090277)|[http://www.usna.edu/Users/math/wdj/book/node158.html](http://www.usna.edu/Users/math/wdj/book/node158.html)|
@@ -2642,189 +2403,74 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[90282](https://oeis.org/A090282)|[http://www.usna.edu/Users/math/wdj/book/node158.html](http://www.usna.edu/Users/math/wdj/book/node158.html)|
 |[90283](https://oeis.org/A090283)|[http://www.usna.edu/Users/math/wdj/book/node158.html](http://www.usna.edu/Users/math/wdj/book/node158.html)|
 |[90284](https://oeis.org/A090284)|[http://www.usna.edu/Users/math/wdj/book/node158.html](http://www.usna.edu/Users/math/wdj/book/node158.html)|
-|[90381](https://oeis.org/A090381)|[http://arXiv.org/abs/math.CO/0401175](http://arXiv.org/abs/math.CO/0401175)|
-|[90382](https://oeis.org/A090382)|[http://arXiv.org/abs/math.CO/0401175](http://arXiv.org/abs/math.CO/0401175)|
-|[90383](https://oeis.org/A090383)|[http://arXiv.org/abs/math.CO/0401175](http://arXiv.org/abs/math.CO/0401175)|
-|[90384](https://oeis.org/A090384)|[http://arXiv.org/abs/math.CO/0401175](http://arXiv.org/abs/math.CO/0401175)|
-|[90385](https://oeis.org/A090385)|[http://arXiv.org/abs/math.CO/0401175](http://arXiv.org/abs/math.CO/0401175)|
 |[90615](https://oeis.org/A090615)|[http://amicable.homepage.dk/knwnc4.htm).201](http://amicable.homepage.dk/knwnc4.htm).201)|
-|[90639](https://oeis.org/A090639)|[http://arXiv.org/abs/math.CO/0312418](http://arXiv.org/abs/math.CO/0312418)|
-|[90641](https://oeis.org/A090641)|[http://arXiv.org/abs/math.CO/0312418](http://arXiv.org/abs/math.CO/0312418)|
 |[90805](https://oeis.org/A090805)|[http://users.skynet.be/lch/mquiz/mquiz%202003/vragen/mquiz_2003_tafelronde_2.htm](http://users.skynet.be/lch/mquiz/mquiz%202003/vragen/mquiz_2003_tafelronde_2.htm)|
-|[90851](https://oeis.org/A090851)|[http://arXiv.org/abs/math/9804025](http://arXiv.org/abs/math/9804025)|
-|[90899](https://oeis.org/A090899)|[http://arXiv.org/quant-ph/0307130](http://arXiv.org/quant-ph/0307130), [http://homepage.mac.com/dglynn/](http://homepage.mac.com/dglynn/)|
+|[90899](https://oeis.org/A090899)|[http://homepage.mac.com/dglynn/](http://homepage.mac.com/dglynn/)|
 |[90968](https://oeis.org/A090968)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[90992](https://oeis.org/A090992)|[http://arXiv.org/abs/0706.0249](http://arXiv.org/abs/0706.0249)|
-|[90994](https://oeis.org/A090994)|[http://arXiv.org/abs/0706.0249](http://arXiv.org/abs/0706.0249)|
-|[91025](https://oeis.org/A091025)|[http://arXiv.org/abs/math/9804025](http://arXiv.org/abs/math/9804025)|
 |[91070](https://oeis.org/A091070)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
 |[91071](https://oeis.org/A091071)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
 |[91073](https://oeis.org/A091073)|[http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html](http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html)|
 |[91337](https://oeis.org/A091337)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
 |[91340](https://oeis.org/A091340)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[91370](https://oeis.org/A091370)|[http://arXiv.org/abs/math.CO/0512570](http://arXiv.org/abs/math.CO/0512570)|
-|[91406](https://oeis.org/A091406)|[http://arXiv.org/abs/hep-th/0307293](http://arXiv.org/abs/hep-th/0307293)|
 |[91473](https://oeis.org/A091473)|[http://eprints.cecm.sfu.ca/archive/00000270/](http://eprints.cecm.sfu.ca/archive/00000270/)|
-|[91490](https://oeis.org/A091490)|[http://arXiv.org/abs/hep-th/0401052](http://arXiv.org/abs/hep-th/0401052)|
 |[91536](https://oeis.org/A091536)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[91543](https://oeis.org/A091543)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
 |[91672](https://oeis.org/A091672)|[http://eprints.cecm.sfu.ca/archive/00000270/](http://eprints.cecm.sfu.ca/archive/00000270/)|
-|[91687](https://oeis.org/A091687)|[http://arXiv.org/abs/math.CO/0401404](http://arXiv.org/abs/math.CO/0401404)|
-|[91688](https://oeis.org/A091688)|[http://arXiv.org/abs/math.CO/0401404](http://arXiv.org/abs/math.CO/0401404)|
-|[91990](https://oeis.org/A091990)|[http://arXiv.org/abs/math.CO/0305271](http://arXiv.org/abs/math.CO/0305271)|
 |[91996](https://oeis.org/A091996)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
-|[92043](https://oeis.org/A092043)|[http://arXiv.org/abs/hep-th/9408113](http://arXiv.org/abs/hep-th/9408113)|
-|[92082](https://oeis.org/A092082)|[http://www.arXiv.org/abs/quant-ph/0402027](http://www.arXiv.org/abs/quant-ph/0402027)|
 |[92175](https://oeis.org/A092175)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/solutions/April2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/solutions/April2004.html), [http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html)|
-|[92186](https://oeis.org/A092186)|[http://arXiv.org/abs/math/0612135](http://arXiv.org/abs/math/0612135)|
 |[92220](https://oeis.org/A092220)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[92372](https://oeis.org/A092372)|[http://arXiv.org/abs/cond-mat/0407578](http://arXiv.org/abs/cond-mat/0407578)|
-|[92380](https://oeis.org/A092380)|[http://arXiv.org/abs/cond-mat/0407578](http://arXiv.org/abs/cond-mat/0407578)|
-|[92381](https://oeis.org/A092381)|[http://arXiv.org/abs/cond-mat/0407578](http://arXiv.org/abs/cond-mat/0407578)|
-|[92382](https://oeis.org/A092382)|[http://arXiv.org/abs/cond-mat/0407578](http://arXiv.org/abs/cond-mat/0407578)|
 |[92430](https://oeis.org/A092430)|[http://www.springerlink.com/content/e1m13421h2873t62/](http://www.springerlink.com/content/e1m13421h2873t62/)|
-|[92481](https://oeis.org/A092481)|[http://arXiv.org/abs/math.CO/0501171](http://arXiv.org/abs/math.CO/0501171)|
-|[92698](https://oeis.org/A092698)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92699](https://oeis.org/A092699)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92700](https://oeis.org/A092700)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92701](https://oeis.org/A092701)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92703](https://oeis.org/A092703)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92704](https://oeis.org/A092704)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92705](https://oeis.org/A092705)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92706](https://oeis.org/A092706)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92707](https://oeis.org/A092707)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92708](https://oeis.org/A092708)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92709](https://oeis.org/A092709)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92710](https://oeis.org/A092710)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92711](https://oeis.org/A092711)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92712](https://oeis.org/A092712)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92713](https://oeis.org/A092713)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92714](https://oeis.org/A092714)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92715](https://oeis.org/A092715)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92716](https://oeis.org/A092716)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92717](https://oeis.org/A092717)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92718](https://oeis.org/A092718)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92719](https://oeis.org/A092719)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92720](https://oeis.org/A092720)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92721](https://oeis.org/A092721)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92722](https://oeis.org/A092722)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92723](https://oeis.org/A092723)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92724](https://oeis.org/A092724)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92725](https://oeis.org/A092725)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92726](https://oeis.org/A092726)|[http://arXiv.org/abs/hep-th/0105045](http://arXiv.org/abs/hep-th/0105045)|
-|[92766](https://oeis.org/A092766)|[http://arXiv.org/abs/math.QA/0205178](http://arXiv.org/abs/math.QA/0205178)|
-|[92875](https://oeis.org/A092875)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
 |[92955](https://oeis.org/A092955)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html)|
-|[93356](https://oeis.org/A093356)|[http://arXiv.org/abs/math.CO/0210170](http://arXiv.org/abs/math.CO/0210170)|
-|[93357](https://oeis.org/A093357)|[http://arXiv.org/abs/math.CO/0210170](http://arXiv.org/abs/math.CO/0210170)|
-|[93365](https://oeis.org/A093365)|[http://arXiv.org/abs/math/0404188](http://arXiv.org/abs/math/0404188)|
-|[93374](https://oeis.org/A093374)|[http://arXiv.org/abs/math.CO/0211380](http://arXiv.org/abs/math.CO/0211380)|
 |[93507](https://oeis.org/A093507)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
 |[93613](https://oeis.org/A093613)|[http://www.scipress.org/journals/forma/pdf/1904/19040335.pdf](http://www.scipress.org/journals/forma/pdf/1904/19040335.pdf)|
 |[93691](https://oeis.org/A093691)|[http://comunidad.ciudad.com.ar/argentina/buenos_aires/avd/subsub.html](http://comunidad.ciudad.com.ar/argentina/buenos_aires/avd/subsub.html)|
-|[93937](https://oeis.org/A093937)|[http://arXiv.org/abs/math.CO/0302105](http://arXiv.org/abs/math.CO/0302105)|
-|[94029](https://oeis.org/A094029)|[http://www.arXiv.org/abs/math.GT/0401051](http://www.arXiv.org/abs/math.GT/0401051)|
-|[94030](https://oeis.org/A094030)|[http://www.arXiv.org/abs/math.GT/0401051](http://www.arXiv.org/abs/math.GT/0401051)|
-|[94031](https://oeis.org/A094031)|[http://www.arXiv.org/abs/math.GT/0401051](http://www.arXiv.org/abs/math.GT/0401051)|
-|[94032](https://oeis.org/A094032)|[http://www.arXiv.org/abs/math.GT/0401051](http://www.arXiv.org/abs/math.GT/0401051)|
-|[94070](https://oeis.org/A094070)|[http://arXiv.org/abs/quant-ph/0409152](http://arXiv.org/abs/quant-ph/0409152), [http://arXiv.org/abs/quant-ph/0405103](http://arXiv.org/abs/quant-ph/0405103)|
-|[94071](https://oeis.org/A094071)|[http://arXiv.org/abs/quant-ph/0409152](http://arXiv.org/abs/quant-ph/0409152), [http://arXiv.org/abs/quant-ph/0405103](http://arXiv.org/abs/quant-ph/0405103)|
-|[94072](https://oeis.org/A094072)|[http://arXiv.org/abs/quant-ph/0405103](http://arXiv.org/abs/quant-ph/0405103)|
-|[94149](https://oeis.org/A094149)|[http://arXiv.org/abs/math-ph/0009028](http://arXiv.org/abs/math-ph/0009028)|
-|[94199](https://oeis.org/A094199)|[http://arXiv.org/abs/math/0309284](http://arXiv.org/abs/math/0309284)|
 |[94225](https://oeis.org/A094225)|[http://math2.eku.edu/greenwell/mat303/triangles/](http://math2.eku.edu/greenwell/mat303/triangles/)|
 |[94345](https://oeis.org/A094345)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[94348](https://oeis.org/A094348)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
-|[94392](https://oeis.org/A094392)|[http://arXiv.org/abs/0706.2421](http://arXiv.org/abs/0706.2421)|
 |[94454](https://oeis.org/A094454)|[http://www.magic-squares.net/anti-ms.htm](http://www.magic-squares.net/anti-ms.htm)|
 |[94455](https://oeis.org/A094455)|[http://www.magic-squares.net/anti-ms.htm](http://www.magic-squares.net/anti-ms.htm)|
-|[94596](https://oeis.org/A094596)|[http://www.arXiv.org/abs/math.NT/0405220](http://www.arXiv.org/abs/math.NT/0405220)|
-|[94597](https://oeis.org/A094597)|[http://www.arXiv.org/abs/math.NT/0405220](http://www.arXiv.org/abs/math.NT/0405220)|
-|[94610](https://oeis.org/A094610)|[http://arXiv.org/abs/math.CO/0312424](http://arXiv.org/abs/math.CO/0312424)|
-|[94611](https://oeis.org/A094611)|[http://arXiv.org/abs/math.CO/0312424](http://arXiv.org/abs/math.CO/0312424)|
-|[94637](https://oeis.org/A094637)|[http://arXiv.org/abs/math.CO/0312424](http://arXiv.org/abs/math.CO/0312424)|
-|[94638](https://oeis.org/A094638)|[http://arXiv.org/abs/0707.1204](http://arXiv.org/abs/0707.1204), [http://arXiv.org/abs/math.CO/0401089](http://arXiv.org/abs/math.CO/0401089)|
-|[94640](https://oeis.org/A094640)|[http://arXiv.org/abs/math.CA/0211148](http://arXiv.org/abs/math.CA/0211148), [http://arXiv.org/abs/math.NT/0508042](http://arXiv.org/abs/math.NT/0508042), [http://arXiv.org/abs/math/0610499](http://arXiv.org/abs/math/0610499)|
-|[94641](https://oeis.org/A094641)|[http://arXiv.org/abs/math.CA/0211148](http://arXiv.org/abs/math.CA/0211148), [http://arXiv.org/abs/math.NT/0508042](http://arXiv.org/abs/math.NT/0508042), [http://arXiv.org/abs/math/0610499](http://arXiv.org/abs/math/0610499)|
-|[94643](https://oeis.org/A094643)|[http://arXiv.org/abs/math.NT/0401406](http://arXiv.org/abs/math.NT/0401406)|
-|[94644](https://oeis.org/A094644)|[http://arXiv.org/abs/math.CA/0306008](http://arXiv.org/abs/math.CA/0306008), [http://arXiv.org/abs/math.NT/0401406](http://arXiv.org/abs/math.NT/0401406), [http://arXiv.org/abs/math.CA/0211148](http://arXiv.org/abs/math.CA/0211148), [http://arXiv.org/abs/math.NT/0211075](http://arXiv.org/abs/math.NT/0211075), [http://arXiv.org/abs/math.NT/0304021](http://arXiv.org/abs/math.NT/0304021)|
-|[94651](https://oeis.org/A094651)|[http://arXiv.org/abs/math.CO/0312424](http://arXiv.org/abs/math.CO/0312424)|
-|[94652](https://oeis.org/A094652)|[http://arXiv.org/abs/math.CO/0312424](http://arXiv.org/abs/math.CO/0312424)|
-|[94653](https://oeis.org/A094653)|[http://arXiv.org/abs/math.CO/0312424](http://arXiv.org/abs/math.CO/0312424)|
-|[94654](https://oeis.org/A094654)|[http://arXiv.org/abs/math.CO/0312424](http://arXiv.org/abs/math.CO/0312424)|
-|[94655](https://oeis.org/A094655)|[http://arXiv.org/abs/math.CO/0312424](http://arXiv.org/abs/math.CO/0312424)|
-|[94656](https://oeis.org/A094656)|[http://arXiv.org/abs/math.CO/0312424](http://arXiv.org/abs/math.CO/0312424)|
 |[94685](https://oeis.org/A094685)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
 |[94692](https://oeis.org/A094692)|[http://people.math.jussieu.fr/~miw/articles/pdf/SurveyTrdceEllipt2006.pdf](http://people.math.jussieu.fr/~miw/articles/pdf/SurveyTrdceEllipt2006.pdf)|
 |[94706](https://oeis.org/A094706)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
-|[94720](https://oeis.org/A094720)|[http://arXiv.org/abs/math.CO/0306225](http://arXiv.org/abs/math.CO/0306225)|
-|[94721](https://oeis.org/A094721)|[http://arXiv.org/abs/math.CO/0306225](http://arXiv.org/abs/math.CO/0306225)|
 |[94783](https://oeis.org/A094783)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
 |[94864](https://oeis.org/A094864)|[http://norcom.math.aau.dk/stacks.pdf](http://norcom.math.aau.dk/stacks.pdf)|
 |[95149](https://oeis.org/A095149)|[http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf](http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf)|
 |[95370](https://oeis.org/A095370)|[http://www.h4.dion.ne.jp/~rep](http://www.h4.dion.ne.jp/~rep)|
-|[95708](https://oeis.org/A095708)|[http://arXiv.org/abs/0807.2538](http://arXiv.org/abs/0807.2538)|
+|[95424](https://oeis.org/A095424)|[http://ion.uwinnipeg.ca/~lmol/GraphData.html](http://ion.uwinnipeg.ca/~lmol/GraphData.html)|
 |[95899](https://oeis.org/A095899)|[http://www.cenius.net/refer/display.php?ArticleID=hofstadterconwaysequence](http://www.cenius.net/refer/display.php?ArticleID=hofstadterconwaysequence)|
 |[95926](https://oeis.org/A095926)|[http://7427466391.com](http://7427466391.com)|
 |[95937](https://oeis.org/A095937)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
 |[95968](https://oeis.org/A095968)|[http://www.izzycat.org/math/index.php?p=51](http://www.izzycat.org/math/index.php?p=51)|
 |[96082](https://oeis.org/A096082)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
 |[96151](https://oeis.org/A096151)|[http://www-gap.dcs.st-and.ac.uk/~history/Diagrams/ArchimedesCPSoln.gif](http://www-gap.dcs.st-and.ac.uk/~history/Diagrams/ArchimedesCPSoln.gif), [http://www.mcs.drexel.edu/~crorres/Archimedes/Cattle/Statement.html](http://www.mcs.drexel.edu/~crorres/Archimedes/Cattle/Statement.html)|
-|[96329](https://oeis.org/A096329)|[http://primes.utm.edu/nthprime/index.php#n-th](http://primes.utm.edu/nthprime/index.php#n-th)|
-|[96331](https://oeis.org/A096331)|[http://arXiv.org/abs/math.CO/0501269](http://arXiv.org/abs/math.CO/0501269)|
-|[96332](https://oeis.org/A096332)|[http://arXiv.org/abs/math.CO/0501269](http://arXiv.org/abs/math.CO/0501269)|
 |[96339](https://oeis.org/A096339)|[http://www.magic-squares.net/magic_squares_index.htm](http://www.magic-squares.net/magic_squares_index.htm)|
 |[96444](https://oeis.org/A096444)|[http://braise.univ-rennes1.fr/donnees/ParamHTML/S%E9ries%20num%E9riques/con/S%E9ries%20semi-convergentes/cst.pdf](http://braise.univ-rennes1.fr/donnees/ParamHTML/S%E9ries%20num%E9riques/con/S%E9ries%20semi-convergentes/cst.pdf)|
 |[96556](https://oeis.org/A096556)|[http://www.openwatcom.org/](http://www.openwatcom.org/)|
 |[96595](https://oeis.org/A096595)|[http://home.mindspring.com/~kikiriki/id15.html](http://home.mindspring.com/~kikiriki/id15.html)|
 |[96660](https://oeis.org/A096660)|[http://www.magic-squares.net/magic_squares_index.htm](http://www.magic-squares.net/magic_squares_index.htm)|
-|[96938](https://oeis.org/A096938)|[http://arXiv.org/abs/hep-th/0409011](http://arXiv.org/abs/hep-th/0409011)|
-|[97125](https://oeis.org/A097125)|[http://arXiv.org/abs/0804.1310](http://arXiv.org/abs/0804.1310)|
-|[97126](https://oeis.org/A097126)|[http://arXiv.org/abs/0804.1310](http://arXiv.org/abs/0804.1310)|
-|[97127](https://oeis.org/A097127)|[http://arXiv.org/abs/0804.1310](http://arXiv.org/abs/0804.1310)|
 |[97130](https://oeis.org/A097130)|[http://dsns.csie.nctu.edu.tw/research/crypto/HTML/PDF/E88/267.PDF](http://dsns.csie.nctu.edu.tw/research/crypto/HTML/PDF/E88/267.PDF)|
-|[97171](https://oeis.org/A097171)|[http://arXiv.org/abs/math.CO/0407456](http://arXiv.org/abs/math.CO/0407456)|
-|[97172](https://oeis.org/A097172)|[http://arXiv.org/abs/math.CO/0407456](http://arXiv.org/abs/math.CO/0407456)|
-|[97173](https://oeis.org/A097173)|[http://arXiv.org/abs/math.CO/0407456](http://arXiv.org/abs/math.CO/0407456)|
-|[97236](https://oeis.org/A097236)|[http://arXiv.org/abs/math.CO/0307064](http://arXiv.org/abs/math.CO/0307064)|
-|[97237](https://oeis.org/A097237)|[http://arXiv.org/abs/math.CO/0307064](http://arXiv.org/abs/math.CO/0307064)|
 |[97323](https://oeis.org/A097323)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
 |[97383](https://oeis.org/A097383)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[97384](https://oeis.org/A097384)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[97391](https://oeis.org/A097391)|[http://arXiv.org/abs/math.CO/0307064](http://arXiv.org/abs/math.CO/0307064)|
-|[97392](https://oeis.org/A097392)|[http://arXiv.org/abs/math.CO/0307064](http://arXiv.org/abs/math.CO/0307064)|
-|[97404](https://oeis.org/A097404)|[http://www.crh.noaa.gov/lot/webpage/beaufort/](http://www.crh.noaa.gov/lot/webpage/beaufort/), [http://www.metoffice.com/education/historic/beaufort.html](http://www.metoffice.com/education/historic/beaufort.html)|
-|[97479](https://oeis.org/A097479)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
+|[97404](https://oeis.org/A097404)|[http://www.metoffice.com/education/historic/beaufort.html](http://www.metoffice.com/education/historic/beaufort.html), [http://www.crh.noaa.gov/lot/webpage/beaufort/](http://www.crh.noaa.gov/lot/webpage/beaufort/)|
 |[97486](https://oeis.org/A097486)|[https://home.comcast.net/~davejanelle/mandel.html](https://home.comcast.net/~davejanelle/mandel.html), [https://home.comcast.net/~davejanelle/mandel.pdf](https://home.comcast.net/~davejanelle/mandel.pdf)|
 |[97610](https://oeis.org/A097610)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf), [https://www.math.rochester.edu/people/faculty/doug/mypapers/lrs.pdf](https://www.math.rochester.edu/people/faculty/doug/mypapers/lrs.pdf)|
-|[97705](https://oeis.org/A097705)|[http://www.arXiv.org/abs/math.NT/0408371](http://www.arXiv.org/abs/math.NT/0408371)|
 |[97707](https://oeis.org/A097707)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
 |[97937](https://oeis.org/A097937)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[98041](https://oeis.org/A098041)|[http://cadigweb.ew.usna.edu/%7ewdj/mcmath/shanks_squfof.pdf](http://cadigweb.ew.usna.edu/%7ewdj/mcmath/shanks_squfof.pdf)|
 |[98108](https://oeis.org/A098108)|[http://home.iiserbhopal.ac.in/~kashyap/tau.pdf](http://home.iiserbhopal.ac.in/~kashyap/tau.pdf)|
-|[98198](https://oeis.org/A098198)|[https://doi.org/10.48550/arXiv.2203.04184](https://doi.org/10.48550/arXiv.2203.04184)|
 |[98235](https://oeis.org/A098235)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
 |[98238](https://oeis.org/A098238)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
-|[98272](https://oeis.org/A098272)|[http://arXiv.org/abs/math.CO/0401067](http://arXiv.org/abs/math.CO/0401067)|
-|[98273](https://oeis.org/A098273)|[http://arXiv.org/abs/math.CO/0401067](http://arXiv.org/abs/math.CO/0401067)|
-|[98275](https://oeis.org/A098275)|[http://arXiv.org/abs/math.NT/0409023](http://arXiv.org/abs/math.NT/0409023)|
 |[98427](https://oeis.org/A098427)|[http://www.ocf.berleley.edu/~wwu/papers/platonicsolids.pdf](http://www.ocf.berleley.edu/~wwu/papers/platonicsolids.pdf)|
 |[98485](https://oeis.org/A098485)|[http://www.csit.fsu.edu/~burkardt/f_src/grafpack/grafpack.html](http://www.csit.fsu.edu/~burkardt/f_src/grafpack/grafpack.html)|
 |[98786](https://oeis.org/A098786)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[98805](https://oeis.org/A098805)|[http://arXiv.org/abs/cs/0410013](http://arXiv.org/abs/cs/0410013)|
-|[98810](https://oeis.org/A098810)|[http://arXiv.org/abs/cs/0411002](http://arXiv.org/abs/cs/0411002), [http://arXiv.org/abs/cs/0410013](http://arXiv.org/abs/cs/0410013)|
-|[98824](https://oeis.org/A098824)|[http://arXiv.org/abs/cs/0411002](http://arXiv.org/abs/cs/0411002)|
-|[98950](https://oeis.org/A098950)|[http://arXiv.org/abs/cs/0410013](http://arXiv.org/abs/cs/0410013)|
 |[98979](https://oeis.org/A098979)|[http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf](http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf)|
-|[99152](https://oeis.org/A099152)|[http://arXiv.org/abs/math.NT/0506155](http://arXiv.org/abs/math.NT/0506155)|
-|[99174](https://oeis.org/A099174)|[http://arXiv.org/abs/quant-ph/0409152](http://arXiv.org/abs/quant-ph/0409152)|
 |[99179](https://oeis.org/A099179)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
 |[99186](https://oeis.org/A099186)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
 |[99187](https://oeis.org/A099187)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
 |[99195](https://oeis.org/A099195)|[http://www.magicdragon.com/math.html](http://www.magicdragon.com/math.html), [http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
 |[99196](https://oeis.org/A099196)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[99197](https://oeis.org/A099197)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html), [http://www.magicdragon.com/math.html](http://www.magicdragon.com/math.html)|
-|[99206](https://oeis.org/A099206)|[http://www.meden.demon.co.uk/Fractals/cubic8.html](http://www.meden.demon.co.uk/Fractals/cubic8.html), [http://arXiv.org/abs/math.MG/9505210](http://arXiv.org/abs/math.MG/9505210)|
+|[99197](https://oeis.org/A099197)|[http://www.magicdragon.com/math.html](http://www.magicdragon.com/math.html), [http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
+|[99206](https://oeis.org/A099206)|[http://www.meden.demon.co.uk/Fractals/cubic8.html](http://www.meden.demon.co.uk/Fractals/cubic8.html)|
 |[99333](https://oeis.org/A099333)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
 |[99334](https://oeis.org/A099334)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
 |[99335](https://oeis.org/A099335)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
@@ -2841,18 +2487,13 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[99346](https://oeis.org/A099346)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
 |[99347](https://oeis.org/A099347)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
 |[99348](https://oeis.org/A099348)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99391](https://oeis.org/A099391)|[http://arXiv.org/abs/quant-ph/0312202](http://arXiv.org/abs/quant-ph/0312202)|
-|[99393](https://oeis.org/A099393)|[http://arXiv.org/abs/math.CO/0210268](http://arXiv.org/abs/math.CO/0210268)|
 |[99436](https://oeis.org/A099436)|[http://people.csse.uwa.edu.au/gordon/graphs/#class2](http://people.csse.uwa.edu.au/gordon/graphs/#class2)|
 |[99438](https://oeis.org/A099438)|[http://people.csse.uwa.edu.au/gordon/graphs/#class2](http://people.csse.uwa.edu.au/gordon/graphs/#class2)|
 |[99589](https://oeis.org/A099589)|[http://repository.tue.nl/776745](http://repository.tue.nl/776745)|
-|[99612](https://oeis.org/A099612)|[http://arXiv.org/abs/math.HO/0506415](http://arXiv.org/abs/math.HO/0506415)|
 |[99679](https://oeis.org/A099679)|[http://www.h4.dion.ne.jp/~rep](http://www.h4.dion.ne.jp/~rep)|
-|[99797](https://oeis.org/A099797)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
-|[99798](https://oeis.org/A099798)|[http://arXiv.org/abs/math.NT/0305308](http://arXiv.org/abs/math.NT/0305308)|
 |[99837](https://oeis.org/A099837)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
 |[99927](https://oeis.org/A099927)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
-|[99930](https://oeis.org/A099930)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
+|[99947](https://oeis.org/A099947)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[99999](https://oeis.org/A099999)|[http://www.ijp.si/Configurations2004/papers.html](http://www.ijp.si/Configurations2004/papers.html)|
 |[100000](https://oeis.org/A100000)|[http://etopia.sintlucas.be/~dhuylebrouck/Ishango_web/Ishango_web.htm](http://etopia.sintlucas.be/~dhuylebrouck/Ishango_web/Ishango_web.htm)|
 |[100009](https://oeis.org/A100009)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
@@ -2861,16 +2502,11 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[100015](https://oeis.org/A100015)|[http://webdb.uni-graz.at/~fripert/fga/k1recontre.html](http://webdb.uni-graz.at/~fripert/fga/k1recontre.html)|
 |[100050](https://oeis.org/A100050)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
 |[100051](https://oeis.org/A100051)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[100255](https://oeis.org/A100255)|[http://arXiv.org/abs/math.HO/0505373](http://arXiv.org/abs/math.HO/0505373)|
-|[100256](https://oeis.org/A100256)|[http://arXiv.org/abs/math.HO/0505373](http://arXiv.org/abs/math.HO/0505373)|
 |[100261](https://oeis.org/A100261)|[http://www-centre.mpce.mq.edu.au/alfpapers/a117.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a117.pdf)|
-|[100264](https://oeis.org/A100264)|[http://arXiv.org/abs/math.NT/0302183](http://arXiv.org/abs/math.NT/0302183)|
 |[100508](https://oeis.org/A100508)|[http://www.mta.nyc.ny.us/nyct/service/fourline.htm](http://www.mta.nyc.ny.us/nyct/service/fourline.htm)|
-|[100524](https://oeis.org/A100524)|[http://arXiv.org/abs/quant-ph/0405103](http://arXiv.org/abs/quant-ph/0405103)|
 |[100603](https://oeis.org/A100603)|[http://magicdragon.com/math.html](http://magicdragon.com/math.html)|
 |[100682](https://oeis.org/A100682)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[100683](https://oeis.org/A100683)|[http://arXiv.org/abs/physics/0411195](http://arXiv.org/abs/physics/0411195)|
-|[100831](https://oeis.org/A100831)|[http://theory2.phys.cwru.edu/~pete/java_chaos/KochApplet.html](http://theory2.phys.cwru.edu/~pete/java_chaos/KochApplet.html), [http://www.arXiv.org/abs/math-ph/0412029](http://www.arXiv.org/abs/math-ph/0412029)|
+|[100831](https://oeis.org/A100831)|[http://theory2.phys.cwru.edu/~pete/java_chaos/KochApplet.html](http://theory2.phys.cwru.edu/~pete/java_chaos/KochApplet.html)|
 |[100982](https://oeis.org/A100982)|[http://www.math.grin.edu/~chamberl/papers/3x_survey_cat.pdf](http://www.math.grin.edu/~chamberl/papers/3x_survey_cat.pdf), [http://www.math.grin.edu/~chamberl/3x.html](http://www.math.grin.edu/~chamberl/3x.html)|
 |[101089](https://oeis.org/A101089)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
 |[101090](https://oeis.org/A101090)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
@@ -2887,18 +2523,10 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[101101](https://oeis.org/A101101)|[http://www.math.nmsu.edu/~davidp/bridge.pdf](http://www.math.nmsu.edu/~davidp/bridge.pdf), [http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
 |[101102](https://oeis.org/A101102)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
 |[101104](https://oeis.org/A101104)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm), [http://www.math.nmsu.edu/~davidp/bridge.pdf](http://www.math.nmsu.edu/~davidp/bridge.pdf)|
-|[101145](https://oeis.org/A101145)|[http://arXiv.org/abs/0705.4674](http://arXiv.org/abs/0705.4674)|
-|[101363](https://oeis.org/A101363)|[http://arXiv.org/abs/math.MG/9508209](http://arXiv.org/abs/math.MG/9508209)|
 |[101453](https://oeis.org/A101453)|[http://turing.csie.ntu.edu.tw/~arping/cm](http://turing.csie.ntu.edu.tw/~arping/cm)|
 |[101454](https://oeis.org/A101454)|[http://turing.csie.ntu.edu.tw/~arping/cm](http://turing.csie.ntu.edu.tw/~arping/cm)|
-|[101478](https://oeis.org/A101478)|[http://arXiv.org/abs/math.CO/0501266](http://arXiv.org/abs/math.CO/0501266)|
-|[101487](https://oeis.org/A101487)|[http://arXiv.org/abs/math.CO/0501266](http://arXiv.org/abs/math.CO/0501266)|
-|[101490](https://oeis.org/A101490)|[http://arXiv.org/abs/math.CO/0501266](http://arXiv.org/abs/math.CO/0501266)|
 |[101511](https://oeis.org/A101511)|[http://www.robertmrozek.org/appletprime20.html](http://www.robertmrozek.org/appletprime20.html)|
-|[101548](https://oeis.org/A101548)|[http://www.arXiv.org/abs/math.NT/0410477](http://www.arXiv.org/abs/math.NT/0410477)|
-|[101549](https://oeis.org/A101549)|[http://www.arXiv.org/abs/math.NT/0412079](http://www.arXiv.org/abs/math.NT/0412079)|
-|[101606](https://oeis.org/A101606)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[101638](https://oeis.org/A101638)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
+|[101785](https://oeis.org/A101785)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[101853](https://oeis.org/A101853)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
 |[101854](https://oeis.org/A101854)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
 |[101855](https://oeis.org/A101855)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
@@ -2909,17 +2537,15 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[102026](https://oeis.org/A102026)|[http://www.raphaelreischuk.de/pub/nubfals.pdf](http://www.raphaelreischuk.de/pub/nubfals.pdf)|
 |[102241](https://oeis.org/A102241)|[http://pacificcoast.net/~wh/Index.html](http://pacificcoast.net/~wh/Index.html)|
 |[102250](https://oeis.org/A102250)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[102276](https://oeis.org/A102276)|[http://arXiv.org/abs/math.NT/0412372](http://arXiv.org/abs/math.NT/0412372)|
 |[102283](https://oeis.org/A102283)|[http://dergipark.ulakbim.gov.tr/hujms/article/view/5000017451](http://dergipark.ulakbim.gov.tr/hujms/article/view/5000017451)|
 |[102380](https://oeis.org/A102380)|[http://www.h4.dion.ne.jp/~rep/](http://www.h4.dion.ne.jp/~rep/)|
 |[102742](https://oeis.org/A102742)|[http://www.primenace.com/papers/math/ElitePrimes.htm](http://www.primenace.com/papers/math/ElitePrimes.htm)|
 |[102778](https://oeis.org/A102778)|[http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm](http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm)|
 |[102779](https://oeis.org/A102779)|[http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm](http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm)|
 |[102809](https://oeis.org/A102809)|[http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm](http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm)|
-|[102894](https://oeis.org/A102894)|[http://pierre.colomb.me/data/paper/icfca2010.pdf](http://pierre.colomb.me/data/paper/icfca2010.pdf)|
-|[102896](https://oeis.org/A102896)|[http://www.colomb.me/pierre/data/paper/icfca2011.pdf](http://www.colomb.me/pierre/data/paper/icfca2011.pdf)|
-|[103186](https://oeis.org/A103186)|[http://www.bobspoetry.com/Bobs02Fe.pdf](http://www.bobspoetry.com/Bobs02Fe.pdf)|
+|[103211](https://oeis.org/A103211)|[https://cs.uwaterloo.ca/journals/JIS/VOL13/Whitt/whitt2.html](https://cs.uwaterloo.ca/journals/JIS/VOL13/Whitt/whitt2.html)|
 |[103217](https://oeis.org/A103217)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
+|[103290](https://oeis.org/A103290)|[http://plms.oxfordjournals.org/content/s2-23/1/290.extract](http://plms.oxfordjournals.org/content/s2-23/1/290.extract)|
 |[103372](https://oeis.org/A103372)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
 |[103373](https://oeis.org/A103373)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
 |[103374](https://oeis.org/A103374)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
@@ -2937,7 +2563,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[103712](https://oeis.org/A103712)|[http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov](http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov)|
 |[103713](https://oeis.org/A103713)|[http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov](http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov)|
 |[103714](https://oeis.org/A103714)|[http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov](http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov)|
-|[103743](https://oeis.org/A103743)|[http://pweb.nju.edu.cn/zwsun/Cover.pdf](http://pweb.nju.edu.cn/zwsun/Cover.pdf), [http://pweb.nju.edu.cn/zwsun/43l.pdf](http://pweb.nju.edu.cn/zwsun/43l.pdf), [http://pweb.nju.edu.cn/zwsun/](http://pweb.nju.edu.cn/zwsun/)|
+|[103743](https://oeis.org/A103743)|[http://pweb.nju.edu.cn/zwsun/](http://pweb.nju.edu.cn/zwsun/), [http://pweb.nju.edu.cn/zwsun/Cover.pdf](http://pweb.nju.edu.cn/zwsun/Cover.pdf), [http://pweb.nju.edu.cn/zwsun/43l.pdf](http://pweb.nju.edu.cn/zwsun/43l.pdf)|
 |[103752](https://oeis.org/A103752)|[http://www.gutenberg.org/etext/633](http://www.gutenberg.org/etext/633)|
 |[103773](https://oeis.org/A103773)|[http://www.gutenberg.org/etext/633](http://www.gutenberg.org/etext/633)|
 |[103789](https://oeis.org/A103789)|[http://www.gutenberg.org/etext/633](http://www.gutenberg.org/etext/633)|
@@ -2994,13 +2620,14 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[105688](https://oeis.org/A105688)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
 |[105689](https://oeis.org/A105689)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
 |[106007](https://oeis.org/A106007)|[http://www.pythagoras.nu).](http://www.pythagoras.nu).)|
-|[106182](https://oeis.org/A106182)|[http://arXiv.org/abs/cs/0509046v2](http://arXiv.org/abs/cs/0509046v2), [http://www.hpl.hp.com/techreports/2004/HPL-2004-153.html](http://www.hpl.hp.com/techreports/2004/HPL-2004-153.html)|
+|[106182](https://oeis.org/A106182)|[http://www.hpl.hp.com/techreports/2004/HPL-2004-153.html](http://www.hpl.hp.com/techreports/2004/HPL-2004-153.html)|
 |[106433](https://oeis.org/A106433)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[106482](https://oeis.org/A106482)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
 |[106483](https://oeis.org/A106483)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
 |[106484](https://oeis.org/A106484)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
 |[106739](https://oeis.org/A106739)|[http://www.csr.uvic.ca/~wendym/torus/embedding.html](http://www.csr.uvic.ca/~wendym/torus/embedding.html)|
 |[107232](https://oeis.org/A107232)|[http://puma.dimai.unifi.it/22_2/manara_perelli-cippo.pdf](http://puma.dimai.unifi.it/22_2/manara_perelli-cippo.pdf)|
+|[107264](https://oeis.org/A107264)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[107373](https://oeis.org/A107373)|[http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf)|
 |[107427](https://oeis.org/A107427)|[http://www.jimloy.com/puzz/cole.htm](http://www.jimloy.com/puzz/cole.htm)|
 |[107452](https://oeis.org/A107452)|[http://preprinti.imfm.si/PDF/00939.pdf](http://preprinti.imfm.si/PDF/00939.pdf)|
@@ -3013,19 +2640,10 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[107460](https://oeis.org/A107460)|[http://preprinti.imfm.si/PDF/00939.pdf](http://preprinti.imfm.si/PDF/00939.pdf)|
 |[107769](https://oeis.org/A107769)|[https://dx.doi/10.1023/A:1019163812482](https://dx.doi/10.1023/A:1019163812482)|
 |[107784](https://oeis.org/A107784)|[http://library.thinkquest.org/3471/mass_binding_body.html](http://library.thinkquest.org/3471/mass_binding_body.html)|
+|[108045](https://oeis.org/A108045)|[http://repository.wit.ie/1693](http://repository.wit.ie/1693)|
 |[108520](https://oeis.org/A108520)|[http://repository.tue.nl/776745](http://repository.tue.nl/776745)|
-|[108913](https://oeis.org/A108913)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
 |[109032](https://oeis.org/A109032)|[http://beta.mapleprimes.com/blog/alec/ponder_this](http://beta.mapleprimes.com/blog/alec/ponder_this)|
 |[109379](https://oeis.org/A109379)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
-|[109477](https://oeis.org/A109477)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[109479](https://oeis.org/A109479)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[109481](https://oeis.org/A109481)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[109483](https://oeis.org/A109483)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[109485](https://oeis.org/A109485)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[109486](https://oeis.org/A109486)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[109487](https://oeis.org/A109487)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[109488](https://oeis.org/A109488)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[109741](https://oeis.org/A109741)|[http://theory.tifr.res.in/~sgupta/sudoku/challenges.html#prime](http://theory.tifr.res.in/~sgupta/sudoku/challenges.html#prime)|
 |[109783](https://oeis.org/A109783)|[http://beta.mapleprimes.com/blog/alec/ponder_this](http://beta.mapleprimes.com/blog/alec/ponder_this)|
 |[109952](https://oeis.org/A109952)|[http://www.scorpiosite69.freeserve.co.uk/temperature.htm](http://www.scorpiosite69.freeserve.co.uk/temperature.htm)|
 |[110148](https://oeis.org/A110148)|[http://ilib.mirror1.mccme.ru/djvu/yaglom/square.htm](http://ilib.mirror1.mccme.ru/djvu/yaglom/square.htm)|
@@ -3033,22 +2651,17 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[110316](https://oeis.org/A110316)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[110501](https://oeis.org/A110501)|[http://puma.dimai.unifi.it/21_2/5_Burstein_Josuat-Verges_Stromquist.pdf](http://puma.dimai.unifi.it/21_2/5_Burstein_Josuat-Verges_Stromquist.pdf)|
 |[110507](https://oeis.org/A110507)|[http://ginger.indstate.edu/ge/Graphs/RECTILINEAR/index.html](http://ginger.indstate.edu/ge/Graphs/RECTILINEAR/index.html)|
-|[110822](https://oeis.org/A110822)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
-|[110845](https://oeis.org/A110845)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
 |[111004](https://oeis.org/A111004)|[http://puma.dimai.unifi.it/22_2/jones_remmel.pdf](http://puma.dimai.unifi.it/22_2/jones_remmel.pdf)|
 |[111044](https://oeis.org/A111044)|[http://les-mathematiques.u-strasbg.fr/phorum/read.php?f=2&amp](http://les-mathematiques.u-strasbg.fr/phorum/read.php?f=2&amp)|
 |[111078](https://oeis.org/A111078)|[http://maddogcarter.com/phil/runescape/xpformula.html](http://maddogcarter.com/phil/runescape/xpformula.html)|
 |[111113](https://oeis.org/A111113)|[http://acta.fyx.hu/acta/showCustomerArticle.action?id=5859&amp](http://acta.fyx.hu/acta/showCustomerArticle.action?id=5859&amp)|
 |[111237](https://oeis.org/A111237)|[http://www.jsoftware.com):H=:](http://www.jsoftware.com):H=:)|
-|[111332](https://oeis.org/A111332)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[111904](https://oeis.org/A111904)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://amicable.homepage.dk/knwnunap.htm](http://amicable.homepage.dk/knwnunap.htm)|
+|[111904](https://oeis.org/A111904)|[http://amicable.homepage.dk/knwnunap.htm](http://amicable.homepage.dk/knwnunap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
 |[111944](https://oeis.org/A111944)|[http://www.csam.montclair.edu/~thomasd/john.pdf](http://www.csam.montclair.edu/~thomasd/john.pdf)|
 |[112236](https://oeis.org/A112236)|[http://wvlc.uwaterloo.ca/biology447/modules/module5/pcbdegradation.htm](http://wvlc.uwaterloo.ca/biology447/modules/module5/pcbdegradation.htm), [http://wvlc.uwaterloo.ca/biology447/modules/intro/assignments/pcb_pjpa.htm](http://wvlc.uwaterloo.ca/biology447/modules/intro/assignments/pcb_pjpa.htm)|
 |[112262](https://oeis.org/A112262)|[http://www.cybertiggyr.com/gene/htdocs/shiva-0/shiva-0.html](http://www.cybertiggyr.com/gene/htdocs/shiva-0/shiva-0.html)|
 |[112263](https://oeis.org/A112263)|[http://www.cybertiggyr.com/gene/htdocs/shiva-0/shiva-0.html](http://www.cybertiggyr.com/gene/htdocs/shiva-0/shiva-0.html)|
 |[112299](https://oeis.org/A112299)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[112389](https://oeis.org/A112389)|[http://www.math.ku.dk/~eilers/papers/eclbii.pdf](http://www.math.ku.dk/~eilers/papers/eclbii.pdf)|
-|[112390](https://oeis.org/A112390)|[http://www.math.ku.dk/~eilers/lego.html](http://www.math.ku.dk/~eilers/lego.html)|
 |[113515](https://oeis.org/A113515)|[http://www.magicdragon.com/UltimateSF/timeline11.html](http://www.magicdragon.com/UltimateSF/timeline11.html)|
 |[113619](https://oeis.org/A113619)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
 |[113626](https://oeis.org/A113626)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
@@ -3061,14 +2674,11 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[115380](https://oeis.org/A115380)|[http://www.rikk-cowsys.com/lofiversion/index.php/t328.html](http://www.rikk-cowsys.com/lofiversion/index.php/t328.html), [http://www.baseballhalloffame.org/exhibits/online_exhibits/ss_home_run/index.htm](http://www.baseballhalloffame.org/exhibits/online_exhibits/ss_home_run/index.htm)|
 |[115836](https://oeis.org/A115836)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[116369](https://oeis.org/A116369)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
-|[116411](https://oeis.org/A116411)|[https://lrecits.usthb.dz/6.5.pdf](https://lrecits.usthb.dz/6.5.pdf)|
 |[116474](https://oeis.org/A116474)|[http://library.wustl.edu/~manynote/music.html](http://library.wustl.edu/~manynote/music.html)|
 |[117140](https://oeis.org/A117140)|[http://www.eng.um.edu.mt/~andebo/numbers/numcom27.htm](http://www.eng.um.edu.mt/~andebo/numbers/numcom27.htm)|
-|[117955](https://oeis.org/A117955)|[https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf](https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf)|
-|[117956](https://oeis.org/A117956)|[https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf](https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf)|
 |[119256](https://oeis.org/A119256)|[http://www.karlscalculus.org/l6_3-2.html](http://www.karlscalculus.org/l6_3-2.html)|
 |[119271](https://oeis.org/A119271)|[http://www.physics.iitm.ac.in/~suresh/partitions.html](http://www.physics.iitm.ac.in/~suresh/partitions.html)|
-|[119478](https://oeis.org/A119478)|[http://amicable.adsl.dk/aliquot/knwncx.htm](http://amicable.adsl.dk/aliquot/knwncx.htm), [http://amicable.adsl.dk/aliquot/cx/c6.txt](http://amicable.adsl.dk/aliquot/cx/c6.txt)|
+|[119478](https://oeis.org/A119478)|[http://amicable.adsl.dk/aliquot/cx/c6.txt](http://amicable.adsl.dk/aliquot/cx/c6.txt), [http://amicable.adsl.dk/aliquot/knwncx.htm](http://amicable.adsl.dk/aliquot/knwncx.htm)|
 |[119630](https://oeis.org/A119630)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
 |[119631](https://oeis.org/A119631)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
 |[119648](https://oeis.org/A119648)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
@@ -3089,82 +2699,33 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[120734](https://oeis.org/A120734)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
 |[120892](https://oeis.org/A120892)|[http://jpm-chabert.club.fr/maths/Triangle_rect.htm](http://jpm-chabert.club.fr/maths/Triangle_rect.htm)|
 |[120940](https://oeis.org/A120940)|[http://marcello.gotdns.com/~m/uncount.1.2.pdf](http://marcello.gotdns.com/~m/uncount.1.2.pdf)|
-|[121069](https://oeis.org/A121069)|[http://wwwmaths.anu.edu.au/~brent/pub/pub021.html](http://wwwmaths.anu.edu.au/~brent/pub/pub021.html), [http://wwwmaths.anu.edu.au/~brent/pub/pub019.html](http://wwwmaths.anu.edu.au/~brent/pub/pub019.html), [http://wwwmaths.anu.edu.au/~brent/pub/pub057.html](http://wwwmaths.anu.edu.au/~brent/pub/pub057.html)|
+|[121069](https://oeis.org/A121069)|[http://wwwmaths.anu.edu.au/~brent/pub/pub057.html](http://wwwmaths.anu.edu.au/~brent/pub/pub057.html), [http://wwwmaths.anu.edu.au/~brent/pub/pub019.html](http://wwwmaths.anu.edu.au/~brent/pub/pub019.html), [http://wwwmaths.anu.edu.au/~brent/pub/pub021.html](http://wwwmaths.anu.edu.au/~brent/pub/pub021.html)|
 |[121153](https://oeis.org/A121153)|[http://newton.math.psu.edu/mass/reu/2003/DaRi/proj1.pdf](http://newton.math.psu.edu/mass/reu/2003/DaRi/proj1.pdf)|
 |[121225](https://oeis.org/A121225)|[http://braise.univ-rennes1.fr/donnees/ParamHTML/S%E9ries%20num%E9riques/con/S%E9ries%20semi-convergentes/cst.pdf](http://braise.univ-rennes1.fr/donnees/ParamHTML/S%E9ries%20num%E9riques/con/S%E9ries%20semi-convergentes/cst.pdf)|
 |[121285](https://oeis.org/A121285)|[http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf](http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf)|
 |[121406](https://oeis.org/A121406)|[http://www.primenace.com/papers/math/TwinPrimeEliminationSeries.htm](http://www.primenace.com/papers/math/TwinPrimeEliminationSeries.htm)|
 |[121448](https://oeis.org/A121448)|[https://www.math.rochester.edu/people/faculty/doug/mypapers/lrs.pdf](https://www.math.rochester.edu/people/faculty/doug/mypapers/lrs.pdf)|
-|[121668](https://oeis.org/A121668)|[http://arXiv.org/abs/math.NT/0608577](http://arXiv.org/abs/math.NT/0608577)|
-|[121703](https://oeis.org/A121703)|[http://arXiv.org/abs/math.CO/0608391](http://arXiv.org/abs/math.CO/0608391)|
-|[121881](https://oeis.org/A121881)|[http://arXiv.org/abs/0807.2538](http://arXiv.org/abs/0807.2538)|
-|[121883](https://oeis.org/A121883)|[http://arXiv.org/abs/0807.2538](http://arXiv.org/abs/0807.2538)|
 |[122043](https://oeis.org/A122043)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
-|[122046](https://oeis.org/A122046)|[http://arXiv.org/abs/0807.2538](http://arXiv.org/abs/0807.2538)|
-|[122047](https://oeis.org/A122047)|[http://arXiv.org/abs/0807.2538](http://arXiv.org/abs/0807.2538)|
-|[122051](https://oeis.org/A122051)|[http://arXiv.org/abs/0807.2538](http://arXiv.org/abs/0807.2538)|
-|[122056](https://oeis.org/A122056)|[http://arXiv.org/abs/0807.2538](http://arXiv.org/abs/0807.2538)|
 |[122088](https://oeis.org/A122088)|[http://mathcentral.uregina.ca/QQ/database/QQ.09.03/megan1.html](http://mathcentral.uregina.ca/QQ/database/QQ.09.03/megan1.html)|
 |[122122](https://oeis.org/A122122)|[http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf), [http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf](http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf)|
 |[122133](https://oeis.org/A122133)|[http://www.wm-archive.uni-bayreuth.de/fileadmin/Sascha/Publikationen2/thesis.pdf](http://www.wm-archive.uni-bayreuth.de/fileadmin/Sascha/Publikationen2/thesis.pdf)|
 |[122193](https://oeis.org/A122193)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf), [http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html](http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html)|
-|[122215](https://oeis.org/A122215)|[http://arXiv.org/abs/math.NT/0506319](http://arXiv.org/abs/math.NT/0506319)|
 |[122248](https://oeis.org/A122248)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[122266](https://oeis.org/A122266)|[http://arXiv.org/abs/math.NT/0701251](http://arXiv.org/abs/math.NT/0701251)|
-|[122267](https://oeis.org/A122267)|[http://arXiv.org/abs/math.NT/0701251](http://arXiv.org/abs/math.NT/0701251)|
-|[122505](https://oeis.org/A122505)|[http://arXiv.org/abs/0706.3359](http://arXiv.org/abs/0706.3359)|
-|[122547](https://oeis.org/A122547)|[http://www.arXiv.org/abs/cs.DM/0309017](http://www.arXiv.org/abs/cs.DM/0309017)|
 |[122555](https://oeis.org/A122555)|[http://www.msp.warwick.ac.uk/agt/2005/05/p019.xhtml](http://www.msp.warwick.ac.uk/agt/2005/05/p019.xhtml)|
-|[122705](https://oeis.org/A122705)|[http://arXiv.org/abs/math.CO/0511200](http://arXiv.org/abs/math.CO/0511200)|
-|[122708](https://oeis.org/A122708)|[http://arXiv.org/abs/math.CO/0511200](http://arXiv.org/abs/math.CO/0511200)|
 |[122776](https://oeis.org/A122776)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
 |[122797](https://oeis.org/A122797)|[http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf](http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf)|
-|[122946](https://oeis.org/A122946)|[http://arXiv.org/abs/math/0610601](http://arXiv.org/abs/math/0610601)|
-|[122951](https://oeis.org/A122951)|[http://arXiv.org/abs/math.CO/0610734](http://arXiv.org/abs/math.CO/0610734)|
+|[122871](https://oeis.org/A122871)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[123050](https://oeis.org/A123050)|[http://www-cs-staff.Stanford.EDU/~knuth/fasc4a.ps.gz](http://www-cs-staff.Stanford.EDU/~knuth/fasc4a.ps.gz)|
 |[123101](https://oeis.org/A123101)|[http://www.math.wfu.edu/publications/saidak/hamburg.pdf](http://www.math.wfu.edu/publications/saidak/hamburg.pdf)|
-|[123114](https://oeis.org/A123114)|[http://arXiv.org/abs/math.CO/0503436](http://arXiv.org/abs/math.CO/0503436)|
-|[123125](https://oeis.org/A123125)|[https://doi.org/10.48550/arxiv.2206.13409](https://doi.org/10.48550/arxiv.2206.13409), [http://repository.tue.nl/651203](http://repository.tue.nl/651203)|
+|[123125](https://oeis.org/A123125)|[http://repository.tue.nl/651203](http://repository.tue.nl/651203)|
 |[123129](https://oeis.org/A123129)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
 |[123171](https://oeis.org/A123171)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
 |[123213](https://oeis.org/A123213)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
-|[123481](https://oeis.org/A123481)|[http://arXiv.org/abs/0704.1057](http://arXiv.org/abs/0704.1057)|
 |[123513](https://oeis.org/A123513)|[http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf](http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf)|
 |[123693](https://oeis.org/A123693)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
 |[123753](https://oeis.org/A123753)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[123762](https://oeis.org/A123762)|[http://www.math.ku.dk/~eilers/lego.html](http://www.math.ku.dk/~eilers/lego.html)|
-|[123763](https://oeis.org/A123763)|[http://www.math.ku.dk/~eilers/lego.html](http://www.math.ku.dk/~eilers/lego.html)|
-|[123764](https://oeis.org/A123764)|[http://www.math.ku.dk/~eilers/lego.html](http://www.math.ku.dk/~eilers/lego.html)|
-|[123841](https://oeis.org/A123841)|[http://www.math.ku.dk/~eilers/lego.html](http://www.math.ku.dk/~eilers/lego.html)|
-|[123842](https://oeis.org/A123842)|[http://www.math.ku.dk/~eilers/lego.html](http://www.math.ku.dk/~eilers/lego.html)|
-|[123843](https://oeis.org/A123843)|[http://www.math.ku.dk/~eilers/lego.html](http://www.math.ku.dk/~eilers/lego.html)|
-|[123854](https://oeis.org/A123854)|[http://arXiv.org/abs/math/0610499](http://arXiv.org/abs/math/0610499)|
-|[123871](https://oeis.org/A123871)|[http://arXiv.org/abs/math.CO/0112281](http://arXiv.org/abs/math.CO/0112281)|
-|[123893](https://oeis.org/A123893)|[http://arXiv.org/abs/math.CO/0112281](http://arXiv.org/abs/math.CO/0112281)|
-|[123970](https://oeis.org/A123970)|[http://arXiv.org/abs/0711.0016](http://arXiv.org/abs/0711.0016)|
-|[123991](https://oeis.org/A123991)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
 |[124015](https://oeis.org/A124015)|[http://www2.scrabble-assoc.com/subitems.asp?id=36&amp](http://www2.scrabble-assoc.com/subitems.asp?id=36&amp)|
 |[124254](https://oeis.org/A124254)|[http://acm.uva.es/p/v1/149.html](http://acm.uva.es/p/v1/149.html)|
-|[124478](https://oeis.org/A124478)|[http://arXiv.org/abs/math/0606765](http://arXiv.org/abs/math/0606765)|
-|[124612](https://oeis.org/A124612)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124613](https://oeis.org/A124613)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124614](https://oeis.org/A124614)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124615](https://oeis.org/A124615)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124616](https://oeis.org/A124616)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124617](https://oeis.org/A124617)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124618](https://oeis.org/A124618)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124630](https://oeis.org/A124630)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124631](https://oeis.org/A124631)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124632](https://oeis.org/A124632)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124633](https://oeis.org/A124633)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124634](https://oeis.org/A124634)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124635](https://oeis.org/A124635)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124636](https://oeis.org/A124636)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124637](https://oeis.org/A124637)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124638](https://oeis.org/A124638)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124639](https://oeis.org/A124639)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124640](https://oeis.org/A124640)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
-|[124641](https://oeis.org/A124641)|[http://arXiv.org/abs/math.AC/0609262](http://arXiv.org/abs/math.AC/0609262)|
 |[124663](https://oeis.org/A124663)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
 |[124779](https://oeis.org/A124779)|[http://home.earthlink.net/~jsondow/PrimesAndE.pdf](http://home.earthlink.net/~jsondow/PrimesAndE.pdf)|
 |[124865](https://oeis.org/A124865)|[http://www.math-cs.ucmo.edu/~mjms/2003.3/Norman-Richner.pdf](http://www.math-cs.ucmo.edu/~mjms/2003.3/Norman-Richner.pdf)|
@@ -3172,10 +2733,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[125124](https://oeis.org/A125124)|[http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/](http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/)|
 |[125125](https://oeis.org/A125125)|[http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/](http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/)|
 |[125126](https://oeis.org/A125126)|[http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/](http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/)|
-|[125192](https://oeis.org/A125192)|[http://arXiv.org/abs/math.CO/0405476](http://arXiv.org/abs/math.CO/0405476)|
-|[125196](https://oeis.org/A125196)|[http://arXiv.org/abs/math.CO/0405476](http://arXiv.org/abs/math.CO/0405476)|
-|[125198](https://oeis.org/A125198)|[http://arXiv.org/abs/math.CO/0405476](http://arXiv.org/abs/math.CO/0405476)|
-|[125300](https://oeis.org/A125300)|[http://arXiv.org/abs/math/0612135](http://arXiv.org/abs/math/0612135)|
 |[125305](https://oeis.org/A125305)|[http://www.math.ru.is/anders](http://www.math.ru.is/anders)|
 |[125601](https://oeis.org/A125601)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
 |[125610](https://oeis.org/A125610)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
@@ -3191,13 +2748,12 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[125647](https://oeis.org/A125647)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
 |[125648](https://oeis.org/A125648)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
 |[125649](https://oeis.org/A125649)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[125681](https://oeis.org/A125681)|[http://arXiv.org/abs/math/0701800](http://arXiv.org/abs/math/0701800)|
+|[125750](https://oeis.org/A125750)|[https://www.zobodat.at/pdf/Sitz-Ber-Akad-Muenchen-math-Kl_1952_0001-0005.pdf](https://www.zobodat.at/pdf/Sitz-Ber-Akad-Muenchen-math-Kl_1952_0001-0005.pdf), [https://www.zobodat.at/pdf/Sitz-Ber-Akad-Muenchen-math-Kl_1951_0029.pdf](https://www.zobodat.at/pdf/Sitz-Ber-Akad-Muenchen-math-Kl_1951_0029.pdf)|
 |[125762](https://oeis.org/A125762)|[https://eprint.panzan.me/articles/langford.pdf](https://eprint.panzan.me/articles/langford.pdf)|
-|[126020](https://oeis.org/A126020)|[http://santini.dsi.unimi.it/FTP/papers/ridsi-311-06.pdf](http://santini.dsi.unimi.it/FTP/papers/ridsi-311-06.pdf), [http://homes.dsi.unimi.it/~radicion/Lavori/RI31207.pdf](http://homes.dsi.unimi.it/~radicion/Lavori/RI31207.pdf), [http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf), [http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf](http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf)|
-|[126026](https://oeis.org/A126026)|[http://arXiv.org/abs/math.CO/0702786](http://arXiv.org/abs/math.CO/0702786)|
+|[126020](https://oeis.org/A126020)|[http://homes.dsi.unimi.it/~radicion/Lavori/RI31207.pdf](http://homes.dsi.unimi.it/~radicion/Lavori/RI31207.pdf), [http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf), [http://santini.dsi.unimi.it/FTP/papers/ridsi-311-06.pdf](http://santini.dsi.unimi.it/FTP/papers/ridsi-311-06.pdf), [http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf](http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf)|
 |[126074](https://oeis.org/A126074)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/December2006.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/December2006.html)|
 |[126086](https://oeis.org/A126086)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
-|[126110](https://oeis.org/A126110)|[http://arXiv.org/abs/math.CO/0703070](http://arXiv.org/abs/math.CO/0703070)|
+|[126120](https://oeis.org/A126120)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[126160](https://oeis.org/A126160)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
 |[126161](https://oeis.org/A126161)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
 |[126162](https://oeis.org/A126162)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
@@ -3206,17 +2762,7 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[126167](https://oeis.org/A126167)|[http://amicable.homepage.dk/knwne2.htm](http://amicable.homepage.dk/knwne2.htm)|
 |[126171](https://oeis.org/A126171)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
 |[126176](https://oeis.org/A126176)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
-|[126216](https://oeis.org/A126216)|[http://tcjpn.wordpress.com/2015/12/21/generators-inversion-and-matrix-binomial-and-integral-transforms/](http://tcjpn.wordpress.com/2015/12/21/generators-inversion-and-matrix-binomial-and-integral-transforms/)|
-|[126388](https://oeis.org/A126388)|[http://arXiv.org/abs/math.NT/0508042](http://arXiv.org/abs/math.NT/0508042), [http://arXiv.org/abs/math.CA/0211148](http://arXiv.org/abs/math.CA/0211148)|
-|[126389](https://oeis.org/A126389)|[http://arXiv.org/abs/math.NT/0508042](http://arXiv.org/abs/math.NT/0508042), [http://arXiv.org/abs/math.CA/0211148](http://arXiv.org/abs/math.CA/0211148)|
-|[126648](https://oeis.org/A126648)|[http://arXiv.org/abs/math/0405476](http://arXiv.org/abs/math/0405476)|
-|[126710](https://oeis.org/A126710)|[http://arXiv.org/abs/math/0405476](http://arXiv.org/abs/math/0405476)|
-|[126797](https://oeis.org/A126797)|[http://arXiv.org/abs/math.NT/0702410](http://arXiv.org/abs/math.NT/0702410)|
-|[126848](https://oeis.org/A126848)|[http://arXiv.org/abs/0706.0748](http://arXiv.org/abs/0706.0748)|
-|[126869](https://oeis.org/A126869)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[126930](https://oeis.org/A126930)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[127069](https://oeis.org/A127069)|[http://arXiv.org/abs/quant-ph/0703154](http://arXiv.org/abs/quant-ph/0703154)|
-|[127500](https://oeis.org/A127500)|[http://arXiv.org/abs/math.CO/0703865](http://arXiv.org/abs/math.CO/0703865)|
+|[127193](https://oeis.org/A127193)|[http://www.math.northwestern.edu/~mlerma/problem_solving/results/recurrences.pdf](http://www.math.northwestern.edu/~mlerma/problem_solving/results/recurrences.pdf)|
 |[127567](https://oeis.org/A127567)|[http://h.xerol.org/f/1primecheck.txt](http://h.xerol.org/f/1primecheck.txt), [http://h.xerol.org/f/1primecheck.txt](http://h.xerol.org/f/1primecheck.txt)|
 |[127655](https://oeis.org/A127655)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
 |[127656](https://oeis.org/A127656)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
@@ -3231,117 +2777,41 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[127665](https://oeis.org/A127665)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
 |[127666](https://oeis.org/A127666)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
 |[127667](https://oeis.org/A127667)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[127682](https://oeis.org/A127682)|[http://arXiv.org/abs/math.CO/0701647](http://arXiv.org/abs/math.CO/0701647)|
-|[127684](https://oeis.org/A127684)|[http://arXiv.org/abs/math.CO/0701647](http://arXiv.org/abs/math.CO/0701647)|
-|[127685](https://oeis.org/A127685)|[http://arXiv.org/abs/math.CO/0701647](http://arXiv.org/abs/math.CO/0701647)|
-|[127686](https://oeis.org/A127686)|[http://arXiv.org/abs/math.CO/0701647](http://arXiv.org/abs/math.CO/0701647)|
-|[127709](https://oeis.org/A127709)|[https://arXiv.org/abs/0704.0049](https://arXiv.org/abs/0704.0049)|
-|[127788](https://oeis.org/A127788)|[http://arXiv.org/abs/math/0403148](http://arXiv.org/abs/math/0403148)|
 |[127938](https://oeis.org/A127938)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
-|[128115](https://oeis.org/A128115)|[http://arXiv.org/abs/math/0509292](http://arXiv.org/abs/math/0509292)|
-|[128249](https://oeis.org/A128249)|[http://arXiv.org/abs/0704.0004](http://arXiv.org/abs/0704.0004)|
-|[128426](https://oeis.org/A128426)|[http://arXiv.org/abs/0705.0338](http://arXiv.org/abs/0705.0338)|
-|[128445](https://oeis.org/A128445)|[http://arXiv.org/abs/0705.0998](http://arXiv.org/abs/0705.0998)|
 |[128588](https://oeis.org/A128588)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
-|[128612](https://oeis.org/A128612)|[http://arXiv.org/abs/math.CO/0602263](http://arXiv.org/abs/math.CO/0602263)|
-|[128613](https://oeis.org/A128613)|[http://arXiv.org/abs/math.CO/0602263](http://arXiv.org/abs/math.CO/0602263)|
-|[128656](https://oeis.org/A128656)|[http://arXiv.org/abs/math.CO/0603225](http://arXiv.org/abs/math.CO/0603225)|
-|[128695](https://oeis.org/A128695)|[http://arXiv.org/abs/math.CO/0603285](http://arXiv.org/abs/math.CO/0603285)|
-|[128816](https://oeis.org/A128816)|[http://arXiv.org/abs/math.CO/0603481](http://arXiv.org/abs/math.CO/0603481)|
-|[128818](https://oeis.org/A128818)|[http://arXiv.org/abs/0704.0646](http://arXiv.org/abs/0704.0646), [http://arXiv.org/abs/0709.4024](http://arXiv.org/abs/0709.4024)|
-|[128819](https://oeis.org/A128819)|[http://arXiv.org/abs/0704.1041](http://arXiv.org/abs/0704.1041)|
 |[128852](https://oeis.org/A128852)|[http://www.primenace.com/papers/math/Anti-ElitePrimes.htm](http://www.primenace.com/papers/math/Anti-ElitePrimes.htm)|
-|[128868](https://oeis.org/A128868)|[http://arXiv.org/abs/0704.1969](http://arXiv.org/abs/0704.1969)|
-|[128907](https://oeis.org/A128907)|[http://arXiv.org/abs/0704.2428](http://arXiv.org/abs/0704.2428)|
-|[129022](https://oeis.org/A129022)|[http://zfn.mpdl.mpg.de/data/Reihe_A/51/ZNA-1996-51a-1073.pdf](http://zfn.mpdl.mpg.de/data/Reihe_A/51/ZNA-1996-51a-1073.pdf)|
 |[129206](https://oeis.org/A129206)|[http://grail.eecs.csuohio.edu~/somos/wxyz.wl](http://grail.eecs.csuohio.edu~/somos/wxyz.wl), [http://grail.eecs.csuohio.edu/~somos/wxyz.gp](http://grail.eecs.csuohio.edu/~somos/wxyz.gp)|
-|[129524](https://oeis.org/A129524)|[http://arXiv.org/abs/math.CO/9811127](http://arXiv.org/abs/math.CO/9811127)|
-|[129563](https://oeis.org/A129563)|[http://arXiv.org/abs/0704.2453](http://arXiv.org/abs/0704.2453)|
-|[129581](https://oeis.org/A129581)|[http://arXiv.org/abs/0705.0038](http://arXiv.org/abs/0705.0038)|
-|[129582](https://oeis.org/A129582)|[http://arXiv.org/abs/0705.0038](http://arXiv.org/abs/0705.0038)|
 |[129598](https://oeis.org/A129598)|[http://stefan.guninski.com/cgi/oeis-quad.cgi?q=A129598&amp](http://stefan.guninski.com/cgi/oeis-quad.cgi?q=A129598&amp)|
-|[129638](https://oeis.org/A129638)|[http://arXiv.org/abs/0706.0249](http://arXiv.org/abs/0706.0249)|
-|[129698](https://oeis.org/A129698)|[http://arXiv.org/abs/0705.4524](http://arXiv.org/abs/0705.4524)|
-|[129704](https://oeis.org/A129704)|[http://arXiv.org/abs/math.GT/0311380](http://arXiv.org/abs/math.GT/0311380)|
-|[129775](https://oeis.org/A129775)|[http://arXiv.org/abs/0704.3469](http://arXiv.org/abs/0704.3469), [http://myweb.cwpost.liu.edu/jlosoncz/man13.pdf](http://myweb.cwpost.liu.edu/jlosoncz/man13.pdf)|
-|[129776](https://oeis.org/A129776)|[http://arXiv.org/abs/0704.3469](http://arXiv.org/abs/0704.3469), [http://www.arXiv.org/abs/0704.3067](http://www.arXiv.org/abs/0704.3067)|
-|[129777](https://oeis.org/A129777)|[http://www.arXiv.org/abs/0704.3067](http://www.arXiv.org/abs/0704.3067), [http://arXiv.org/abs/0704.3469](http://arXiv.org/abs/0704.3469)|
-|[129778](https://oeis.org/A129778)|[http://www.arXiv.org/abs/math.CO/0612043](http://www.arXiv.org/abs/math.CO/0612043)|
-|[129810](https://oeis.org/A129810)|[http://www.mathforum.org/library/drmath/view/63676.html](http://www.mathforum.org/library/drmath/view/63676.html), [http://www.mathforum.org/library/drmath/view/59172.html](http://www.mathforum.org/library/drmath/view/59172.html)|
-|[129815](https://oeis.org/A129815)|[http://arXiv.org/abs/math.CO/0603520](http://arXiv.org/abs/math.CO/0603520)|
-|[129907](https://oeis.org/A129907)|[http://arXiv.org/abs/0707.2542](http://arXiv.org/abs/0707.2542)|
+|[129775](https://oeis.org/A129775)|[http://myweb.cwpost.liu.edu/jlosoncz/man13.pdf](http://myweb.cwpost.liu.edu/jlosoncz/man13.pdf)|
+|[129810](https://oeis.org/A129810)|[http://www.mathforum.org/library/drmath/view/59172.html](http://www.mathforum.org/library/drmath/view/59172.html), [http://www.mathforum.org/library/drmath/view/63676.html](http://www.mathforum.org/library/drmath/view/63676.html)|
+|[129818](https://oeis.org/A129818)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[129924](https://oeis.org/A129924)|[http://home.earthlink.net/~jsondow/PrimesAndE.pdf](http://home.earthlink.net/~jsondow/PrimesAndE.pdf)|
 |[129956](https://oeis.org/A129956)|[http://www.gutenberg.org/etext/50](http://www.gutenberg.org/etext/50)|
 |[130131](https://oeis.org/A130131)|[http://theory.cs.uvic.ca/dis/distribute.pl.cgi?package=FreeTree.c](http://theory.cs.uvic.ca/dis/distribute.pl.cgi?package=FreeTree.c)|
 |[130151](https://oeis.org/A130151)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[130294](https://oeis.org/A130294)|[http://arXiv.org/abs/math.AG/0503224](http://arXiv.org/abs/math.AG/0503224)|
-|[130306](https://oeis.org/A130306)|[http://arXiv.org/abs/math.AG/0503224](http://arXiv.org/abs/math.AG/0503224)|
 |[130444](https://oeis.org/A130444)|[http://lists.distributed.net/pipermail/announce/2004/000077.html](http://lists.distributed.net/pipermail/announce/2004/000077.html)|
-|[130516](https://oeis.org/A130516)|[http://arXiv.org/abs/math.CO/0703865](http://arXiv.org/abs/math.CO/0703865)|
-|[130539](https://oeis.org/A130539)|[http://arXiv.org/abs/math/0509424](http://arXiv.org/abs/math/0509424)|
-|[130568](https://oeis.org/A130568)|[http://arXiv.org/abs/0708.1015](http://arXiv.org/abs/0708.1015)|
-|[130627](https://oeis.org/A130627)|[http://arXiv.org/abs/0706.2297](http://arXiv.org/abs/0706.2297)|
-|[130705](https://oeis.org/A130705)|[http://arXiv.org/abs/0707.0077](http://arXiv.org/abs/0707.0077)|
-|[130749](https://oeis.org/A130749)|[http://arXiv.org/abs/0805.2465](http://arXiv.org/abs/0805.2465)|
 |[130764](https://oeis.org/A130764)|[http://www.en.wikipedia.org/wiki/ASCII](http://www.en.wikipedia.org/wiki/ASCII)|
 |[130765](https://oeis.org/A130765)|[http://www.en.wikipedia.org/wiki/ASCII](http://www.en.wikipedia.org/wiki/ASCII)|
 |[130782](https://oeis.org/A130782)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
 |[130795](https://oeis.org/A130795)|[http://local.wasp.uwa.edu.au/~pbourke/surfaces_curves/tritorus/index.html](http://local.wasp.uwa.edu.au/~pbourke/surfaces_curves/tritorus/index.html)|
-|[130852](https://oeis.org/A130852)|[http://arXiv.org/abs/0706.2464](http://arXiv.org/abs/0706.2464)|
-|[131265](https://oeis.org/A131265)|[http://arXiv.org/abs/0705.2379](http://arXiv.org/abs/0705.2379)|
-|[131266](https://oeis.org/A131266)|[http://arXiv.org/abs/0705.2640](http://arXiv.org/abs/0705.2640)|
-|[131342](https://oeis.org/A131342)|[http://arXiv.org/abs/0709.3821](http://arXiv.org/abs/0709.3821)|
+|[131198](https://oeis.org/A131198)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[131353](https://oeis.org/A131353)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[131455](https://oeis.org/A131455)|[http://arXiv.org/abs/math.AG/0209062](http://arXiv.org/abs/math.AG/0209062)|
-|[131653](https://oeis.org/A131653)|[http://arXiv.org/abs/0803.0900](http://arXiv.org/abs/0803.0900)|
-|[131672](https://oeis.org/A131672)|[http://arXiv.org/abs/0709.1570](http://arXiv.org/abs/0709.1570)|
-|[131688](https://oeis.org/A131688)|[http://www.arXiv.org/abs/0706.0345](http://www.arXiv.org/abs/0706.0345)|
 |[131689](https://oeis.org/A131689)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
 |[131729](https://oeis.org/A131729)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
 |[131747](https://oeis.org/A131747)|[http://www-staff.lboro.ac.uk/~codr2/](http://www-staff.lboro.ac.uk/~codr2/)|
-|[131769](https://oeis.org/A131769)|[http://arXiv.org/abs/math.AG/0104036](http://arXiv.org/abs/math.AG/0104036)|
-|[131811](https://oeis.org/A131811)|[http://arXiv.org/abs/math.CA/0302215](http://arXiv.org/abs/math.CA/0302215)|
 |[131842](https://oeis.org/A131842)|[https://www.longeri.org/prime/nature.html](https://www.longeri.org/prime/nature.html)|
-|[131872](https://oeis.org/A131872)|[http://www.arXiv.org/abs/math.NT/0408319](http://www.arXiv.org/abs/math.NT/0408319)|
-|[131915](https://oeis.org/A131915)|[http://arXiv.org/abs/0707.3950](http://arXiv.org/abs/0707.3950)|
-|[131916](https://oeis.org/A131916)|[http://arXiv.org/abs/0707.3950](http://arXiv.org/abs/0707.3950)|
-|[131917](https://oeis.org/A131917)|[http://arXiv.org/abs/0707.3950](http://arXiv.org/abs/0707.3950)|
-|[131918](https://oeis.org/A131918)|[http://arXiv.org/abs/0707.3950](http://arXiv.org/abs/0707.3950)|
-|[132056](https://oeis.org/A132056)|[http://arXiv.org/abs/quant-ph/0402027](http://arXiv.org/abs/quant-ph/0402027)|
-|[132094](https://oeis.org/A132094)|[http://arXiv.org/abs/0708.0809](http://arXiv.org/abs/0708.0809)|
-|[132096](https://oeis.org/A132096)|[http://arXiv.org/abs/0708.0809](http://arXiv.org/abs/0708.0809)|
-|[132097](https://oeis.org/A132097)|[http://arXiv.org/abs/0708.0809](http://arXiv.org/abs/0708.0809)|
-|[132098](https://oeis.org/A132098)|[http://arXiv.org/abs/0708.0809](http://arXiv.org/abs/0708.0809)|
-|[132099](https://oeis.org/A132099)|[http://arXiv.org/abs/0708.0809](http://arXiv.org/abs/0708.0809)|
-|[132199](https://oeis.org/A132199)|[http://arXiv.org/abs/0710.3217](http://arXiv.org/abs/0710.3217)|
-|[132203](https://oeis.org/A132203)|[http://arXiv.org/abs/0711.0171](http://arXiv.org/abs/0711.0171)|
-|[132222](https://oeis.org/A132222)|[http://arXiv.org/abs/0708.1015](http://arXiv.org/abs/0708.1015)|
-|[132229](https://oeis.org/A132229)|[http://arXiv.org/abs/math.NT/0506496](http://arXiv.org/abs/math.NT/0506496)|
 |[132235](https://oeis.org/A132235)|[http://primes.utm.com](http://primes.utm.com)|
-|[132282](https://oeis.org/A132282)|[http://arXiv.org/abs/0706.1497](http://arXiv.org/abs/0706.1497)|
 |[132394](https://oeis.org/A132394)|[http://harry-j-smith-memorial.com/download.html#Left-Tru](http://harry-j-smith-memorial.com/download.html#Left-Tru)|
-|[132399](https://oeis.org/A132399)|[http://arXiv.org/abs/0803.3737](http://arXiv.org/abs/0803.3737)|
+|[132574](https://oeis.org/A132574)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[132967](https://oeis.org/A132967)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
 |[132968](https://oeis.org/A132968)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[133000](https://oeis.org/A133000)|[http://arXiv.org/abs/0708.0809](http://arXiv.org/abs/0708.0809)|
-|[133001](https://oeis.org/A133001)|[http://arXiv.org/abs/0708.0809](http://arXiv.org/abs/0708.0809)|
-|[133004](https://oeis.org/A133004)|[http://arXiv.org/abs/0708.0809](http://arXiv.org/abs/0708.0809)|
-|[133005](https://oeis.org/A133005)|[http://arXiv.org/abs/0708.0809](http://arXiv.org/abs/0708.0809)|
 |[133024](https://oeis.org/A133024)|[http://www.polrpimos.com](http://www.polrpimos.com)|
 |[133025](https://oeis.org/A133025)|[http://www.polrpimos.com](http://www.polrpimos.com)|
 |[133031](https://oeis.org/A133031)|[http://www.polrpimos.com](http://www.polrpimos.com)|
-|[133219](https://oeis.org/A133219)|[http://arXiv.org/abs/0709.3361](http://arXiv.org/abs/0709.3361)|
 |[133314](https://oeis.org/A133314)|[http://www.math.uakron.edu/~sf34/hedra.htm#index](http://www.math.uakron.edu/~sf34/hedra.htm#index)|
-|[133362](https://oeis.org/A133362)|[http://arXiv.org/abs/0710.4076](http://arXiv.org/abs/0710.4076)|
 |[133437](https://oeis.org/A133437)|[http://www.math.uakron.edu/~sf34/hedra.htm#index](http://www.math.uakron.edu/~sf34/hedra.htm#index)|
 |[133487](https://oeis.org/A133487)|[http://willnicholes.com/metaprimes.htm](http://willnicholes.com/metaprimes.htm)|
 |[133492](https://oeis.org/A133492)|[http://willnicholes.com/primesig.htm](http://willnicholes.com/primesig.htm)|
-|[133510](https://oeis.org/A133510)|[http://arXiv.org/abs/0705.3413](http://arXiv.org/abs/0705.3413)|
-|[133575](https://oeis.org/A133575)|[http://arXiv.org/abs/0709.2189](http://arXiv.org/abs/0709.2189)|
-|[133827](https://oeis.org/A133827)|[http://arXiv.org/abs/math.NT/0603150](http://arXiv.org/abs/math.NT/0603150)|
-|[133847](https://oeis.org/A133847)|[http://arXiv.org/abs/0709.2529](http://arXiv.org/abs/0709.2529)|
-|[133848](https://oeis.org/A133848)|[http://arXiv.org/abs/0709.2529](http://arXiv.org/abs/0709.2529)|
-|[133854](https://oeis.org/A133854)|[http://arXiv.org/abs/0709.2529](http://arXiv.org/abs/0709.2529)|
 |[134164](https://oeis.org/A134164)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
 |[134171](https://oeis.org/A134171)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
 |[134175](https://oeis.org/A134175)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
@@ -3349,47 +2819,15 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[134241](https://oeis.org/A134241)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
 |[134242](https://oeis.org/A134242)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
 |[134243](https://oeis.org/A134243)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
-|[134342](https://oeis.org/A134342)|[http://www.lti.pcs.usp.br/~nwerneck/adaptoide/](http://www.lti.pcs.usp.br/~nwerneck/adaptoide/)|
-|[134582](https://oeis.org/A134582)|[http://arXiv.org/abs/math/9805132](http://arXiv.org/abs/math/9805132)|
-|[134659](https://oeis.org/A134659)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
-|[134660](https://oeis.org/A134660)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
-|[134661](https://oeis.org/A134661)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
-|[134662](https://oeis.org/A134662)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
-|[134663](https://oeis.org/A134663)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
-|[134744](https://oeis.org/A134744)|[http://arXiv.org/abs/0710.3217](http://arXiv.org/abs/0710.3217)|
 |[134975](https://oeis.org/A134975)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[135021](https://oeis.org/A135021)|[http://166.111.121.20:9218/fedora/get/mathjourpaper:YISY200202003/fedora-system:3/getItem?itemID=DS1](http://166.111.121.20:9218/fedora/get/mathjourpaper:YISY200202003/fedora-system:3/getItem?itemID=DS1)|
 |[135073](https://oeis.org/A135073)|[http://www36.tok2.com/home/kamada/math/](http://www36.tok2.com/home/kamada/math/)|
-|[135209](https://oeis.org/A135209)|[http://robertmatthews.org/index.php/dagapeyeff/](http://robertmatthews.org/index.php/dagapeyeff/)|
 |[135244](https://oeis.org/A135244)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
 |[135245](https://oeis.org/A135245)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[135278](https://oeis.org/A135278)|[http://www.groupsstandrews.org/2013/slides/Hughes.pdf](http://www.groupsstandrews.org/2013/slides/Hughes.pdf)|
 |[135531](https://oeis.org/A135531)|[http://db.worldscinet.com/worldscientific/Files/20080221051222484143%5BJ1000219(AT)131.215.226.97%5D(AT)page.pdf](http://db.worldscinet.com/worldscientific/Files/20080221051222484143%5BJ1000219(AT)131.215.226.97%5D(AT)page.pdf)|
-|[135538](https://oeis.org/A135538)|[http://arXiv.org/abs/0802.0572](http://arXiv.org/abs/0802.0572)|
 |[135733](https://oeis.org/A135733)|[http://harry-j-smith-memorial.com/Goldbach/](http://harry-j-smith-memorial.com/Goldbach/)|
-|[136110](https://oeis.org/A136110)|[http://arXiv.org/abs/0711.0865](http://arXiv.org/abs/0711.0865)|
-|[136120](https://oeis.org/A136120)|[http://arXiv.org/abs/0711.0865](http://arXiv.org/abs/0711.0865)|
-|[136194](https://oeis.org/A136194)|[http://arXiv.org/abs/0803.1859](http://arXiv.org/abs/0803.1859)|
-|[136268](https://oeis.org/A136268)|[http://arXiv.org/abs/0803.2629](http://arXiv.org/abs/0803.2629)|
-|[136293](https://oeis.org/A136293)|[http://arXiv.org/abs/0803.2751](http://arXiv.org/abs/0803.2751)|
 |[136409](https://oeis.org/A136409)|[http://reflections.awesomemath.org/2006_3/2006_3_ceilingsums.pdf](http://reflections.awesomemath.org/2006_3/2006_3_ceilingsums.pdf)|
-|[136431](https://oeis.org/A136431)|[http://arXiv.org/abs/0803.4388](http://arXiv.org/abs/0803.4388)|
 |[136433](https://oeis.org/A136433)|[http://www.greatitcareer.com/btarchieve.asp?pgno=23](http://www.greatitcareer.com/btarchieve.asp?pgno=23), [http://www.randpersonnel.co.za/mailerfeb08.htm](http://www.randpersonnel.co.za/mailerfeb08.htm)|
-|[136716](https://oeis.org/A136716)|[http://arXiv.org/abs/math/0508570](http://arXiv.org/abs/math/0508570)|
-|[136717](https://oeis.org/A136717)|[http://arXiv.org/abs/math/0604455](http://arXiv.org/abs/math/0604455)|
-|[136718](https://oeis.org/A136718)|[http://arXiv.org/abs/math/0604455](http://arXiv.org/abs/math/0604455)|
-|[136775](https://oeis.org/A136775)|[http://arXiv.org/abs/0801.2597](http://arXiv.org/abs/0801.2597)|
-|[136776](https://oeis.org/A136776)|[http://arXiv.org/abs/0801.2597](http://arXiv.org/abs/0801.2597)|
-|[136777](https://oeis.org/A136777)|[http://arXiv.org/abs/0801.2597](http://arXiv.org/abs/0801.2597)|
-|[136778](https://oeis.org/A136778)|[http://arXiv.org/abs/0801.2597](http://arXiv.org/abs/0801.2597)|
-|[136779](https://oeis.org/A136779)|[http://arXiv.org/abs/0801.2597](http://arXiv.org/abs/0801.2597)|
-|[136780](https://oeis.org/A136780)|[http://arXiv.org/abs/0801.2597](http://arXiv.org/abs/0801.2597)|
-|[136781](https://oeis.org/A136781)|[http://arXiv.org/abs/0801.2597](http://arXiv.org/abs/0801.2597)|
-|[136782](https://oeis.org/A136782)|[http://arXiv.org/abs/0801.2597](http://arXiv.org/abs/0801.2597)|
-|[136783](https://oeis.org/A136783)|[http://arXiv.org/abs/0801.2597](http://arXiv.org/abs/0801.2597)|
-|[136784](https://oeis.org/A136784)|[http://arXiv.org/abs/0801.2597](http://arXiv.org/abs/0801.2597)|
-|[136785](https://oeis.org/A136785)|[http://arXiv.org/abs/0801.2597](http://arXiv.org/abs/0801.2597)|
-|[136786](https://oeis.org/A136786)|[http://arXiv.org/abs/0801.2597](http://arXiv.org/abs/0801.2597)|
 |[136808](https://oeis.org/A136808)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[136810](https://oeis.org/A136810)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[136811](https://oeis.org/A136811)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
@@ -3713,50 +3151,18 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[137145](https://oeis.org/A137145)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[137146](https://oeis.org/A137146)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[137147](https://oeis.org/A137147)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137176](https://oeis.org/A137176)|[http://arXiv.org/abs/0803.4388](http://arXiv.org/abs/0803.4388)|
-|[137189](https://oeis.org/A137189)|[http://arXiv.org/abs/0712.3509](http://arXiv.org/abs/0712.3509)|
-|[137225](https://oeis.org/A137225)|[http://arXiv.org/abs/0803.0477](http://arXiv.org/abs/0803.0477)|
 |[137294](https://oeis.org/A137294)|[http://compgeom.cs.uiuc.edu/~jeffe/pubs/sowing.html](http://compgeom.cs.uiuc.edu/~jeffe/pubs/sowing.html)|
 |[137295](https://oeis.org/A137295)|[http://compgeom.cs.uiuc.edu/~jeffe/pubs/sowing.html](http://compgeom.cs.uiuc.edu/~jeffe/pubs/sowing.html)|
 |[137348](https://oeis.org/A137348)|[http://www.ct.tkk.fi/~vesa/](http://www.ct.tkk.fi/~vesa/)|
 |[137385](https://oeis.org/A137385)|[http://les-mathematiques.u-strasbg.fr/phorum5/read.php?2](http://les-mathematiques.u-strasbg.fr/phorum5/read.php?2)|
-|[137421](https://oeis.org/A137421)|[http://arXiv.org/abs/0804.2400](http://arXiv.org/abs/0804.2400)|
 |[137432](https://oeis.org/A137432)|[http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html](http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html)|
-|[137576](https://oeis.org/A137576)|[http://arXiv.org/abs/0804.3682](http://arXiv.org/abs/0804.3682)|
-|[137613](https://oeis.org/A137613)|[http://www2.lifl.fr/~delahaye/IAGL/Conjectures.pdf](http://www2.lifl.fr/~delahaye/IAGL/Conjectures.pdf), [http://arXiv.org/abs/0710.3217](http://arXiv.org/abs/0710.3217)|
+|[137613](https://oeis.org/A137613)|[http://www2.lifl.fr/~delahaye/IAGL/Conjectures.pdf](http://www2.lifl.fr/~delahaye/IAGL/Conjectures.pdf)|
 |[137726](https://oeis.org/A137726)|[https://www.spoj.pl/problems/JZPCIR/](https://www.spoj.pl/problems/JZPCIR/)|
-|[137850](https://oeis.org/A137850)|[http://arXiv.org/abs/0806.0044](http://arXiv.org/abs/0806.0044)|
 |[137864](https://oeis.org/A137864)|[http://www.teachers.ash.org.au/mikemath/numseqfindiff/note2.pdf](http://www.teachers.ash.org.au/mikemath/numseqfindiff/note2.pdf)|
-|[138159](https://oeis.org/A138159)|[http://arXiv.org/abs/math.CO/9808080](http://arXiv.org/abs/math.CO/9808080)|
-|[138162](https://oeis.org/A138162)|[http://arXiv.org/abs/math.CO/0105073](http://arXiv.org/abs/math.CO/0105073)|
-|[138163](https://oeis.org/A138163)|[http://arXiv.org/abs/math.CO/0105073](http://arXiv.org/abs/math.CO/0105073), [http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
-|[138176](https://oeis.org/A138176)|[http://arXiv.org/abs/math-ph/0312071](http://arXiv.org/abs/math-ph/0312071)|
-|[138202](https://oeis.org/A138202)|[http://arXiv.org/abs/math.NT/0502007](http://arXiv.org/abs/math.NT/0502007)|
-|[138276](https://oeis.org/A138276)|[http://arXiv.org/abs/math.CO/0410429](http://arXiv.org/abs/math.CO/0410429)|
-|[138277](https://oeis.org/A138277)|[http://arXiv.org/abs/math.CO/0410429](http://arXiv.org/abs/math.CO/0410429)|
+|[138163](https://oeis.org/A138163)|[http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
 |[138329](https://oeis.org/A138329)|[http://free.pages.at/neuenkirchen/palindrom/](http://free.pages.at/neuenkirchen/palindrom/), [http://free.pages.at/neuenkirchen/palindrom/bilder/prime/snp-twins.txt](http://free.pages.at/neuenkirchen/palindrom/bilder/prime/snp-twins.txt)|
-|[138349](https://oeis.org/A138349)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138350](https://oeis.org/A138350)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138354](https://oeis.org/A138354)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138356](https://oeis.org/A138356)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
 |[138358](https://oeis.org/A138358)|[http://free.pages.at/neuenkirchen/palindrom/](http://free.pages.at/neuenkirchen/palindrom/), [http://free.pages.at/neuenkirchen/palindrom/bilder/prime/tupelx.txt](http://free.pages.at/neuenkirchen/palindrom/bilder/prime/tupelx.txt)|
 |[138359](https://oeis.org/A138359)|[http://free.pages.at/neuenkirchen/palindrom/bilder/prime/tupelx.txt](http://free.pages.at/neuenkirchen/palindrom/bilder/prime/tupelx.txt), [http://free.pages.at/neuenkirchen/palindrom/](http://free.pages.at/neuenkirchen/palindrom/)|
-|[138474](https://oeis.org/A138474)|[http://arXiv.org/abs/0803.2483](http://arXiv.org/abs/0803.2483)|
-|[138481](https://oeis.org/A138481)|[http://arXiv.org/find/all/1/au:+khovanova/0/1/0/all/0/1](http://arXiv.org/find/all/1/au:+khovanova/0/1/0/all/0/1)|
-|[138482](https://oeis.org/A138482)|[http://arXiv.org/find/all/1/au:+khovanova/0/1/0/all/0/1](http://arXiv.org/find/all/1/au:+khovanova/0/1/0/all/0/1)|
-|[138540](https://oeis.org/A138540)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138541](https://oeis.org/A138541)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138542](https://oeis.org/A138542)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138543](https://oeis.org/A138543)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138544](https://oeis.org/A138544)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138545](https://oeis.org/A138545)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138546](https://oeis.org/A138546)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138547](https://oeis.org/A138547)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138548](https://oeis.org/A138548)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138549](https://oeis.org/A138549)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138551](https://oeis.org/A138551)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138552](https://oeis.org/A138552)|[http://arXiv.org/abs/0803.4462](http://arXiv.org/abs/0803.4462)|
-|[138571](https://oeis.org/A138571)|[http://arXiv.org/abs/math.CO/0605479](http://arXiv.org/abs/math.CO/0605479)|
 |[138728](https://oeis.org/A138728)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
 |[138769](https://oeis.org/A138769)|[http://www.matematikolimpiyatokulu.com/images/Mag_Abr_2009.pdf](http://www.matematikolimpiyatokulu.com/images/Mag_Abr_2009.pdf)|
 |[138818](https://oeis.org/A138818)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
@@ -3764,38 +3170,18 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[138873](https://oeis.org/A138873)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
 |[138875](https://oeis.org/A138875)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
 |[138877](https://oeis.org/A138877)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
-|[138965](https://oeis.org/A138965)|[http://arXiv.org/abs/math/0604019](http://arXiv.org/abs/math/0604019)|
-|[139002](https://oeis.org/A139002)|[http://arXiv.org/abs/0707.1204](http://arXiv.org/abs/0707.1204), [http://arXiv.org/abs/hep-th/9810087](http://arXiv.org/abs/hep-th/9810087)|
 |[139250](https://oeis.org/A139250)|[http://boisemathcircles.org/bmc-sessions/toothpicks](http://boisemathcircles.org/bmc-sessions/toothpicks)|
-|[139708](https://oeis.org/A139708)|[http://arXiv.org/abs/math.CO/0409408](http://arXiv.org/abs/math.CO/0409408)|
-|[139813](https://oeis.org/A139813)|[http://arXiv.org/abs/hep-th/9405086](http://arXiv.org/abs/hep-th/9405086)|
 |[140118](https://oeis.org/A140118)|[http://jonathanwellons.com/](http://jonathanwellons.com/)|
-|[140124](https://oeis.org/A140124)|[http://arXiv.org/abs/0806.0607](http://arXiv.org/abs/0806.0607)|
-|[140259](https://oeis.org/A140259)|[http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace](http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace), [http://www.lti.pcs.usp.br/~nwerneck/adaptoide/](http://www.lti.pcs.usp.br/~nwerneck/adaptoide/)|
-|[140260](https://oeis.org/A140260)|[http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace](http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace), [http://www.lti.pcs.usp.br/~nwerneck/adaptoide/](http://www.lti.pcs.usp.br/~nwerneck/adaptoide/)|
-|[140261](https://oeis.org/A140261)|[http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace](http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace), [http://www.lti.pcs.usp.br/~nwerneck/adaptoide/](http://www.lti.pcs.usp.br/~nwerneck/adaptoide/)|
-|[140332](https://oeis.org/A140332)|[http://arXiv.org/abs/0805.4174](http://arXiv.org/abs/0805.4174)|
+|[140259](https://oeis.org/A140259)|[http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace](http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace)|
+|[140260](https://oeis.org/A140260)|[http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace](http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace)|
+|[140261](https://oeis.org/A140261)|[http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace](http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace)|
 |[140395](https://oeis.org/A140395)|[http://bama.ua.edu/~clc/hindi/numbers_hindi.html](http://bama.ua.edu/~clc/hindi/numbers_hindi.html)|
-|[140633](https://oeis.org/A140633)|[http://arXiv.org/abs/math.NT/0410266](http://arXiv.org/abs/math.NT/0410266)|
+|[140456](https://oeis.org/A140456)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[140662](https://oeis.org/A140662)|[http://www.math.yorku.ca/Who/Faculty/Rensburg/Preprints/slits.pdf](http://www.math.yorku.ca/Who/Faculty/Rensburg/Preprints/slits.pdf)|
 |[140688](https://oeis.org/A140688)|[http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm)|
-|[140792](https://oeis.org/A140792)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[141085](https://oeis.org/A141085)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
 |[141199](https://oeis.org/A141199)|[http://ago.inria.fr/libraries/libraries.html).](http://ago.inria.fr/libraries/libraries.html).)|
 |[141618](https://oeis.org/A141618)|[https://mathfiles.kfupm.edu.sa/data/files/mathonly/TechnicalReportsData/305.pdf](https://mathfiles.kfupm.edu.sa/data/files/mathonly/TechnicalReportsData/305.pdf)|
-|[141826](https://oeis.org/A141826)|[http://www.scienceu.com/geometry/facts/solids/handson.html](http://www.scienceu.com/geometry/facts/solids/handson.html)|
-|[141834](https://oeis.org/A141834)|[http://arXiv.org/abs/math.CO/0606613](http://arXiv.org/abs/math.CO/0606613)|
 |[142708](https://oeis.org/A142708)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[143105](https://oeis.org/A143105)|[http://arXiv.org/abs/0708.3232](http://arXiv.org/abs/0708.3232)|
-|[143106](https://oeis.org/A143106)|[http://arXiv.org/abs/0708.3232](http://arXiv.org/abs/0708.3232)|
-|[143107](https://oeis.org/A143107)|[http://arXiv.org/abs/0708.3232](http://arXiv.org/abs/0708.3232)|
-|[143108](https://oeis.org/A143108)|[http://arXiv.org/abs/0708.3232](http://arXiv.org/abs/0708.3232)|
-|[143109](https://oeis.org/A143109)|[http://arXiv.org/abs/0708.3232](http://arXiv.org/abs/0708.3232)|
-|[143223](https://oeis.org/A143223)|[http://arXiv.org/abs/math/0607096](http://arXiv.org/abs/math/0607096)|
-|[143224](https://oeis.org/A143224)|[http://arXiv.org/abs/math/0607096](http://arXiv.org/abs/math/0607096)|
-|[143225](https://oeis.org/A143225)|[http://arXiv.org/abs/math/0607096](http://arXiv.org/abs/math/0607096)|
-|[143226](https://oeis.org/A143226)|[http://arXiv.org/abs/math/0607096](http://arXiv.org/abs/math/0607096)|
-|[143227](https://oeis.org/A143227)|[http://arXiv.org/abs/math/0607096](http://arXiv.org/abs/math/0607096)|
 |[143300](https://oeis.org/A143300)|[http://www.pages.drexel.edu/~schmutze/PAPERS/musn.pdf](http://www.pages.drexel.edu/~schmutze/PAPERS/musn.pdf), [http://ftp.bolyai.hu/~p_erdos/1965-08.pdf](http://ftp.bolyai.hu/~p_erdos/1965-08.pdf)|
 |[143484](https://oeis.org/A143484)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
 |[143485](https://oeis.org/A143485)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
@@ -3804,7 +3190,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[143488](https://oeis.org/A143488)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
 |[143489](https://oeis.org/A143489)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
 |[143490](https://oeis.org/A143490)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
-|[143494](https://oeis.org/A143494)|[http://www.arXiv.org/abs/math.CO/0509207](http://www.arXiv.org/abs/math.CO/0509207)|
 |[143497](https://oeis.org/A143497)|[http://preprinti.imfm.si/PDF/00837.pdf](http://preprinti.imfm.si/PDF/00837.pdf)|
 |[143667](https://oeis.org/A143667)|[http://alexis.monnerot-dumaine.neuf.fr/articles/fibonacci%20fractal.pdf](http://alexis.monnerot-dumaine.neuf.fr/articles/fibonacci%20fractal.pdf)|
 |[143699](https://oeis.org/A143699)|[http://www.theophys.kth.se/~phl/Text/1factors2.pdf](http://www.theophys.kth.se/~phl/Text/1factors2.pdf)|
@@ -3814,11 +3199,8 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[143745](https://oeis.org/A143745)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
 |[143751](https://oeis.org/A143751)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
 |[143752](https://oeis.org/A143752)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[144018](https://oeis.org/A144018)|[https://arXiv.org/abs/math.CO/0205301](https://arXiv.org/abs/math.CO/0205301)|
-|[144042](https://oeis.org/A144042)|[https://arXiv.org/abs/math.CO/0205301](https://arXiv.org/abs/math.CO/0205301)|
-|[144045](https://oeis.org/A144045)|[http://arXiv.org/abs/1011.4671](http://arXiv.org/abs/1011.4671)|
-|[144590](https://oeis.org/A144590)|[http://arXiv.org/abs/0803.3737](http://arXiv.org/abs/0803.3737)|
 |[144618](https://oeis.org/A144618)|[http://dip.sun.ac.za/~laurie/papers/computing_gamma.pdf](http://dip.sun.ac.za/~laurie/papers/computing_gamma.pdf)|
+|[144685](https://oeis.org/A144685)|[https://www.kellogg.northwestern.edu/research/math/seminars/200405/Galambos06205.pdf](https://www.kellogg.northwestern.edu/research/math/seminars/200405/Galambos06205.pdf)|
 |[144714](https://oeis.org/A144714)|[http://harry-j-smith-memorial.com/download.html#Left-Tru](http://harry-j-smith-memorial.com/download.html#Left-Tru)|
 |[144738](https://oeis.org/A144738)|[http://barrybrent.9f.com/storage/my%20math/zeta.pdf](http://barrybrent.9f.com/storage/my%20math/zeta.pdf)|
 |[144828](https://oeis.org/A144828)|[http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf](http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf)|
@@ -3848,86 +3230,23 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[146897](https://oeis.org/A146897)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[146946](https://oeis.org/A146946)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[146947](https://oeis.org/A146947)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[146953](https://oeis.org/A146953)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
 |[146961](https://oeis.org/A146961)|[http://os.osdd.net/index.php/record/view/150854](http://os.osdd.net/index.php/record/view/150854)|
-|[146976](https://oeis.org/A146976)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[147314](https://oeis.org/A147314)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[147531](https://oeis.org/A147531)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[147628](https://oeis.org/A147628)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[147632](https://oeis.org/A147632)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[147633](https://oeis.org/A147633)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[147635](https://oeis.org/A147635)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[147770](https://oeis.org/A147770)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151411](https://oeis.org/A151411)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151422](https://oeis.org/A151422)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151435](https://oeis.org/A151435)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151513](https://oeis.org/A151513)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151559](https://oeis.org/A151559)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151560](https://oeis.org/A151560)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151561](https://oeis.org/A151561)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151562](https://oeis.org/A151562)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151563](https://oeis.org/A151563)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151564](https://oeis.org/A151564)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151618](https://oeis.org/A151618)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151619](https://oeis.org/A151619)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151620](https://oeis.org/A151620)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151621](https://oeis.org/A151621)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151622](https://oeis.org/A151622)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151623](https://oeis.org/A151623)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151660](https://oeis.org/A151660)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151661](https://oeis.org/A151661)|[http://arXiv.org/abs/math.CO/0409418](http://arXiv.org/abs/math.CO/0409418)|
-|[151695](https://oeis.org/A151695)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151696](https://oeis.org/A151696)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151697](https://oeis.org/A151697)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151698](https://oeis.org/A151698)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151699](https://oeis.org/A151699)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151700](https://oeis.org/A151700)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151701](https://oeis.org/A151701)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151713](https://oeis.org/A151713)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151721](https://oeis.org/A151721)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151722](https://oeis.org/A151722)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151736](https://oeis.org/A151736)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151769](https://oeis.org/A151769)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151770](https://oeis.org/A151770)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151771](https://oeis.org/A151771)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151772](https://oeis.org/A151772)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151773](https://oeis.org/A151773)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151810](https://oeis.org/A151810)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151811](https://oeis.org/A151811)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151812](https://oeis.org/A151812)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151813](https://oeis.org/A151813)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151815](https://oeis.org/A151815)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151818](https://oeis.org/A151818)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151838](https://oeis.org/A151838)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151839](https://oeis.org/A151839)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151840](https://oeis.org/A151840)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151841](https://oeis.org/A151841)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151876](https://oeis.org/A151876)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151877](https://oeis.org/A151877)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151878](https://oeis.org/A151878)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151909](https://oeis.org/A151909)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151933](https://oeis.org/A151933)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151934](https://oeis.org/A151934)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151935](https://oeis.org/A151935)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
-|[151936](https://oeis.org/A151936)|[http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html](http://isec.ec.okayama-u.ac.jp/home/kusaka/wd/index.html)|
 |[151937](https://oeis.org/A151937)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html)|
 |[151938](https://oeis.org/A151938)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html)|
 |[151939](https://oeis.org/A151939)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html)|
 |[151940](https://oeis.org/A151940)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html)|
-|[151976](https://oeis.org/A151976)|[http://arXiv.org/abs/0904.2101](http://arXiv.org/abs/0904.2101)|
 |[152089](https://oeis.org/A152089)|[http://stefan.guninski.com/seq/guyres2.txt](http://stefan.guninski.com/seq/guyres2.txt)|
 |[152217](https://oeis.org/A152217)|[http://staff.spd.dcu.ie/johnbcos/jacobi.htm](http://staff.spd.dcu.ie/johnbcos/jacobi.htm)|
 |[152532](https://oeis.org/A152532)|[http://math.crg4.com/uninteresting.html](http://math.crg4.com/uninteresting.html)|
-|[152673](https://oeis.org/A152673)|[http://www.magic-squares.net/perimeter-3.htm](http://www.magic-squares.net/perimeter-3.htm), [http://www.magic-squares.net/Image_object/cube-prime.gif](http://www.magic-squares.net/Image_object/cube-prime.gif)|
+|[152673](https://oeis.org/A152673)|[http://www.magic-squares.net/Image_object/cube-prime.gif](http://www.magic-squares.net/Image_object/cube-prime.gif), [http://www.magic-squares.net/perimeter-3.htm](http://www.magic-squares.net/perimeter-3.htm)|
 |[153195](https://oeis.org/A153195)|[http://harry-j-smith-memorial.com/download.html#XICalc](http://harry-j-smith-memorial.com/download.html#XICalc)|
+|[153197](https://oeis.org/A153197)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[153385](https://oeis.org/A153385)|[http://harry-j-smith-memorial.com/download.html#XICalc](http://harry-j-smith-memorial.com/download.html#XICalc)|
 |[153450](https://oeis.org/A153450)|[http://harry-j-smith-memorial.com/download.html#XICalc](http://harry-j-smith-memorial.com/download.html#XICalc)|
-|[154752](https://oeis.org/A154752)|[http://arXiv.org/abs/0803.3737](http://arXiv.org/abs/0803.3737)|
+|[153810](https://oeis.org/A153810)|[http://www.dmg.tuwien.ac.at/nfn/gamma.pdf](http://www.dmg.tuwien.ac.at/nfn/gamma.pdf)|
 |[156209](https://oeis.org/A156209)|[http://mars.wnec.edu/~thull/papers/flatsurvey.pdf](http://mars.wnec.edu/~thull/papers/flatsurvey.pdf), [http://mars.wnec.edu/~thull/papers/countingfolds.pdf](http://mars.wnec.edu/~thull/papers/countingfolds.pdf)|
-|[156229](https://oeis.org/A156229)|[http://arXiv.org/abs/0902.1046](http://arXiv.org/abs/0902.1046)|
 |[156596](https://oeis.org/A156596)|[http://alexis.monnerot-dumaine.neuf.fr/articles/fibonacci%20fractal.pdf](http://alexis.monnerot-dumaine.neuf.fr/articles/fibonacci%20fractal.pdf)|
 |[156989](https://oeis.org/A156989)|[http://michaelnielsen.org/polymath1/index.php?title=Main_Page](http://michaelnielsen.org/polymath1/index.php?title=Main_Page)|
-|[157779](https://oeis.org/A157779)|[http://arXiv.org/abs/1707.04451](http://arXiv.org/abs/1707.04451)|
 |[157795](https://oeis.org/A157795)|[http://michaelnielsen.org/polymath1/index.php?title=Fujimura%27s_problem](http://michaelnielsen.org/polymath1/index.php?title=Fujimura%27s_problem)|
 |[157810](https://oeis.org/A157810)|[http://www.thehcmr.org/issue1_2/problems_and_solutions.pdf](http://www.thehcmr.org/issue1_2/problems_and_solutions.pdf)|
 |[158239](https://oeis.org/A158239)|[http://blade100.math.scu.edu.tw/~u9217/hw3.nb](http://blade100.math.scu.edu.tw/~u9217/hw3.nb)|
@@ -3948,53 +3267,30 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[159919](https://oeis.org/A159919)|[http://banach.millersville.edu/~bob/math478/History/Sundaram.html](http://banach.millersville.edu/~bob/math478/History/Sundaram.html)|
 |[159920](https://oeis.org/A159920)|[http://banach.millersville.edu/~bob/math478/History/Sundaram.html](http://banach.millersville.edu/~bob/math478/History/Sundaram.html)|
 |[160590](https://oeis.org/A160590)|[http://sfnet.fi/group.php?newsgroup=sfnet.tiede.matematiikka&amp](http://sfnet.fi/group.php?newsgroup=sfnet.tiede.matematiikka&amp)|
-|[160860](https://oeis.org/A160860)|[http://arXiv.org/abs/math.MG/9508209](http://arXiv.org/abs/math.MG/9508209)|
+|[160753](https://oeis.org/A160753)|[http://hdl.handle.net/2292/3800](http://hdl.handle.net/2292/3800), [http://hdl.handle.net/2292/3784](http://hdl.handle.net/2292/3784)|
 |[161328](https://oeis.org/A161328)|[http://blog.barabel.net/index.php?post/2012/01/epiphanie](http://blog.barabel.net/index.php?post/2012/01/epiphanie)|
 |[161434](https://oeis.org/A161434)|[http://www.mat.unisi.it/newsito/puma/public_html/17_1_2/grazzini.pdf](http://www.mat.unisi.it/newsito/puma/public_html/17_1_2/grazzini.pdf)|
-|[161580](https://oeis.org/A161580)|[http://arXiv.org/abs/0907.0880](http://arXiv.org/abs/0907.0880)|
-|[161639](https://oeis.org/A161639)|[http://arXiv.org/abs/0907.0880](http://arXiv.org/abs/0907.0880)|
-|[161664](https://oeis.org/A161664)|[http://philoscience.unibe.ch/lehre/winter06/wtwg_bio/webb01.pdf](http://philoscience.unibe.ch/lehre/winter06/wtwg_bio/webb01.pdf)|
+|[161664](https://oeis.org/A161664)|[http://wiki.wildforests.co/topic/Cicada](http://wiki.wildforests.co/topic/Cicada), [http://philoscience.unibe.ch/lehre/winter06/wtwg_bio/webb01.pdf](http://philoscience.unibe.ch/lehre/winter06/wtwg_bio/webb01.pdf)|
 |[161680](https://oeis.org/A161680)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[161752](https://oeis.org/A161752)|[http://www.magic-squares.net/narciss.htm#PDIs](http://www.magic-squares.net/narciss.htm#PDIs)|
 |[161810](https://oeis.org/A161810)|[http://ace.delos.com/HOL09)](http://ace.delos.com/HOL09))|
-|[161817](https://oeis.org/A161817)|[http://arXiv.org/abs/0907.0880](http://arXiv.org/abs/0907.0880)|
-|[161824](https://oeis.org/A161824)|[http://arXiv.org/abs/0907.0880](http://arXiv.org/abs/0907.0880)|
-|[161890](https://oeis.org/A161890)|[http://arXiv.org/abs/0907.0880](http://arXiv.org/abs/0907.0880)|
 |[161948](https://oeis.org/A161948)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
 |[161949](https://oeis.org/A161949)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
 |[161950](https://oeis.org/A161950)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
 |[161952](https://oeis.org/A161952)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
-|[162174](https://oeis.org/A162174)|[http://arXiv.org/abs/0711.0865](http://arXiv.org/abs/0711.0865)|
-|[162175](https://oeis.org/A162175)|[http://arXiv.org/abs/0711.0865](http://arXiv.org/abs/0711.0865)|
-|[162311](https://oeis.org/A162311)|[http://arXiv.org/abs/0907.0880](http://arXiv.org/abs/0907.0880)|
 |[162395](https://oeis.org/A162395)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
 |[162607](https://oeis.org/A162607)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
-|[162634](https://oeis.org/A162634)|[http://arXiv.org/abs/0907.0880](http://arXiv.org/abs/0907.0880)|
-|[162647](https://oeis.org/A162647)|[http://arXiv.org/abs/0907.0880](http://arXiv.org/abs/0907.0880)|
-|[163000](https://oeis.org/A163000)|[http://arXiv.org/abs/0907.3302](http://arXiv.org/abs/0907.3302)|
 |[163095](https://oeis.org/A163095)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[163279](https://oeis.org/A163279)|[http://math.crg4.com/uninteresting.html](http://math.crg4.com/uninteresting.html)|
-|[163417](https://oeis.org/A163417)|[http://arXiv.org/abs/math/0701903](http://arXiv.org/abs/math/0701903)|
-|[163577](https://oeis.org/A163577)|[http://arXiv.org/abs/0907.3302](http://arXiv.org/abs/0907.3302)|
-|[164109](https://oeis.org/A164109)|[https://doi.org/10.48550/arXiv.2203.04184](https://doi.org/10.48550/arXiv.2203.04184)|
-|[164288](https://oeis.org/A164288)|[http://arXiv.org/abs/0908.2319](http://arXiv.org/abs/0908.2319)|
-|[164294](https://oeis.org/A164294)|[http://arXiv.org/abs/0908.2319](http://arXiv.org/abs/0908.2319)|
-|[164333](https://oeis.org/A164333)|[http://arXiv.org/abs/0908.2319](http://arXiv.org/abs/0908.2319)|
 |[164355](https://oeis.org/A164355)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
 |[164356](https://oeis.org/A164356)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
 |[164357](https://oeis.org/A164357)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[164368](https://oeis.org/A164368)|[http://arXiv.org/abs/0908.2319](http://arXiv.org/abs/0908.2319)|
-|[164554](https://oeis.org/A164554)|[http://arXiv.org/abs/0908.2319](http://arXiv.org/abs/0908.2319)|
 |[164843](https://oeis.org/A164843)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
-|[164917](https://oeis.org/A164917)|[http://arXiv.org/abs/0908.2319](http://arXiv.org/abs/0908.2319)|
-|[164918](https://oeis.org/A164918)|[http://arXiv.org/abs/0908.2319](http://arXiv.org/abs/0908.2319)|
 |[164935](https://oeis.org/A164935)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html)|
-|[164940](https://oeis.org/A164940)|[http://arXiv.org/abs/math.NT/0502007](http://arXiv.org/abs/math.NT/0502007)|
 |[166079](https://oeis.org/A166079)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[166486](https://oeis.org/A166486)|[http://cis.csuohio.edu/~somos/rfmc.html](http://cis.csuohio.edu/~somos/rfmc.html)|
 |[167050](https://oeis.org/A167050)|[http://andfog.altervista.org/math/Cesenatico/Cesenatico%201999.pdf](http://andfog.altervista.org/math/Cesenatico/Cesenatico%201999.pdf)|
 |[167132](https://oeis.org/A167132)|[http://primes.virtual-library.biz/](http://primes.virtual-library.biz/)|
-|[167168](https://oeis.org/A167168)|[http://arXiv.org/abs/0910.4676](http://arXiv.org/abs/0910.4676)|
 |[167232](https://oeis.org/A167232)|[http://www.spoj.pl/problems/KPSUM/](http://www.spoj.pl/problems/KPSUM/)|
 |[167289](https://oeis.org/A167289)|[http://oldweb.cecm.sfu.ca/~mjm/Lehmer/](http://oldweb.cecm.sfu.ca/~mjm/Lehmer/)|
 |[167389](https://oeis.org/A167389)|[http://kong.apmaths.uwo.ca/~rcorless/frames/PAPERS/LambertW/](http://kong.apmaths.uwo.ca/~rcorless/frames/PAPERS/LambertW/)|
@@ -4010,28 +3306,16 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[171093](https://oeis.org/A171093)|[http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf](http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf)|
 |[171094](https://oeis.org/A171094)|[http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf](http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf)|
 |[171150](https://oeis.org/A171150)|[http://puma.dimai.unifi.it/21_2/1_Barnabei_Bonetti_Silimbani.pdf](http://puma.dimai.unifi.it/21_2/1_Barnabei_Bonetti_Silimbani.pdf)|
-|[171182](https://oeis.org/A171182)|[http://arXiv.org/abs/0903.1743](http://arXiv.org/abs/0903.1743)|
 |[171381](https://oeis.org/A171381)|[http://ijcalvo.galeon.com/pubs.htm](http://ijcalvo.galeon.com/pubs.htm)|
-|[171870](https://oeis.org/A171870)|[http://arXiv.org/abs/math/0309224](http://arXiv.org/abs/math/0309224)|
 |[172060](https://oeis.org/A172060)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/bona.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/bona.pdf)|
 |[172243](https://oeis.org/A172243)|[http://mathworld.wolfram.co/ProthPrime.html](http://mathworld.wolfram.co/ProthPrime.html)|
 |[172259](https://oeis.org/A172259)|[http://www-maths.swan.ac.uk/staff/fwc/Gregynog-slides.pdf](http://www-maths.swan.ac.uk/staff/fwc/Gregynog-slides.pdf)|
-|[172450](https://oeis.org/A172450)|[http://arXiv.org/abs/1103.4936](http://arXiv.org/abs/1103.4936)|
-|[172455](https://oeis.org/A172455)|[http://arXiv.org/abs/1103.4936](http://arXiv.org/abs/1103.4936)|
-|[172485](https://oeis.org/A172485)|[http://arXiv.org/abs/1103.4936](http://arXiv.org/abs/1103.4936)|
-|[172992](https://oeis.org/A172992)|[http://infinitesearchspace.dyndns.org/orchardplanting)](http://infinitesearchspace.dyndns.org/orchardplanting)), [http://infinitesearchspace.dyndns.org/content/orchard-mini-contest)](http://infinitesearchspace.dyndns.org/content/orchard-mini-contest))|
-|[173292](https://oeis.org/A173292)|[http://arXiv.org/abs/0906.4868](http://arXiv.org/abs/0906.4868)|
+|[172395](https://oeis.org/A172395)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[172992](https://oeis.org/A172992)|[http://infinitesearchspace.dyndns.org/content/orchard-mini-contest)](http://infinitesearchspace.dyndns.org/content/orchard-mini-contest)), [http://infinitesearchspace.dyndns.org/orchardplanting)](http://infinitesearchspace.dyndns.org/orchardplanting))|
 |[173522](https://oeis.org/A173522)|[http://www.imfm.si/preprinti/PDF/00696.pdf](http://www.imfm.si/preprinti/PDF/00696.pdf)|
 |[173561](https://oeis.org/A173561)|[https://www.sunsite.ubc.ca/~gerg/papers/downloads/SVP.pdf](https://www.sunsite.ubc.ca/~gerg/papers/downloads/SVP.pdf)|
-|[173729](https://oeis.org/A173729)|[http://arXiv.org/abs/math.CO/0506315](http://arXiv.org/abs/math.CO/0506315)|
-|[173980](https://oeis.org/A173980)|[http://arXiv.org/abs/0912.4006](http://arXiv.org/abs/0912.4006)|
 |[174094](https://oeis.org/A174094)|[http://parsec2.unina2.it/ojs/index.php/periodico/article/view/285](http://parsec2.unina2.it/ojs/index.php/periodico/article/view/285)|
-|[174167](https://oeis.org/A174167)|[http://www.globalstatements.com/shortcuts/88a.html](http://www.globalstatements.com/shortcuts/88a.html)|
-|[174214](https://oeis.org/A174214)|[http://arXiv.org/abs/0912.4006](http://arXiv.org/abs/0912.4006)|
-|[174215](https://oeis.org/A174215)|[http://arXiv.org/abs/0912.4006](http://arXiv.org/abs/0912.4006)|
-|[174216](https://oeis.org/A174216)|[http://arXiv.org/abs/0912.4006](http://arXiv.org/abs/0912.4006)|
-|[174217](https://oeis.org/A174217)|[http://arXiv.org/abs/0912.4006](http://arXiv.org/abs/0912.4006)|
-|[174420](https://oeis.org/A174420)|[http://arXiv.org/abs/math.NT/0312440](http://arXiv.org/abs/math.NT/0312440)|
+|[174347](https://oeis.org/A174347)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[174590](https://oeis.org/A174590)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#76](http://www.chalcedon.demon.co.uk/rgep/publish.html#76)|
 |[174734](https://oeis.org/A174734)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#76](http://www.chalcedon.demon.co.uk/rgep/publish.html#76)|
 |[174973](https://oeis.org/A174973)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
@@ -4043,17 +3327,9 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[176341](https://oeis.org/A176341)|[http://oldweb.cecm.sfu.ca/projects/ISC/data/pi.html](http://oldweb.cecm.sfu.ca/projects/ISC/data/pi.html)|
 |[176988](https://oeis.org/A176988)|[http://www.weblearn.hs-bremen.de/risse/papers/SiP27/Zernike.pdf](http://www.weblearn.hs-bremen.de/risse/papers/SiP27/Zernike.pdf)|
 |[177854](https://oeis.org/A177854)|[http://bitc.bme.emory.edu/~lzhou/blogs/?p=117](http://bitc.bme.emory.edu/~lzhou/blogs/?p=117)|
-|[178127](https://oeis.org/A178127)|[http://www.jstor.org/stable/40391170](http://www.jstor.org/stable/40391170)|
-|[178142](https://oeis.org/A178142)|[http://arXiv.org/abs/0903.1743](http://arXiv.org/abs/0903.1743)|
-|[178143](https://oeis.org/A178143)|[http://arXiv.org/abs/0903.1743](http://arXiv.org/abs/0903.1743)|
-|[178144](https://oeis.org/A178144)|[http://arXiv.org/abs/0903.1743](http://arXiv.org/abs/0903.1743)|
-|[178146](https://oeis.org/A178146)|[http://arXiv.org/abs/0903.1743](http://arXiv.org/abs/0903.1743)|
-|[178147](https://oeis.org/A178147)|[http://arXiv.org/abs/0903.1743](http://arXiv.org/abs/0903.1743)|
-|[178451](https://oeis.org/A178451)|[http://arXiv.org/abs/hep-th/0307293](http://arXiv.org/abs/hep-th/0307293)|
 |[178683](https://oeis.org/A178683)|[http://userweb.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1044.html](http://userweb.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1044.html)|
 |[178718](https://oeis.org/A178718)|[http://www.cems.uvm.edu/~gwarring/research/kinv9.pdf](http://www.cems.uvm.edu/~gwarring/research/kinv9.pdf)|
 |[178722](https://oeis.org/A178722)|[http://zealint.ru/sixqueens-torus-results.html](http://zealint.ru/sixqueens-torus-results.html)|
-|[178797](https://oeis.org/A178797)|[http://arXiv.org/abs/1007.1655](http://arXiv.org/abs/1007.1655)|
 |[178866](https://oeis.org/A178866)|[https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf](https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf)|
 |[178867](https://oeis.org/A178867)|[https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf](https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf)|
 |[178940](https://oeis.org/A178940)|[http://www.cems.uvm.edu/~gwarring/research/kinv9.pdf](http://www.cems.uvm.edu/~gwarring/research/kinv9.pdf)|
@@ -4077,8 +3353,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[179391](https://oeis.org/A179391)|[http://willnicholes.com/math/pisano.htm](http://willnicholes.com/math/pisano.htm)|
 |[179392](https://oeis.org/A179392)|[http://willnicholes.com/math/pisano.htm](http://willnicholes.com/math/pisano.htm)|
 |[179393](https://oeis.org/A179393)|[http://willnicholes.com/math/pisano.htm](http://willnicholes.com/math/pisano.htm)|
-|[179454](https://oeis.org/A179454)|[https://doi.org/10.48550/arxiv.2206.13409](https://doi.org/10.48550/arxiv.2206.13409)|
-|[179457](https://oeis.org/A179457)|[https://doi.org/10.48550/arxiv.2206.13409](https://doi.org/10.48550/arxiv.2206.13409)|
 |[179476](https://oeis.org/A179476)|[http://knuth07.labri.fr/talks/lefebvre_kmparrays_knuth07.pdf](http://knuth07.labri.fr/talks/lefebvre_kmparrays_knuth07.pdf)|
 |[179642](https://oeis.org/A179642)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
 |[179643](https://oeis.org/A179643)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
@@ -4116,11 +3390,11 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[180335](https://oeis.org/A180335)|[http://amicable.adsl.dk/aliquot/apstat/apreg22.txt](http://amicable.adsl.dk/aliquot/apstat/apreg22.txt)|
 |[180362](https://oeis.org/A180362)|[http://eprints.maths.ox.ac.uk/166/](http://eprints.maths.ox.ac.uk/166/)|
 |[180620](https://oeis.org/A180620)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
+|[180907](https://oeis.org/A180907)|[http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf](http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf)|
 |[180962](https://oeis.org/A180962)|[http://theory.cs.uvic.ca/inf/pose/LinearExt.html](http://theory.cs.uvic.ca/inf/pose/LinearExt.html)|
 |[180971](https://oeis.org/A180971)|[http://www.scribd.com/doc/38461010/Solutions-to-N-N-1-X-2-Y-2](http://www.scribd.com/doc/38461010/Solutions-to-N-N-1-X-2-Y-2)|
 |[181073](https://oeis.org/A181073)|[http://www.rudimatematici.com/Bookshelf/divisibilitaper3.pdf](http://www.rudimatematici.com/Bookshelf/divisibilitaper3.pdf), [http://www.scribd.com/doc/47337392/On-prime-factors-in-old-and-new-sequences-of-integers](http://www.scribd.com/doc/47337392/On-prime-factors-in-old-and-new-sequences-of-integers)|
 |[181132](https://oeis.org/A181132)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[181567](https://oeis.org/A181567)|[http://xrjunque.nom.es/precis/polycalc.aspx](http://xrjunque.nom.es/precis/polycalc.aspx)|
 |[181584](https://oeis.org/A181584)|[http://zealint.ru/prehamilton-cycles-lattice-results.html](http://zealint.ru/prehamilton-cycles-lattice-results.html)|
 |[181740](https://oeis.org/A181740)|[http://michaelnielsen.org/polymath1/index.php?title=The_Erd%C5%91s_discrepancy_problem](http://michaelnielsen.org/polymath1/index.php?title=The_Erd%C5%91s_discrepancy_problem)|
 |[181875](https://oeis.org/A181875)|[http://www.math-cs.ucmo.edu/~mjms/2003.1/Surow.pdf](http://www.math-cs.ucmo.edu/~mjms/2003.1/Surow.pdf)|
@@ -4140,17 +3414,9 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[184334](https://oeis.org/A184334)|[http://grail.eecs.csuohio.edu/rfmc.txt](http://grail.eecs.csuohio.edu/rfmc.txt)|
 |[184418](https://oeis.org/A184418)|[http://somos.crgr4.com/rfmc.txt](http://somos.crgr4.com/rfmc.txt)|
 |[185103](https://oeis.org/A185103)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
-|[185193](https://oeis.org/A185193)|[http://arXiv.org/abs/math.CO/9811127](http://arXiv.org/abs/math.CO/9811127)|
-|[185194](https://oeis.org/A185194)|[http://arXiv.org/abs/math.CO/9811127](http://arXiv.org/abs/math.CO/9811127)|
 |[185276](https://oeis.org/A185276)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
-|[185303](https://oeis.org/A185303)|[http://arXiv.org/abs/math.CO/9811127](http://arXiv.org/abs/math.CO/9811127)|
 |[185312](https://oeis.org/A185312)|[http://south.rotol.ramk.fi/keranen/ias2002/NewAbelianSquare-FreeDT0L-LanguagesOver4Letters.nb](http://south.rotol.ramk.fi/keranen/ias2002/NewAbelianSquare-FreeDT0L-LanguagesOver4Letters.nb)|
-|[185586](https://oeis.org/A185586)|[http://arXiv.org/abs/math.NT/0204011](http://arXiv.org/abs/math.NT/0204011)|
 |[185641](https://oeis.org/A185641)|[http://sci.tech-archive.net/Archive/sci.math/2004-09/4405.html](http://sci.tech-archive.net/Archive/sci.math/2004-09/4405.html)|
-|[185711](https://oeis.org/A185711)|[http://www.arXiv.org/abs/math.NT/0408319](http://www.arXiv.org/abs/math.NT/0408319)|
-|[185712](https://oeis.org/A185712)|[http://www.arXiv.org/abs/math.NT/0408319](http://www.arXiv.org/abs/math.NT/0408319)|
-|[185714](https://oeis.org/A185714)|[http://www.arXiv.org/abs/math.NT/0408319](http://www.arXiv.org/abs/math.NT/0408319)|
-|[185715](https://oeis.org/A185715)|[http://www.arXiv.org/abs/math.NT/0408319](http://www.arXiv.org/abs/math.NT/0408319)|
 |[186080](https://oeis.org/A186080)|[http://users.skynet.be/worldofnumbers/cube.htm](http://users.skynet.be/worldofnumbers/cube.htm)|
 |[186101](https://oeis.org/A186101)|[http://cis.csuohio.edu/~somos/rfmc.pdf](http://cis.csuohio.edu/~somos/rfmc.pdf)|
 |[186111](https://oeis.org/A186111)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
@@ -4163,8 +3429,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[187595](https://oeis.org/A187595)|[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD273464&amp](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD273464&amp)|
 |[187717](https://oeis.org/A187717)|[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD273464&amp](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD273464&amp)|
 |[187737](https://oeis.org/A187737)|[http://oai.cwi.nl/oai/asset/6942/6942A.pdf](http://oai.cwi.nl/oai/asset/6942/6942A.pdf)|
-|[187781](https://oeis.org/A187781)|[http://arXiv.org/abs/math.MG/9508209](http://arXiv.org/abs/math.MG/9508209)|
-|[187782](https://oeis.org/A187782)|[http://arXiv.org/abs/math.MG/9508209](http://arXiv.org/abs/math.MG/9508209)|
 |[187843](https://oeis.org/A187843)|[http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi](http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi)|
 |[187871](https://oeis.org/A187871)|[http://www.misacertijos.com.ar/2011/03/lineas-con-numeros-de-1-n.html](http://www.misacertijos.com.ar/2011/03/lineas-con-numeros-de-1-n.html)|
 |[188052](https://oeis.org/A188052)|[http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi](http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi)|
@@ -4173,10 +3437,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[188510](https://oeis.org/A188510)|[http://cis.csuohio.edu/~somos/rfmc.html](http://cis.csuohio.edu/~somos/rfmc.html)|
 |[188528](https://oeis.org/A188528)|[http://www.merlyn.demon.co.uk/zel-86px.htm](http://www.merlyn.demon.co.uk/zel-86px.htm)|
 |[188578](https://oeis.org/A188578)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[188696](https://oeis.org/A188696)|[http://arXiv.org/abs/math.CO/9806036](http://arXiv.org/abs/math.CO/9806036)|
-|[188697](https://oeis.org/A188697)|[http://arXiv.org/abs/math.CO/9806036](http://arXiv.org/abs/math.CO/9806036)|
-|[188714](https://oeis.org/A188714)|[http://arXiv.org/abs/math.CO/9806036](http://arXiv.org/abs/math.CO/9806036)|
-|[188765](https://oeis.org/A188765)|[http://arXiv.org/abs/math.CO/9806036](http://arXiv.org/abs/math.CO/9806036)|
 |[189344](https://oeis.org/A189344)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
 |[189391](https://oeis.org/A189391)|[http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf)|
 |[189722](https://oeis.org/A189722)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/April2011.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/April2011.html), [http://vihart.com/blog/how-to-snakes/](http://vihart.com/blog/how-to-snakes/)|
@@ -4242,16 +3502,12 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[191619](https://oeis.org/A191619)|[http://eprints.maths.ox.ac.uk/166/](http://eprints.maths.ox.ac.uk/166/)|
 |[191620](https://oeis.org/A191620)|[http://eprints.maths.ox.ac.uk/166/](http://eprints.maths.ox.ac.uk/166/)|
 |[192062](https://oeis.org/A192062)|[http://tech.groups.com/group/Triangular_and_Fibonacci_Numbers/messages](http://tech.groups.com/group/Triangular_and_Fibonacci_Numbers/messages)|
+|[192432](https://oeis.org/A192432)|[http://www.liafa.jussieu.fr/~lovejoy/WRTmock5.pdf](http://www.liafa.jussieu.fr/~lovejoy/WRTmock5.pdf)|
+|[192433](https://oeis.org/A192433)|[http://www.liafa.jussieu.fr/~lovejoy/WRTmock5.pdf](http://www.liafa.jussieu.fr/~lovejoy/WRTmock5.pdf)|
 |[192437](https://oeis.org/A192437)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[192855](https://oeis.org/A192855)|[http://arXiv.org/abs/math.CO/0501230](http://arXiv.org/abs/math.CO/0501230), [http://arXiv.org/abs/math.CO/0506551](http://arXiv.org/abs/math.CO/0506551)|
-|[192865](https://oeis.org/A192865)|[http://arXiv.org/abs/math.CO/0506551](http://arXiv.org/abs/math.CO/0506551), [http://arXiv.org/abs/math.CO/0501230](http://arXiv.org/abs/math.CO/0501230)|
-|[192866](https://oeis.org/A192866)|[http://arXiv.org/abs/math.CO/0506551](http://arXiv.org/abs/math.CO/0506551), [http://arXiv.org/abs/math.CO/0501230](http://arXiv.org/abs/math.CO/0501230)|
-|[192867](https://oeis.org/A192867)|[http://arXiv.org/abs/math.CO/0506551](http://arXiv.org/abs/math.CO/0506551), [http://arXiv.org/abs/math.CO/0501230](http://arXiv.org/abs/math.CO/0501230)|
 |[193069](https://oeis.org/A193069)|[http://www.numq.com/pwn/](http://www.numq.com/pwn/)|
 |[193256](https://oeis.org/A193256)|[http://mathinfo06.iecn.u-nancy.fr/papers/dmAG411-414.pdf](http://mathinfo06.iecn.u-nancy.fr/papers/dmAG411-414.pdf)|
 |[193623](https://oeis.org/A193623)|[http://www.resnet.wm.edu/~cklixx/reu02.pdf](http://www.resnet.wm.edu/~cklixx/reu02.pdf)|
-|[193674](https://oeis.org/A193674)|[http://pierre.colomb.me/data/paper/icfca2010.pdf](http://pierre.colomb.me/data/paper/icfca2010.pdf)|
-|[193675](https://oeis.org/A193675)|[http://pierre.colomb.me/data/paper/icfca2010.pdf](http://pierre.colomb.me/data/paper/icfca2010.pdf)|
 |[193690](https://oeis.org/A193690)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
 |[193778](https://oeis.org/A193778)|[http://puma.dimai.unifi.it/23_3/hardt_troyka.pdf](http://puma.dimai.unifi.it/23_3/hardt_troyka.pdf)|
 |[194181](https://oeis.org/A194181)|[http://eprints.maths.ox.ac.uk/1106/1/NA-06-17.pdf](http://eprints.maths.ox.ac.uk/1106/1/NA-06-17.pdf)|
@@ -4267,43 +3523,24 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[195654](https://oeis.org/A195654)|[http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html](http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html)|
 |[195655](https://oeis.org/A195655)|[http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html](http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html)|
 |[195656](https://oeis.org/A195656)|[http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html](http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html)|
-|[195913](https://oeis.org/A195913)|[https://www.jstor.org/stable/24340810](https://www.jstor.org/stable/24340810), [https://www.jstor.org/stable/24337914](https://www.jstor.org/stable/24337914)|
 |[196149](https://oeis.org/A196149)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
 |[197424](https://oeis.org/A197424)|[http://www.mathramz.com/mrpsg/Sol/MathMag1854.pdf](http://www.mathramz.com/mrpsg/Sol/MathMag1854.pdf)|
-|[199401](https://oeis.org/A199401)|[http://arXiv.org/abs/0803.1456](http://arXiv.org/abs/0803.1456)|
+|[198322](https://oeis.org/A198322)|[http://www.jstor.org/stable/2027327](http://www.jstor.org/stable/2027327)|
 |[199476](https://oeis.org/A199476)|[http://www.springerlink.com/content/24g51u87527017u7/](http://www.springerlink.com/content/24g51u87527017u7/)|
 |[199477](https://oeis.org/A199477)|[http://www.springerlink.com/content/24g51u87527017u7/](http://www.springerlink.com/content/24g51u87527017u7/)|
 |[199478](https://oeis.org/A199478)|[http://www.springerlink.com/content/980453w252uvn23j/](http://www.springerlink.com/content/980453w252uvn23j/)|
 |[199676](https://oeis.org/A199676)|[https://www3.tuhh.de/e11/schmidt/CombinatorialData/GraphData.html](https://www3.tuhh.de/e11/schmidt/CombinatorialData/GraphData.html)|
-|[199711](https://oeis.org/A199711)|[http://arXiv.org/abs/0901.1228](http://arXiv.org/abs/0901.1228)|
-|[200781](https://oeis.org/A200781)|[http://arXiv.org/abs/math.CO/0112281](http://arXiv.org/abs/math.CO/0112281)|
-|[200782](https://oeis.org/A200782)|[http://arXiv.org/abs/math.CO/0112281](http://arXiv.org/abs/math.CO/0112281)|
-|[200783](https://oeis.org/A200783)|[http://arXiv.org/abs/math.CO/0112281](http://arXiv.org/abs/math.CO/0112281)|
-|[200784](https://oeis.org/A200784)|[http://arXiv.org/abs/math.CO/0112281](http://arXiv.org/abs/math.CO/0112281)|
-|[200785](https://oeis.org/A200785)|[http://arXiv.org/abs/math.CO/0112281](http://arXiv.org/abs/math.CO/0112281)|
-|[200786](https://oeis.org/A200786)|[http://arXiv.org/abs/math.CO/0112281](http://arXiv.org/abs/math.CO/0112281)|
 |[201126](https://oeis.org/A201126)|[http://www.magic-squares.net/square-update-2.htm#Knecht%20Topographical%20squares](http://www.magic-squares.net/square-update-2.htm#Knecht%20Topographical%20squares)|
 |[201559](https://oeis.org/A201559)|[http://oai.cwi.nl/oai/asset/6554/6554A.pdf](http://oai.cwi.nl/oai/asset/6554/6554A.pdf)|
-|[202066](https://oeis.org/A202066)|[http://arXiv.org/abs/math.CO/0110025](http://arXiv.org/abs/math.CO/0110025)|
-|[202067](https://oeis.org/A202067)|[http://arXiv.org/abs/math.CO/0110025](http://arXiv.org/abs/math.CO/0110025)|
-|[202068](https://oeis.org/A202068)|[http://arXiv.org/abs/math.CO/0110025](http://arXiv.org/abs/math.CO/0110025)|
 |[202155](https://oeis.org/A202155)|[http://www.dli.gov.in/rawdataupload/upload/insa/INSA_1/20006851_577.pdf](http://www.dli.gov.in/rawdataupload/upload/insa/INSA_1/20006851_577.pdf)|
 |[202156](https://oeis.org/A202156)|[http://www.dli.gov.in/rawdataupload/upload/insa/INSA_1/20006851_577.pdf](http://www.dli.gov.in/rawdataupload/upload/insa/INSA_1/20006851_577.pdf)|
 |[202679](https://oeis.org/A202679)|[http://carmaweb.newcastle.edu.au/mahler/docs/047.pdf](http://carmaweb.newcastle.edu.au/mahler/docs/047.pdf)|
-|[202872](https://oeis.org/A202872)|[http://matrix.skku.ac.kr/Series-E/Monthly-E.pdf](http://matrix.skku.ac.kr/Series-E/Monthly-E.pdf)|
-|[202875](https://oeis.org/A202875)|[http://matrix.skku.ac.kr/Series-E/Monthly-E.pdf](http://matrix.skku.ac.kr/Series-E/Monthly-E.pdf)|
-|[202877](https://oeis.org/A202877)|[http://matrix.skku.ac.kr/Series-E/Monthly-E.pdf](http://matrix.skku.ac.kr/Series-E/Monthly-E.pdf)|
-|[202971](https://oeis.org/A202971)|[http://matrix.skku.ac.kr/Series-E/Monthly-E.pdf](http://matrix.skku.ac.kr/Series-E/Monthly-E.pdf)|
-|[203002](https://oeis.org/A203002)|[http://matrix.skku.ac.kr/Series-E/Monthly-E.pdf](http://matrix.skku.ac.kr/Series-E/Monthly-E.pdf)|
-|[203004](https://oeis.org/A203004)|[http://matrix.skku.ac.kr/Series-E/Monthly-E.pdf](http://matrix.skku.ac.kr/Series-E/Monthly-E.pdf)|
-|[203005](https://oeis.org/A203005)|[http://matrix.skku.ac.kr/Series-E/Monthly-E.pdf](http://matrix.skku.ac.kr/Series-E/Monthly-E.pdf)|
 |[206370](https://oeis.org/A206370)|[http://www.infres.enst.fr/~flori/thesis/thesis.pdf](http://www.infres.enst.fr/~flori/thesis/thesis.pdf)|
 |[208359](https://oeis.org/A208359)|[http://www.mta.nyc.ny.us/nyct/service/oneline.htm](http://www.mta.nyc.ny.us/nyct/service/oneline.htm)|
 |[208360](https://oeis.org/A208360)|[http://www.mta.nyc.ny.us/nyct/service/oneline.htm](http://www.mta.nyc.ny.us/nyct/service/oneline.htm)|
 |[208571](https://oeis.org/A208571)|[http://www.collectanea.ub.edu/index.php/Collectanea/article/view/3814/4518](http://www.collectanea.ub.edu/index.php/Collectanea/article/view/3814/4518)|
 |[208853](https://oeis.org/A208853)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
 |[209257](https://oeis.org/A209257)|[http://astronomia.udea.edu.co/sitios/astronomia-2.0/pages/metcomp.rs/files/Tareas/Tarea5/71755174/2001JRASC..95..189C.pdf](http://astronomia.udea.edu.co/sitios/astronomia-2.0/pages/metcomp.rs/files/Tareas/Tarea5/71755174/2001JRASC..95..189C.pdf)|
-|[210491](https://oeis.org/A210491)|[http://astronomy.swin.edu.au/cosmos/P/Planck+Temperature](http://astronomy.swin.edu.au/cosmos/P/Planck+Temperature)|
 |[210493](https://oeis.org/A210493)|[http://aa.usno.navy.mil/data/docs/JulianDate.php](http://aa.usno.navy.mil/data/docs/JulianDate.php)|
 |[210635](https://oeis.org/A210635)|[http://www.lukiller.net/post/C-method-to-mirror-horizontally-an-image-stored-in-byte-array.aspx](http://www.lukiller.net/post/C-method-to-mirror-horizontally-an-image-stored-in-byte-array.aspx)|
 |[210662](https://oeis.org/A210662)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
@@ -4325,23 +3562,21 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[213339](https://oeis.org/A213339)|[http://costasarrays.org/](http://costasarrays.org/)|
 |[213508](https://oeis.org/A213508)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[213509](https://oeis.org/A213509)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[213611](https://oeis.org/A213611)|[http://home.anadolu.edu.tr/~mcavcar/common/ISAweb.pdf](http://home.anadolu.edu.tr/~mcavcar/common/ISAweb.pdf), [http://www.srh.noaa.gov/jetstream/atmos/pressure.htm](http://www.srh.noaa.gov/jetstream/atmos/pressure.htm)|
+|[213611](https://oeis.org/A213611)|[http://www.srh.noaa.gov/jetstream/atmos/pressure.htm](http://www.srh.noaa.gov/jetstream/atmos/pressure.htm), [http://home.anadolu.edu.tr/~mcavcar/common/ISAweb.pdf](http://home.anadolu.edu.tr/~mcavcar/common/ISAweb.pdf)|
 |[213629](https://oeis.org/A213629)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[213880](https://oeis.org/A213880)|[http://www.gutenberg.org/files/16713/16713-h/16713-h.htm](http://www.gutenberg.org/files/16713/16713-h/16713-h.htm)|
 |[214214](https://oeis.org/A214214)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[214609](https://oeis.org/A214609)|[http://naosite.lb.nagasaki-u.ac.jp/dspace/bitstream/10069/7251/1/KJ00004438116.pdf](http://naosite.lb.nagasaki-u.ac.jp/dspace/bitstream/10069/7251/1/KJ00004438116.pdf)|
-|[214618](https://oeis.org/A214618)|[http://www.sms.edu.pk/wc2013.php](http://www.sms.edu.pk/wc2013.php)|
 |[214758](https://oeis.org/A214758)|[http://www.chalcedon.demon.co.uk/rgep/cartable.html](http://www.chalcedon.demon.co.uk/rgep/cartable.html)|
 |[214832](https://oeis.org/A214832)|[http://www.bgfl.org/custom/resources_ftp/client_ftp/ks2/music/piano/index.htm](http://www.bgfl.org/custom/resources_ftp/client_ftp/ks2/music/piano/index.htm)|
 |[215406](https://oeis.org/A215406)|[http://www.iki.fi/~kartturi/matikka/tab9766.htm](http://www.iki.fi/~kartturi/matikka/tab9766.htm)|
-|[215491](https://oeis.org/A215491)|[http://amicable.homepage.dk/apstat.htm#typesys](http://amicable.homepage.dk/apstat.htm#typesys), [http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
-|[215602](https://oeis.org/A215602)|[https://doi.org/10.22108/TOC.2022.130675.1912](https://doi.org/10.22108/TOC.2022.130675.1912)|
+|[215491](https://oeis.org/A215491)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm), [http://amicable.homepage.dk/apstat.htm#typesys](http://amicable.homepage.dk/apstat.htm#typesys)|
 |[215644](https://oeis.org/A215644)|[http://wwwmaths.anu.edu.au/~brent/maxdet/](http://wwwmaths.anu.edu.au/~brent/maxdet/)|
 |[215645](https://oeis.org/A215645)|[http://wwwmaths.anu.edu.au/~brent/maxdet/](http://wwwmaths.anu.edu.au/~brent/maxdet/)|
+|[216144](https://oeis.org/A216144)|[http://www.parabola.unsw.edu.au/vol45_no1/vol45_no1_1.pdf](http://www.parabola.unsw.edu.au/vol45_no1/vol45_no1_1.pdf)|
 |[216328](https://oeis.org/A216328)|[http://www.math.unicaen.fr/~nitaj/abc.html#Ten%20abc](http://www.math.unicaen.fr/~nitaj/abc.html#Ten%20abc)|
 |[216639](https://oeis.org/A216639)|[http://campmath.uqam.ca/deJoyal/bernoulli.pdf](http://campmath.uqam.ca/deJoyal/bernoulli.pdf)|
 |[216714](https://oeis.org/A216714)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
-|[216794](https://oeis.org/A216794)|[https://doi.org/10.22108/toc.2022.130037.1894](https://doi.org/10.22108/toc.2022.130037.1894)|
 |[217156](https://oeis.org/A217156)|[http://ebookbrowse.com/brooks-smith-stone-tutte-the-dissection-of-rectangles-into-squares-1940-pdf-d37213504](http://ebookbrowse.com/brooks-smith-stone-tutte-the-dissection-of-rectangles-into-squares-1940-pdf-d37213504)|
 |[217525](https://oeis.org/A217525)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf)|
 |[217526](https://oeis.org/A217526)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf)|
@@ -4419,8 +3654,11 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[218973](https://oeis.org/A218973)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
 |[218974](https://oeis.org/A218974)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
 |[218975](https://oeis.org/A218975)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[219312](https://oeis.org/A219312)|[http://repository.wit.ie/201/1/CatalanTrans.pdf](http://repository.wit.ie/201/1/CatalanTrans.pdf)|
+|[219314](https://oeis.org/A219314)|[http://repository.wit.ie/201/1/CatalanTrans.pdf](http://repository.wit.ie/201/1/CatalanTrans.pdf)|
 |[219363](https://oeis.org/A219363)|[http://jipam.vu.edu.au/v4n2/021_03.html](http://jipam.vu.edu.au/v4n2/021_03.html)|
 |[219546](https://oeis.org/A219546)|[http://dauns.math.tulane.edu/~vhm/papers_html/schenker.pdf](http://dauns.math.tulane.edu/~vhm/papers_html/schenker.pdf)|
+|[219765](https://oeis.org/A219765)|[http://www-math.mit.edu/~rstan/pubs/pubfiles/37.pdf](http://www-math.mit.edu/~rstan/pubs/pubfiles/37.pdf)|
 |[220000](https://oeis.org/A220000)|[http://www.moam-inc.com/DECIMAL_EQ_CHART.pdf](http://www.moam-inc.com/DECIMAL_EQ_CHART.pdf)|
 |[220001](https://oeis.org/A220001)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[220500](https://oeis.org/A220500)|[http://ioccc.org/1995/leo.hint](http://ioccc.org/1995/leo.hint), [http://ioccc.org/1995/leo.c](http://ioccc.org/1995/leo.c)|
@@ -4433,12 +3671,16 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[221617](https://oeis.org/A221617)|[https://icpc.baylor.edu/ICPCWiki/attach/Problem%20Resources/1995WorldFinalProblemSet.pdf](https://icpc.baylor.edu/ICPCWiki/attach/Problem%20Resources/1995WorldFinalProblemSet.pdf)|
 |[221740](https://oeis.org/A221740)|[http://old.nabble.com/Number-of-specific-permutations-pairs-relates-to-Euler-Phi-totient-function---to34951281.html](http://old.nabble.com/Number-of-specific-permutations-pairs-relates-to-Euler-Phi-totient-function---to34951281.html)|
 |[221741](https://oeis.org/A221741)|[http://old.nabble.com/Number-of-specific-permutations-pairs-relates-to-Euler-Phi-totient-function---to34951281.html](http://old.nabble.com/Number-of-specific-permutations-pairs-relates-to-Euler-Phi-totient-function---to34951281.html)|
+|[222031](https://oeis.org/A222031)|[http://math.mit.edu/~drew/Pfiles/](http://math.mit.edu/~drew/Pfiles/)|
+|[222032](https://oeis.org/A222032)|[http://math.mit.edu/~drew/Pfiles/](http://math.mit.edu/~drew/Pfiles/)|
 |[222185](https://oeis.org/A222185)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
 |[222206](https://oeis.org/A222206)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
 |[222975](https://oeis.org/A222975)|[http://amicable.homepage.dk/knwnc4.htm](http://amicable.homepage.dk/knwnc4.htm)|
 |[222976](https://oeis.org/A222976)|[http://amicable.homepage.dk/knwnc4.htm](http://amicable.homepage.dk/knwnc4.htm)|
 |[222977](https://oeis.org/A222977)|[http://amicable.homepage.dk/knwnc4.htm](http://amicable.homepage.dk/knwnc4.htm)|
 |[222978](https://oeis.org/A222978)|[http://amicable.homepage.dk/knwnc4.htm](http://amicable.homepage.dk/knwnc4.htm)|
+|[223887](https://oeis.org/A223887)|[http://www-math.mit.edu/~rstan/pubs/pubfiles/18.pdf](http://www-math.mit.edu/~rstan/pubs/pubfiles/18.pdf)|
+|[224071](https://oeis.org/A224071)|[http://repository.wit.ie/id/eprint/1379](http://repository.wit.ie/id/eprint/1379)|
 |[224179](https://oeis.org/A224179)|[http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
 |[224180](https://oeis.org/A224180)|[http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
 |[224181](https://oeis.org/A224181)|[http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
@@ -4447,31 +3689,29 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[224302](https://oeis.org/A224302)|[http://grail.eecs.csuohio.edu/tritab.html](http://grail.eecs.csuohio.edu/tritab.html)|
 |[224784](https://oeis.org/A224784)|[http://87.119.183.129/perl/gridsplode.pl](http://87.119.183.129/perl/gridsplode.pl)|
 |[224886](https://oeis.org/A224886)|[http://www.gutenberg.org/ebooks/42833](http://www.gutenberg.org/ebooks/42833)|
-|[224913](https://oeis.org/A224913)|[http://arXiv.org/abs/math/0307013](http://arXiv.org/abs/math/0307013)|
+|[225467](https://oeis.org/A225467)|[http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html](http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html), [http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html](http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html)|
+|[225468](https://oeis.org/A225468)|[http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html](http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html), [http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html](http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html)|
+|[225469](https://oeis.org/A225469)|[http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html](http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html), [http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html](http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html)|
+|[225470](https://oeis.org/A225470)|[http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html](http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html), [http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html](http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html)|
+|[225471](https://oeis.org/A225471)|[http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html](http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html), [http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html](http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html)|
+|[225472](https://oeis.org/A225472)|[http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html](http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html), [http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html](http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html)|
+|[225616](https://oeis.org/A225616)|[http://www-math.mit.edu/~rstan/transparencies/whouse.pdf](http://www-math.mit.edu/~rstan/transparencies/whouse.pdf)|
 |[225693](https://oeis.org/A225693)|[http://ms.appliedprobability.org/data/files/Abstracts%2045/45-2-4.pdf](http://ms.appliedprobability.org/data/files/Abstracts%2045/45-2-4.pdf), [http://www.jimloy.com/number/divis.htm](http://www.jimloy.com/number/divis.htm)|
 |[225694](https://oeis.org/A225694)|[http://dauns01.math.tulane.edu/~vhm/papers_html/ordering1.pdf](http://dauns01.math.tulane.edu/~vhm/papers_html/ordering1.pdf)|
 |[225695](https://oeis.org/A225695)|[http://dauns01.math.tulane.edu/~vhm/papers_html/ordering1.pdf](http://dauns01.math.tulane.edu/~vhm/papers_html/ordering1.pdf)|
+|[226646](https://oeis.org/A226646)|[http://www.ics.uci.edu/~eppstein/numth/egypt/intro.html](http://www.ics.uci.edu/~eppstein/numth/egypt/intro.html)|
 |[226918](https://oeis.org/A226918)|[http://aict.itf.llu.lv/files/rakstkraj/2013/Cernenoks_AICT2013.pdf](http://aict.itf.llu.lv/files/rakstkraj/2013/Cernenoks_AICT2013.pdf)|
-|[227083](https://oeis.org/A227083)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
-|[227156](https://oeis.org/A227156)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
+|[227083](https://oeis.org/A227083)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes), [http://math.mit.edu/~primegaps](http://math.mit.edu/~primegaps)|
+|[227156](https://oeis.org/A227156)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes), [http://math.mit.edu/~primegaps](http://math.mit.edu/~primegaps)|
 |[227358](https://oeis.org/A227358)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/July2013.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/July2013.html)|
 |[227588](https://oeis.org/A227588)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/July2013.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/July2013.html)|
 |[227782](https://oeis.org/A227782)|[http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_1/20005b92_725.pdf](http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_1/20005b92_725.pdf)|
 |[227784](https://oeis.org/A227784)|[http://seminariomatematico.dm.unito.it/rendiconti/cartaceo/44-1/141.pdf](http://seminariomatematico.dm.unito.it/rendiconti/cartaceo/44-1/141.pdf)|
 |[227956](https://oeis.org/A227956)|[http://bach.istc.kobe-u.ac.jp/lect/ProLang/org/pnr.pdf](http://bach.istc.kobe-u.ac.jp/lect/ProLang/org/pnr.pdf)|
 |[228039](https://oeis.org/A228039)|[https://math-oemg-dmv-2013.uibk.ac.at/cms/images/Public_Relations/oemg_dmv_2013.pdf](https://math-oemg-dmv-2013.uibk.ac.at/cms/images/Public_Relations/oemg_dmv_2013.pdf)|
-|[228708](https://oeis.org/A228708)|[http://arXiv.org/abs/math.CO/9808080](http://arXiv.org/abs/math.CO/9808080)|
-|[229143](https://oeis.org/A229143)|[http://arXiv.org/abs/1102.1153](http://arXiv.org/abs/1102.1153)|
-|[229158](https://oeis.org/A229158)|[http://arXiv.org/abs/math.CO/9808080](http://arXiv.org/abs/math.CO/9808080)|
-|[229160](https://oeis.org/A229160)|[http://arXiv.org/abs/math.CO/9808080](http://arXiv.org/abs/math.CO/9808080)|
-|[229161](https://oeis.org/A229161)|[http://arXiv.org/abs/1305.6790](http://arXiv.org/abs/1305.6790)|
-|[229162](https://oeis.org/A229162)|[http://arXiv.org/abs/1305.6790](http://arXiv.org/abs/1305.6790)|
-|[229163](https://oeis.org/A229163)|[http://arXiv.org/abs/1305.6790](http://arXiv.org/abs/1305.6790)|
-|[229164](https://oeis.org/A229164)|[http://arXiv.org/abs/1305.6790](http://arXiv.org/abs/1305.6790)|
 |[229941](https://oeis.org/A229941)|[http://www.math.ucr.edu/home/baez/42.html](http://www.math.ucr.edu/home/baez/42.html)|
 |[230148](https://oeis.org/A230148)|[http://oai.cwi.nl/oai/asset/4143/04143D.pdf](http://oai.cwi.nl/oai/asset/4143/04143D.pdf)|
 |[230214](https://oeis.org/A230214)|[http://www.personalweb.unito.it/umberto.cerruti/pdfblog/numeri-armonici.pdf](http://www.personalweb.unito.it/umberto.cerruti/pdfblog/numeri-armonici.pdf), [http://www.personalweb.unito.it/umberto.cerruti/mathblog.html](http://www.personalweb.unito.it/umberto.cerruti/mathblog.html)|
-|[230781](https://oeis.org/A230781)|[http://arXiv.org/abs/math.NT/0408107](http://arXiv.org/abs/math.NT/0408107)|
 |[231100](https://oeis.org/A231100)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
 |[231664](https://oeis.org/A231664)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[231668](https://oeis.org/A231668)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
@@ -4480,23 +3720,17 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[231680](https://oeis.org/A231680)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[231684](https://oeis.org/A231684)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[231846](https://oeis.org/A231846)|[http://sophia.dtp.fmph.uniba.sk/~fecko/referaty/regensburg_2011.pdf](http://sophia.dtp.fmph.uniba.sk/~fecko/referaty/regensburg_2011.pdf)|
-|[232864](https://oeis.org/A232864)|[http://arxiv-web3.library.cornell.edu/abs/1312.2051](http://arxiv-web3.library.cornell.edu/abs/1312.2051)|
-|[233455](https://oeis.org/A233455)|[http://primes.utm.edu/curios/cpage/26595.html](http://primes.utm.edu/curios/cpage/26595.html)|
 |[233538](https://oeis.org/A233538)|[http://amicable.homepage.dk/apstat.htm#typesys](http://amicable.homepage.dk/apstat.htm#typesys)|
 |[233779](https://oeis.org/A233779)|[http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf](http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf)|
 |[233819](https://oeis.org/A233819)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
 |[233824](https://oeis.org/A233824)|[http://www.nlaa8.ir/EN-Final.pdf#page=147](http://www.nlaa8.ir/EN-Final.pdf#page=147)|
 |[234373](https://oeis.org/A234373)|[http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf](http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf)|
-|[234512](https://oeis.org/A234512)|[http://arXiv.org/find/all/1/au:+khovanova/0/1/0/all/0/1](http://arXiv.org/find/all/1/au:+khovanova/0/1/0/all/0/1)|
 |[234589](https://oeis.org/A234589)|[http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf](http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf)|
 |[234590](https://oeis.org/A234590)|[http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf](http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf)|
 |[234591](https://oeis.org/A234591)|[http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf](http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf)|
 |[234592](https://oeis.org/A234592)|[http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf](http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf)|
 |[234810](https://oeis.org/A234810)|[http://download2.polytechnic.edu.na/pub4/sourceforge/w/wi/wieferich/results/table.txt](http://download2.polytechnic.edu.na/pub4/sourceforge/w/wi/wieferich/results/table.txt)|
 |[234951](https://oeis.org/A234951)|[http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf](http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf)|
-|[234971](https://oeis.org/A234971)|[http://www.kotesovec.cz/math_articles/kotesovec_binomial_asymptotics.pdf](http://www.kotesovec.cz/math_articles/kotesovec_binomial_asymptotics.pdf)|
-|[235063](https://oeis.org/A235063)|[http://arXiv.org/abs/math.NT/0008221](http://arXiv.org/abs/math.NT/0008221)|
-|[236211](https://oeis.org/A236211)|[http://arXiv.org/abs/math.NT/0312440](http://arXiv.org/abs/math.NT/0312440)|
 |[236681](https://oeis.org/A236681)|[http://www.math.ucr.edu/home/baez/42.html](http://www.math.ucr.edu/home/baez/42.html)|
 |[236684](https://oeis.org/A236684)|[http://www.math.ucr.edu/home/baez/42.html](http://www.math.ucr.edu/home/baez/42.html)|
 |[236686](https://oeis.org/A236686)|[http://www.math.ucr.edu/home/baez/42.html](http://www.math.ucr.edu/home/baez/42.html)|
@@ -4506,49 +3740,36 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[238370](https://oeis.org/A238370)|[http://www.usna.edu/Users/math/traves/presentations/MAAC2004print.pdf](http://www.usna.edu/Users/math/traves/presentations/MAAC2004print.pdf)|
 |[238644](https://oeis.org/A238644)|[http://bact.mathcircles.org/files/2009/files/Summer2010/PenneyAnte.pdf](http://bact.mathcircles.org/files/2009/files/Summer2010/PenneyAnte.pdf)|
 |[238736](https://oeis.org/A238736)|[http://www.hytc.cn/xsjl/szh/coms3.pdf](http://www.hytc.cn/xsjl/szh/coms3.pdf)|
-|[239275](https://oeis.org/A239275)|[http://arXiv.org/abs/1707.04451](http://arXiv.org/abs/1707.04451)|
+|[239064](https://oeis.org/A239064)|[http://www.itp.kit.edu/~wl/BinQuadForm.html](http://www.itp.kit.edu/~wl/BinQuadForm.html)|
 |[239671](https://oeis.org/A239671)|[http://www.magic-squares.net/c-t-htm/c_prime.htm](http://www.magic-squares.net/c-t-htm/c_prime.htm)|
 |[239797](https://oeis.org/A239797)|[http://sage.math.washington.edu/home/wstein/www/books/ant/](http://sage.math.washington.edu/home/wstein/www/books/ant/), [http://sage.math.washington.edu/home/wstein/www/books/ant/ant/node40.html](http://sage.math.washington.edu/home/wstein/www/books/ant/ant/node40.html)|
 |[239890](https://oeis.org/A239890)|[http://dx.doi.org/10.1364/OE.22.004499](http://dx.doi.org/10.1364/OE.22.004499)|
 |[240438](https://oeis.org/A240438)|[http://homepage.hispeed.ch/FSJM/documents/22_Quarts_ind.pdf](http://homepage.hispeed.ch/FSJM/documents/22_Quarts_ind.pdf)|
+|[240719](https://oeis.org/A240719)|[http://library.uwinnipeg.ca/people/dobson/mathematics/Wieferich_primes.html](http://library.uwinnipeg.ca/people/dobson/mathematics/Wieferich_primes.html)|
 |[240922](https://oeis.org/A240922)|[http://www.magic-squares.net/c-t-htm/c_prime.htm](http://www.magic-squares.net/c-t-htm/c_prime.htm)|
 |[240976](https://oeis.org/A240976)|[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA048791](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA048791)|
-|[241002](https://oeis.org/A241002)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
+|[241598](https://oeis.org/A241598)|[http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf](http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf)|
+|[241599](https://oeis.org/A241599)|[http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf](http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf)|
 |[241600](https://oeis.org/A241600)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
 |[241703](https://oeis.org/A241703)|[https://www3.tuhh.de/e11/schmidt/CombinatorialData/GraphData.html](https://www3.tuhh.de/e11/schmidt/CombinatorialData/GraphData.html)|
-|[241755](https://oeis.org/A241755)|[http://www.math.ku.dk/~mel/larsen.pdf](http://www.math.ku.dk/~mel/larsen.pdf)|
-|[241756](https://oeis.org/A241756)|[http://www.math.ku.dk/~mel/larsen.pdf](http://www.math.ku.dk/~mel/larsen.pdf)|
-|[242021](https://oeis.org/A242021)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
-|[242022](https://oeis.org/A242022)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
-|[242047](https://oeis.org/A242047)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
-|[242048](https://oeis.org/A242048)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
-|[242049](https://oeis.org/A242049)|[http://arXiv.org/abs/0802.2654](http://arXiv.org/abs/0802.2654)|
+|[242403](https://oeis.org/A242403)|[http://www.bdim.eu/item?id=BUMI_1999_8_2B_2_397_0](http://www.bdim.eu/item?id=BUMI_1999_8_2B_2_397_0)|
 |[242435](https://oeis.org/A242435)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#82](http://www.chalcedon.demon.co.uk/rgep/publish.html#82)|
 |[242465](https://oeis.org/A242465)|[http://magicdragon.com/EmeraldCity/Nonfiction/four9s.html](http://magicdragon.com/EmeraldCity/Nonfiction/four9s.html)|
-|[242720](https://oeis.org/A242720)|[http://arXiv.org/abs/0912.4006](http://arXiv.org/abs/0912.4006)|
-|[242974](https://oeis.org/A242974)|[http://arXiv.org/abs/0912.4006](http://arXiv.org/abs/0912.4006)|
 |[243508](https://oeis.org/A243508)|[http://www.math-cs.ucmo.edu/~mjms/2003.1/pyiu.pdf](http://www.math-cs.ucmo.edu/~mjms/2003.1/pyiu.pdf)|
-|[243867](https://oeis.org/A243867)|[http://arXiv.org/abs/0912.4006](http://arXiv.org/abs/0912.4006)|
+|[244281](https://oeis.org/A244281)|[http://www.mathblog.dk/project-euler-116-coloured-tiles/](http://www.mathblog.dk/project-euler-116-coloured-tiles/)|
 |[244644](https://oeis.org/A244644)|[http://www2.washjeff.edu/users/mwoltermann/Dorrie/38.pdf](http://www2.washjeff.edu/users/mwoltermann/Dorrie/38.pdf)|
 |[244801](https://oeis.org/A244801)|[http://prpnet.primegrid.com:13001/](http://prpnet.primegrid.com:13001/)|
 |[244839](https://oeis.org/A244839)|[http://moodle.thecarma.net/jon/ontology.pdf](http://moodle.thecarma.net/jon/ontology.pdf)|
 |[244843](https://oeis.org/A244843)|[http://moodle.thecarma.net/jon/ontology.pdf](http://moodle.thecarma.net/jon/ontology.pdf)|
+|[244847](https://oeis.org/A244847)|[http://yaroslavvb.com/papers/baxter-hard.pdf](http://yaroslavvb.com/papers/baxter-hard.pdf)|
 |[244850](https://oeis.org/A244850)|[http://moodle.thecarma.net/jon/ontology.pdf](http://moodle.thecarma.net/jon/ontology.pdf)|
 |[244858](https://oeis.org/A244858)|[http://moodle.thecarma.net/jon/ontology.pdf](http://moodle.thecarma.net/jon/ontology.pdf)|
 |[245176](https://oeis.org/A245176)|[http://129.81.170.14/~vhm/papers_html/invo-may12.pdf](http://129.81.170.14/~vhm/papers_html/invo-may12.pdf)|
 |[245177](https://oeis.org/A245177)|[http://dauns.math.tulane.edu/~vhm/papers_html/invo-may12.pdf](http://dauns.math.tulane.edu/~vhm/papers_html/invo-may12.pdf)|
-|[245457](https://oeis.org/A245457)|[http://arXiv.org/abs/0912.4006](http://arXiv.org/abs/0912.4006)|
-|[245458](https://oeis.org/A245458)|[http://arXiv.org/abs/0912.4006](http://arXiv.org/abs/0912.4006)|
-|[245460](https://oeis.org/A245460)|[http://arXiv.org/abs/0912.4006](http://arXiv.org/abs/0912.4006)|
-|[245461](https://oeis.org/A245461)|[http://astronomy.swin.edu.au/cosmos/R/Rayleigh+Criterion](http://astronomy.swin.edu.au/cosmos/R/Rayleigh+Criterion)|
-|[245655](https://oeis.org/A245655)|[http://arXiv.org/abs/math.CO/0310423](http://arXiv.org/abs/math.CO/0310423)|
 |[245837](https://oeis.org/A245837)|[http://polpix.sueddeutsche.com/bild/1.2053721.1405695752/860x860/die-weltsprache-algorithmen.jpg](http://polpix.sueddeutsche.com/bild/1.2053721.1405695752/860x860/die-weltsprache-algorithmen.jpg)|
 |[246054](https://oeis.org/A246054)|[http://www.math.grin.edu/~chamberl/papers/mean_median.pdf](http://www.math.grin.edu/~chamberl/papers/mean_median.pdf)|
 |[246055](https://oeis.org/A246055)|[http://www.math.grin.edu/~chamberl/papers/mean_median.pdf](http://www.math.grin.edu/~chamberl/papers/mean_median.pdf)|
-|[246324](https://oeis.org/A246324)|[http://smf4.emath.fr/Publications/Asterisque/2014/359/html/smf_ast_359.php](http://smf4.emath.fr/Publications/Asterisque/2014/359/html/smf_ast_359.php)|
 |[246532](https://oeis.org/A246532)|[http://domino.watson.ibm.com/library/CyberDig.nsf/papers/F24675F6E614358F85257E38004D39F0/](http://domino.watson.ibm.com/library/CyberDig.nsf/papers/F24675F6E614358F85257E38004D39F0/)|
-|[246546](https://oeis.org/A246546)|[http://arXiv.org/abs/math.CO/0306225](http://arXiv.org/abs/math.CO/0306225)|
-|[246885](https://oeis.org/A246885)|[http://arXiv.org/abs/math.NT/0506496](http://arXiv.org/abs/math.NT/0506496)|
 |[246988](https://oeis.org/A246988)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
 |[246989](https://oeis.org/A246989)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
 |[246990](https://oeis.org/A246990)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
@@ -4557,19 +3778,14 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[246993](https://oeis.org/A246993)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
 |[247158](https://oeis.org/A247158)|[http://www.hpl.hp.com/techreports/2011/HPL-2011-239.pdf](http://www.hpl.hp.com/techreports/2011/HPL-2011-239.pdf)|
 |[247306](https://oeis.org/A247306)|[http://www-old.newton.ac.uk/preprints/NI04015.pdf](http://www-old.newton.ac.uk/preprints/NI04015.pdf)|
-|[248199](https://oeis.org/A248199)|[http://www.arXiv.org/abs/math.NT/0408319](http://www.arXiv.org/abs/math.NT/0408319)|
-|[248605](https://oeis.org/A248605)|[http://arXiv.org/abs/math.NT/0506496](http://arXiv.org/abs/math.NT/0506496)|
 |[248646](https://oeis.org/A248646)|[http://www.zime.lv/book/?oeis](http://www.zime.lv/book/?oeis)|
 |[248727](https://oeis.org/A248727)|[http://www.math.uakron.edu/~sf34/hedra.htm#index](http://www.math.uakron.edu/~sf34/hedra.htm#index)|
 |[249020](https://oeis.org/A249020)|[http://grail.eecs.csuohio.edu/~somos/somospol.html](http://grail.eecs.csuohio.edu/~somos/somospol.html)|
-|[249386](https://oeis.org/A249386)|[http://arXiv.org/abs/math.CO/0601253](http://arXiv.org/abs/math.CO/0601253)|
 |[249389](https://oeis.org/A249389)|[http://www.dli.gov.in/data_copy/upload/INSA/INSA_2/20005a88_147.pdf](http://www.dli.gov.in/data_copy/upload/INSA/INSA_2/20005a88_147.pdf)|
 |[249836](https://oeis.org/A249836)|[http://math.udel.edu/~lazebnik/papers/tan_n.pdf](http://math.udel.edu/~lazebnik/papers/tan_n.pdf)|
 |[250000](https://oeis.org/A250000)|[http://zeynep.web.cs.unibo.it/SymCon04/proceedings.htmlN.](http://zeynep.web.cs.unibo.it/SymCon04/proceedings.htmlN.)|
+|[250005](https://oeis.org/A250005)|[http://www.cs.uwaterloo.ca/journals/JIS/VOL13/Fici/fici.html](http://www.cs.uwaterloo.ca/journals/JIS/VOL13/Fici/fici.html)|
 |[250109](https://oeis.org/A250109)|[http://repository.tue.nl/776745](http://repository.tue.nl/776745)|
-|[250394](https://oeis.org/A250394)|[http://arXiv.org/abs/math/0404188](http://arXiv.org/abs/math/0404188)|
-|[250395](https://oeis.org/A250395)|[http://arXiv.org/abs/math/0404188](http://arXiv.org/abs/math/0404188)|
-|[251622](https://oeis.org/A251622)|[http://arXiv.org/abs/math.NT/0204011](http://arXiv.org/abs/math.NT/0204011)|
 |[253013](https://oeis.org/A253013)|[http://users.aims.ac.za/~stephan/GraphicalEnumeration.pdf](http://users.aims.ac.za/~stephan/GraphicalEnumeration.pdf)|
 |[253014](https://oeis.org/A253014)|[http://users.aims.ac.za/~stephan/GraphicalEnumeration.pdf](http://users.aims.ac.za/~stephan/GraphicalEnumeration.pdf)|
 |[253426](https://oeis.org/A253426)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/March2015.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/March2015.html)|
@@ -4578,7 +3794,11 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[253944](https://oeis.org/A253944)|[http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf](http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf)|
 |[253945](https://oeis.org/A253945)|[http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf](http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf)|
 |[253947](https://oeis.org/A253947)|[http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf](http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf)|
-|[255011](https://oeis.org/A255011)|[http://arXiv.org/abs/math.MG/9508209](http://arXiv.org/abs/math.MG/9508209)|
+|[254029](https://oeis.org/A254029)|[http://share.dschola.it/helpmat/Divertimenti/divertiamoci1.html#sol3.3](http://share.dschola.it/helpmat/Divertimenti/divertiamoci1.html#sol3.3)|
+|[254757](https://oeis.org/A254757)|[http://www.itp.kit.edu/~wl/BinQuadForm.html](http://www.itp.kit.edu/~wl/BinQuadForm.html)|
+|[254758](https://oeis.org/A254758)|[http://www.itp.kit.edu/~wl/BinQuadForm.html](http://www.itp.kit.edu/~wl/BinQuadForm.html)|
+|[254759](https://oeis.org/A254759)|[http://www.itp.kit.edu/~wl/BinQuadForm.html](http://www.itp.kit.edu/~wl/BinQuadForm.html)|
+|[254789](https://oeis.org/A254789)|[http://dmg.tuwien.ac.at/mwallner/files/Dissertation_Wallner.pdf](http://dmg.tuwien.ac.at/mwallner/files/Dissertation_Wallner.pdf)|
 |[255347](https://oeis.org/A255347)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
 |[255368](https://oeis.org/A255368)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
 |[255492](https://oeis.org/A255492)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
@@ -4589,7 +3809,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[255498](https://oeis.org/A255498)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
 |[255563](https://oeis.org/A255563)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
 |[255841](https://oeis.org/A255841)|[http://forum.projecteuler.net/viewtopic.php?f=16&amp](http://forum.projecteuler.net/viewtopic.php?f=16&amp)|
-|[255939](https://oeis.org/A255939)|[http://arXiv.org/abs/cond-mat/0303607](http://arXiv.org/abs/cond-mat/0303607)|
 |[256108](https://oeis.org/A256108)|[http://oldweb.cecm.sfu.ca/projects/pihex/](http://oldweb.cecm.sfu.ca/projects/pihex/)|
 |[256234](https://oeis.org/A256234)|[http://stop.inferia.ru/](http://stop.inferia.ru/)|
 |[256413](https://oeis.org/A256413)|[http://www.crystallography.fr/mathcryst/pdf/havana/Souvignier_syllabus.pdf](http://www.crystallography.fr/mathcryst/pdf/havana/Souvignier_syllabus.pdf)|
@@ -4600,18 +3819,16 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[256891](https://oeis.org/A256891)|[http://www.magic-squares.net/primesqr.htm#Minimum](http://www.magic-squares.net/primesqr.htm#Minimum)|
 |[257075](https://oeis.org/A257075)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
 |[257931](https://oeis.org/A257931)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[258024](https://oeis.org/A258024)|[http://sci.tech-archive.net/Archive/sci.math/2007-03/msg00666.html](http://sci.tech-archive.net/Archive/sci.math/2007-03/msg00666.html), [http://sci.tech-archive.net/Archive/sci.math/2009-03/msg01170.html](http://sci.tech-archive.net/Archive/sci.math/2009-03/msg01170.html)|
+|[258024](https://oeis.org/A258024)|[http://sci.tech-archive.net/Archive/sci.math/2009-03/msg01170.html](http://sci.tech-archive.net/Archive/sci.math/2009-03/msg01170.html), [http://sci.tech-archive.net/Archive/sci.math/2007-03/msg00666.html](http://sci.tech-archive.net/Archive/sci.math/2007-03/msg00666.html)|
 |[258055](https://oeis.org/A258055)|[http://www.zime.lv/book/?oeis](http://www.zime.lv/book/?oeis)|
-|[258739](https://oeis.org/A258739)|[http://arXiv.org/abs/math/0509424](http://arXiv.org/abs/math/0509424)|
 |[259042](https://oeis.org/A259042)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
 |[259044](https://oeis.org/A259044)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[259180](https://oeis.org/A259180)|[http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm), [http://oai.cwi.nl/oai/asset/4143/04143D.pdf](http://oai.cwi.nl/oai/asset/4143/04143D.pdf), [http://oai.cwi.nl/oai/asset/2246/2246A.pdf](http://oai.cwi.nl/oai/asset/2246/2246A.pdf), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://www-maths.swan.ac.uk/pgrads/bb/project/node16.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node16.html), [http://britton.disted.camosun.bc.ca/amicable.html](http://britton.disted.camosun.bc.ca/amicable.html), [http://arXiv.org/abs/math.HO/0501402](http://arXiv.org/abs/math.HO/0501402), [http://arXiv.org/abs/math.HO/0409196](http://arXiv.org/abs/math.HO/0409196), [http://nautilus.fis.uc.pt/mn/i_amigos/amigos.swf](http://nautilus.fis.uc.pt/mn/i_amigos/amigos.swf)|
-|[260061](https://oeis.org/A260061)|[http://arXiv.org/abs/0705.2640](http://arXiv.org/abs/0705.2640)|
+|[259180](https://oeis.org/A259180)|[http://www-maths.swan.ac.uk/pgrads/bb/project/node16.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node16.html), [http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://oai.cwi.nl/oai/asset/2246/2246A.pdf](http://oai.cwi.nl/oai/asset/2246/2246A.pdf), [http://oai.cwi.nl/oai/asset/4143/04143D.pdf](http://oai.cwi.nl/oai/asset/4143/04143D.pdf), [http://britton.disted.camosun.bc.ca/amicable.html](http://britton.disted.camosun.bc.ca/amicable.html), [http://nautilus.fis.uc.pt/mn/i_amigos/amigos.swf](http://nautilus.fis.uc.pt/mn/i_amigos/amigos.swf)|
+|[259554](https://oeis.org/A259554)|[https://cs.uwaterloo.ca/journals/JIS/VOL18/Kruchinin/kruch9.html](https://cs.uwaterloo.ca/journals/JIS/VOL18/Kruchinin/kruch9.html)|
 |[260418](https://oeis.org/A260418)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[260673](https://oeis.org/A260673)|[http://www.magic-squares.net/primesqr.htm#Minimum](http://www.magic-squares.net/primesqr.htm#Minimum)|
 |[261013](https://oeis.org/A261013)|[http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_2/20005ad0_181.pdf](http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_2/20005ad0_181.pdf)|
 |[261545](https://oeis.org/A261545)|[http://www.bckelk.ukfsn.org/words/etaoin.html](http://www.bckelk.ukfsn.org/words/etaoin.html)|
-|[261586](https://oeis.org/A261586)|[http://www.arXiv.org/abs/math.NT/0402458](http://www.arXiv.org/abs/math.NT/0402458)|
 |[261780](https://oeis.org/A261780)|[http://www.mat.unisi.it/newsito/puma/public_html/17_1_2/grazzini.pdf](http://www.mat.unisi.it/newsito/puma/public_html/17_1_2/grazzini.pdf)|
 |[262041](https://oeis.org/A262041)|[http://mathfaculty.fullerton.edu/sbehseta/portnoy94.pdf](http://mathfaculty.fullerton.edu/sbehseta/portnoy94.pdf)|
 |[262080](https://oeis.org/A262080)|[http://mathfaculty.fullerton.edu/sbehseta/portnoy94.pdf](http://mathfaculty.fullerton.edu/sbehseta/portnoy94.pdf)|
@@ -4623,28 +3840,17 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[262944](https://oeis.org/A262944)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[262945](https://oeis.org/A262945)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[262955](https://oeis.org/A262955)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[263000](https://oeis.org/A263000)|[http://www.arXiv.org/abs/1510.00800](http://www.arXiv.org/abs/1510.00800)|
 |[263064](https://oeis.org/A263064)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
 |[263065](https://oeis.org/A263065)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
 |[263867](https://oeis.org/A263867)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/bona.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/bona.pdf)|
-|[263918](https://oeis.org/A263918)|[http://arXiv.org/abs/math.CO/0512570](http://arXiv.org/abs/math.CO/0512570)|
 |[263985](https://oeis.org/A263985)|[http://puma.dimai.unifi.it/19_2_3/11.pdf](http://puma.dimai.unifi.it/19_2_3/11.pdf)|
 |[264027](https://oeis.org/A264027)|[http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf](http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf)|
 |[264028](https://oeis.org/A264028)|[http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf](http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf)|
+|[265384](https://oeis.org/A265384)|[http://tube.geogebra.org/student/mr4Tpnl0A](http://tube.geogebra.org/student/mr4Tpnl0A)|
 |[266968](https://oeis.org/A266968)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[268139](https://oeis.org/A268139)|[http://arXiv.org/abs/math/0404188](http://arXiv.org/abs/math/0404188)|
 |[268163](https://oeis.org/A268163)|[http://www.lupm.univ-montp2.fr/users/qcd/qcd14/qcd14_talks/tuesday/kampf.pdf](http://www.lupm.univ-montp2.fr/users/qcd/qcd14/qcd14_talks/tuesday/kampf.pdf)|
 |[268289](https://oeis.org/A268289)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[268754](https://oeis.org/A268754)|[http://play.starmaninnovations.com/static/d3applets/renders/WeNmxtzjTi.gif](http://play.starmaninnovations.com/static/d3applets/renders/WeNmxtzjTi.gif)|
-|[269134](https://oeis.org/A269134)|[http://www.nafindix.com/math/academic/ComcategoriesandMultiordersv7.pdf](http://www.nafindix.com/math/academic/ComcategoriesandMultiordersv7.pdf)|
-|[269318](https://oeis.org/A269318)|[http://dx.doi.org/10.1090/S0025-5718-1988-0929555-8](http://dx.doi.org/10.1090/S0025-5718-1988-0929555-8)|
-|[269319](https://oeis.org/A269319)|[http://dx.doi.org/10.1090/S0025-5718-1988-0929555-8](http://dx.doi.org/10.1090/S0025-5718-1988-0929555-8), [http://dx.doi.org/10.1090/S0025-5718-1985-0777281-8](http://dx.doi.org/10.1090/S0025-5718-1985-0777281-8)|
-|[269348](https://oeis.org/A269348)|[http://arXiv.org/abs/math.MG/0206098](http://arXiv.org/abs/math.MG/0206098)|
-|[269349](https://oeis.org/A269349)|[http://arXiv.org/abs/math.MG/0206098](http://arXiv.org/abs/math.MG/0206098)|
-|[269350](https://oeis.org/A269350)|[http://arXiv.org/abs/math.MG/0206098](http://arXiv.org/abs/math.MG/0206098)|
-|[269351](https://oeis.org/A269351)|[http://arXiv.org/abs/math.MG/0206098](http://arXiv.org/abs/math.MG/0206098)|
-|[269352](https://oeis.org/A269352)|[http://arXiv.org/abs/math.MG/0206098](http://arXiv.org/abs/math.MG/0206098)|
-|[270390](https://oeis.org/A270390)|[http://arXiv.org/abs/math/0202102](http://arXiv.org/abs/math/0202102)|
 |[270533](https://oeis.org/A270533)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[270566](https://oeis.org/A270566)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[270594](https://oeis.org/A270594)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
@@ -4662,90 +3868,32 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[271325](https://oeis.org/A271325)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[271608](https://oeis.org/A271608)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[271775](https://oeis.org/A271775)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[273221](https://oeis.org/A273221)|[http://arXiv.org/abs/math.NT/0307150](http://arXiv.org/abs/math.NT/0307150)|
-|[273222](https://oeis.org/A273222)|[http://arXiv.org/abs/math.NT/0307150](http://arXiv.org/abs/math.NT/0307150)|
-|[273223](https://oeis.org/A273223)|[http://arXiv.org/abs/math.NT/0307150](http://arXiv.org/abs/math.NT/0307150)|
-|[273224](https://oeis.org/A273224)|[http://arXiv.org/abs/math.NT/0307150](http://arXiv.org/abs/math.NT/0307150)|
-|[273445](https://oeis.org/A273445)|[http://arXiv.org/abs/math/0006096](http://arXiv.org/abs/math/0006096)|
-|[273510](https://oeis.org/A273510)|[http://arXiv.org/abs/math/0006096](http://arXiv.org/abs/math/0006096)|
-|[273873](https://oeis.org/A273873)|[http://www.nafindix.com/math/academic/ComcategoriesandMultiordersv7.pdf](http://www.nafindix.com/math/academic/ComcategoriesandMultiordersv7.pdf)|
+|[271781](https://oeis.org/A271781)|[http://hdl.handle.net/10019.1/95850](http://hdl.handle.net/10019.1/95850)|
+|[273042](https://oeis.org/A273042)|[https://stdkmd.net/nrr/prime/primedifficulty.txt](https://stdkmd.net/nrr/prime/primedifficulty.txt), [https://stdkmd.net/nrr](https://stdkmd.net/nrr)|
 |[274108](https://oeis.org/A274108)|[https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf](https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf)|
 |[274121](https://oeis.org/A274121)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
 |[274122](https://oeis.org/A274122)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
-|[274171](https://oeis.org/A274171)|[https://doi.org/10.25045/jpit.v10.i2.01](https://doi.org/10.25045/jpit.v10.i2.01)|
-|[274806](https://oeis.org/A274806)|[https://doi.org/10.25045/jpit.v10.i2.01](https://doi.org/10.25045/jpit.v10.i2.01)|
 |[275202](https://oeis.org/A275202)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[275390](https://oeis.org/A275390)|[http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005abb_196.pdf](http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005abb_196.pdf)|
-|[275432](https://oeis.org/A275432)|[http://dx.doi.org/10.1016/S0021-9800(66)80016-9](http://dx.doi.org/10.1016/S0021-9800(66)80016-9)|
-|[275585](https://oeis.org/A275585)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[275875](https://oeis.org/A275875)|[http://arXiv.org/abs/math.CO/0409408](http://arXiv.org/abs/math.CO/0409408)|
 |[275974](https://oeis.org/A275974)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[276024](https://oeis.org/A276024)|[http://www.nafindix.com/math/academic/ComcategoriesandMultiordersv7.pdf](http://www.nafindix.com/math/academic/ComcategoriesandMultiordersv7.pdf)|
-|[276041](https://oeis.org/A276041)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[276042](https://oeis.org/A276042)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[276687](https://oeis.org/A276687)|[http://www.nafindix.com/math/academic/ComcategoriesandMultiordersv7.pdf](http://www.nafindix.com/math/academic/ComcategoriesandMultiordersv7.pdf)|
 |[277566](https://oeis.org/A277566)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
 |[277632](https://oeis.org/A277632)|[http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp](http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp)|
+|[277988](https://oeis.org/A277988)|[http://bcc.bas.bg/BCC_Volumes/Volume_44_Number_4_2012/Volume_44_Number_4_2012_PDF/BCC-44-4-2012-4.pdf](http://bcc.bas.bg/BCC_Volumes/Volume_44_Number_4_2012/Volume_44_Number_4_2012_PDF/BCC-44-4-2012-4.pdf)|
+|[277989](https://oeis.org/A277989)|[http://bcc.bas.bg/BCC_Volumes/Volume_44_Number_4_2012/Volume_44_Number_4_2012_PDF/BCC-44-4-2012-4.pdf](http://bcc.bas.bg/BCC_Volumes/Volume_44_Number_4_2012/Volume_44_Number_4_2012_PDF/BCC-44-4-2012-4.pdf)|
 |[278313](https://oeis.org/A278313)|[http://www.printable-math-worksheets.com/support-files/chart-rules-roman-numerals.pdf](http://www.printable-math-worksheets.com/support-files/chart-rules-roman-numerals.pdf)|
-|[278767](https://oeis.org/A278767)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[278768](https://oeis.org/A278768)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[278769](https://oeis.org/A278769)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[278823](https://oeis.org/A278823)|[http://arXiv.org/abs/math.MG/9508209](http://arXiv.org/abs/math.MG/9508209)|
-|[278945](https://oeis.org/A278945)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[278947](https://oeis.org/A278947)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[278949](https://oeis.org/A278949)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279012](https://oeis.org/A279012)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279041](https://oeis.org/A279041)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279215](https://oeis.org/A279215)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279216](https://oeis.org/A279216)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279217](https://oeis.org/A279217)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279218](https://oeis.org/A279218)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279219](https://oeis.org/A279219)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279220](https://oeis.org/A279220)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279221](https://oeis.org/A279221)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279222](https://oeis.org/A279222)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279223](https://oeis.org/A279223)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279224](https://oeis.org/A279224)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279271](https://oeis.org/A279271)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279375](https://oeis.org/A279375)|[http://www.nafindix.com/math/academic/ComcategoriesandMultiordersv7.pdf](http://www.nafindix.com/math/academic/ComcategoriesandMultiordersv7.pdf)|
+|[278707](https://oeis.org/A278707)|[https://stdkmd.net/nrr](https://stdkmd.net/nrr)|
 |[279619](https://oeis.org/A279619)|[http://www.francescosica.org/Francesco_Sica/Publications_files/chancoopersica.pdf](http://www.francescosica.org/Francesco_Sica/Publications_files/chancoopersica.pdf)|
-|[279757](https://oeis.org/A279757)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279758](https://oeis.org/A279758)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279759](https://oeis.org/A279759)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279760](https://oeis.org/A279760)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279761](https://oeis.org/A279761)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279762](https://oeis.org/A279762)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279763](https://oeis.org/A279763)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[279793](https://oeis.org/A279793)|[https://stdkmd.net/nrr/prime/primedifficulty.txt](https://stdkmd.net/nrr/prime/primedifficulty.txt), [https://stdkmd.net/nrr](https://stdkmd.net/nrr)|
-|[279951](https://oeis.org/A279951)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[280088](https://oeis.org/A280088)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[280253](https://oeis.org/A280253)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
 |[280617](https://oeis.org/A280617)|[http://www.sympy.orgimport](http://www.sympy.orgimport)|
 |[280735](https://oeis.org/A280735)|[http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory](http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory)|
 |[280736](https://oeis.org/A280736)|[http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory](http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory)|
 |[280945](https://oeis.org/A280945)|[https://imo-official.org/problems/IMO2015SL.pdf](https://imo-official.org/problems/IMO2015SL.pdf)|
-|[280950](https://oeis.org/A280950)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[280951](https://oeis.org/A280951)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[280952](https://oeis.org/A280952)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[280953](https://oeis.org/A280953)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[281048](https://oeis.org/A281048)|[http://arXiv.org/abs/math.CO/0307027](http://arXiv.org/abs/math.CO/0307027)|
+|[280974](https://oeis.org/A280974)|[https://oeis.org/wiki/Index_to_Elementary_Cellular_Automata](https://oeis.org/wiki/Index_to_Elementary_Cellular_Automata)|
 |[281069](https://oeis.org/A281069)|[https://faculty.missouri.edu/~bankswd/papers/2011_power_totients_almost_primes_published_version.pdf](https://faculty.missouri.edu/~bankswd/papers/2011_power_totients_almost_primes_published_version.pdf)|
-|[281156](https://oeis.org/A281156)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[281157](https://oeis.org/A281157)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[281231](https://oeis.org/A281231)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[281273](https://oeis.org/A281273)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[281454](https://oeis.org/A281454)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[282179](https://oeis.org/A282179)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[282190](https://oeis.org/A282190)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[282629](https://oeis.org/A282629)|[http://arXiv.org/abs/1707.04451](http://arXiv.org/abs/1707.04451)|
 |[283239](https://oeis.org/A283239)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[283321](https://oeis.org/A283321)|[http://kwsman.com/articles/Revised%20Bakare.pdf](http://kwsman.com/articles/Revised%20Bakare.pdf)|
 |[283322](https://oeis.org/A283322)|[http://kwsman.com/articles/Revised%20Bakare.pdf](http://kwsman.com/articles/Revised%20Bakare.pdf)|
 |[283627](https://oeis.org/A283627)|[http://www.resnet.wm.edu/~cklixx/reu02.pdf](http://www.resnet.wm.edu/~cklixx/reu02.pdf)|
 |[284442](https://oeis.org/A284442)|[https://orbi.ulg.ac.be/bitstream/2268/205077/1/postprint%20auteur.pdf](https://orbi.ulg.ac.be/bitstream/2268/205077/1/postprint%20auteur.pdf)|
-|[284724](https://oeis.org/A284724)|[http://arXiv.org/abs/math.NT/0204011](http://arXiv.org/abs/math.NT/0204011)|
-|[284725](https://oeis.org/A284725)|[http://arXiv.org/abs/math.NT/0204011](http://arXiv.org/abs/math.NT/0204011)|
-|[284726](https://oeis.org/A284726)|[http://arXiv.org/abs/math.NT/0204011](http://arXiv.org/abs/math.NT/0204011)|
 |[284842](https://oeis.org/A284842)|[http://for.mat.bham.ac.uk/atlas/v2.0/spor/M12/](http://for.mat.bham.ac.uk/atlas/v2.0/spor/M12/)|
 |[285579](https://oeis.org/A285579)|[http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp](http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp)|
 |[285832](https://oeis.org/A285832)|[http://www.dtic.mil/dtic/tr/fulltext/u2/a392002.pdf](http://www.dtic.mil/dtic/tr/fulltext/u2/a392002.pdf)|
@@ -4757,78 +3905,33 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[286134](https://oeis.org/A286134)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
 |[286135](https://oeis.org/A286135)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
 |[286137](https://oeis.org/A286137)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[286718](https://oeis.org/A286718)|[http://arXiv.org/abs/1707.04451](http://arXiv.org/abs/1707.04451)|
-|[286724](https://oeis.org/A286724)|[http://arXiv.org/abs/1707.04451](http://arXiv.org/abs/1707.04451)|
 |[286762](https://oeis.org/A286762)|[https://www.integers-ejcnt.org/vol18.html](https://www.integers-ejcnt.org/vol18.html)|
 |[286763](https://oeis.org/A286763)|[https://www.integers-ejcnt.org/vol18.html](https://www.integers-ejcnt.org/vol18.html)|
+|[286870](https://oeis.org/A286870)|[http://hdl.handle.net/2292/3642](http://hdl.handle.net/2292/3642)|
 |[286885](https://oeis.org/A286885)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[286944](https://oeis.org/A286944)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[287090](https://oeis.org/A287090)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
 |[287591](https://oeis.org/A287591)|[http://www.chalcedon.demon.co.uk/rgep/cartable.html](http://www.chalcedon.demon.co.uk/rgep/cartable.html)|
 |[287616](https://oeis.org/A287616)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[287644](https://oeis.org/A287644)|[https://doi.org/10.25045/jpit.v10.i2.01](https://doi.org/10.25045/jpit.v10.i2.01)|
-|[287648](https://oeis.org/A287648)|[https://doi.org/10.25045/jpit.v10.i2.01](https://doi.org/10.25045/jpit.v10.i2.01)|
-|[287649](https://oeis.org/A287649)|[https://doi.org/10.25045/jpit.v10.i2.01](https://doi.org/10.25045/jpit.v10.i2.01)|
-|[287650](https://oeis.org/A287650)|[https://doi.org/10.25045/jpit.v10.i2.01](https://doi.org/10.25045/jpit.v10.i2.01)|
-|[287651](https://oeis.org/A287651)|[https://doi.org/10.25045/jpit.v10.i2.01](https://doi.org/10.25045/jpit.v10.i2.01)|
-|[287695](https://oeis.org/A287695)|[https://doi.org/10.25045/jpit.v10.i2.01](https://doi.org/10.25045/jpit.v10.i2.01)|
+|[287683](https://oeis.org/A287683)|[http://www.bdim.eu/item?id=BUMI_1999_8_2B_3_723_0](http://www.bdim.eu/item?id=BUMI_1999_8_2B_3_723_0)|
 |[287921](https://oeis.org/A287921)|[http://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.pdf](http://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.pdf)|
 |[289632](https://oeis.org/A289632)|[http://blog.greaterthanzero.com/post/159874910652/some-mathematics-algorithms-and-probabilities](http://blog.greaterthanzero.com/post/159874910652/some-mathematics-algorithms-and-probabilities)|
 |[290188](https://oeis.org/A290188)|[http://web.araachive.org/web/20091027034731/http://uk.geocities.com/nassarawa%40btinternet.com/probprim2.htm](http://web.araachive.org/web/20091027034731/http://uk.geocities.com/nassarawa%40btinternet.com/probprim2.htm)|
 |[290189](https://oeis.org/A290189)|[http://web.araachive.org/web/20091027034731/http://uk.geocities.com/nassarawa%40btinternet.com/probprim2.htm](http://web.araachive.org/web/20091027034731/http://uk.geocities.com/nassarawa%40btinternet.com/probprim2.htm)|
-|[290319](https://oeis.org/A290319)|[http://arXiv.org/abs/1707.04451](http://arXiv.org/abs/1707.04451)|
 |[290472](https://oeis.org/A290472)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[290491](https://oeis.org/A290491)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[290533](https://oeis.org/A290533)|[http://arXiv.org/abs/math.NT/0407363](http://arXiv.org/abs/math.NT/0407363)|
-|[290596](https://oeis.org/A290596)|[http://arXiv.org/abs/1707.04451](http://arXiv.org/abs/1707.04451)|
-|[290598](https://oeis.org/A290598)|[http://arXiv.org/abs/1707.04451](http://arXiv.org/abs/1707.04451)|
+|[290711](https://oeis.org/A290711)|[http://hdl.handle.net/2292/3642](http://hdl.handle.net/2292/3642)|
 |[290945](https://oeis.org/A290945)|[http://magicdragon.com/fig.html](http://magicdragon.com/fig.html)|
 |[291154](https://oeis.org/A291154)|[https://www.casinoz.club/content/everything-about-roulette-wheel-construction-588.html](https://www.casinoz.club/content/everything-about-roulette-wheel-construction-588.html)|
 |[291171](https://oeis.org/A291171)|[https://www.casinoz.club/content/everything-about-roulette-wheel-construction-588.html](https://www.casinoz.club/content/everything-about-roulette-wheel-construction-588.html)|
 |[291187](https://oeis.org/A291187)|[http://homepages.vub.ac.be/~jvpoucke/MasterThesisMOLS.pdf](http://homepages.vub.ac.be/~jvpoucke/MasterThesisMOLS.pdf)|
 |[291188](https://oeis.org/A291188)|[http://homepages.vub.ac.be/~jvpoucke/MasterThesisMOLS.pdf](http://homepages.vub.ac.be/~jvpoucke/MasterThesisMOLS.pdf)|
-|[291525](https://oeis.org/A291525)|[http://arXiv.org/abs/math/0404188](http://arXiv.org/abs/math/0404188), [http://arXiv.org/abs/math/0405581](http://arXiv.org/abs/math/0405581)|
 |[291600](https://oeis.org/A291600)|[http://echochamber.me/viewtopic.php?t=74216](http://echochamber.me/viewtopic.php?t=74216)|
-|[292105](https://oeis.org/A292105)|[http://arXiv.org/abs/math.MG/9508209](http://arXiv.org/abs/math.MG/9508209)|
 |[292185](https://oeis.org/A292185)|[http://www.jsoftware.com(PARI)](http://www.jsoftware.com(PARI))|
-|[292219](https://oeis.org/A292219)|[http://arXiv.org/abs/1707.04451](http://arXiv.org/abs/1707.04451)|
-|[292516](https://oeis.org/A292516)|[https://doi.org/10.25045/jpit.v10.i2.01](https://doi.org/10.25045/jpit.v10.i2.01)|
-|[292517](https://oeis.org/A292517)|[https://doi.org/10.25045/jpit.v10.i2.01](https://doi.org/10.25045/jpit.v10.i2.01)|
-|[292744](https://oeis.org/A292744)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[293551](https://oeis.org/A293551)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
 |[293710](https://oeis.org/A293710)|[http://marathwadamathsociety.org/vol17-1/June16-Arolkar.pdf](http://marathwadamathsociety.org/vol17-1/June16-Arolkar.pdf)|
-|[293777](https://oeis.org/A293777)|[https://jpit.az/uploads/article/az/2019_2/CENTRAL_SYMMETRY_PROPERTIES_FOR_DIAGONAL_LATIN_SQUARES.pdf](https://jpit.az/uploads/article/az/2019_2/CENTRAL_SYMMETRY_PROPERTIES_FOR_DIAGONAL_LATIN_SQUARES.pdf)|
-|[293778](https://oeis.org/A293778)|[https://jpit.az/uploads/article/az/2019_2/CENTRAL_SYMMETRY_PROPERTIES_FOR_DIAGONAL_LATIN_SQUARES.pdf](https://jpit.az/uploads/article/az/2019_2/CENTRAL_SYMMETRY_PROPERTIES_FOR_DIAGONAL_LATIN_SQUARES.pdf)|
-|[294102](https://oeis.org/A294102)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[294221](https://oeis.org/A294221)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[294222](https://oeis.org/A294222)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[294836](https://oeis.org/A294836)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[294837](https://oeis.org/A294837)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[294838](https://oeis.org/A294838)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[294839](https://oeis.org/A294839)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[294840](https://oeis.org/A294840)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[294841](https://oeis.org/A294841)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[294842](https://oeis.org/A294842)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[294843](https://oeis.org/A294843)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[294844](https://oeis.org/A294844)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[294845](https://oeis.org/A294845)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[294958](https://oeis.org/A294958)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[294959](https://oeis.org/A294959)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[295179](https://oeis.org/A295179)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[295180](https://oeis.org/A295180)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
 |[295513](https://oeis.org/A295513)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[295553](https://oeis.org/A295553)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
 |[295556](https://oeis.org/A295556)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[295637](https://oeis.org/A295637)|[http://wesscholar.wesleyan.edu/etd_hon_theses/1807](http://wesscholar.wesleyan.edu/etd_hon_theses/1807)|
-|[295828](https://oeis.org/A295828)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
 |[296030](https://oeis.org/A296030)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
-|[296060](https://oeis.org/A296060)|[https://doi.org/10.25045/jpit.v10.i2.01](https://doi.org/10.25045/jpit.v10.i2.01)|
-|[296061](https://oeis.org/A296061)|[https://doi.org/10.25045/jpit.v10.i2.01](https://doi.org/10.25045/jpit.v10.i2.01)|
-|[296165](https://oeis.org/A296165)|[http://arXiv.org/abs/math.CO/0211268](http://arXiv.org/abs/math.CO/0211268)|
-|[297123](https://oeis.org/A297123)|[http://www.ipgp.fr/~rozier/math/raman.html](http://www.ipgp.fr/~rozier/math/raman.html)|
-|[297127](https://oeis.org/A297127)|[http://www.ipgp.fr/~rozier/math/raman.html](http://www.ipgp.fr/~rozier/math/raman.html)|
-|[297424](https://oeis.org/A297424)|[http://www.ipgp.fr/~rozier/math/raman.html](http://www.ipgp.fr/~rozier/math/raman.html)|
-|[298612](https://oeis.org/A298612)|[https://www.jasondavies.com/necklaces/](https://www.jasondavies.com/necklaces/)|
 |[298614](https://oeis.org/A298614)|[http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp](http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp)|
 |[299041](https://oeis.org/A299041)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
 |[299710](https://oeis.org/A299710)|[http://www.chalcedon.demon.co.uk/rgep/cartable.html](http://www.chalcedon.demon.co.uk/rgep/cartable.html)|
@@ -4840,12 +3943,12 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[303434](https://oeis.org/A303434)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[303601](https://oeis.org/A303601)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[303933](https://oeis.org/A303933)|[http://www.math.uakron.edu/~sf34/opans0_6.html](http://www.math.uakron.edu/~sf34/opans0_6.html)|
+|[304616](https://oeis.org/A304616)|[http://www.conference.bonfring.org/papers/xavier_icamtcs2013/tt2_dm_0214.pdf](http://www.conference.bonfring.org/papers/xavier_icamtcs2013/tt2_dm_0214.pdf)|
+|[304617](https://oeis.org/A304617)|[http://www.conference.bonfring.org/papers/xavier_icamtcs2013/tt2_dm_0214.pdf](http://www.conference.bonfring.org/papers/xavier_icamtcs2013/tt2_dm_0214.pdf)|
 |[304938](https://oeis.org/A304938)|[https://icpc.baylor.edu/download/worldfinals/problems/icpc2013.pdf](https://icpc.baylor.edu/download/worldfinals/problems/icpc2013.pdf)|
 |[305616](https://oeis.org/A305616)|[https://ijntindia.puzl.com/files/1638778/download/1_das_1-12.pdf](https://ijntindia.puzl.com/files/1638778/download/1_das_1-12.pdf)|
 |[305617](https://oeis.org/A305617)|[https://ijntindia.puzl.com/files/1638778/download/1_das_1-12.pdf](https://ijntindia.puzl.com/files/1638778/download/1_das_1-12.pdf)|
 |[306071](https://oeis.org/A306071)|[http://emis.ams.org/journals/JIS/VOL12/Toth2/toth5.html](http://emis.ams.org/journals/JIS/VOL12/Toth2/toth5.html)|
-|[306587](https://oeis.org/A306587)|[https://www.parabola.unsw.edu.au/files/articles/2010-2019/volume-54-2018/issue-3/vol54_no3_4.pdf](https://www.parabola.unsw.edu.au/files/articles/2010-2019/volume-54-2018/issue-3/vol54_no3_4.pdf)|
-|[306588](https://oeis.org/A306588)|[https://www.parabola.unsw.edu.au/files/articles/2010-2019/volume-54-2018/issue-3/vol54_no3_4.pdf](https://www.parabola.unsw.edu.au/files/articles/2010-2019/volume-54-2018/issue-3/vol54_no3_4.pdf)|
 |[307159](https://oeis.org/A307159)|[http://emis.ams.org/journals/JIS/VOL20/Toth/toth25.html](http://emis.ams.org/journals/JIS/VOL20/Toth/toth25.html)|
 |[308041](https://oeis.org/A308041)|[http://emis.ams.org/journals/JIS/VOL20/Toth/toth25.html](http://emis.ams.org/journals/JIS/VOL20/Toth/toth25.html)|
 |[308182](https://oeis.org/A308182)|[http://puma.dimai.unifi.it/19_2_3/4.pdf](http://puma.dimai.unifi.it/19_2_3/4.pdf)|
@@ -4856,17 +3959,11 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[309246](https://oeis.org/A309246)|[http://emis.ams.org/journals/JIS/VOL14/DeKoninck/dek.html](http://emis.ams.org/journals/JIS/VOL14/DeKoninck/dek.html)|
 |[309514](https://oeis.org/A309514)|[https://cheapass.com/wp-content/uploads/2018/04/UniversityRulesSM.pdf](https://cheapass.com/wp-content/uploads/2018/04/UniversityRulesSM.pdf)|
 |[309779](https://oeis.org/A309779)|[http://smallsystems.isn-oldenburg.de/publications/metadocs/ebs.quadratsummen.html](http://smallsystems.isn-oldenburg.de/publications/metadocs/ebs.quadratsummen.html)|
-|[316074](https://oeis.org/A316074)|[https://arXiv.org/abs/math.CO/0205301](https://arXiv.org/abs/math.CO/0205301)|
-|[316101](https://oeis.org/A316101)|[https://arXiv.org/abs/math.CO/0205301](https://arXiv.org/abs/math.CO/0205301)|
-|[316158](https://oeis.org/A316158)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
-|[316159](https://oeis.org/A316159)|[http://arXiv.org/abs/math.CO/0205301](http://arXiv.org/abs/math.CO/0205301)|
 |[316603](https://oeis.org/A316603)|[http://forums.xkcd.com/viewtopic.php?f=7&amp](http://forums.xkcd.com/viewtopic.php?f=7&amp)|
 |[316774](https://oeis.org/A316774)|[https://peterillig.xyz/problems.html](https://peterillig.xyz/problems.html)|
 |[317681](https://oeis.org/A317681)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
 |[318274](https://oeis.org/A318274)|[http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/bitonic/bitonicen.htm](http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/bitonic/bitonicen.htm)|
-|[318495](https://oeis.org/A318495)|[http://zfn.mpdl.mpg.de/search?keyword=Polyhedral_Harmonics_Laporte](http://zfn.mpdl.mpg.de/search?keyword=Polyhedral_Harmonics_Laporte)|
 |[319524](https://oeis.org/A319524)|[http://users.skynet.be/albert.frank/fourth_international_contest3.html](http://users.skynet.be/albert.frank/fourth_international_contest3.html)|
-|[319574](https://oeis.org/A319574)|[http://arXiv.org/abs/math.NT/0407061](http://arXiv.org/abs/math.NT/0407061)|
 |[320457](https://oeis.org/A320457)|[http://www.dtic.mil/docs/citations/ADA222857](http://www.dtic.mil/docs/citations/ADA222857)|
 |[320873](https://oeis.org/A320873)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
 |[320874](https://oeis.org/A320874)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
@@ -4879,7 +3976,6 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[322791](https://oeis.org/A322791)|[http://emis.ams.org/journals/JIS/VOL13/Cao/cao4.html](http://emis.ams.org/journals/JIS/VOL13/Cao/cao4.html)|
 |[323191](https://oeis.org/A323191)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
 |[323202](https://oeis.org/A323202)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[323658](https://oeis.org/A323658)|[http://www.scielo.org.co/scielo.php?script=sci_arttext&amp](http://www.scielo.org.co/scielo.php?script=sci_arttext&amp)|
 |[325449](https://oeis.org/A325449)|[http://oai.cwi.nl/oai/asset/13093/13093A.pdf](http://oai.cwi.nl/oai/asset/13093/13093A.pdf)|
 |[327767](https://oeis.org/A327767)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
 |[329148](https://oeis.org/A329148)|[http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp](http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp)|
@@ -4891,59 +3987,32 @@ There are 4940 sequences in the table. Last update is 30/11/2022 14:46:58
 |[330317](https://oeis.org/A330317)|[https://10.2969/jmsj/05110237](https://10.2969/jmsj/05110237)|
 |[330318](https://oeis.org/A330318)|[https://10.2969/jmsj/05110237](https://10.2969/jmsj/05110237)|
 |[330612](https://oeis.org/A330612)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
-|[331529](https://oeis.org/A331529)|[https://cs.uwaterloo.ca/journals/JIS/VOL16/Eger/eger6.html](https://cs.uwaterloo.ca/journals/JIS/VOL16/Eger/eger6.html)|
-|[331762](https://oeis.org/A331762)|[http://arXiv.org/abs/math.CO/0602511](http://arXiv.org/abs/math.CO/0602511)|
 |[332077](https://oeis.org/A332077)|[https://asone.ai/polymath/index.php?title=The_Erdos-Rado_sunflower_lemma](https://asone.ai/polymath/index.php?title=The_Erdos-Rado_sunflower_lemma)|
-|[332201](https://oeis.org/A332201)|[http://arXiv.org/abs/1604.07746](http://arXiv.org/abs/1604.07746)|
 |[333909](https://oeis.org/A333909)|[https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf](https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf)|
 |[333910](https://oeis.org/A333910)|[https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf](https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf)|
 |[333911](https://oeis.org/A333911)|[https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf](https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf)|
 |[334472](https://oeis.org/A334472)|[https://www.math.uchicago.edu/~lawler/srwbook.pdf](https://www.math.uchicago.edu/~lawler/srwbook.pdf)|
 |[335050](https://oeis.org/A335050)|[http://bayer.faculty.ku.edu/pub/preprints/pill.pdf](http://bayer.faculty.ku.edu/pub/preprints/pill.pdf)|
-|[335951](https://oeis.org/A335951)|[https://doi.org/10.48550/arXiv.math/9207222](https://doi.org/10.48550/arXiv.math/9207222)|
+|[335862](https://oeis.org/A335862)|[https://www.itp.kit.edu/~wl/EISpub/A333852.pdf](https://www.itp.kit.edu/~wl/EISpub/A333852.pdf)|
+|[335863](https://oeis.org/A335863)|[https://www.itp.kit.edu/~wl/EISpub/A333852.pdf](https://www.itp.kit.edu/~wl/EISpub/A333852.pdf)|
+|[335864](https://oeis.org/A335864)|[https://www.itp.kit.edu/~wl/EISpub/A333852.pdf](https://www.itp.kit.edu/~wl/EISpub/A333852.pdf)|
 |[336657](https://oeis.org/A336657)|[https://faculty.missouri.edu/~bankswd/papers/2007_sum_prime_divs_Mersenne_HJM.pdf](https://faculty.missouri.edu/~bankswd/papers/2007_sum_prime_divs_Mersenne_HJM.pdf)|
+|[336700](https://oeis.org/A336700)|[http://www.bdim.eu/item?fmt=pdf&amp](http://www.bdim.eu/item?fmt=pdf&amp)|
+|[336701](https://oeis.org/A336701)|[http://www.bdim.eu/item?fmt=pdf&amp](http://www.bdim.eu/item?fmt=pdf&amp)|
 |[338218](https://oeis.org/A338218)|[http://grail.eecs.csuohio.edu/~somos/somospol.html](http://grail.eecs.csuohio.edu/~somos/somospol.html)|
 |[338442](https://oeis.org/A338442)|[http://www.chalcedon.demon.co.uk/rgep/cartable.html](http://www.chalcedon.demon.co.uk/rgep/cartable.html)|
 |[338443](https://oeis.org/A338443)|[http://www.chalcedon.demon.co.uk/rgep/cartable.html](http://www.chalcedon.demon.co.uk/rgep/cartable.html)|
 |[338866](https://oeis.org/A338866)|[http://ymmij.de/Nerd/p4/p4-2.pdf](http://ymmij.de/Nerd/p4/p4-2.pdf), [http://ymmij.de/Nerd/p4/calculation.pdf](http://ymmij.de/Nerd/p4/calculation.pdf)|
 |[338868](https://oeis.org/A338868)|[http://ymmij.de/Nerd/p4/calculation.pdf](http://ymmij.de/Nerd/p4/calculation.pdf), [http://ymmij.de/Nerd/p4/p4-3.pdf](http://ymmij.de/Nerd/p4/p4-3.pdf)|
 |[339189](https://oeis.org/A339189)|[http://ymmij.de/Nerd/p4/calculation.pdf](http://ymmij.de/Nerd/p4/calculation.pdf), [http://ymmij.de/Nerd/p4/p4-3.pdf](http://ymmij.de/Nerd/p4/p4-3.pdf)|
-|[339636](https://oeis.org/A339636)|[https://doi.org/10.48550/arXiv.2202.13694](https://doi.org/10.48550/arXiv.2202.13694)|
-|[339637](https://oeis.org/A339637)|[https://doi.org/10.48550/arXiv.2202.13694](https://doi.org/10.48550/arXiv.2202.13694)|
-|[340545](https://oeis.org/A340545)|[https://jpit.az/uploads/article/az/2019_2/CENTRAL_SYMMETRY_PROPERTIES_FOR_DIAGONAL_LATIN_SQUARES.pdf](https://jpit.az/uploads/article/az/2019_2/CENTRAL_SYMMETRY_PROPERTIES_FOR_DIAGONAL_LATIN_SQUARES.pdf)|
-|[340811](https://oeis.org/A340811)|[http://arXiv.org/abs/math.CO/0312424](http://arXiv.org/abs/math.CO/0312424)|
-|[340812](https://oeis.org/A340812)|[http://arXiv.org/abs/math.CO/0312424](http://arXiv.org/abs/math.CO/0312424)|
-|[340813](https://oeis.org/A340813)|[http://arXiv.org/abs/math.CO/0312424](http://arXiv.org/abs/math.CO/0312424)|
-|[340814](https://oeis.org/A340814)|[http://arXiv.org/abs/math.CO/0312424](http://arXiv.org/abs/math.CO/0312424)|
-|[341801](https://oeis.org/A341801)|[http://arXiv.org/abs/math.NT/0509316](http://arXiv.org/abs/math.NT/0509316)|
 |[343194](https://oeis.org/A343194)|[http://www.magic-squares.net/primesqr.htm#Minimum](http://www.magic-squares.net/primesqr.htm#Minimum)|
 |[343195](https://oeis.org/A343195)|[http://www.magic-squares.net/primesqr.htm#Minimum](http://www.magic-squares.net/primesqr.htm#Minimum)|
 |[343592](https://oeis.org/A343592)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
 |[343795](https://oeis.org/A343795)|[http://puma.dimai.unifi.it/21_2/5_Burstein_Josuat-Verges_Stromquist.pdf](http://puma.dimai.unifi.it/21_2/5_Burstein_Josuat-Verges_Stromquist.pdf)|
 |[344122](https://oeis.org/A344122)|[https://doi.org/10.14418/wes01.1.1360](https://doi.org/10.14418/wes01.1.1360)|
 |[344229](https://oeis.org/A344229)|[http://users.skynet.be/lch/mquiz/mquiz%202003/vragen/mquiz_2003_tafelronde_2.htm](http://users.skynet.be/lch/mquiz/mquiz%202003/vragen/mquiz_2003_tafelronde_2.htm)|
-|[344791](https://oeis.org/A344791)|[https://repositorio.unal.edu.co/handle/unal/78154](https://repositorio.unal.edu.co/handle/unal/78154)|
-|[346497](https://oeis.org/A346497)|[https://doi.org/10.48550/arXiv.2202.13256](https://doi.org/10.48550/arXiv.2202.13256)|
+|[345202](https://oeis.org/A345202)|[http://www.bdim.eu/item?id=BUMI_1953_3_8_4_448_0](http://www.bdim.eu/item?id=BUMI_1953_3_8_4_448_0)|
 |[346673](https://oeis.org/A346673)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
 |[348563](https://oeis.org/A348563)|[https://indianmathsociety.org.in/mathstudent-part-1-2019.pdf#page=131](https://indianmathsociety.org.in/mathstudent-part-1-2019.pdf#page=131)|
-|[351172](https://oeis.org/A351172)|[https://doi.org/10.48550/arXiv.2202.13694](https://doi.org/10.48550/arXiv.2202.13694)|
-|[351173](https://oeis.org/A351173)|[https://doi.org/10.48550/arXiv.2202.13694](https://doi.org/10.48550/arXiv.2202.13694)|
-|[351175](https://oeis.org/A351175)|[https://doi.org/10.48550/arXiv.2202.13694](https://doi.org/10.48550/arXiv.2202.13694)|
-|[351176](https://oeis.org/A351176)|[https://doi.org/10.48550/arXiv.2202.13694](https://doi.org/10.48550/arXiv.2202.13694)|
-|[351325](https://oeis.org/A351325)|[https://doi.org/10.48550/arXiv.2202.13694](https://doi.org/10.48550/arXiv.2202.13694)|
-|[351327](https://oeis.org/A351327)|[https://doi.org/10.48550/arXiv.2203.03381](https://doi.org/10.48550/arXiv.2203.03381)|
-|[351782](https://oeis.org/A351782)|[https://doi.org/10.48550/arXiv.2202.13279](https://doi.org/10.48550/arXiv.2202.13279)|
-|[351927](https://oeis.org/A351927)|[https://doi.org/10.48550/arXiv.2202.13256](https://doi.org/10.48550/arXiv.2202.13256)|
-|[351928](https://oeis.org/A351928)|[https://doi.org/10.48550/arXiv.2202.13256](https://doi.org/10.48550/arXiv.2202.13256)|
-|[353185](https://oeis.org/A353185)|[http://www.jstor.org/stable/2689178](http://www.jstor.org/stable/2689178)|
 |[354474](https://oeis.org/A354474)|[https://www.tiktok.com/@mathandcobb/video/7110667721133690158](https://www.tiktok.com/@mathandcobb/video/7110667721133690158)|
-|[355262](https://oeis.org/A355262)|[https://doi.org/10.48550/arXiv.math/9207221](https://doi.org/10.48550/arXiv.math/9207221), [https://doi.org/10.48550/arXiv.0711.0906](https://doi.org/10.48550/arXiv.0711.0906)|
 |[355313](https://oeis.org/A355313)|[https://www.tiktok.com/@mathandcobb/video/7110667721133690158](https://www.tiktok.com/@mathandcobb/video/7110667721133690158)|
-|[355420](https://oeis.org/A355420)|[https://doi.org/10.48550/arXiv.2205.10163](https://doi.org/10.48550/arXiv.2205.10163)|
-|[355774](https://oeis.org/A355774)|[https://doi.org/10.48550/arXiv.1608.06810](https://doi.org/10.48550/arXiv.1608.06810)|
-|[355777](https://oeis.org/A355777)|[https://doi.org/10.48550/arxiv.2206.13409](https://doi.org/10.48550/arxiv.2206.13409), [https://doi.org/10.48550/arXiv.math/0605060](https://doi.org/10.48550/arXiv.math/0605060)|
-|[356547](https://oeis.org/A356547)|[https://doi.org/10.48550/arXiv.2208.02898](https://doi.org/10.48550/arXiv.2208.02898), [https://doi.org/10.48550/arXiv.2104.09316](https://doi.org/10.48550/arXiv.2104.09316)|
-|[357508](https://oeis.org/A357508)|[https://doi.org/10.48550/arXiv.math/0603462](https://doi.org/10.48550/arXiv.math/0603462)|
-|[357611](https://oeis.org/A357611)|[https://doi.org/10.48550/arXiv.2209.02523](https://doi.org/10.48550/arXiv.2209.02523)|
-|[358111](https://oeis.org/A358111)|[https://doi.org/10.48550/arxiv.2210.02027](https://doi.org/10.48550/arxiv.2210.02027)|
-|[358112](https://oeis.org/A358112)|[https://doi.org/10.48550/arxiv.2210.02027](https://doi.org/10.48550/arxiv.2210.02027)|
