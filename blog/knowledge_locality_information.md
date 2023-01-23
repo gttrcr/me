@@ -9,15 +9,15 @@ In the context of quantum mechanics, non-locality has taken on a particular mean
 We speak of non-local theory when there are systems connected in such a way that the modification of one of the two elements instantly causes the modification of the element connected to it. Quantum mechanics is a non-local theory. BUT this in no way violates the fundamental principles of physics since when non-local phenomena occur, no information has traveled from one element to another. Unlike general relativity, a non-local connection is not informational. Since there is no information involved in the connection, its speed is not required to be less or equal that $$c$$. Since there is no information involved in the connection, it is not required that the principle of locality be respected and therefore the constraint that the signal must travel at the maximum speed of light is dropped. At this point the locality/non-locality problem has become an information/non-information type problem on which we will dwell at length.
 Consider the following table:
 
-|Principle|Equivalent statement|Jniustification|
-|-|-|-|
+|Principle|Property|Justification|
+|:-:|:-:|:-:|
 |Locality | $$v\leq c$$ | by definition of locality |
 |Information | $$v\leq c$$ | by General relativity |
 |Non-locality | $$v>c$$ | by negation of definition of locality |
 |Non-information | $$v>c$$ | by negation of General relativity |
 
 Hence,
-||||
-|-|-|-|
+|Principle|Property|Informative|
+|:-:|:-:|:-:|
 |Locality | $$v\leq c$$ | Information|
 |Non-locality | $$v>c$$ | Non-information|
