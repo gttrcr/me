@@ -5,11 +5,6 @@ title: OEIS
 
 ## This section is dedicated to the contributions to the OEIS
 
-
- {% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
- {% endraw %}
-
 I have been using OEIS for research for many years and find it to be a really useful website - a place to find what you need. As the OEIS itself reports, the amount of data is always increasing and more and more submissions are made to insert new sequences by users, hence OEIS have to keep the new and old data updated and corrected. OEIS asks its users to check and report any errors or inaccuracies but I have noticed that, although there is a lot of work to do, a todolist of individual tasks is missing. So I created this section where each of the following pages refers to a list of sequences which, according to OEIS, must be checked and improved. The following table shows the task to be performed, a description, the OEIS request and the link to the list of sequences for which that task must be performed.
 
 I am still working of the [broken](oeis_mds/broken_links.md) list because it is a slightly longer and more complicated process check every link, but the list is updated daily until all sequences have been checked by a software. All lists are updated every month. I cannot, for the moment, guarantee the precise day on which the update is carried out but certainly the time between one update and the next is less than 30 days.
