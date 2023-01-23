@@ -3,17 +3,9 @@ layout: page
 title: Knowledge, locality, information
 ---
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-<script src="jquery.jslatex.js"></script>
-<script>
-$(function () {
-    $(".latex").latex();
-});
-</script>
-
-<div class="latex">
-    \int_{0}^{\pi}\frac{x^{4}\left(1-x\right)^{4}}{1+x^{2}}dx =\frac{22}{7}-\pi
-</div>
+```math
+\sqrt{3}
+```
 
 The universe is characterized by a multitude of connections between its parts and this property can be observed at all levels and in all sectors of knowledge. It seems that there are very few elements whose connections with the rest of reality are not known, that is, elements that appear completely disconnected. Artists and scientists in every era have grasped new connections and better understood the already known ones. However, it rarely happens that elements considered connected, then turn out to be completely independent: the entire Western and Eastern thought (the thought of all humanity) has searched and is constantly searching for new connections. For the first time in human history one begins to perceive a sort of unity, perhaps already present in ancient thought, which was then lost with the progressive specialization of knowledge in recent centuries.
 Arguments not very different from this one have slowly led us to think that some of the principles on which human thought and knowledge are built are in fact principles with which nature operates and manifests itself. Speaking in informal terms (the formal treatment will be proposed later) it is possible to identify a fundamental opposition that can be found both in the arts and in science. In physical terms it declines in the problem of locality/non-locality of phenomena and theories.
