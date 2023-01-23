@@ -1,0 +1,23 @@
+---
+layout: page
+title: Knowledge, locality, information
+---
+
+The universe is characterized by a multitude of connections between its parts and this property can be observed at all levels and in all sectors of knowledge. It seems that there are very few elements whose connections with the rest of reality are not known, that is, elements that appear completely disconnected. Artists and scientists in every era have grasped new connections and better understood the already known ones. However, it rarely happens that elements considered connected, then turn out to be completely independent: the entire Western and Eastern thought (the thought of all humanity) has searched and is constantly searching for new connections. For the first time in human history one begins to perceive a sort of unity, perhaps already present in ancient thought, which was then lost with the progressive specialization of knowledge in recent centuries.
+Arguments not very different from this one have slowly led us to think that some of the principles on which human thought and knowledge are built are in fact principles with which nature operates and manifests itself. Speaking in informal terms (the formal treatment will be proposed later) it is possible to identify a fundamental opposition that can be found both in the arts and in science. In physical terms it declines in the problem of locality/non-locality of phenomena and theories.
+In the context of quantum mechanics, non-locality has taken on a particular meaning that we will analyze later. However it is interesting to note that the theories of classical mechanics, assuming the speed of light as an infinite speed, represent a type of non-local theory since the time elapsed between a cause and its effect is exactly 0. Let consider Newton's theory of gravity: if the Sun disappeared at this very moment, at exactly the same instant the Earth would stop rotating around its star and will move in a straight line thus moving away from the solar system which would instantly begin to disintegrate. More recent experimental results and more precise theoretical descriptions motivated by new discoveries starting from Maxwell's electromagnetic theory, have shown that any information can only travel at the speed of light in vacuum $c$. In the previous example, if the Sun disappeared at this very moment, Earth would begin to abandon its orbit only when the information "the Sun has disappeared" had reached it and since the information can only travel at $c$ and since $c$ is not infinite then the lapse of time between the disappearance of the Sun and the modification of the trajectory of the Earth will not be 0. In these terms, in modern physics, we speak of local theory only in the moment in which such a time elapses between a cause and an effect so that at least a beam of light starting from the cause can reach the effect.
+We speak of non-local theory when there are systems connected in such a way that the modification of one of the two elements instantly causes the modification of the element connected to it. Quantum mechanics is a non-local theory. BUT this in no way violates the fundamental principles of physics since when non-local phenomena occur, no information has traveled from one element to another. Unlike general relativity, a non-local connection is not informational. Since there is no information involved in the connection, its speed is not required to be less or equal that $c$. Since there is no information involved in the connection, it is not required that the principle of locality be respected and therefore the constraint that the signal must travel at the maximum speed of light is dropped. At this point the locality/non-locality problem has become an information/non-information type problem on which we will dwell at length.
+Consider the following table:
+
+|Pirnciple|Equivalent statement|Jniustification|
+|-|-|-|
+|Locality | $v\leq c$ | by definition of locality |
+|Information | $v\leq c$ | by General relativity |
+|Non-locality | $v>c$ | by negation of definition of locality |
+|Non-information | $v>c$ | by negation of General relativity |
+
+Hence,
+||||
+|-|-|-|
+|Locality | $v\leq c$ | Information|
+|Non-locality | $v>c$ | Non-information|
