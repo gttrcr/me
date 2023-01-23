@@ -11,13 +11,13 @@ Consider the following table:
 
 |Principle|Property|Justification|
 |:-:|:-:|:-:|
-|Locality | $$v\leq c$$ | by definition of locality |
-|Information | $$v\leq c$$ | by General relativity |
-|Non-locality | $$v>c$$ | by negation of definition of locality |
-|Non-information | $$v>c$$ | by negation of General relativity |
+|Locality|$$v\leq c$$|Definition of locality|
+|Information|$$v\leq c$$|General relativity|
+|Non-locality|$$v>c$$|Negation of definition of locality|
+|Non-information|$$v>c$$|Negation of General relativity|
 
 Hence,
-|Principle|Property|Informative|
+||Locality status|Property|Informative status|
 |:-:|:-:|:-:|
-|Locality | $$v\leq c$$ | Information|
-|Non-locality | $$v>c$$ | Non-information|
+|Locality|$$v\leq c$$|Information|
+|Non-locality|$$v>c$$|Non-information|
