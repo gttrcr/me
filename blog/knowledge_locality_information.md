@@ -28,6 +28,8 @@ Hence,
 
 Information is a key concept of knowledge whose general definition is currently an open problem. Each discipline adopts a particular definition and this value allows us to compare systems and phenomena. Regardless of the definition, information is particularly interesting because it allows eliminating the problem of measurement in order to describe the phenomena not on the basis of their quantitative but qualitative description.
 
+Classical mechanics, developed in the context of the enlightenment, deterministic and mechanistic culture, has become the symbol of the predictive accuracy of theories. The dream faced by classical mechanics was to describe reality by predicting with absolute certainty the evolution of a system assuming it knew exactly all the previous states. Statistical mechanics and thermodynamics have taught that describing complex system formed by many bodies is a problem that cannot be solved exactly in the general form. The general solutions are numerical and, through a large computing power, it is possible to create simulations that describe their behavior in time and space. In this way, here
+
 ## Bibliograpy
 
 1. Frieden, B. Roy. "Physics from Fisher information: a unification." (2000): 1064-1065.
