@@ -36,7 +36,9 @@ Hence,
 |    Locality     | $$v\leq c$$ |    Information     |
 |  Non-locality   |   $$v>c$$   |  Non-information   |
 
-Or, $$locality\Leftrightarrow v\leq c\Leftrightarrow information\neq 0\land non-locality\Leftrightarrow v>c\Leftrightarrow information=0$$.
+Or,
+
+$locality\Leftrightarrow v\leq c\Leftrightarrow information\neq 0\land non-locality\Leftrightarrow v>c\Leftrightarrow information=0$
 
 ## Information
 
