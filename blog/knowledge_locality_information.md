@@ -3,6 +3,15 @@ layout: page
 title: Knowledge, locality, information
 ---
 
+## Table of content
+
+* [Introduction and motivation](#introduction-and-motivation)
+* [Information](#information)
+* [Research line](#research-line)
+* [Team](#team)
+* [Videos, docs, links](#videos-docs-links)
+* [Bibliograpy](#bibliograpy)
+
 ## Introduction and motivation
 
 The universe is characterized by a multitude of connections between its parts and this property can be observed at all levels and in all sectors of knowledge. It seems that there are very few elements whose connections with the rest of reality are not known, that is, elements completely disconnected. Artists and scientists in every era have grasped new connections and better understood the already known ones. Also, it rarely happens that elements considered connected then turn out to be completely independent: the entire Western and Eastern thought (the thought of all humanity) has searched and is constantly searching for new connections. For the first time in human history one begins to perceive a sort of unity, perhaps already present in ancient thought, which was then lost with the progressive specialization of knowledge in recent centuries.
@@ -71,17 +80,41 @@ The following table (updated at 24 january 2023) can be found, always updated, a
 
 CS: computer science
 
+## Team
 
-[comment]: <> (## Team)
+[comment]: <> (Riccardo Gatti, Senior researcher in differential equation theory and number theory)
+[comment]: <> (Daniele Tazzioli)
+
+## Videos, docs, links
+
+### Google meet permalink
+
+https://meet.google.com/jau-dhck-aeo
+
+### Meeting places and dates
+
+| Places |   Dates    |     Topic      |
+| :----: | :--------: | :------------: |
+| Modena | 08/01/2023 | Meet and greet |
+
+### Dirac equation video
+
+1. https://www.youtube.com/watch?v=OCuaBmAzqek
+2. https://www.youtube.com/watch?v=tR6UebCvFqE
+3. https://www.youtube.com/watch?v=0DL-Xa1f3QI
+
+### QFT playlist
+
+https://youtube.com/playlist?list=PLsp_BbZBIk_6_5pi9tHHmoVJzjqpfBkgJ
 
 ## Bibliograpy
 
-#### Nagy, Á. Int J Quantum Chem 2022, 122( 8), e26679. https://doi.org/10.1002/qua.26679.
-#### Berkovitz, Joseph, "Action at a Distance in Quantum Mechanics", The Stanford Encyclopedia of Philosophy (Spring 2016 Edition), Edward N. Zalta (ed.), https://plato.stanford.edu/archives/spr2016/entries/qm-action-distance/.
-#### Sciencemap.eto.tech, "ETO Map of Science.", https://sciencemap.eto.tech/.
+#### Nagy, Á. Int J Quantum Chem 2022, 122( 8), e26679. [https://doi.org/10.1002/qua.26679](https://doi.org/10.1002/qua.26679)
+#### Berkovitz, Joseph, "Action at a Distance in Quantum Mechanics", The Stanford Encyclopedia of Philosophy (Spring 2016 Edition), Edward N. Zalta (ed.), [https://plato.stanford.edu/archives/spr2016/entries/qm-action-distance/](https://plato.stanford.edu/archives/spr2016/entries/qm-action-distance/)
+#### Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/](https://sciencemap.eto.tech/)
 #### Gentle, James E. "Theory of statistics." George Mason University (2013).
-#### Sciencemap.eto.tech, "ETO Map of Science.", https://sciencemap.eto.tech/cluster/?cluster_id=86103.
-#### Sciencemap.eto.tech, "ETO Map of Science.", https://sciencemap.eto.tech/cluster/?cluster_id=60834.
-#### Sciencemap.eto.tech, "ETO Map of Science.", https://sciencemap.eto.tech/cluster/?cluster_id=57652.
-#### Sciencemap.eto.tech, "ETO Map of Science.", https://sciencemap.eto.tech/cluster/?cluster_id=35006.
-#### Frieden, B. Roy. "Physics from Fisher information: a unification." (2000): 1064-1065.
+#### Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/cluster/?cluster_id=86103](https://sciencemap.eto.tech/cluster/?cluster_id=86103)
+#### Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/cluster/?cluster_id=60834](https://sciencemap.eto.tech/cluster/?cluster_id=60834)
+#### Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/cluster/?cluster_id=57652](https://sciencemap.eto.tech/cluster/?cluster_id=57652)
+#### Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/cluster/?cluster_id=35006](https://sciencemap.eto.tech/cluster/?cluster_id=35006)
+#### Frieden, B. Roy. Physics from Fisher Information: A Unification. Cambridge University Press, 1998, [https://www.cambridge.org/core/books/physics-from-fisher-information/EAD061980A31B012779A6BC5D7F93822](https://www.cambridge.org/core/books/physics-from-fisher-information/EAD061980A31B012779A6BC5D7F93822)
