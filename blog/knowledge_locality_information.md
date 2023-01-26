@@ -89,7 +89,7 @@ CS: computer science
 
 ### Google meet permalink
 
-https://meet.google.com/jau-dhck-aeo
+[https://meet.google.com/jau-dhck-aeo](https://meet.google.com/jau-dhck-aeo)
 
 ### Meeting places and dates
 
@@ -99,13 +99,13 @@ https://meet.google.com/jau-dhck-aeo
 
 ### Dirac equation video
 
-1. https://www.youtube.com/watch?v=OCuaBmAzqek
-2. https://www.youtube.com/watch?v=tR6UebCvFqE
-3. https://www.youtube.com/watch?v=0DL-Xa1f3QI
+1. [https://www.youtube.com/watch?v=OCuaBmAzqek](https://www.youtube.com/watch?v=OCuaBmAzqek)
+2. [https://www.youtube.com/watch?v=tR6UebCvFqE](https://www.youtube.com/watch?v=tR6UebCvFqE)
+3. [https://www.youtube.com/watch?v=0DL-Xa1f3QI](https://www.youtube.com/watch?v=0DL-Xa1f3QI)
 
 ### QFT playlist
 
-https://youtube.com/playlist?list=PLsp_BbZBIk_6_5pi9tHHmoVJzjqpfBkgJ
+[https://youtube.com/playlist?list=PLsp_BbZBIk_6_5pi9tHHmoVJzjqpfBkgJ](https://youtube.com/playlist?list=PLsp_BbZBIk_6_5pi9tHHmoVJzjqpfBkgJ)
 
 ## Bibliograpy
 
