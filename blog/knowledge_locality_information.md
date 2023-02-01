@@ -84,8 +84,9 @@ CS: computer science
 
 ## Team
 
-[comment]: <> (Riccardo Gatti, Senior researcher in differential equation theory and number theory)
-[comment]: <> (Daniele Tazzioli)
+* Riccardo Gatti - School of Mathematics and Statistics, senior researcher in differential equation theory and number theory
+* Daniele Tazzioli - Department of Physics, Informatics and Mathematics UNIMORE
+* Marco Rocchetto - PhD in CS, R&D for cybersecurity engineering
 
 ## Videos, docs, links
 
