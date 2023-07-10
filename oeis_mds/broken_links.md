@@ -3,129 +3,479 @@ layout: page
 title: Sequences that contains broken links
 ---
 
-There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
+There are 3943 sequences in the table. Last update is 23/06/2023 19:01:41
 
 |Number|Links|
 |-|-|
-|[5](https://oeis.org/A000005)|[http://www.jordanbell.org/history/lambert.pdf](http://www.jordanbell.org/history/lambert.pdf), [http://www.math.uncc.edu/~hbreiter/DivisorsLasVegas.pdf](http://www.math.uncc.edu/~hbreiter/DivisorsLasVegas.pdf)|
+|[1](https://oeis.org/A000001)|[http://staffhome.ecm.uwa.edu.au/~00013890/data.html](http://staffhome.ecm.uwa.edu.au/~00013890/data.html)|
+|[227588](https://oeis.org/A227588)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/July2013.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/July2013.html)|
 |[8](https://oeis.org/A000008)|[http://ecs.inria.fr/services/structure?nbr=174](http://ecs.inria.fr/services/structure?nbr=174)|
 |[9](https://oeis.org/A000009)|[http://ecs.inria.fr/services/structure?nbr=108](http://ecs.inria.fr/services/structure?nbr=108)|
-|[27](https://oeis.org/A000027)|[http://sunsite.utk.edu/math_archives/.http/hypermail/historia/may99/0210.html](http://sunsite.utk.edu/math_archives/.http/hypermail/historia/may99/0210.html), [http://everything2.net/index.pl?node_id=17633&amp](http://everything2.net/index.pl?node_id=17633&amp), [http://users.pipeline.com.au/owen/Numbers.html](http://users.pipeline.com.au/owen/Numbers.html)|
+|[91067](https://oeis.org/A091067)|[http://user42.tuxfamily.org/dragon/index.html](http://user42.tuxfamily.org/dragon/index.html)|
+|[27](https://oeis.org/A000027)|[http://everything2.net/index.pl?node_id=17633&amp](http://everything2.net/index.pl?node_id=17633&amp), [http://sunsite.utk.edu/math_archives/.http/hypermail/historia/may99/0210.html](http://sunsite.utk.edu/math_archives/.http/hypermail/historia/may99/0210.html), [http://users.pipeline.com.au/owen/Numbers.html](http://users.pipeline.com.au/owen/Numbers.html)|
 |[29](https://oeis.org/A000029)|[https://doi.org/10.1364/OE.24.001133](https://doi.org/10.1364/OE.24.001133)|
+|[91070](https://oeis.org/A091070)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
+|[91071](https://oeis.org/A091071)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
 |[31](https://oeis.org/A000031)|[http://ecs.inria.fr/services/structure?nbr=2](http://ecs.inria.fr/services/structure?nbr=2), [http://ecs.inria.fr/services/structure?nbr=130](http://ecs.inria.fr/services/structure?nbr=130)|
+|[91072](https://oeis.org/A091072)|[http://user42.tuxfamily.org/dragon/index.html](http://user42.tuxfamily.org/dragon/index.html)|
+|[91073](https://oeis.org/A091073)|[http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html](http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html)|
 |[32](https://oeis.org/A000032)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
 |[34](https://oeis.org/A000034)|[http://ecs.inria.fr/services/structure?nbr=383](http://ecs.inria.fr/services/structure?nbr=383)|
 |[38](https://oeis.org/A000038)|[http://www.gutenberg.org/ebooks/3651](http://www.gutenberg.org/ebooks/3651)|
-|[40](https://oeis.org/A000040)|[http://wwwmaths.anu.edu.au/~brent/pub/pub120.html](http://wwwmaths.anu.edu.au/~brent/pub/pub120.html), [http://britton.disted.camosun.bc.ca/jbprimelist.htm](http://britton.disted.camosun.bc.ca/jbprimelist.htm), [http://www.gutenberg.org/etext/65](http://www.gutenberg.org/etext/65), [http://everything2.net/index.pl?node_id=74889&amp](http://everything2.net/index.pl?node_id=74889&amp), [http://www.flonnet.com/fl1917/19171290.htm](http://www.flonnet.com/fl1917/19171290.htm), [http://members.cox.net/mathmistakes/primes.htm](http://members.cox.net/mathmistakes/primes.htm), [http://campmath.uqam.ca/infos2004/conf_double.pdf](http://campmath.uqam.ca/infos2004/conf_double.pdf), [http://campmath.uqam.ca/2005/nbPremMysEnj.pdf](http://campmath.uqam.ca/2005/nbPremMysEnj.pdf), [http://www.maths.ex.ac.uk/~mwatkins/zeta/unusual.htm](http://www.maths.ex.ac.uk/~mwatkins/zeta/unusual.htm), [http://w210.Ub.uni-tuebingen.de/dbt/volltexte/2001/420/pdf/dissertation.pdf](http://w210.Ub.uni-tuebingen.de/dbt/volltexte/2001/420/pdf/dissertation.pdf)|
-|[41](https://oeis.org/A000041)|[http://www-ang.kfunigraz.ac.at/~fripert/fga/k1partn.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1partn.html), [http://rgp.ufl.edu/explore/v05n2/math.html](http://rgp.ufl.edu/explore/v05n2/math.html), [http://citeseer.nj.nec.com/correct/513487](http://citeseer.nj.nec.com/correct/513487), [http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf](http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf), [http://www2.rowan.edu/mars/depts/math/HASSEN/NT/Playpart.html](http://www2.rowan.edu/mars/depts/math/HASSEN/NT/Playpart.html), [http://wsgfl.westsussex.gov.uk/maths/Ramanujan.htm](http://wsgfl.westsussex.gov.uk/maths/Ramanujan.htm), [http://pubmedcentral.com/articlerender.fcgi?artid=1266147](http://pubmedcentral.com/articlerender.fcgi?artid=1266147), [http://ecs.inria.fr/services/structure?nbr=61](http://ecs.inria.fr/services/structure?nbr=61), [http://10.1007/s11139-006-9576-1](http://10.1007/s11139-006-9576-1), [http://ecs.inria.fr/services/structure?nbr=74](http://ecs.inria.fr/services/structure?nbr=74)|
-|[45](https://oeis.org/A000045)|[http://education.lanl.gov/RESOURCES/ATPS/CHPTR02/P011.HTM](http://education.lanl.gov/RESOURCES/ATPS/CHPTR02/P011.HTM), [https://cs.uwaterloo.ca/journals/JIS/VOL21/Munagi/munagi10.html](https://cs.uwaterloo.ca/journals/JIS/VOL21/Munagi/munagi10.html), [http://www.branta.connectfree.co.uk/fibonacci.htm](http://www.branta.connectfree.co.uk/fibonacci.htm), [http://ccins.camosun.bc.ca/~jbritton/fibonacci/jbfibapplet.htm](http://ccins.camosun.bc.ca/~jbritton/fibonacci/jbfibapplet.htm), [http://www.newton.cam.ac.uk/wmy2kposters/january](http://www.newton.cam.ac.uk/wmy2kposters/january), [https://statweb.stanford.edu/~cgates/PERSI/papers/sequential_sampling_10.pdf](https://statweb.stanford.edu/~cgates/PERSI/papers/sequential_sampling_10.pdf), [http://library.thinkquest.org/27890/theSeries.html](http://library.thinkquest.org/27890/theSeries.html), [http://www.users.bigpond.net.au/renton/903.htm](http://www.users.bigpond.net.au/renton/903.htm), [http://ecs.inria.fr/services/structure?nbr=9](http://ecs.inria.fr/services/structure?nbr=9), [http://statweb.stanford.edu/~cgates/PERSI/papers/probabilizing-fibonacci.pdf](http://statweb.stanford.edu/~cgates/PERSI/papers/probabilizing-fibonacci.pdf), [http://pw1.netcom.com/~merrills/fibphi.html](http://pw1.netcom.com/~merrills/fibphi.html), [http://202.195.112.2/xsjl/szh/ConFn.pdf](http://202.195.112.2/xsjl/szh/ConFn.pdf), [http://thesaurus.maths.org/dictionary/map/word/3788](http://thesaurus.maths.org/dictionary/map/word/3788), [http://www-irma.u-strasbg.fr/~foata/paper/pub71.html](http://www-irma.u-strasbg.fr/~foata/paper/pub71.html)|
+|[40](https://oeis.org/A000040)|[http://www.gutenberg.org/etext/65](http://www.gutenberg.org/etext/65), [http://everything2.net/index.pl?node_id=74889&amp](http://everything2.net/index.pl?node_id=74889&amp), [http://britton.disted.camosun.bc.ca/jbprimelist.htm](http://britton.disted.camosun.bc.ca/jbprimelist.htm), [http://cr.yp.to/papers/aks.pdf](http://cr.yp.to/papers/aks.pdf), [http://cr.yp.to/primetests.html](http://cr.yp.to/primetests.html), [http://members.cox.net/mathmistakes/primes.htm](http://members.cox.net/mathmistakes/primes.htm), [http://www.maths.ex.ac.uk/~mwatkins/zeta/unusual.htm](http://www.maths.ex.ac.uk/~mwatkins/zeta/unusual.htm), [http://w210.Ub.uni-tuebingen.de/dbt/volltexte/2001/420/pdf/dissertation.pdf](http://w210.Ub.uni-tuebingen.de/dbt/volltexte/2001/420/pdf/dissertation.pdf)|
+|[182113](https://oeis.org/A182113)|[http://list.seqfan.eu/oldermail/seqfan/2012-April/016773.html](http://list.seqfan.eu/oldermail/seqfan/2012-April/016773.html)|
+|[41](https://oeis.org/A000041)|[http://www-ang.kfunigraz.ac.at/~fripert/fga/k1partn.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1partn.html), [http://rgp.ufl.edu/explore/v05n2/math.html](http://rgp.ufl.edu/explore/v05n2/math.html), [http://citeseer.nj.nec.com/correct/513487](http://citeseer.nj.nec.com/correct/513487), [http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf](http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf), [http://www2.rowan.edu/mars/depts/math/HASSEN/NT/Playpart.html](http://www2.rowan.edu/mars/depts/math/HASSEN/NT/Playpart.html), [http://pubmedcentral.com/articlerender.fcgi?artid=1266147](http://pubmedcentral.com/articlerender.fcgi?artid=1266147), [http://wsgfl.westsussex.gov.uk/maths/Ramanujan.htm](http://wsgfl.westsussex.gov.uk/maths/Ramanujan.htm), [http://ecs.inria.fr/services/structure?nbr=61](http://ecs.inria.fr/services/structure?nbr=61), [http://10.1007/s11139-006-9576-1](http://10.1007/s11139-006-9576-1), [http://ecs.inria.fr/services/structure?nbr=74](http://ecs.inria.fr/services/structure?nbr=74)|
+|[182115](https://oeis.org/A182115)|[http://list.seqfan.eu/oldermail/seqfan/2012-April/016773.html](http://list.seqfan.eu/oldermail/seqfan/2012-April/016773.html)|
+|[45](https://oeis.org/A000045)|[http://thesaurus.maths.org/dictionary/map/word/3788](http://thesaurus.maths.org/dictionary/map/word/3788), [http://education.lanl.gov/RESOURCES/ATPS/CHPTR02/P011.HTM](http://education.lanl.gov/RESOURCES/ATPS/CHPTR02/P011.HTM), [http://www.branta.connectfree.co.uk/fibonacci.htm](http://www.branta.connectfree.co.uk/fibonacci.htm), [http://ccins.camosun.bc.ca/~jbritton/fibonacci/jbfibapplet.htm](http://ccins.camosun.bc.ca/~jbritton/fibonacci/jbfibapplet.htm), [http://www.newton.cam.ac.uk/wmy2kposters/january](http://www.newton.cam.ac.uk/wmy2kposters/january), [http://library.thinkquest.org/27890/theSeries.html](http://library.thinkquest.org/27890/theSeries.html), [http://www.users.bigpond.net.au/renton/903.htm](http://www.users.bigpond.net.au/renton/903.htm), [http://ecs.inria.fr/services/structure?nbr=9](http://ecs.inria.fr/services/structure?nbr=9), [http://www-irma.u-strasbg.fr/~foata/paper/pub71.html](http://www-irma.u-strasbg.fr/~foata/paper/pub71.html), [http://pw1.netcom.com/~merrills/fibphi.html](http://pw1.netcom.com/~merrills/fibphi.html), [http://202.195.112.2/xsjl/szh/ConFn.pdf](http://202.195.112.2/xsjl/szh/ConFn.pdf)|
 |[48](https://oeis.org/A000048)|[http://abel.harvard.edu/archive/118r_spring_05/docs/may.pdf](http://abel.harvard.edu/archive/118r_spring_05/docs/may.pdf)|
 |[51](https://oeis.org/A000051)|[http://ecs.inria.fr/services/structure?nbr=114](http://ecs.inria.fr/services/structure?nbr=114), [http://ecs.inria.fr/services/structure?nbr=362](http://ecs.inria.fr/services/structure?nbr=362)|
 |[55](https://oeis.org/A000055)|[http://www.arbelos.co.uk/Papers/Enumerating-nets.pdf](http://www.arbelos.co.uk/Papers/Enumerating-nets.pdf)|
 |[58](https://oeis.org/A000058)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
-|[66](https://oeis.org/A000066)|[http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
-|[70](https://oeis.org/A000070)|[http://ecs.inria.fr/services/structure?nbr=113](http://ecs.inria.fr/services/structure?nbr=113), [http://ecs.inria.fr/services/structure?nbr=126](http://ecs.inria.fr/services/structure?nbr=126)|
+|[66](https://oeis.org/A000066)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/), [http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
+|[70](https://oeis.org/A000070)|[https://people.engr.ncsu.edu/savage/PAPERS/forests.pdf](https://people.engr.ncsu.edu/savage/PAPERS/forests.pdf), [https://jostmed.futminna.edu.ng/images/JOSTMED/Jostmed_152_June_2019/8._Conjugacy_Classes_of_the_Order-Preserving_and_Order-Decreasing_Partial_One-to-One_Transformation_Semigroups.pdf](https://jostmed.futminna.edu.ng/images/JOSTMED/Jostmed_152_June_2019/8._Conjugacy_Classes_of_the_Order-Preserving_and_Order-Decreasing_Partial_One-to-One_Transformation_Semigroups.pdf), [http://ecs.inria.fr/services/structure?nbr=113](http://ecs.inria.fr/services/structure?nbr=113), [http://ecs.inria.fr/services/structure?nbr=126](http://ecs.inria.fr/services/structure?nbr=126)|
 |[71](https://oeis.org/A000071)|[http://ecs.inria.fr/services/structure?nbr=384](http://ecs.inria.fr/services/structure?nbr=384)|
-|[73](https://oeis.org/A000073)|[https://statweb.stanford.edu/~cgates/PERSI/papers/sequential_sampling_10.pdf](https://statweb.stanford.edu/~cgates/PERSI/papers/sequential_sampling_10.pdf), [http://ecs.inria.fr/services/structure?nbr=10](http://ecs.inria.fr/services/structure?nbr=10)|
+|[73](https://oeis.org/A000073)|[http://ecs.inria.fr/services/structure?nbr=10](http://ecs.inria.fr/services/structure?nbr=10)|
 |[78](https://oeis.org/A000078)|[http://ecs.inria.fr/services/structure?nbr=11](http://ecs.inria.fr/services/structure?nbr=11)|
-|[79](https://oeis.org/A000079)|[http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf](http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf), [http://cdli.ucla.edu/search/search_results.php?SearchMode=Text&amp](http://cdli.ucla.edu/search/search_results.php?SearchMode=Text&amp), [http://ecs.inria.fr/services/structure?nbr=6](http://ecs.inria.fr/services/structure?nbr=6), [http://ecs.inria.fr/services/structure?nbr=68](http://ecs.inria.fr/services/structure?nbr=68), [http://ecs.inria.fr/services/structure?nbr=72](http://ecs.inria.fr/services/structure?nbr=72), [http://ecs.inria.fr/services/structure?nbr=267](http://ecs.inria.fr/services/structure?nbr=267)|
+|[136640](https://oeis.org/A136640)|[http://adsabs.harvard.edu/abs/1982RPPh...45..587B](http://adsabs.harvard.edu/abs/1982RPPh...45..587B)|
+|[79](https://oeis.org/A000079)|[http://ecs.inria.fr/services/structure?nbr=6](http://ecs.inria.fr/services/structure?nbr=6), [http://ecs.inria.fr/services/structure?nbr=68](http://ecs.inria.fr/services/structure?nbr=68), [http://ecs.inria.fr/services/structure?nbr=72](http://ecs.inria.fr/services/structure?nbr=72), [http://ecs.inria.fr/services/structure?nbr=267](http://ecs.inria.fr/services/structure?nbr=267)|
 |[81](https://oeis.org/A000081)|[http://www.theory.cs.uvic.ca/~cos/inf/tree/RootedTree.html](http://www.theory.cs.uvic.ca/~cos/inf/tree/RootedTree.html), [http://ecs.inria.fr/services/structure?nbr=57](http://ecs.inria.fr/services/structure?nbr=57)|
-|[85](https://oeis.org/A000085)|[http://129.81.170.14/~vhm/papers_html/invo-may12.pdf](http://129.81.170.14/~vhm/papers_html/invo-may12.pdf), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://ecs.inria.fr/services/structure?nbr=17](http://ecs.inria.fr/services/structure?nbr=17), [http://ecs.inria.fr/services/structure?nbr=22](http://ecs.inria.fr/services/structure?nbr=22)|
-|[88](https://oeis.org/A000088)|[http://www.roard.com/docs/cookbook/cbsu5.html#x8-170001.5](http://www.roard.com/docs/cookbook/cbsu5.html#x8-170001.5)|
+|[85](https://oeis.org/A000085)|[http://129.81.170.14/~vhm/papers_html/invo-may12.pdf](http://129.81.170.14/~vhm/papers_html/invo-may12.pdf), [http://ecs.inria.fr/services/structure?nbr=17](http://ecs.inria.fr/services/structure?nbr=17), [http://ecs.inria.fr/services/structure?nbr=22](http://ecs.inria.fr/services/structure?nbr=22)|
+|[88](https://oeis.org/A000088)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/graphcount](http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/graphcount), [http://www.roard.com/docs/cookbook/cbsu5.html#x8-170001.5](http://www.roard.com/docs/cookbook/cbsu5.html#x8-170001.5), [http://hrcak.srce.hr/file/4232](http://hrcak.srce.hr/file/4232)|
 |[96](https://oeis.org/A000096)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm), [http://ecs.inria.fr/services/structure?nbr=1018](http://ecs.inria.fr/services/structure?nbr=1018)|
-|[105](https://oeis.org/A000105)|[https://doi.org/10.5445/IR/1000082991](https://doi.org/10.5445/IR/1000082991)|
+|[227701](https://oeis.org/A227701)|[https://hrcak.srce.hr/28365](https://hrcak.srce.hr/28365)|
 |[106](https://oeis.org/A000106)|[http://ecs.inria.fr/services/structure?nbr=385](http://ecs.inria.fr/services/structure?nbr=385)|
 |[107](https://oeis.org/A000107)|[http://ecs.inria.fr/services/structure?nbr=123](http://ecs.inria.fr/services/structure?nbr=123)|
-|[108](https://oeis.org/A000108)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://dmg.tuwien.ac.at/mwallner/files/lpintro.pdf](http://dmg.tuwien.ac.at/mwallner/files/lpintro.pdf), [http://ecs.inria.fr/services/structure?nbr=48](http://ecs.inria.fr/services/structure?nbr=48), [http://ecs.inria.fr/services/structure?nbr=52](http://ecs.inria.fr/services/structure?nbr=52), [http://ecs.inria.fr/services/structure?nbr=71](http://ecs.inria.fr/services/structure?nbr=71), [http://ecs.inria.fr/services/structure?nbr=76](http://ecs.inria.fr/services/structure?nbr=76), [http://ecs.inria.fr/services/structure?nbr=284](http://ecs.inria.fr/services/structure?nbr=284)|
-|[109](https://oeis.org/A000109)|[https://i11www.iti.kit.edu/_media/teaching/theses/ma-jungeblut-19.pdf](https://i11www.iti.kit.edu/_media/teaching/theses/ma-jungeblut-19.pdf)|
-|[110](https://oeis.org/A000110)|[http://spectacle.berkeley.edu/~fiorillo/7genjimon.html](http://spectacle.berkeley.edu/~fiorillo/7genjimon.html), [http://www-ang.kfunigraz.ac.at/~fripert/fga/k1bell.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1bell.html), [http://www.iteratedfunctions.com/Combinatorics/index.html](http://www.iteratedfunctions.com/Combinatorics/index.html), [http://statweb.stanford.edu/~cgates/PERSI/papers/setpartition_stats10.pdf](http://statweb.stanford.edu/~cgates/PERSI/papers/setpartition_stats10.pdf), [http://ecs.inria.fr/services/structure?nbr=291](http://ecs.inria.fr/services/structure?nbr=291), [http://ecs.inria.fr/services/structure?nbr=15](http://ecs.inria.fr/services/structure?nbr=15), [http://plaza27.mbn.or.jp/~921/kumiko/genjiko/genjikou.html](http://plaza27.mbn.or.jp/~921/kumiko/genjiko/genjikou.html), [http://ecs.inria.fr/services/structure?nbr=65](http://ecs.inria.fr/services/structure?nbr=65), [http://ecs.inria.fr/services/structure?nbr=73](http://ecs.inria.fr/services/structure?nbr=73)|
-|[111](https://oeis.org/A000111)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[112](https://oeis.org/A000112)|[http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf)|
+|[108](https://oeis.org/A000108)|[http://ecs.inria.fr/services/structure?nbr=48](http://ecs.inria.fr/services/structure?nbr=48), [http://ecs.inria.fr/services/structure?nbr=52](http://ecs.inria.fr/services/structure?nbr=52), [http://ecs.inria.fr/services/structure?nbr=71](http://ecs.inria.fr/services/structure?nbr=71), [http://ecs.inria.fr/services/structure?nbr=76](http://ecs.inria.fr/services/structure?nbr=76), [http://ecs.inria.fr/services/structure?nbr=284](http://ecs.inria.fr/services/structure?nbr=284)|
+|[110](https://oeis.org/A000110)|[http://spectacle.berkeley.edu/~fiorillo/7genjimon.html](http://spectacle.berkeley.edu/~fiorillo/7genjimon.html), [http://www-ang.kfunigraz.ac.at/~fripert/fga/k1bell.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1bell.html), [http://ecs.inria.fr/services/structure?nbr=73](http://ecs.inria.fr/services/structure?nbr=73), [http://ecs.inria.fr/services/structure?nbr=15](http://ecs.inria.fr/services/structure?nbr=15), [http://ecs.inria.fr/services/structure?nbr=291](http://ecs.inria.fr/services/structure?nbr=291), [http://ecs.inria.fr/services/structure?nbr=65](http://ecs.inria.fr/services/structure?nbr=65), [http://plaza27.mbn.or.jp/~921/kumiko/genjiko/genjikou.html](http://plaza27.mbn.or.jp/~921/kumiko/genjiko/genjikou.html)|
+|[111](https://oeis.org/A000111)|[http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf](http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf)|
+|[112](https://oeis.org/A000112)|[https://cs.uwaterloo.ca/journals/JIS/VOL8/McKay/mckay170.html](https://cs.uwaterloo.ca/journals/JIS/VOL8/McKay/mckay170.html), [http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf)|
 |[123](https://oeis.org/A000123)|[http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf](http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf)|
 |[124](https://oeis.org/A000124)|[https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf](https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf), [http://ecs.inria.fr/services/structure?nbr=386](http://ecs.inria.fr/services/structure?nbr=386)|
+|[182216](https://oeis.org/A182216)|[http://www.springerlink.com/content/h273247258k76101/](http://www.springerlink.com/content/h273247258k76101/)|
 |[129](https://oeis.org/A000129)|[http://www.mth.pdx.edu/~caughman/Ian%20Walker%20501.pdf](http://www.mth.pdx.edu/~caughman/Ian%20Walker%20501.pdf), [https://doi.org/10.26900/jsp.4.005](https://doi.org/10.26900/jsp.4.005), [http://ecs.inria.fr/services/structure?nbr=135](http://ecs.inria.fr/services/structure?nbr=135)|
-|[142](https://oeis.org/A000142)|[http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsn.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsn.html), [http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsncyc.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsncyc.html), [http://ecs.inria.fr/services/structure?nbr=20](http://ecs.inria.fr/services/structure?nbr=20), [http://ecs.inria.fr/services/structure?nbr=297](http://ecs.inria.fr/services/structure?nbr=297)|
+|[142](https://oeis.org/A000142)|[http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsncyc.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsncyc.html), [http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsn.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsn.html), [http://ecs.inria.fr/services/structure?nbr=20](http://ecs.inria.fr/services/structure?nbr=20), [http://ecs.inria.fr/services/structure?nbr=297](http://ecs.inria.fr/services/structure?nbr=297)|
 |[151](https://oeis.org/A000151)|[http://ecs.inria.fr/services/structure?nbr=387](http://ecs.inria.fr/services/structure?nbr=387)|
-|[165](https://oeis.org/A000165)|[http://ecs.inria.fr/services/structure?nbr=136](http://ecs.inria.fr/services/structure?nbr=136)|
-|[166](https://oeis.org/A000166)|[http://www-ang.kfunigraz.ac.at/~fripert/fga/k1rencontre.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1rencontre.html), [http://www.springerlink.com/content/0003-9519/21/3/](http://www.springerlink.com/content/0003-9519/21/3/), [http://ecs.inria.fr/services/structure?nbr=21](http://ecs.inria.fr/services/structure?nbr=21)|
+|[165](https://oeis.org/A000165)|[http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf](http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf), [http://ecs.inria.fr/services/structure?nbr=136](http://ecs.inria.fr/services/structure?nbr=136)|
+|[166](https://oeis.org/A000166)|[http://www.springerlink.com/content/0003-9519/21/3/](http://www.springerlink.com/content/0003-9519/21/3/), [http://www-ang.kfunigraz.ac.at/~fripert/fga/k1rencontre.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1rencontre.html), [http://ecs.inria.fr/services/structure?nbr=21](http://ecs.inria.fr/services/structure?nbr=21)|
+|[168](https://oeis.org/A000168)|[http://www-irma.u-strasbg.fr/~kassel/Potsdam130515.pdf](http://www-irma.u-strasbg.fr/~kassel/Potsdam130515.pdf)|
 |[169](https://oeis.org/A000169)|[http://ecs.inria.fr/services/structure?nbr=67](http://ecs.inria.fr/services/structure?nbr=67)|
 |[173](https://oeis.org/A000173)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[178](https://oeis.org/A000178)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[227782](https://oeis.org/A227782)|[http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_1/20005b92_725.pdf](http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_1/20005b92_725.pdf)|
+|[227784](https://oeis.org/A227784)|[http://seminariomatematico.dm.unito.it/rendiconti/cartaceo/44-1/141.pdf](http://seminariomatematico.dm.unito.it/rendiconti/cartaceo/44-1/141.pdf)|
+|[182](https://oeis.org/A000182)|[http://www-irma.u-strasbg.fr/~foata/paper/pub120.html](http://www-irma.u-strasbg.fr/~foata/paper/pub120.html), [http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf](http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf)|
 |[188](https://oeis.org/A000188)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
 |[204](https://oeis.org/A000204)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
 |[214](https://oeis.org/A000214)|[http://www-ang.kfunigraz.ac.at/~fripert/linaffproj.html](http://www-ang.kfunigraz.ac.at/~fripert/linaffproj.html), [http://www-ang.kfunigraz.ac.at/~fripert/fga/k1zyklap.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1zyklap.html)|
 |[215](https://oeis.org/A000215)|[http://mathdb.org/resource_sharing/excalibur/Eng_v7_n4.pdf](http://mathdb.org/resource_sharing/excalibur/Eng_v7_n4.pdf)|
-|[217](https://oeis.org/A000217)|[http://ecs.inria.fr/services/structure?nbr=253](http://ecs.inria.fr/services/structure?nbr=253)|
+|[217](https://oeis.org/A000217)|[http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf](http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf), [http://ecs.inria.fr/services/structure?nbr=253](http://ecs.inria.fr/services/structure?nbr=253)|
 |[219](https://oeis.org/A000219)|[http://ecs.inria.fr/services/structure?nbr=141](http://ecs.inria.fr/services/structure?nbr=141)|
-|[225](https://oeis.org/A000225)|[http://thesaurus.maths.org/dictionary/map/word/3371](http://thesaurus.maths.org/dictionary/map/word/3371), [http://citeseer.ifi.unizh.ch/correct/467051](http://citeseer.ifi.unizh.ch/correct/467051), [http://wwwmaths.anu.edu.au/~brent/pub/pub200.html](http://wwwmaths.anu.edu.au/~brent/pub/pub200.html), [http://wwwmaths.anu.edu.au/~brent/pub/pub134.html](http://wwwmaths.anu.edu.au/~brent/pub/pub134.html), [http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf](http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf), [http://ecs.inria.fr/services/structure?nbr=138](http://ecs.inria.fr/services/structure?nbr=138), [http://www.cs.uvm.edu/~snapp/teaching/CS5/lectures/hanoi.pdf](http://www.cs.uvm.edu/~snapp/teaching/CS5/lectures/hanoi.pdf), [http://ecs.inria.fr/services/structure?nbr=345](http://ecs.inria.fr/services/structure?nbr=345), [http://ecs.inria.fr/services/structure?nbr=371](http://ecs.inria.fr/services/structure?nbr=371), [http://ecs.inria.fr/services/structure?nbr=880](http://ecs.inria.fr/services/structure?nbr=880), [http://www.jimloy.com/puzz/hanoi.htm](http://www.jimloy.com/puzz/hanoi.htm)|
-|[238](https://oeis.org/A000238)|[https://www.labmath.uqam.ca/~annales/english/volumes/16-1.html](https://www.labmath.uqam.ca/~annales/english/volumes/16-1.html)|
+|[136808](https://oeis.org/A136808)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[225](https://oeis.org/A000225)|[http://thesaurus.maths.org/dictionary/map/word/3371](http://thesaurus.maths.org/dictionary/map/word/3371), [http://citeseer.ifi.unizh.ch/correct/467051](http://citeseer.ifi.unizh.ch/correct/467051), [http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf](http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf), [http://ecs.inria.fr/services/structure?nbr=138](http://ecs.inria.fr/services/structure?nbr=138), [http://www.cs.uvm.edu/~snapp/teaching/CS5/lectures/hanoi.pdf](http://www.cs.uvm.edu/~snapp/teaching/CS5/lectures/hanoi.pdf), [http://ecs.inria.fr/services/structure?nbr=345](http://ecs.inria.fr/services/structure?nbr=345), [http://ecs.inria.fr/services/structure?nbr=371](http://ecs.inria.fr/services/structure?nbr=371), [http://ecs.inria.fr/services/structure?nbr=880](http://ecs.inria.fr/services/structure?nbr=880), [http://www.jimloy.com/puzz/hanoi.htm](http://www.jimloy.com/puzz/hanoi.htm)|
+|[136810](https://oeis.org/A136810)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136811](https://oeis.org/A136811)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136812](https://oeis.org/A136812)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136813](https://oeis.org/A136813)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136814](https://oeis.org/A136814)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136815](https://oeis.org/A136815)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136816](https://oeis.org/A136816)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136817](https://oeis.org/A136817)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136818](https://oeis.org/A136818)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136820](https://oeis.org/A136820)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136821](https://oeis.org/A136821)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[45794](https://oeis.org/A045794)|[http://theory2.phys.cwru.edu/~pete/sequence.html](http://theory2.phys.cwru.edu/~pete/sequence.html)|
+|[136822](https://oeis.org/A136822)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136824](https://oeis.org/A136824)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136825](https://oeis.org/A136825)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136826](https://oeis.org/A136826)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136827](https://oeis.org/A136827)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136828](https://oeis.org/A136828)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[244](https://oeis.org/A000244)|[http://ecs.inria.fr/services/structure?nbr=7](http://ecs.inria.fr/services/structure?nbr=7), [http://ecs.inria.fr/services/structure?nbr=268](http://ecs.inria.fr/services/structure?nbr=268)|
+|[136829](https://oeis.org/A136829)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136830](https://oeis.org/A136830)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[245](https://oeis.org/A000245)|[http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf](http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf)|
+|[136831](https://oeis.org/A136831)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136832](https://oeis.org/A136832)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136833](https://oeis.org/A136833)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[248](https://oeis.org/A000248)|[http://ecs.inria.fr/services/structure?nbr=117](http://ecs.inria.fr/services/structure?nbr=117)|
+|[136835](https://oeis.org/A136835)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136836](https://oeis.org/A136836)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136837](https://oeis.org/A136837)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136838](https://oeis.org/A136838)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136839](https://oeis.org/A136839)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[254](https://oeis.org/A000254)|[http://epublications.bond.edu.au/ejsie/vol8/iss2/4](http://epublications.bond.edu.au/ejsie/vol8/iss2/4), [http://www.kalva.demon.co.uk/putnam/psoln/psol9211.html](http://www.kalva.demon.co.uk/putnam/psoln/psol9211.html), [http://ecs.inria.fr/services/structure?nbr=31](http://ecs.inria.fr/services/structure?nbr=31)|
-|[258](https://oeis.org/A000258)|[http://ecs.inria.fr/services/structure?nbr=292](http://ecs.inria.fr/services/structure?nbr=292), [http://ecs.inria.fr/services/structure?nbr=70](http://ecs.inria.fr/services/structure?nbr=70)|
+|[136840](https://oeis.org/A136840)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136841](https://oeis.org/A136841)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136842](https://oeis.org/A136842)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136843](https://oeis.org/A136843)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[227875](https://oeis.org/A227875)|[http://www.doiserbia.nb.rs/img/doi/0353-8893/2006/0353-88930617038A.pdf](http://www.doiserbia.nb.rs/img/doi/0353-8893/2006/0353-88930617038A.pdf), [http://www-irma.u-strasbg.fr/~bugeaud/travaux/OmegaDef.pdf](http://www-irma.u-strasbg.fr/~bugeaud/travaux/OmegaDef.pdf)|
+|[136844](https://oeis.org/A136844)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[258](https://oeis.org/A000258)|[http://ecs.inria.fr/services/structure?nbr=70](http://ecs.inria.fr/services/structure?nbr=70), [http://ecs.inria.fr/services/structure?nbr=292](http://ecs.inria.fr/services/structure?nbr=292)|
+|[136845](https://oeis.org/A136845)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136846](https://oeis.org/A136846)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136847](https://oeis.org/A136847)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136848](https://oeis.org/A136848)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136849](https://oeis.org/A136849)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[262](https://oeis.org/A000262)|[http://ecs.inria.fr/services/structure?nbr=40](http://ecs.inria.fr/services/structure?nbr=40)|
+|[136850](https://oeis.org/A136850)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[91337](https://oeis.org/A091337)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[136852](https://oeis.org/A136852)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[91340](https://oeis.org/A091340)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[136853](https://oeis.org/A136853)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[266](https://oeis.org/A000266)|[http://ecs.inria.fr/services/structure?nbr=104](http://ecs.inria.fr/services/structure?nbr=104)|
 |[268](https://oeis.org/A000268)|[http://ecs.inria.fr/services/structure?nbr=299](http://ecs.inria.fr/services/structure?nbr=299)|
 |[272](https://oeis.org/A000272)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/), [http://ecs.inria.fr/services/structure?nbr=78](http://ecs.inria.fr/services/structure?nbr=78)|
-|[290](https://oeis.org/A000290)|[https://www.dmg.tuwien.ac.at/drmota/alongsquares.pdf](https://www.dmg.tuwien.ac.at/drmota/alongsquares.pdf), [http://ecs.inria.fr/services/structure?nbr=338](http://ecs.inria.fr/services/structure?nbr=338), [http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
+|[136861](https://oeis.org/A136861)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136862](https://oeis.org/A136862)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136863](https://oeis.org/A136863)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136864](https://oeis.org/A136864)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136865](https://oeis.org/A136865)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136866](https://oeis.org/A136866)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136867](https://oeis.org/A136867)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136869](https://oeis.org/A136869)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136870](https://oeis.org/A136870)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136871](https://oeis.org/A136871)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136872](https://oeis.org/A136872)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136873](https://oeis.org/A136873)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136874](https://oeis.org/A136874)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136875](https://oeis.org/A136875)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136876](https://oeis.org/A136876)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136877](https://oeis.org/A136877)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136878](https://oeis.org/A136878)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[290](https://oeis.org/A000290)|[http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf](http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf), [http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt), [http://ecs.inria.fr/services/structure?nbr=338](http://ecs.inria.fr/services/structure?nbr=338)|
+|[136879](https://oeis.org/A136879)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136880](https://oeis.org/A136880)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136881](https://oeis.org/A136881)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136882](https://oeis.org/A136882)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[293](https://oeis.org/A000293)|[http://www.physics.iitm.ac.in/~suresh/theses/NaveenThesis.pd](http://www.physics.iitm.ac.in/~suresh/theses/NaveenThesis.pd)|
+|[136883](https://oeis.org/A136883)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136884](https://oeis.org/A136884)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[295](https://oeis.org/A000295)|[http://ecs.inria.fr/services/structure?nbr=388](http://ecs.inria.fr/services/structure?nbr=388)|
-|[296](https://oeis.org/A000296)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://ecs.inria.fr/services/structure?nbr=16](http://ecs.inria.fr/services/structure?nbr=16)|
+|[136885](https://oeis.org/A136885)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[296](https://oeis.org/A000296)|[http://ecs.inria.fr/services/structure?nbr=16](http://ecs.inria.fr/services/structure?nbr=16)|
+|[136886](https://oeis.org/A136886)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136887](https://oeis.org/A136887)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136888](https://oeis.org/A136888)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136889](https://oeis.org/A136889)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136890](https://oeis.org/A136890)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136891](https://oeis.org/A136891)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136892](https://oeis.org/A136892)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[302](https://oeis.org/A000302)|[http://ecs.inria.fr/services/structure?nbr=8](http://ecs.inria.fr/services/structure?nbr=8), [http://ecs.inria.fr/services/structure?nbr=269](http://ecs.inria.fr/services/structure?nbr=269)|
+|[136893](https://oeis.org/A136893)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136894](https://oeis.org/A136894)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136895](https://oeis.org/A136895)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136896](https://oeis.org/A136896)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136897](https://oeis.org/A136897)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[307](https://oeis.org/A000307)|[http://ecs.inria.fr/services/structure?nbr=293](http://ecs.inria.fr/services/structure?nbr=293)|
+|[136898](https://oeis.org/A136898)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136899](https://oeis.org/A136899)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136900](https://oeis.org/A136900)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[310](https://oeis.org/A000310)|[http://ecs.inria.fr/services/structure?nbr=300](http://ecs.inria.fr/services/structure?nbr=300)|
+|[136901](https://oeis.org/A136901)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136902](https://oeis.org/A136902)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[311](https://oeis.org/A000311)|[http://ecs.inria.fr/services/structure?nbr=69](http://ecs.inria.fr/services/structure?nbr=69)|
+|[136903](https://oeis.org/A136903)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[312](https://oeis.org/A000312)|[http://ecs.inria.fr/services/structure?nbr=36](http://ecs.inria.fr/services/structure?nbr=36)|
-|[315](https://oeis.org/A000315)|[http://ccom.uprrp.edu/~labemmy/Wordpress/wp-content/uploads/2010/11/4_Presentation_Some-Properties-of-Latin-Squares_March2009.pdf](http://ccom.uprrp.edu/~labemmy/Wordpress/wp-content/uploads/2010/11/4_Presentation_Some-Properties-of-Latin-Squares_March2009.pdf)|
+|[136904](https://oeis.org/A136904)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136905](https://oeis.org/A136905)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136906](https://oeis.org/A136906)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[315](https://oeis.org/A000315)|[http://math.ucdenver.edu/~wcherowi/courses/m6406/csln1.html#1](http://math.ucdenver.edu/~wcherowi/courses/m6406/csln1.html#1)|
+|[136907](https://oeis.org/A136907)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136908](https://oeis.org/A136908)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136909](https://oeis.org/A136909)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136910](https://oeis.org/A136910)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136911](https://oeis.org/A136911)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136912](https://oeis.org/A136912)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136913](https://oeis.org/A136913)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136914](https://oeis.org/A136914)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136915](https://oeis.org/A136915)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136916](https://oeis.org/A136916)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136917](https://oeis.org/A136917)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136918](https://oeis.org/A136918)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[326](https://oeis.org/A000326)|[http://ecs.inria.fr/services/structure?nbr=339](http://ecs.inria.fr/services/structure?nbr=339)|
+|[136919](https://oeis.org/A136919)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136920](https://oeis.org/A136920)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136921](https://oeis.org/A136921)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136922](https://oeis.org/A136922)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136923](https://oeis.org/A136923)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136924](https://oeis.org/A136924)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[227956](https://oeis.org/A227956)|[http://bach.istc.kobe-u.ac.jp/lect/ProLang/org/pnr.pdf](http://bach.istc.kobe-u.ac.jp/lect/ProLang/org/pnr.pdf)|
 |[332](https://oeis.org/A000332)|[http://ecs.inria.fr/services/structure?nbr=254](http://ecs.inria.fr/services/structure?nbr=254)|
+|[136925](https://oeis.org/A136925)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136926](https://oeis.org/A136926)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136927](https://oeis.org/A136927)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[334](https://oeis.org/A000334)|[http://www.physics.iitm.ac.in/~suresh/theses/NaveenThesis.pdf](http://www.physics.iitm.ac.in/~suresh/theses/NaveenThesis.pdf)|
+|[136928](https://oeis.org/A136928)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136929](https://oeis.org/A136929)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136930](https://oeis.org/A136930)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[337](https://oeis.org/A000337)|[http://www.math.neu.edu/~schulte/polyhedmaps.pdf](http://www.math.neu.edu/~schulte/polyhedmaps.pdf)|
+|[136931](https://oeis.org/A136931)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136932](https://oeis.org/A136932)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136933](https://oeis.org/A136933)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[340](https://oeis.org/A000340)|[http://ecs.inria.fr/services/structure?nbr=389](http://ecs.inria.fr/services/structure?nbr=389)|
+|[136934](https://oeis.org/A136934)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136935](https://oeis.org/A136935)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136936](https://oeis.org/A136936)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136937](https://oeis.org/A136937)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[344](https://oeis.org/A000344)|[http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf](http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf)|
+|[136938](https://oeis.org/A136938)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136939](https://oeis.org/A136939)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136940](https://oeis.org/A136940)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136941](https://oeis.org/A136941)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136942](https://oeis.org/A136942)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136943](https://oeis.org/A136943)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136944](https://oeis.org/A136944)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[351](https://oeis.org/A000351)|[http://ecs.inria.fr/services/structure?nbr=270](http://ecs.inria.fr/services/structure?nbr=270)|
+|[136945](https://oeis.org/A136945)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136946](https://oeis.org/A136946)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136947](https://oeis.org/A136947)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[354](https://oeis.org/A000354)|[http://emis.ams.org/journals/SLC/wpapers/s55chow.html](http://emis.ams.org/journals/SLC/wpapers/s55chow.html)|
+|[136948](https://oeis.org/A136948)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136949](https://oeis.org/A136949)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136950](https://oeis.org/A136950)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[357](https://oeis.org/A000357)|[http://ecs.inria.fr/services/structure?nbr=294](http://ecs.inria.fr/services/structure?nbr=294)|
+|[136951](https://oeis.org/A136951)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[358](https://oeis.org/A000358)|[http://ecs.inria.fr/services/structure?nbr=119](http://ecs.inria.fr/services/structure?nbr=119)|
+|[136952](https://oeis.org/A136952)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[359](https://oeis.org/A000359)|[http://ecs.inria.fr/services/structure?nbr=301](http://ecs.inria.fr/services/structure?nbr=301)|
-|[364](https://oeis.org/A000364)|[http://www.emis.de/journals/INTEGERS/papers/i1/i1.Abstract.html](http://www.emis.de/journals/INTEGERS/papers/i1/i1.Abstract.html)|
-|[367](https://oeis.org/A000367)|[http://emmy.uprrp.edu/lmedina/papers/eulerian/EulerianFinal.pdf](http://emmy.uprrp.edu/lmedina/papers/eulerian/EulerianFinal.pdf)|
+|[136953](https://oeis.org/A136953)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136954](https://oeis.org/A136954)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136955](https://oeis.org/A136955)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136956](https://oeis.org/A136956)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136957](https://oeis.org/A136957)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[364](https://oeis.org/A000364)|[https://cs.uwaterloo.ca/journals/JIS/VOL26/Munarini/muna25.html](https://cs.uwaterloo.ca/journals/JIS/VOL26/Munarini/muna25.html)|
+|[136959](https://oeis.org/A136959)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136960](https://oeis.org/A136960)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136961](https://oeis.org/A136961)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136962](https://oeis.org/A136962)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136963](https://oeis.org/A136963)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136964](https://oeis.org/A136964)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136965](https://oeis.org/A136965)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136966](https://oeis.org/A136966)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[372](https://oeis.org/A000372)|[http://mam2000.mathforum.org/epigone/sci.math/plebrungchoo](http://mam2000.mathforum.org/epigone/sci.math/plebrungchoo)|
-|[375](https://oeis.org/A000375)|[http://benchmarksgame.alioth.debian.org/u64q/performance.php?test=fannkuchredux](http://benchmarksgame.alioth.debian.org/u64q/performance.php?test=fannkuchredux)|
+|[182484](https://oeis.org/A182484)|[http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory](http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory)|
+|[136968](https://oeis.org/A136968)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136969](https://oeis.org/A136969)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136970](https://oeis.org/A136970)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136971](https://oeis.org/A136971)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136972](https://oeis.org/A136972)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136973](https://oeis.org/A136973)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[378](https://oeis.org/A000378)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
+|[182490](https://oeis.org/A182490)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#82](http://www.chalcedon.demon.co.uk/rgep/publish.html#82)|
+|[136974](https://oeis.org/A136974)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136975](https://oeis.org/A136975)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[273522](https://oeis.org/A273522)|[http://dx.doi.org/10.1090/S0025-5718-1975-0384673-1](http://dx.doi.org/10.1090/S0025-5718-1975-0384673-1)|
+|[136976](https://oeis.org/A136976)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136977](https://oeis.org/A136977)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136978](https://oeis.org/A136978)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136979](https://oeis.org/A136979)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[384](https://oeis.org/A000384)|[http://ecs.inria.fr/services/structure?nbr=340](http://ecs.inria.fr/services/structure?nbr=340)|
+|[136980](https://oeis.org/A136980)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136981](https://oeis.org/A136981)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136982](https://oeis.org/A136982)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136983](https://oeis.org/A136983)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136984](https://oeis.org/A136984)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[389](https://oeis.org/A000389)|[http://www.matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf](http://www.matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf), [http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html), [http://ecs.inria.fr/services/structure?nbr=255](http://ecs.inria.fr/services/structure?nbr=255)|
+|[136985](https://oeis.org/A136985)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136986](https://oeis.org/A136986)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136987](https://oeis.org/A136987)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136988](https://oeis.org/A136988)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[392](https://oeis.org/A000392)|[http://ecs.inria.fr/services/structure?nbr=346](http://ecs.inria.fr/services/structure?nbr=346)|
-|[396](https://oeis.org/A000396)|[http://www-maths.swan.ac.uk/pgrads/bb/project/node3.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node3.html), [http://www-maths.swan.ac.uk/pgrads/bb/project/node43.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node43.html), [http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://wwwmaths.anu.edu.au/~brent/pub/pub100.html](http://wwwmaths.anu.edu.au/~brent/pub/pub100.html), [http://wwwmaths.anu.edu.au/~brent/pub/pub106.html](http://wwwmaths.anu.edu.au/~brent/pub/pub106.html), [http://uzweb.uz.ac.zw/science/maths/zimaths/51/perfect.htm](http://uzweb.uz.ac.zw/science/maths/zimaths/51/perfect.htm)|
+|[136989](https://oeis.org/A136989)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136990](https://oeis.org/A136990)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136991](https://oeis.org/A136991)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136992](https://oeis.org/A136992)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[396](https://oeis.org/A000396)|[http://www-maths.swan.ac.uk/pgrads/bb/project/node3.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node3.html), [http://www-maths.swan.ac.uk/pgrads/bb/project/node43.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node43.html), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm), [http://uzweb.uz.ac.zw/science/maths/zimaths/51/perfect.htm](http://uzweb.uz.ac.zw/science/maths/zimaths/51/perfect.htm), [http://www.ma.noda.tus.ac.jp/u/tg/perfect.html](http://www.ma.noda.tus.ac.jp/u/tg/perfect.html)|
+|[136993](https://oeis.org/A136993)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136994](https://oeis.org/A136994)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136995](https://oeis.org/A136995)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[399](https://oeis.org/A000399)|[http://ecs.inria.fr/services/structure?nbr=32](http://ecs.inria.fr/services/structure?nbr=32)|
+|[136996](https://oeis.org/A136996)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[400](https://oeis.org/A000400)|[http://ecs.inria.fr/services/structure?nbr=271](http://ecs.inria.fr/services/structure?nbr=271)|
+|[136997](https://oeis.org/A136997)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136998](https://oeis.org/A136998)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[136999](https://oeis.org/A136999)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137000](https://oeis.org/A137000)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137001](https://oeis.org/A137001)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[405](https://oeis.org/A000405)|[http://ecs.inria.fr/services/structure?nbr=295](http://ecs.inria.fr/services/structure?nbr=295)|
+|[137002](https://oeis.org/A137002)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[406](https://oeis.org/A000406)|[http://ecs.inria.fr/services/structure?nbr=302](http://ecs.inria.fr/services/structure?nbr=302)|
+|[137003](https://oeis.org/A137003)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[407](https://oeis.org/A000407)|[http://ecs.inria.fr/services/structure?nbr=139](http://ecs.inria.fr/services/structure?nbr=139)|
+|[137004](https://oeis.org/A137004)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137005](https://oeis.org/A137005)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137006](https://oeis.org/A137006)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[228039](https://oeis.org/A228039)|[https://math-oemg-dmv-2013.uibk.ac.at/cms/images/Public_Relations/oemg_dmv_2013.pdf](https://math-oemg-dmv-2013.uibk.ac.at/cms/images/Public_Relations/oemg_dmv_2013.pdf)|
+|[137007](https://oeis.org/A137007)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137008](https://oeis.org/A137008)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137009](https://oeis.org/A137009)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137010](https://oeis.org/A137010)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137011](https://oeis.org/A137011)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137012](https://oeis.org/A137012)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137013](https://oeis.org/A137013)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137014](https://oeis.org/A137014)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137015](https://oeis.org/A137015)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137016](https://oeis.org/A137016)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137017](https://oeis.org/A137017)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[420](https://oeis.org/A000420)|[http://ecs.inria.fr/services/structure?nbr=272](http://ecs.inria.fr/services/structure?nbr=272)|
+|[137018](https://oeis.org/A137018)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137019](https://oeis.org/A137019)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137020](https://oeis.org/A137020)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137021](https://oeis.org/A137021)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137022](https://oeis.org/A137022)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137023](https://oeis.org/A137023)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137024](https://oeis.org/A137024)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137025](https://oeis.org/A137025)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137026](https://oeis.org/A137026)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137027](https://oeis.org/A137027)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137028](https://oeis.org/A137028)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137029](https://oeis.org/A137029)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137030](https://oeis.org/A137030)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137031](https://oeis.org/A137031)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137032](https://oeis.org/A137032)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137033](https://oeis.org/A137033)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137034](https://oeis.org/A137034)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137035](https://oeis.org/A137035)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137036](https://oeis.org/A137036)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137037](https://oeis.org/A137037)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137038](https://oeis.org/A137038)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137039](https://oeis.org/A137039)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[182555](https://oeis.org/A182555)|[http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf)|
+|[137040](https://oeis.org/A137040)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137041](https://oeis.org/A137041)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137042](https://oeis.org/A137042)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137043](https://oeis.org/A137043)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137044](https://oeis.org/A137044)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137045](https://oeis.org/A137045)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137046](https://oeis.org/A137046)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137047](https://oeis.org/A137047)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137048](https://oeis.org/A137048)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137049](https://oeis.org/A137049)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[91536](https://oeis.org/A091536)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[137050](https://oeis.org/A137050)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137051](https://oeis.org/A137051)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[453](https://oeis.org/A000453)|[http://ecs.inria.fr/services/structure?nbr=347](http://ecs.inria.fr/services/structure?nbr=347)|
+|[137052](https://oeis.org/A137052)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[454](https://oeis.org/A000454)|[http://ecs.inria.fr/services/structure?nbr=33](http://ecs.inria.fr/services/structure?nbr=33)|
+|[137053](https://oeis.org/A137053)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137054](https://oeis.org/A137054)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137055](https://oeis.org/A137055)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137056](https://oeis.org/A137056)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137057](https://oeis.org/A137057)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137058](https://oeis.org/A137058)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137059](https://oeis.org/A137059)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137060](https://oeis.org/A137060)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137061](https://oeis.org/A137061)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137062](https://oeis.org/A137062)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137063](https://oeis.org/A137063)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137064](https://oeis.org/A137064)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137065](https://oeis.org/A137065)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137066](https://oeis.org/A137066)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137067](https://oeis.org/A137067)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137068](https://oeis.org/A137068)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137069](https://oeis.org/A137069)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137070](https://oeis.org/A137070)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137071](https://oeis.org/A137071)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137072](https://oeis.org/A137072)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[474](https://oeis.org/A000474)|[http://www1.ams.org/samplings/feature-column/fcarc-sports](http://www1.ams.org/samplings/feature-column/fcarc-sports)|
+|[137073](https://oeis.org/A137073)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137074](https://oeis.org/A137074)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137075](https://oeis.org/A137075)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137076](https://oeis.org/A137076)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[478](https://oeis.org/A000478)|[https://sphincs.org/data/dspr-20190513.pdf](https://sphincs.org/data/dspr-20190513.pdf)|
+|[137077](https://oeis.org/A137077)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137078](https://oeis.org/A137078)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137079](https://oeis.org/A137079)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[481](https://oeis.org/A000481)|[http://ecs.inria.fr/services/structure?nbr=348](http://ecs.inria.fr/services/structure?nbr=348)|
-|[498](https://oeis.org/A000498)|[http://emmy.uprrp.edu/lmedina/papers/eulerian/EulerianFinal.pdf](http://emmy.uprrp.edu/lmedina/papers/eulerian/EulerianFinal.pdf)|
+|[137080](https://oeis.org/A137080)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137081](https://oeis.org/A137081)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137082](https://oeis.org/A137082)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137083](https://oeis.org/A137083)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137084](https://oeis.org/A137084)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137085](https://oeis.org/A137085)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[91574](https://oeis.org/A091574)|[http://www.cs.uwaterloo.ca/journals/JIS/VOL12/Ward/ward17.html](http://www.cs.uwaterloo.ca/journals/JIS/VOL12/Ward/ward17.html)|
+|[46060](https://oeis.org/A046060)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
+|[137087](https://oeis.org/A137087)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[46061](https://oeis.org/A046061)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
+|[137088](https://oeis.org/A137088)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137089](https://oeis.org/A137089)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137090](https://oeis.org/A137090)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137091](https://oeis.org/A137091)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137093](https://oeis.org/A137093)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137094](https://oeis.org/A137094)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137095](https://oeis.org/A137095)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137096](https://oeis.org/A137096)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137097](https://oeis.org/A137097)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137098](https://oeis.org/A137098)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137099](https://oeis.org/A137099)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137100](https://oeis.org/A137100)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137101](https://oeis.org/A137101)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137102](https://oeis.org/A137102)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[503](https://oeis.org/A000503)|[http://math.udel.edu/~lazebnik/papers/tan_n.pdf](http://math.udel.edu/~lazebnik/papers/tan_n.pdf)|
+|[137104](https://oeis.org/A137104)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137105](https://oeis.org/A137105)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137106](https://oeis.org/A137106)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137107](https://oeis.org/A137107)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[319171](https://oeis.org/A319171)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[137108](https://oeis.org/A137108)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137109](https://oeis.org/A137109)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137110](https://oeis.org/A137110)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137111](https://oeis.org/A137111)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137112](https://oeis.org/A137112)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[513](https://oeis.org/A000513)|[https://www.alazmi95.com/ewExternalFiles/iso_rej.pdf](https://www.alazmi95.com/ewExternalFiles/iso_rej.pdf)|
+|[137114](https://oeis.org/A137114)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137115](https://oeis.org/A137115)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137116](https://oeis.org/A137116)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137117](https://oeis.org/A137117)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137118](https://oeis.org/A137118)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[46092](https://oeis.org/A046092)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[137120](https://oeis.org/A137120)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[521](https://oeis.org/A000521)|[http://www.maths.nott.ac.uk/personal/jec](http://www.maths.nott.ac.uk/personal/jec), [http://www.openquestions.com/oq-ma017.htm](http://www.openquestions.com/oq-ma017.htm)|
+|[137121](https://oeis.org/A137121)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[522](https://oeis.org/A000522)|[http://home.earthlink.net/~jsondow/PrimesAndE.pdf](http://home.earthlink.net/~jsondow/PrimesAndE.pdf), [http://ecs.inria.fr/services/structure?nbr=35](http://ecs.inria.fr/services/structure?nbr=35)|
+|[137122](https://oeis.org/A137122)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137123](https://oeis.org/A137123)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137124](https://oeis.org/A137124)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137125](https://oeis.org/A137125)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137126](https://oeis.org/A137126)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137127](https://oeis.org/A137127)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137128](https://oeis.org/A137128)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137129](https://oeis.org/A137129)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137130](https://oeis.org/A137130)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137131](https://oeis.org/A137131)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137132](https://oeis.org/A137132)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137133](https://oeis.org/A137133)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137134](https://oeis.org/A137134)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137135](https://oeis.org/A137135)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137136](https://oeis.org/A137136)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137137](https://oeis.org/A137137)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137138](https://oeis.org/A137138)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137139](https://oeis.org/A137139)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137140](https://oeis.org/A137140)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137141](https://oeis.org/A137141)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137142](https://oeis.org/A137142)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137143](https://oeis.org/A137143)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137144](https://oeis.org/A137144)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137145](https://oeis.org/A137145)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137146](https://oeis.org/A137146)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
+|[137147](https://oeis.org/A137147)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[566](https://oeis.org/A000566)|[http://ecs.inria.fr/services/structure?nbr=341](http://ecs.inria.fr/services/structure?nbr=341)|
 |[567](https://oeis.org/A000567)|[http://ecs.inria.fr/services/structure?nbr=342](http://ecs.inria.fr/services/structure?nbr=342)|
+|[46142](https://oeis.org/A046142)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
 |[568](https://oeis.org/A000568)|[http://www.gutenberg.org/ebooks/42833](http://www.gutenberg.org/ebooks/42833)|
 |[571](https://oeis.org/A000571)|[http://www.gutenberg.org/ebooks/42833](http://www.gutenberg.org/ebooks/42833)|
 |[577](https://oeis.org/A000577)|[http://www.g4g4.com/contentsmmpp.html](http://www.g4g4.com/contentsmmpp.html)|
-|[579](https://oeis.org/A000579)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html), [http://ecs.inria.fr/services/structure?nbr=256](http://ecs.inria.fr/services/structure?nbr=256)|
+|[579](https://oeis.org/A000579)|[http://ecs.inria.fr/services/structure?nbr=256](http://ecs.inria.fr/services/structure?nbr=256)|
 |[580](https://oeis.org/A000580)|[http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf](http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf), [http://ecs.inria.fr/services/structure?nbr=257](http://ecs.inria.fr/services/structure?nbr=257)|
 |[581](https://oeis.org/A000581)|[http://ecs.inria.fr/services/structure?nbr=258](http://ecs.inria.fr/services/structure?nbr=258)|
+|[91672](https://oeis.org/A091672)|[http://eprints.cecm.sfu.ca/archive/00000270/](http://eprints.cecm.sfu.ca/archive/00000270/)|
 |[582](https://oeis.org/A000582)|[http://ecs.inria.fr/services/structure?nbr=259](http://ecs.inria.fr/services/structure?nbr=259)|
+|[586](https://oeis.org/A000586)|[http://www.insa.nic.in/writereaddata/UpLoadedFiles/PINSA/Vol21A_1955_3_Art09.pdf](http://www.insa.nic.in/writereaddata/UpLoadedFiles/PINSA/Vol21A_1955_3_Art09.pdf)|
 |[588](https://oeis.org/A000588)|[http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf](http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf)|
-|[594](https://oeis.org/A000594)|[http://mathsource.wri.com/MathSource22/Enhancements/NumberTheory/0200-978/Documentation.txt](http://mathsource.wri.com/MathSource22/Enhancements/NumberTheory/0200-978/Documentation.txt), [http://www.institut.math.jussieu.fr/~brunault/FonctionTau.pdf](http://www.institut.math.jussieu.fr/~brunault/FonctionTau.pdf), [http://www.currentscience.ac.in/Downloads/article_id_017_06_0179_0180_0.pdf](http://www.currentscience.ac.in/Downloads/article_id_017_06_0179_0180_0.pdf), [http://www.maths.nott.ac.uk/personal/jec](http://www.maths.nott.ac.uk/personal/jec)|
+|[594](https://oeis.org/A000594)|[http://mathsource.wri.com/MathSource22/Enhancements/NumberTheory/0200-978/Documentation.txt](http://mathsource.wri.com/MathSource22/Enhancements/NumberTheory/0200-978/Documentation.txt), [http://www.currentscience.ac.in/Downloads/article_id_017_06_0179_0180_0.pdf](http://www.currentscience.ac.in/Downloads/article_id_017_06_0179_0180_0.pdf), [http://www.institut.math.jussieu.fr/~brunault/FonctionTau.pdf](http://www.institut.math.jussieu.fr/~brunault/FonctionTau.pdf), [http://www.maths.nott.ac.uk/personal/jec](http://www.maths.nott.ac.uk/personal/jec)|
 |[598](https://oeis.org/A000598)|[http://ecs.inria.fr/services/structure?nbr=1](http://ecs.inria.fr/services/structure?nbr=1)|
 |[601](https://oeis.org/A000601)|[http://ecs.inria.fr/services/structure?nbr=196](http://ecs.inria.fr/services/structure?nbr=196)|
-|[607](https://oeis.org/A000607)|[http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf](http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf), [http://www.dli.gov.in/rawdataupload/upload/insa/INSA_2/20005ad0_185.pdf](http://www.dli.gov.in/rawdataupload/upload/insa/INSA_2/20005ad0_185.pdf)|
+|[602](https://oeis.org/A000602)|[http://www.cs.ryerson.ca/~mes/publications/MasoumiAntoniazziSoutchanskiModelOrganicChemistryPlanningOrganicSynthesis_GCAI2015.pdf](http://www.cs.ryerson.ca/~mes/publications/MasoumiAntoniazziSoutchanskiModelOrganicChemistryPlanningOrganicSynthesis_GCAI2015.pdf)|
+|[607](https://oeis.org/A000607)|[http://www.dli.gov.in/rawdataupload/upload/insa/INSA_2/20005ad0_185.pdf](http://www.dli.gov.in/rawdataupload/upload/insa/INSA_2/20005ad0_185.pdf), [https://insa.nic.in/writereaddata/UpLoadedFiles/PINSA/Vol21A_1955_3_Art08.pdf](https://insa.nic.in/writereaddata/UpLoadedFiles/PINSA/Vol21A_1955_3_Art08.pdf)|
 |[608](https://oeis.org/A000608)|[http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf)|
 |[629](https://oeis.org/A000629)|[http://ecs.inria.fr/services/structure?nbr=99](http://ecs.inria.fr/services/structure?nbr=99)|
 |[631](https://oeis.org/A000631)|[http://www.cs.sandia.gov/~jfaulon/PUBLICATION/Rev-Comp-Chem.pdf-save](http://www.cs.sandia.gov/~jfaulon/PUBLICATION/Rev-Comp-Chem.pdf-save)|
@@ -134,38 +484,57 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[668](https://oeis.org/A000668)|[http://thesaurus.maths.org/dictionary/map/word/990](http://thesaurus.maths.org/dictionary/map/word/990)|
 |[669](https://oeis.org/A000669)|[http://ecs.inria.fr/services/structure?nbr=44](http://ecs.inria.fr/services/structure?nbr=44)|
 |[670](https://oeis.org/A000670)|[http://www2.wiwi.hu-berlin.de/institute/bartosz/VariableChoiceOA.pdf](http://www2.wiwi.hu-berlin.de/institute/bartosz/VariableChoiceOA.pdf), [http://ecs.inria.fr/services/structure?nbr=41](http://ecs.inria.fr/services/structure?nbr=41)|
-|[688](https://oeis.org/A000688)|[http://www.bdim.eu/item?id=RLINA_1971_8_51_3-4_177_0](http://www.bdim.eu/item?id=RLINA_1971_8_51_3-4_177_0)|
-|[698](https://oeis.org/A000698)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[137294](https://oeis.org/A137294)|[http://compgeom.cs.uiuc.edu/~jeffe/pubs/sowing.html](http://compgeom.cs.uiuc.edu/~jeffe/pubs/sowing.html)|
+|[137295](https://oeis.org/A137295)|[http://compgeom.cs.uiuc.edu/~jeffe/pubs/sowing.html](http://compgeom.cs.uiuc.edu/~jeffe/pubs/sowing.html)|
+|[319367](https://oeis.org/A319367)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/)|
+|[319368](https://oeis.org/A319368)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/)|
+|[699](https://oeis.org/A000699)|[https://cr.yp.to/dlog/sect113r2-20160806.pdf](https://cr.yp.to/dlog/sect113r2-20160806.pdf)|
+|[319372](https://oeis.org/A319372)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/)|
+|[319374](https://oeis.org/A319374)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubtrans/index.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubtrans/index.html)|
 |[712](https://oeis.org/A000712)|[http://ecs.inria.fr/services/structure?nbr=129](http://ecs.inria.fr/services/structure?nbr=129)|
 |[713](https://oeis.org/A000713)|[http://ecs.inria.fr/services/structure?nbr=390](http://ecs.inria.fr/services/structure?nbr=390)|
 |[716](https://oeis.org/A000716)|[http://ecs.inria.fr/services/structure?nbr=391](http://ecs.inria.fr/services/structure?nbr=391)|
 |[720](https://oeis.org/A000720)|[http://www.maths.ex.ac.uk/~mwatkins/zeta/wolfgas.htm](http://www.maths.ex.ac.uk/~mwatkins/zeta/wolfgas.htm)|
+|[731](https://oeis.org/A000731)|[http://www-irma.u-strasbg.fr/~guoniu/hook/hh3core](http://www-irma.u-strasbg.fr/~guoniu/hook/hh3core)|
+|[137348](https://oeis.org/A137348)|[http://www.ct.tkk.fi/~vesa/](http://www.ct.tkk.fi/~vesa/)|
 |[770](https://oeis.org/A000770)|[http://ecs.inria.fr/services/structure?nbr=349](http://ecs.inria.fr/services/structure?nbr=349)|
 |[771](https://oeis.org/A000771)|[http://ecs.inria.fr/services/structure?nbr=350](http://ecs.inria.fr/services/structure?nbr=350)|
+|[137385](https://oeis.org/A137385)|[http://les-mathematiques.u-strasbg.fr/phorum5/read.php?2](http://les-mathematiques.u-strasbg.fr/phorum5/read.php?2)|
 |[776](https://oeis.org/A000776)|[http://ecs.inria.fr/services/structure?nbr=140](http://ecs.inria.fr/services/structure?nbr=140)|
 |[780](https://oeis.org/A000780)|[http://ecs.inria.fr/services/structure?nbr=392](http://ecs.inria.fr/services/structure?nbr=392)|
 |[788](https://oeis.org/A000788)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[791](https://oeis.org/A000791)|[http://www.public.iastate.edu/~ricardo/ramsey](http://www.public.iastate.edu/~ricardo/ramsey), [http://mathdb.org/notes_download/elementary/combinatorics/de_D7/de_D7.pdf](http://mathdb.org/notes_download/elementary/combinatorics/de_D7/de_D7.pdf)|
-|[796](https://oeis.org/A000796)|[http://pi.nersc.gov/](http://pi.nersc.gov/), [http://users.skynet.be/ekurea/toutpi.html](http://users.skynet.be/ekurea/toutpi.html)|
-|[798](https://oeis.org/A000798)|[http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf), [http://www-ifm.math.uni-hannover.de/html/preprints.phtml](http://www-ifm.math.uni-hannover.de/html/preprints.phtml)|
+|[796](https://oeis.org/A000796)|[http://pi.nersc.gov/](http://pi.nersc.gov/), [http://perso.wanadoo.fr/didier.pothet/pi.html](http://perso.wanadoo.fr/didier.pothet/pi.html), [http://www.mcs.st-and.ac.uk/~gmp/gmpCON.html](http://www.mcs.st-and.ac.uk/~gmp/gmpCON.html), [http://users.skynet.be/ekurea/toutpi.html](http://users.skynet.be/ekurea/toutpi.html)|
+|[798](https://oeis.org/A000798)|[http://www-ifm.math.uni-hannover.de/html/preprints.phtml](http://www-ifm.math.uni-hannover.de/html/preprints.phtml), [http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf)|
+|[137421](https://oeis.org/A137421)|[http://www.editions-belin.com/ewb_pages/f/fiche-article-quand-les-maths-se-font-discretes-8825.php](http://www.editions-belin.com/ewb_pages/f/fiche-article-quand-les-maths-se-font-discretes-8825.php)|
+|[182935](https://oeis.org/A182935)|[http://dip.sun.ac.za/~laurie/papers/computing_gamma.pdf](http://dip.sun.ac.za/~laurie/papers/computing_gamma.pdf)|
 |[808](https://oeis.org/A000808)|[http://ecs.inria.fr/services/structure?nbr=51](http://ecs.inria.fr/services/structure?nbr=51), [http://ecs.inria.fr/services/structure?nbr=49](http://ecs.inria.fr/services/structure?nbr=49)|
+|[46413](https://oeis.org/A046413)|[http://www.h4.dion.ne.jp/~rep](http://www.h4.dion.ne.jp/~rep)|
+|[319524](https://oeis.org/A319524)|[http://users.skynet.be/albert.frank/fourth_international_contest3.html](http://users.skynet.be/albert.frank/fourth_international_contest3.html)|
+|[91996](https://oeis.org/A091996)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[918](https://oeis.org/A000918)|[http://ecs.inria.fr/services/structure?nbr=77](http://ecs.inria.fr/services/structure?nbr=77)|
 |[919](https://oeis.org/A000919)|[http://www.exp-math.uni-essen.de/~immink/pdf/jsac13.pdf](http://www.exp-math.uni-essen.de/~immink/pdf/jsac13.pdf)|
 |[921](https://oeis.org/A000921)|[http://eprints.maths.ox.ac.uk/158/01/kummer.pdf](http://eprints.maths.ox.ac.uk/158/01/kummer.pdf)|
 |[922](https://oeis.org/A000922)|[http://eprints.maths.ox.ac.uk/158/01/kummer.pdf](http://eprints.maths.ox.ac.uk/158/01/kummer.pdf)|
 |[923](https://oeis.org/A000923)|[http://eprints.maths.ox.ac.uk/158/01/kummer.pdf](http://eprints.maths.ox.ac.uk/158/01/kummer.pdf)|
 |[928](https://oeis.org/A000928)|[http://everything2.net/index.pl?node_id=1214159&amp](http://everything2.net/index.pl?node_id=1214159&amp)|
-|[930](https://oeis.org/A000930)|[http://ecs.inria.fr/services/structure?nbr=376](http://ecs.inria.fr/services/structure?nbr=376), [http://ecs.inria.fr/services/structure?nbr=14](http://ecs.inria.fr/services/structure?nbr=14)|
-|[931](https://oeis.org/A000931)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf), [http://ecs.inria.fr/services/structure?nbr=393](http://ecs.inria.fr/services/structure?nbr=393)|
+|[930](https://oeis.org/A000930)|[http://ecs.inria.fr/services/structure?nbr=14](http://ecs.inria.fr/services/structure?nbr=14), [http://ecs.inria.fr/services/structure?nbr=376](http://ecs.inria.fr/services/structure?nbr=376)|
+|[931](https://oeis.org/A000931)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf), [https://doi.org/10.29371/2019.16.SI04](https://doi.org/10.29371/2019.16.SI04), [http://ecs.inria.fr/services/structure?nbr=393](http://ecs.inria.fr/services/structure?nbr=393)|
 |[934](https://oeis.org/A000934)|[http://www.c3lanl.gov/maga-math/gloss/math/4ct.html](http://www.c3lanl.gov/maga-math/gloss/math/4ct.html), [http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/The_four_colour_theorem.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/The_four_colour_theorem.html), [http://bhs.broo.k12.wv.us/discrete/4Color.htm](http://bhs.broo.k12.wv.us/discrete/4Color.htm)|
+|[274108](https://oeis.org/A274108)|[https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf](https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf)|
+|[274109](https://oeis.org/A274109)|[https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf](https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf)|
+|[274121](https://oeis.org/A274121)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
 |[959](https://oeis.org/A000959)|[http://crypt.org/hv/maths/lucky_1e8.bz2](http://crypt.org/hv/maths/lucky_1e8.bz2)|
+|[228607](https://oeis.org/A228607)|[http://nopr.niscair.res.in/handle/123456789/2215](http://nopr.niscair.res.in/handle/123456789/2215)|
+|[274122](https://oeis.org/A274122)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
 |[975](https://oeis.org/A000975)|[http://ecs.inria.fr/services/structure?nbr=394](http://ecs.inria.fr/services/structure?nbr=394)|
 |[982](https://oeis.org/A000982)|[http://hdl.handle.net/2042/32240](http://hdl.handle.net/2042/32240)|
-|[984](https://oeis.org/A000984)|[http://pareonline.net/getvn.asp?v=18&amp](http://pareonline.net/getvn.asp?v=18&amp), [http://www-centre.mpce.mq.edu.au/alfpapers/a084.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a084.pdf), [http://dmg.tuwien.ac.at/mwallner/files/lpintro.pdf](http://dmg.tuwien.ac.at/mwallner/files/lpintro.pdf), [http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf](http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf)|
-|[1002](https://oeis.org/A001002)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://ecs.inria.fr/services/structure?nbr=395](http://ecs.inria.fr/services/structure?nbr=395)|
-|[1003](https://oeis.org/A001003)|[http://repository.uwyo.edu/ela/vol30/iss1/7](http://repository.uwyo.edu/ela/vol30/iss1/7), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://ecs.inria.fr/services/structure?nbr=42](http://ecs.inria.fr/services/structure?nbr=42)|
+|[984](https://oeis.org/A000984)|[http://pareonline.net/getvn.asp?v=18&amp](http://pareonline.net/getvn.asp?v=18&amp), [http://www-centre.mpce.mq.edu.au/alfpapers/a084.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a084.pdf)|
+|[1002](https://oeis.org/A001002)|[http://ecs.inria.fr/services/structure?nbr=395](http://ecs.inria.fr/services/structure?nbr=395)|
+|[1003](https://oeis.org/A001003)|[https://cs.uwaterloo.ca/journals/JIS/VOL13/Drake/drake.html](https://cs.uwaterloo.ca/journals/JIS/VOL13/Drake/drake.html), [http://repository.uwyo.edu/ela/vol30/iss1/7](http://repository.uwyo.edu/ela/vol30/iss1/7), [http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf](http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf), [http://ecs.inria.fr/services/structure?nbr=42](http://ecs.inria.fr/services/structure?nbr=42)|
 |[1005](https://oeis.org/A001005)|[http://ecs.inria.fr/services/structure?nbr=396](http://ecs.inria.fr/services/structure?nbr=396)|
-|[1006](https://oeis.org/A001006)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf.T.](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf.T.), [http://ami.ektf.hu.N.](http://ami.ektf.hu.N.), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://ecs.inria.fr/services/structure?nbr=50](http://ecs.inria.fr/services/structure?nbr=50), [http://dmg.tuwien.ac.at/mwallner/files/lpintro.pdf](http://dmg.tuwien.ac.at/mwallner/files/lpintro.pdf), [http://bioinformatics.bc.edu/~ponty/docs/AsymptoticsRNAShapes-JCompBiol-LorenzPontyClote.pdf](http://bioinformatics.bc.edu/~ponty/docs/AsymptoticsRNAShapes-JCompBiol-LorenzPontyClote.pdf)|
+|[1006](https://oeis.org/A001006)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf.T.](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf.T.), [http://ami.ektf.hu.N.](http://ami.ektf.hu.N.), [http://ecs.inria.fr/services/structure?nbr=50](http://ecs.inria.fr/services/structure?nbr=50), [http://bioinformatics.bc.edu/~ponty/docs/AsymptoticsRNAShapes-JCompBiol-LorenzPontyClote.pdf](http://bioinformatics.bc.edu/~ponty/docs/AsymptoticsRNAShapes-JCompBiol-LorenzPontyClote.pdf)|
+|[1011](https://oeis.org/A001011)|[http://mappingignorance.org/2014/07/07/many-ways-can-fold-strip-stamps/](http://mappingignorance.org/2014/07/07/many-ways-can-fold-strip-stamps/)|
 |[1018](https://oeis.org/A001018)|[http://ecs.inria.fr/services/structure?nbr=273](http://ecs.inria.fr/services/structure?nbr=273)|
 |[1019](https://oeis.org/A001019)|[http://ecs.inria.fr/services/structure?nbr=274](http://ecs.inria.fr/services/structure?nbr=274)|
 |[1020](https://oeis.org/A001020)|[http://ecs.inria.fr/services/structure?nbr=275](http://ecs.inria.fr/services/structure?nbr=275)|
@@ -181,29 +550,39 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[1037](https://oeis.org/A001037)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
 |[1045](https://oeis.org/A001045)|[http://ecs.inria.fr/services/structure?nbr=142](http://ecs.inria.fr/services/structure?nbr=142)|
 |[1047](https://oeis.org/A001047)|[http://ecs.inria.fr/services/structure?nbr=397](http://ecs.inria.fr/services/structure?nbr=397)|
-|[1048](https://oeis.org/A001048)|[http://ecs.inria.fr/services/structure?nbr=641](http://ecs.inria.fr/services/structure?nbr=641), [http://ecs.inria.fr/services/structure?nbr=101](http://ecs.inria.fr/services/structure?nbr=101), [http://ecs.inria.fr/services/structure?nbr=97](http://ecs.inria.fr/services/structure?nbr=97)|
+|[1048](https://oeis.org/A001048)|[http://dx.doi.org/10.4153/CJM-1970-003-9](http://dx.doi.org/10.4153/CJM-1970-003-9), [http://ecs.inria.fr/services/structure?nbr=97](http://ecs.inria.fr/services/structure?nbr=97), [http://ecs.inria.fr/services/structure?nbr=641](http://ecs.inria.fr/services/structure?nbr=641), [http://ecs.inria.fr/services/structure?nbr=101](http://ecs.inria.fr/services/structure?nbr=101)|
 |[1049](https://oeis.org/A001049)|[http://www.mta.nyc.ny.us/nyct/service/fourline.htm](http://www.mta.nyc.ny.us/nyct/service/fourline.htm)|
-|[1075](https://oeis.org/A001075)|[http://kskedlaya.org/putnam-archive/2015.pdf](http://kskedlaya.org/putnam-archive/2015.pdf), [http://kskedlaya.org/putnam-archive/2015s.pdf](http://kskedlaya.org/putnam-archive/2015s.pdf)|
+|[92175](https://oeis.org/A092175)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/solutions/April2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/solutions/April2004.html), [http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html)|
+|[46660](https://oeis.org/A046660)|[http://www.gibbs.if.usp.br/~marchett/estocastica/MarkKac-Statistical-Independence.pdf](http://www.gibbs.if.usp.br/~marchett/estocastica/MarkKac-Statistical-Independence.pdf)|
 |[1076](https://oeis.org/A001076)|[http://ecs.inria.fr/services/structure?nbr=398](http://ecs.inria.fr/services/structure?nbr=398)|
+|[46675](https://oeis.org/A046675)|[http://www.insa.nic.in/writereaddata/UpLoadedFiles/PINSA/Vol21A_1955_3_Art09.pdf](http://www.insa.nic.in/writereaddata/UpLoadedFiles/PINSA/Vol21A_1955_3_Art09.pdf)|
+|[137726](https://oeis.org/A137726)|[https://www.spoj.pl/problems/JZPCIR/](https://www.spoj.pl/problems/JZPCIR/)|
 |[1106](https://oeis.org/A001106)|[http://ecs.inria.fr/services/structure?nbr=343](http://ecs.inria.fr/services/structure?nbr=343)|
 |[1107](https://oeis.org/A001107)|[http://ecs.inria.fr/services/structure?nbr=344](http://ecs.inria.fr/services/structure?nbr=344)|
-|[1109](https://oeis.org/A001109)|[http://users.tellurian.net/hsejar/maths/triangle](http://users.tellurian.net/hsejar/maths/triangle)|
+|[92220](https://oeis.org/A092220)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
 |[1118](https://oeis.org/A001118)|[http://www.exp-math.uni-essen.de/~immink/pdf/jsac13.pdf](http://www.exp-math.uni-essen.de/~immink/pdf/jsac13.pdf)|
+|[1130](https://oeis.org/A001130)|[http://www4.ncsu.edu/~savage/papers.html](http://www4.ncsu.edu/~savage/papers.html)|
 |[1131](https://oeis.org/A001131)|[http://www.theory.cs.uvic.ca/~cos/inf/tree/RedBlackTree.html](http://www.theory.cs.uvic.ca/~cos/inf/tree/RedBlackTree.html)|
 |[1138](https://oeis.org/A001138)|[http://www.theory.cs.uvic.ca/~cos/inf/tree/RedBlackTree.html](http://www.theory.cs.uvic.ca/~cos/inf/tree/RedBlackTree.html)|
-|[1142](https://oeis.org/A001142)|[http://www.jstor.org/stable/2691040](http://www.jstor.org/stable/2691040)|
-|[1147](https://oeis.org/A001147)|[http://repository.wit.ie/1693](http://repository.wit.ie/1693), [http://ecs.inria.fr/services/structure?nbr=23](http://ecs.inria.fr/services/structure?nbr=23), [http://ecs.inria.fr/services/structure?nbr=106](http://ecs.inria.fr/services/structure?nbr=106)|
+|[46736](https://oeis.org/A046736)|[http://ecs.inria.fr/services/structure?nbr=93](http://ecs.inria.fr/services/structure?nbr=93)|
+|[46742](https://oeis.org/A046742)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/)|
+|[1147](https://oeis.org/A001147)|[http://ecs.inria.fr/services/structure?nbr=23](http://ecs.inria.fr/services/structure?nbr=23), [http://ecs.inria.fr/services/structure?nbr=106](http://ecs.inria.fr/services/structure?nbr=106)|
+|[46751](https://oeis.org/A046751)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/)|
+|[92269](https://oeis.org/A092269)|[https://www.mathshunter.edu.au/meetings/alfcon/pdfs/Frank_Garvan-alfcon.pdf](https://www.mathshunter.edu.au/meetings/alfcon/pdfs/Frank_Garvan-alfcon.pdf)|
+|[46759](https://oeis.org/A046759)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#62](http://www.chalcedon.demon.co.uk/rgep/publish.html#62), [http://www.pourlascience.com/index.php?ids=aPyshoMZcCzdxrZZogDE&amp](http://www.pourlascience.com/index.php?ids=aPyshoMZcCzdxrZZogDE&amp)|
+|[1177](https://oeis.org/A001177)|[http://diego.mat.unb.br/doc/upperFQ.pdf](http://diego.mat.unb.br/doc/upperFQ.pdf)|
 |[1181](https://oeis.org/A001181)|[http://sci.haifa.ac.il/~ackerman/publications/soda04.pdf](http://sci.haifa.ac.il/~ackerman/publications/soda04.pdf)|
-|[1186](https://oeis.org/A001186)|[http://vega.ijp.si/doku.php](http://vega.ijp.si/doku.php), [http://www.ijp.si/vega/HtmlDoc/MANUAL/HAMCUB2.HTM](http://www.ijp.si/vega/HtmlDoc/MANUAL/HAMCUB2.HTM)|
+|[1186](https://oeis.org/A001186)|[http://www.ijp.si/vega/HtmlDoc/MANUAL/HAMCUB2.HTM](http://www.ijp.si/vega/HtmlDoc/MANUAL/HAMCUB2.HTM), [http://vega.ijp.si/doku.php](http://vega.ijp.si/doku.php)|
 |[1190](https://oeis.org/A001190)|[http://ecs.inria.fr/services/structure?nbr=45](http://ecs.inria.fr/services/structure?nbr=45), [http://ecs.inria.fr/services/structure?nbr=43](http://ecs.inria.fr/services/structure?nbr=43)|
 |[1203](https://oeis.org/A001203)|[http://www-centre.mpce.mq.edu.au/alfpapers/a113.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a113.pdf)|
 |[1206](https://oeis.org/A001206)|[http://www.labri.u-bordeaux.fr/~loeb/london](http://www.labri.u-bordeaux.fr/~loeb/london)|
 |[1220](https://oeis.org/A001220)|[http://www.math.jussieu.fr/~miw/articles/pdf/abcLahore2013VI.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/abcLahore2013VI.pdf)|
-|[1221](https://oeis.org/A001221)|[http://britton.disted.camosun.bc.ca/jbprimefactor.htm](http://britton.disted.camosun.bc.ca/jbprimefactor.htm)|
+|[1221](https://oeis.org/A001221)|[http://britton.disted.camosun.bc.ca/jbprimefactor.htm](http://britton.disted.camosun.bc.ca/jbprimefactor.htm), [http://www.gibbs.if.usp.br/~marchett/estocastica/MarkKac-Statistical-Independence.pdf](http://www.gibbs.if.usp.br/~marchett/estocastica/MarkKac-Statistical-Independence.pdf)|
 |[1223](https://oeis.org/A001223)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
 |[1228](https://oeis.org/A001228)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html#table4](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html#table4)|
-|[1235](https://oeis.org/A001235)|[http://cdl.best.vwh.net/JavaScript/Cubes.html](http://cdl.best.vwh.net/JavaScript/Cubes.html)|
+|[137864](https://oeis.org/A137864)|[http://www.teachers.ash.org.au/mikemath/numseqfindiff/note2.pdf](http://www.teachers.ash.org.au/mikemath/numseqfindiff/note2.pdf)|
 |[1263](https://oeis.org/A001263)|[http://cartan.u-strasbg.fr/irma/publications/1997/97040.shtml](http://cartan.u-strasbg.fr/irma/publications/1997/97040.shtml), [http://repository.uwyo.edu/ela/vol30/iss1/7](http://repository.uwyo.edu/ela/vol30/iss1/7)|
+|[1265](https://oeis.org/A001265)|[http://cage.ugent.be/~jdemeyer/cunningham/](http://cage.ugent.be/~jdemeyer/cunningham/)|
 |[1286](https://oeis.org/A001286)|[http://ecs.inria.fr/services/structure?nbr=399](http://ecs.inria.fr/services/structure?nbr=399)|
 |[1287](https://oeis.org/A001287)|[http://ecs.inria.fr/services/structure?nbr=260](http://ecs.inria.fr/services/structure?nbr=260)|
 |[1288](https://oeis.org/A001288)|[http://ecs.inria.fr/services/structure?nbr=261](http://ecs.inria.fr/services/structure?nbr=261)|
@@ -218,14 +597,17 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[1310](https://oeis.org/A001310)|[http://ecs.inria.fr/services/structure?nbr=180](http://ecs.inria.fr/services/structure?nbr=180)|
 |[1311](https://oeis.org/A001311)|[http://ecs.inria.fr/services/structure?nbr=202](http://ecs.inria.fr/services/structure?nbr=202)|
 |[1312](https://oeis.org/A001312)|[http://ecs.inria.fr/services/structure?nbr=181](http://ecs.inria.fr/services/structure?nbr=181)|
+|[92430](https://oeis.org/A092430)|[http://www.springerlink.com/content/e1m13421h2873t62/](http://www.springerlink.com/content/e1m13421h2873t62/)|
 |[1313](https://oeis.org/A001313)|[http://ecs.inria.fr/services/structure?nbr=182](http://ecs.inria.fr/services/structure?nbr=182)|
 |[1314](https://oeis.org/A001314)|[http://ecs.inria.fr/services/structure?nbr=183](http://ecs.inria.fr/services/structure?nbr=183)|
 |[1316](https://oeis.org/A001316)|[http://alea2016.gforge.inria.fr/cours-dumas.pdf](http://alea2016.gforge.inria.fr/cours-dumas.pdf)|
 |[1317](https://oeis.org/A001317)|[http://www.mathforum.org/dr.math/faq/formulas/faq/regpoly.html](http://www.mathforum.org/dr.math/faq/formulas/faq/regpoly.html)|
 |[1319](https://oeis.org/A001319)|[http://ecs.inria.fr/services/structure?nbr=184](http://ecs.inria.fr/services/structure?nbr=184)|
-|[1333](https://oeis.org/A001333)|[https://www.pdfdrive.com/math-problem-book-i-compiled-by-kin-y-li-d10918617.html](https://www.pdfdrive.com/math-problem-book-i-compiled-by-kin-y-li-d10918617.html), [http://ecs.inria.fr/services/structure?nbr=143](http://ecs.inria.fr/services/structure?nbr=143)|
+|[92449](https://oeis.org/A092449)|[http://www.gallup.unm.edu/~smarandache/SmBackConOddPrimes.htm](http://www.gallup.unm.edu/~smarandache/SmBackConOddPrimes.htm)|
+|[1333](https://oeis.org/A001333)|[https://www.pdfdrive.com/math-problem-book-i-compiled-by-kin-y-li-d10918617.html](https://www.pdfdrive.com/math-problem-book-i-compiled-by-kin-y-li-d10918617.html), [http://info.tuwien.ac.at/panholzer/Papers/S01_100928.pdf](http://info.tuwien.ac.at/panholzer/Papers/S01_100928.pdf), [http://ecs.inria.fr/services/structure?nbr=143](http://ecs.inria.fr/services/structure?nbr=143)|
 |[1339](https://oeis.org/A001339)|[http://ecs.inria.fr/services/structure?nbr==400](http://ecs.inria.fr/services/structure?nbr==400)|
 |[1343](https://oeis.org/A001343)|[http://ecs.inria.fr/services/structure?nbr=185](http://ecs.inria.fr/services/structure?nbr=185)|
+|[1349](https://oeis.org/A001349)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/)|
 |[1362](https://oeis.org/A001362)|[http://ecs.inria.fr/services/structure?nbr=186](http://ecs.inria.fr/services/structure?nbr=186)|
 |[1365](https://oeis.org/A001365)|[http://ecs.inria.fr/services/structure?nbr=251](http://ecs.inria.fr/services/structure?nbr=251)|
 |[1372](https://oeis.org/A001372)|[http://ecs.inria.fr/services/structure?nbr=144](http://ecs.inria.fr/services/structure?nbr=144)|
@@ -236,15 +618,18 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[1400](https://oeis.org/A001400)|[http://ecs.inria.fr/services/structure?nbr=353](http://ecs.inria.fr/services/structure?nbr=353)|
 |[1401](https://oeis.org/A001401)|[http://ecs.inria.fr/services/structure?nbr=354](http://ecs.inria.fr/services/structure?nbr=354)|
 |[1402](https://oeis.org/A001402)|[http://ecs.inria.fr/services/structure?nbr=355](http://ecs.inria.fr/services/structure?nbr=355)|
-|[1403](https://oeis.org/A001403)|[http://www.ijp.si/Configurations2004/papers.html](http://www.ijp.si/Configurations2004/papers.html), [http://preprinti.imfm.si/PDF/00938.pdf](http://preprinti.imfm.si/PDF/00938.pdf)|
-|[1405](https://oeis.org/A001405)|[http://puma.dimai.unifi.it/22_2/manara_perelli-cippo.pdf](http://puma.dimai.unifi.it/22_2/manara_perelli-cippo.pdf), [http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf](http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[1403](https://oeis.org/A001403)|[http://www.ijp.si/Configurations2004/papers.html](http://www.ijp.si/Configurations2004/papers.html)|
+|[1405](https://oeis.org/A001405)|[http://puma.dimai.unifi.it/22_2/manara_perelli-cippo.pdf](http://puma.dimai.unifi.it/22_2/manara_perelli-cippo.pdf), [http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf](http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf)|
 |[1423](https://oeis.org/A001423)|[http://hpc.gap-system.org/Preprints/DK-AISC08-cr2.pdf](http://hpc.gap-system.org/Preprints/DK-AISC08-cr2.pdf)|
 |[1438](https://oeis.org/A001438)|[http://www.emba.uvm.edu/~jdinitz/preprints/molssurv.pdf](http://www.emba.uvm.edu/~jdinitz/preprints/molssurv.pdf)|
 |[1441](https://oeis.org/A001441)|[http://www.costasarrays.org/Enumeration27TalkWeb.pdf](http://www.costasarrays.org/Enumeration27TalkWeb.pdf)|
+|[47053](https://oeis.org/A047053)|[http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf](http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf), [http://ecs.inria.fr/services/structure?nbr=492](http://ecs.inria.fr/services/structure?nbr=492)|
+|[47058](https://oeis.org/A047058)|[http://ecs.inria.fr/services/structure?nbr=528](http://ecs.inria.fr/services/structure?nbr=528)|
 |[1453](https://oeis.org/A001453)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf)|
 |[1472](https://oeis.org/A001472)|[http://ecs.inria.fr/services/structure?nbr=25](http://ecs.inria.fr/services/structure?nbr=25)|
 |[1517](https://oeis.org/A001517)|[http://ecs.inria.fr/services/structure?nbr=131](http://ecs.inria.fr/services/structure?nbr=131)|
 |[1519](https://oeis.org/A001519)|[http://dx.doi.org/10.1364/OE.22.004499](http://dx.doi.org/10.1364/OE.22.004499), [http://ecs.inria.fr/services/structure?nbr=127](http://ecs.inria.fr/services/structure?nbr=127)|
+|[138163](https://oeis.org/A138163)|[http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
 |[1532](https://oeis.org/A001532)|[http://www.hpl.hp.com/techreports/2012/HPL-2012-113.pdf](http://www.hpl.hp.com/techreports/2012/HPL-2012-113.pdf)|
 |[1550](https://oeis.org/A001550)|[http://ecs.inria.fr/services/structure?nbr=363](http://ecs.inria.fr/services/structure?nbr=363)|
 |[1551](https://oeis.org/A001551)|[http://ecs.inria.fr/services/structure?nbr=364](http://ecs.inria.fr/services/structure?nbr=364)|
@@ -256,42 +641,53 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[1557](https://oeis.org/A001557)|[http://ecs.inria.fr/services/structure?nbr=370](http://ecs.inria.fr/services/structure?nbr=370)|
 |[1563](https://oeis.org/A001563)|[http://ecs.inria.fr/services/structure?nbr=30](http://ecs.inria.fr/services/structure?nbr=30)|
 |[1567](https://oeis.org/A001567)|[http://www.chalcedon.demon.co.uk/rgep/carpsp.html](http://www.chalcedon.demon.co.uk/rgep/carpsp.html)|
+|[1586](https://oeis.org/A001586)|[http://www-irma.u-strasbg.fr/~foata/paper/pub119derivative.pdf](http://www-irma.u-strasbg.fr/~foata/paper/pub119derivative.pdf)|
 |[1590](https://oeis.org/A001590)|[http://ecs.inria.fr/services/structure?nbr=401](http://ecs.inria.fr/services/structure?nbr=401)|
 |[1591](https://oeis.org/A001591)|[http://ecs.inria.fr/services/structure?nbr=12](http://ecs.inria.fr/services/structure?nbr=12)|
 |[1592](https://oeis.org/A001592)|[http://ecs.inria.fr/services/structure?nbr=13](http://ecs.inria.fr/services/structure?nbr=13)|
 |[1595](https://oeis.org/A001595)|[http://ecs.inria.fr/services/structure?nbr=1019](http://ecs.inria.fr/services/structure?nbr=1019)|
-|[1608](https://oeis.org/A001608)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
+|[1599](https://oeis.org/A001599)|[http://www.ma.noda.tus.ac.jp/u/tg/html/harmonic-e.html#mark1](http://www.ma.noda.tus.ac.jp/u/tg/html/harmonic-e.html#mark1), [http://www.ma.noda.tus.ac.jp/u/tg/files/list4](http://www.ma.noda.tus.ac.jp/u/tg/files/list4)|
+|[1600](https://oeis.org/A001600)|[http://www.ma.noda.tus.ac.jp/u/tg/files/list4](http://www.ma.noda.tus.ac.jp/u/tg/files/list4), [http://www.ma.noda.tus.ac.jp/u/tg/html/harmonic-e.html#mark1](http://www.ma.noda.tus.ac.jp/u/tg/html/harmonic-e.html#mark1)|
 |[1611](https://oeis.org/A001611)|[http://ecs.inria.fr/services/structure?nbr=402](http://ecs.inria.fr/services/structure?nbr=402)|
-|[1620](https://oeis.org/A001620)|[http://wwwmaths.anu.edu.au/~brent/pub/pub139.html](http://wwwmaths.anu.edu.au/~brent/pub/pub139.html)|
+|[47229](https://oeis.org/A047229)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[1622](https://oeis.org/A001622)|[http://www.gutenberg.org/etext/633](http://www.gutenberg.org/etext/633)|
-|[1629](https://oeis.org/A001629)|[http://www.imfm.si/preprinti/PDF/01150.pdf](http://www.imfm.si/preprinti/PDF/01150.pdf)|
-|[1653](https://oeis.org/A001653)|[http://ecs.inria.fr/services/structure?nbr=403](http://ecs.inria.fr/services/structure?nbr=403)|
+|[138276](https://oeis.org/A138276)|[http://www.theo-physik.uni-kiel.de/%7Eclaussen/rule150.pdf](http://www.theo-physik.uni-kiel.de/%7Eclaussen/rule150.pdf)|
+|[138277](https://oeis.org/A138277)|[http://www.theo-physik.uni-kiel.de/%7Eclaussen/rule150.pdf](http://www.theo-physik.uni-kiel.de/%7Eclaussen/rule150.pdf)|
+|[1653](https://oeis.org/A001653)|[http://ecs.inria.fr/services/structure?nbr=403](http://ecs.inria.fr/services/structure?nbr=403), [http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
 |[1669](https://oeis.org/A001669)|[http://ecs.inria.fr/services/structure?nbr=296](http://ecs.inria.fr/services/structure?nbr=296)|
 |[1678](https://oeis.org/A001678)|[http://ecs.inria.fr/services/structure?nbr=404](http://ecs.inria.fr/services/structure?nbr=404)|
 |[1680](https://oeis.org/A001680)|[http://ecs.inria.fr/services/structure?nbr=18](http://ecs.inria.fr/services/structure?nbr=18)|
 |[1681](https://oeis.org/A001681)|[http://ecs.inria.fr/services/structure?nbr=19](http://ecs.inria.fr/services/structure?nbr=19)|
 |[1687](https://oeis.org/A001687)|[http://ecs.inria.fr/services/structure?nbr=405](http://ecs.inria.fr/services/structure?nbr=405)|
+|[138329](https://oeis.org/A138329)|[http://free.pages.at/neuenkirchen/palindrom/bilder/prime/snp-twins.txt](http://free.pages.at/neuenkirchen/palindrom/bilder/prime/snp-twins.txt), [http://free.pages.at/neuenkirchen/palindrom/](http://free.pages.at/neuenkirchen/palindrom/)|
 |[1700](https://oeis.org/A001700)|[http://ecs.inria.fr/services/structure?nbr=145](http://ecs.inria.fr/services/structure?nbr=145)|
 |[1705](https://oeis.org/A001705)|[http://ecs.inria.fr/services/structure?nbr=406](http://ecs.inria.fr/services/structure?nbr=406)|
 |[1710](https://oeis.org/A001710)|[http://ecs.inria.fr/services/structure?nbr=262](http://ecs.inria.fr/services/structure?nbr=262)|
+|[47329](https://oeis.org/A047329)|[http://highway55.library.yale.edu/PHOTONEGIMG/zoom/Z362/z3624231.jpg](http://highway55.library.yale.edu/PHOTONEGIMG/zoom/Z362/z3624231.jpg)|
 |[1715](https://oeis.org/A001715)|[http://ecs.inria.fr/services/structure?nbr=263](http://ecs.inria.fr/services/structure?nbr=263)|
+|[47335](https://oeis.org/A047335)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[138358](https://oeis.org/A138358)|[http://free.pages.at/neuenkirchen/palindrom/](http://free.pages.at/neuenkirchen/palindrom/), [http://free.pages.at/neuenkirchen/palindrom/bilder/prime/tupelx.txt](http://free.pages.at/neuenkirchen/palindrom/bilder/prime/tupelx.txt)|
+|[138359](https://oeis.org/A138359)|[http://free.pages.at/neuenkirchen/palindrom/](http://free.pages.at/neuenkirchen/palindrom/), [http://free.pages.at/neuenkirchen/palindrom/bilder/prime/tupelx.txt](http://free.pages.at/neuenkirchen/palindrom/bilder/prime/tupelx.txt)|
 |[1720](https://oeis.org/A001720)|[http://ecs.inria.fr/services/structure?nbr=264](http://ecs.inria.fr/services/structure?nbr=264)|
 |[1725](https://oeis.org/A001725)|[http://ecs.inria.fr/services/structure?nbr=265](http://ecs.inria.fr/services/structure?nbr=265)|
 |[1730](https://oeis.org/A001730)|[http://ecs.inria.fr/services/structure?nbr=266](http://ecs.inria.fr/services/structure?nbr=266)|
+|[320457](https://oeis.org/A320457)|[http://www.dtic.mil/docs/citations/ADA222857](http://www.dtic.mil/docs/citations/ADA222857)|
 |[1761](https://oeis.org/A001761)|[http://ecs.inria.fr/services/structure?nbr=80](http://ecs.inria.fr/services/structure?nbr=80)|
-|[1762](https://oeis.org/A001762)|[http://134.76.163.65/servlet/digbib?template=view.html&amp](http://134.76.163.65/servlet/digbib?template=view.html&amp), [http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp](http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp)|
+|[1762](https://oeis.org/A001762)|[http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp](http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp), [http://134.76.163.65/servlet/digbib?template=view.html&amp](http://134.76.163.65/servlet/digbib?template=view.html&amp)|
 |[1763](https://oeis.org/A001763)|[http://ecs.inria.fr/services/structure?nbr=407](http://ecs.inria.fr/services/structure?nbr=407)|
-|[1764](https://oeis.org/A001764)|[http://ecs.inria.fr/services/structure?nbr=53](http://ecs.inria.fr/services/structure?nbr=53), [http://ecs.inria.fr/services/structure?nbr=285](http://ecs.inria.fr/services/structure?nbr=285), [http://cis.csuohio.edu/~somos/nwic.html](http://cis.csuohio.edu/~somos/nwic.html)|
+|[1764](https://oeis.org/A001764)|[http://ecs.inria.fr/services/structure?nbr=53](http://ecs.inria.fr/services/structure?nbr=53), [http://cis.csuohio.edu/~somos/nwic.html](http://cis.csuohio.edu/~somos/nwic.html), [http://ecs.inria.fr/services/structure?nbr=285](http://ecs.inria.fr/services/structure?nbr=285)|
 |[1765](https://oeis.org/A001765)|[http://ecs.inria.fr/services/structure?nbr=303](http://ecs.inria.fr/services/structure?nbr=303)|
 |[1772](https://oeis.org/A001772)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[1774](https://oeis.org/A001774)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[1775](https://oeis.org/A001775)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
-|[1787](https://oeis.org/A001787)|[http://ecs.inria.fr/services/structure?nbr=408](http://ecs.inria.fr/services/structure?nbr=408)|
+|[1787](https://oeis.org/A001787)|[http://webhome.cs.uvic.ca/~ruskey/Publications/Tatami/TatamiMonomer.html](http://webhome.cs.uvic.ca/~ruskey/Publications/Tatami/TatamiMonomer.html), [http://ecs.inria.fr/services/structure?nbr=408](http://ecs.inria.fr/services/structure?nbr=408)|
 |[1792](https://oeis.org/A001792)|[http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf](http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf), [http://ecs.inria.fr/services/structure?nbr=146](http://ecs.inria.fr/services/structure?nbr=146)|
 |[1813](https://oeis.org/A001813)|[http://ecs.inria.fr/services/structure?nbr=115](http://ecs.inria.fr/services/structure?nbr=115)|
 |[1815](https://oeis.org/A001815)|[http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf), [http://ecs.inria.fr/services/structure?nbr=103](http://ecs.inria.fr/services/structure?nbr=103)|
+|[92955](https://oeis.org/A092955)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html)|
 |[1818](https://oeis.org/A001818)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/solutions/June2009.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/solutions/June2009.html)|
-|[1835](https://oeis.org/A001835)|[http://ecs.inria.fr/services/structure?nbr=409](http://ecs.inria.fr/services/structure?nbr=409)|
+|[1834](https://oeis.org/A001834)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[1835](https://oeis.org/A001835)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html), [http://ecs.inria.fr/services/structure?nbr=409](http://ecs.inria.fr/services/structure?nbr=409)|
 |[1840](https://oeis.org/A001840)|[http://ecs.inria.fr/services/structure?nbr=207](http://ecs.inria.fr/services/structure?nbr=207), [http://grail.eecs.csuohio.edu/~somos/somospol.html](http://grail.eecs.csuohio.edu/~somos/somospol.html)|
 |[1844](https://oeis.org/A001844)|[http://epublications.bond.edu.au/ejsie/vol8/iss2/4](http://epublications.bond.edu.au/ejsie/vol8/iss2/4)|
 |[1850](https://oeis.org/A001850)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
@@ -302,7 +698,7 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[1867](https://oeis.org/A001867)|[http://ecs.inria.fr/services/structure?nbr=3](http://ecs.inria.fr/services/structure?nbr=3)|
 |[1868](https://oeis.org/A001868)|[http://ecs.inria.fr/services/structure?nbr=4](http://ecs.inria.fr/services/structure?nbr=4)|
 |[1869](https://oeis.org/A001869)|[http://ecs.inria.fr/services/structure?nbr=5](http://ecs.inria.fr/services/structure?nbr=5)|
-|[1906](https://oeis.org/A001906)|[http://ecs.inria.fr/services/structure?nbr=147](http://ecs.inria.fr/services/structure?nbr=147), [http://grail.cba.csuohio.edu/~somos/step2.txt](http://grail.cba.csuohio.edu/~somos/step2.txt)|
+|[1906](https://oeis.org/A001906)|[http://ecs.inria.fr/services/structure?nbr=147](http://ecs.inria.fr/services/structure?nbr=147)|
 |[1913](https://oeis.org/A001913)|[http://turing.wins.uva.nl/~moree/varia.htm](http://turing.wins.uva.nl/~moree/varia.htm)|
 |[1927](https://oeis.org/A001927)|[http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf)|
 |[1928](https://oeis.org/A001928)|[http://www.laptop.maine.edu/Enumeration.pdf](http://www.laptop.maine.edu/Enumeration.pdf)|
@@ -311,56 +707,90 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[1935](https://oeis.org/A001935)|[http://demmath.mini.pw.edu.pl/archive/dm42_2/4.pdf](http://demmath.mini.pw.edu.pl/archive/dm42_2/4.pdf)|
 |[1970](https://oeis.org/A001970)|[http://ecs.inria.fr/services/structure?nbr=148](http://ecs.inria.fr/services/structure?nbr=148)|
 |[1972](https://oeis.org/A001972)|[http://ecs.inria.fr/services/structure?nbr=208](http://ecs.inria.fr/services/structure?nbr=208)|
+|[47625](https://oeis.org/A047625)|[http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf](http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf)|
 |[2001](https://oeis.org/A002001)|[http://theory2.phys.cwru.edu/~pete/java_chaos/KochApplet.html](http://theory2.phys.cwru.edu/~pete/java_chaos/KochApplet.html), [http://ecs.inria.fr/services/structure?nbr=456](http://ecs.inria.fr/services/structure?nbr=456)|
+|[275202](https://oeis.org/A275202)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[2025](https://oeis.org/A002025)|[http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://oai.cwi.nl/oai/asset/4143/04143D.pdf](http://oai.cwi.nl/oai/asset/4143/04143D.pdf), [http://oai.cwi.nl/oai/asset/6222/6222A.pdf](http://oai.cwi.nl/oai/asset/6222/6222A.pdf)|
 |[2045](https://oeis.org/A002045)|[http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_1/20005ac7_134.pdf](http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_1/20005ac7_134.pdf)|
-|[2046](https://oeis.org/A002046)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm)|
+|[2046](https://oeis.org/A002046)|[http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
 |[2050](https://oeis.org/A002050)|[http://ecs.inria.fr/services/structure?nbr=149](http://ecs.inria.fr/services/structure?nbr=149)|
+|[47696](https://oeis.org/A047696)|[http://cr.yp.to/papers.html#sortedsums](http://cr.yp.to/papers.html#sortedsums), [http://pobox.com/~djb/papers/sortedsums.dvi](http://pobox.com/~djb/papers/sortedsums.dvi)|
+|[47697](https://oeis.org/A047697)|[http://pobox.com/~djb/papers/sortedsums.dvi](http://pobox.com/~djb/papers/sortedsums.dvi)|
+|[47698](https://oeis.org/A047698)|[http://pobox.com/~djb/papers/sortedsums.dvi](http://pobox.com/~djb/papers/sortedsums.dvi)|
+|[2061](https://oeis.org/A002061)|[http://info.tuwien.ac.at/panholzer/Papers/S01_100928.pdf](http://info.tuwien.ac.at/panholzer/Papers/S01_100928.pdf), [http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf](http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf)|
+|[138728](https://oeis.org/A138728)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
 |[2091](https://oeis.org/A002091)|[http://www.springerlink.com/content/v8p0525xw284234t/](http://www.springerlink.com/content/v8p0525xw284234t/)|
 |[2104](https://oeis.org/A002104)|[http://ecs.inria.fr/services/structure?nbr=116](http://ecs.inria.fr/services/structure?nbr=116)|
-|[2105](https://oeis.org/A002105)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[2105](https://oeis.org/A002105)|[http://www-irma.u-strasbg.fr/~foata/paper/pub120DeltaMatrices.pdf](http://www-irma.u-strasbg.fr/~foata/paper/pub120DeltaMatrices.pdf)|
+|[275314](https://oeis.org/A275314)|[https://archive.org/stream/onsensationsofto00helmrich#page/230/mode/2up](https://archive.org/stream/onsensationsofto00helmrich#page/230/mode/2up), [https://archive.org/stream/tentamennovaethe00eule#page/40/mode/2up](https://archive.org/stream/tentamennovaethe00eule#page/40/mode/2up)|
+|[138769](https://oeis.org/A138769)|[http://www.matematikolimpiyatokulu.com/images/Mag_Abr_2009.pdf](http://www.matematikolimpiyatokulu.com/images/Mag_Abr_2009.pdf)|
 |[2110](https://oeis.org/A002110)|[http://groups.csail.mit.edu/cis/theses/sutherland-phd.pdf](http://groups.csail.mit.edu/cis/theses/sutherland-phd.pdf)|
-|[2133](https://oeis.org/A002133)|[https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf](https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf)|
-|[2145](https://oeis.org/A002145)|[http://harry-j-smith-memorial.com/GPrimes/index.html](http://harry-j-smith-memorial.com/GPrimes/index.html)|
 |[2155](https://oeis.org/A002155)|[http://people.umw.edu/~llehman/ranktwo.htm](http://people.umw.edu/~llehman/ranktwo.htm)|
+|[138818](https://oeis.org/A138818)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
+|[138819](https://oeis.org/A138819)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
+|[184334](https://oeis.org/A184334)|[http://grail.eecs.csuohio.edu/rfmc.txt](http://grail.eecs.csuohio.edu/rfmc.txt)|
 |[2182](https://oeis.org/A002182)|[http://www.math.jussieu.fr/~miw/articles/pdf/LegacyRamanujan2013Text.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/LegacyRamanujan2013Text.pdf)|
+|[275390](https://oeis.org/A275390)|[http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005abb_196.pdf](http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005abb_196.pdf)|
+|[2189](https://oeis.org/A002189)|[http://cr.yp.to/focus.html](http://cr.yp.to/focus.html)|
+|[47838](https://oeis.org/A047838)|[http://online-judge.uva.es/p/v102/10276.html.](http://online-judge.uva.es/p/v102/10276.html.)|
 |[2203](https://oeis.org/A002203)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
+|[2208](https://oeis.org/A002208)|[http://math.tsukuba.ac.jp/~akiyama/papers/Mzvnrev.pdf](http://math.tsukuba.ac.jp/~akiyama/papers/Mzvnrev.pdf)|
+|[2209](https://oeis.org/A002209)|[http://math.tsukuba.ac.jp/~akiyama/papers/Mzvnrev.pdf](http://math.tsukuba.ac.jp/~akiyama/papers/Mzvnrev.pdf)|
+|[138873](https://oeis.org/A138873)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
+|[138875](https://oeis.org/A138875)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
+|[138877](https://oeis.org/A138877)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
 |[2234](https://oeis.org/A002234)|[http://science.kennesaw.edu/~jdemaio/generali.htm](http://science.kennesaw.edu/~jdemaio/generali.htm)|
-|[2236](https://oeis.org/A002236)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
+|[47874](https://oeis.org/A047874)|[http://hdl.handle.net/10810/11241](http://hdl.handle.net/10810/11241)|
 |[2237](https://oeis.org/A002237)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[2238](https://oeis.org/A002238)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[2240](https://oeis.org/A002240)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[2242](https://oeis.org/A002242)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
+|[229941](https://oeis.org/A229941)|[http://www.math.ucr.edu/home/baez/42.html](http://www.math.ucr.edu/home/baez/42.html)|
+|[184418](https://oeis.org/A184418)|[http://somos.crgr4.com/rfmc.txt](http://somos.crgr4.com/rfmc.txt)|
 |[2293](https://oeis.org/A002293)|[http://ecs.inria.fr/services/structure?nbr=286](http://ecs.inria.fr/services/structure?nbr=286)|
 |[2294](https://oeis.org/A002294)|[http://ecs.inria.fr/services/structure?nbr=287](http://ecs.inria.fr/services/structure?nbr=287)|
 |[2295](https://oeis.org/A002295)|[http://ecs.inria.fr/services/structure?nbr=288](http://ecs.inria.fr/services/structure?nbr=288)|
 |[2296](https://oeis.org/A002296)|[http://ecs.inria.fr/services/structure?nbr=289](http://ecs.inria.fr/services/structure?nbr=289)|
 |[2322](https://oeis.org/A002322)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
+|[93507](https://oeis.org/A093507)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
+|[47999](https://oeis.org/A047999)|[http://www-math.cudenver.edu/~wcherowi/jcorn6.html](http://www-math.cudenver.edu/~wcherowi/jcorn6.html), [http://www-math.cudenver.edu/~wcherowi/jcorn5.html](http://www-math.cudenver.edu/~wcherowi/jcorn5.html), [http://ccins.camosun.bc.ca/~jbritton/blaise/bigblaise.html](http://ccins.camosun.bc.ca/~jbritton/blaise/bigblaise.html), [http://www.mathforum.org/dr.math/faq/formulas/faq/regpoly.html](http://www.mathforum.org/dr.math/faq/formulas/faq/regpoly.html)|
 |[2375](https://oeis.org/A002375)|[http://oai.cwi.nl/oai/asset/4680/04680D.pdf](http://oai.cwi.nl/oai/asset/4680/04680D.pdf)|
 |[2378](https://oeis.org/A002378)|[http://ecs.inria.fr/services/structure?nbr=410](http://ecs.inria.fr/services/structure?nbr=410)|
 |[2387](https://oeis.org/A002387)|[http://epublications.bond.edu.au/ejsie/vol8/iss2/4](http://epublications.bond.edu.au/ejsie/vol8/iss2/4)|
-|[2410](https://oeis.org/A002410)|[http://arifatmath.co.uk](http://arifatmath.co.uk), [http://oldweb.cecm.sfu.ca/personal/wgalway/SlidesETC/RH-computations-slides.pdf](http://oldweb.cecm.sfu.ca/personal/wgalway/SlidesETC/RH-computations-slides.pdf), [http://www.dmae.upm.es/WebpersonalBartolo/papers/BenfordPrimesProcRSA.pdf](http://www.dmae.upm.es/WebpersonalBartolo/papers/BenfordPrimesProcRSA.pdf), [http://www.openquestions.com/oq-ma014.htm](http://www.openquestions.com/oq-ma014.htm), [http://www.maths.ex.ac.uk/~mwatkins/zeta/cipra.htm](http://www.maths.ex.ac.uk/~mwatkins/zeta/cipra.htm), [http://www.secamlocal.ex.ac.uk/people/staff/mrwatkin/zeta/GSB-RHproof.pdf](http://www.secamlocal.ex.ac.uk/people/staff/mrwatkin/zeta/GSB-RHproof.pdf), [http://mathfaculty.fullerton.edu/mathews/c2003/RiemannHypothesisBib/Links/RiemannHypothesisBib_lnk_3.html](http://mathfaculty.fullerton.edu/mathews/c2003/RiemannHypothesisBib/Links/RiemannHypothesisBib_lnk_3.html), [http://henri.voici.org](http://henri.voici.org)|
+|[2410](https://oeis.org/A002410)|[http://arifatmath.co.uk](http://arifatmath.co.uk), [http://cr.yp.to/bib/2000/borwein.pdf](http://cr.yp.to/bib/2000/borwein.pdf), [http://oldweb.cecm.sfu.ca/personal/wgalway/SlidesETC/RH-computations-slides.pdf](http://oldweb.cecm.sfu.ca/personal/wgalway/SlidesETC/RH-computations-slides.pdf), [http://www.dmae.upm.es/WebpersonalBartolo/papers/BenfordPrimesProcRSA.pdf](http://www.dmae.upm.es/WebpersonalBartolo/papers/BenfordPrimesProcRSA.pdf), [http://www.openquestions.com/oq-ma014.htm](http://www.openquestions.com/oq-ma014.htm), [http://www.maths.ex.ac.uk/~mwatkins/zeta/cipra.htm](http://www.maths.ex.ac.uk/~mwatkins/zeta/cipra.htm), [http://www.secamlocal.ex.ac.uk/people/staff/mrwatkin/zeta/GSB-RHproof.pdf](http://www.secamlocal.ex.ac.uk/people/staff/mrwatkin/zeta/GSB-RHproof.pdf), [http://mathfaculty.fullerton.edu/mathews/c2003/RiemannHypothesisBib/Links/RiemannHypothesisBib_lnk_3.html](http://mathfaculty.fullerton.edu/mathews/c2003/RiemannHypothesisBib/Links/RiemannHypothesisBib_lnk_3.html), [http://henri.voici.org](http://henri.voici.org)|
 |[2420](https://oeis.org/A002420)|[http://ecs.inria.fr/services/structure?nbr=411](http://ecs.inria.fr/services/structure?nbr=411)|
+|[321125](https://oeis.org/A321125)|[https://www.math.csusb.edu/reu/OverduinPaper.pdf](https://www.math.csusb.edu/reu/OverduinPaper.pdf)|
+|[321126](https://oeis.org/A321126)|[https://www.math.csusb.edu/reu/OverduinPaper.pdf](https://www.math.csusb.edu/reu/OverduinPaper.pdf)|
+|[321127](https://oeis.org/A321127)|[https://www.math.csusb.edu/reu/OverduinPaper.pdf](https://www.math.csusb.edu/reu/OverduinPaper.pdf)|
+|[93613](https://oeis.org/A093613)|[http://www.scipress.org/journals/forma/pdf/1904/19040335.pdf](http://www.scipress.org/journals/forma/pdf/1904/19040335.pdf)|
 |[2450](https://oeis.org/A002450)|[http://ecs.inria.fr/services/structure?nbr=373](http://ecs.inria.fr/services/structure?nbr=373)|
+|[230148](https://oeis.org/A230148)|[http://oai.cwi.nl/oai/asset/4143/04143D.pdf](http://oai.cwi.nl/oai/asset/4143/04143D.pdf)|
 |[2478](https://oeis.org/A002478)|[http://ecs.inria.fr/services/structure?nbr=412](http://ecs.inria.fr/services/structure?nbr=412)|
 |[2485](https://oeis.org/A002485)|[http://www.ipsl.jussieu.fr/~omamce/SP/Oct00/Marc_Daumas.pdf](http://www.ipsl.jussieu.fr/~omamce/SP/Oct00/Marc_Daumas.pdf), [http://www.math.jmu.edu/~lucassk/Papers](http://www.math.jmu.edu/~lucassk/Papers)|
 |[2486](https://oeis.org/A002486)|[http://www.ipsl.jussieu.fr/~omamce/SP/Oct00/Marc_Daumas.pdf](http://www.ipsl.jussieu.fr/~omamce/SP/Oct00/Marc_Daumas.pdf)|
 |[2487](https://oeis.org/A002487)|[http://www.math.jussieu.fr/~allouche/bibliorecente.html](http://www.math.jussieu.fr/~allouche/bibliorecente.html), [http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
-|[2524](https://oeis.org/A002524)|[https://statweb.stanford.edu/~cgates/PERSI/papers/sequential_sampling_10.pdf](https://statweb.stanford.edu/~cgates/PERSI/papers/sequential_sampling_10.pdf)|
+|[321215](https://oeis.org/A321215)|[http://hdl.handle.net/1860/idea:6852](http://hdl.handle.net/1860/idea:6852)|
+|[321216](https://oeis.org/A321216)|[http://hdl.handle.net/1860/idea:6852](http://hdl.handle.net/1860/idea:6852)|
+|[2522](https://oeis.org/A002522)|[http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf](http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf)|
+|[230214](https://oeis.org/A230214)|[http://www.personalweb.unito.it/umberto.cerruti/mathblog.html](http://www.personalweb.unito.it/umberto.cerruti/mathblog.html), [http://www.personalweb.unito.it/umberto.cerruti/pdfblog/numeri-armonici.pdf](http://www.personalweb.unito.it/umberto.cerruti/pdfblog/numeri-armonici.pdf)|
+|[93691](https://oeis.org/A093691)|[http://comunidad.ciudad.com.ar/argentina/buenos_aires/avd/subsub.html](http://comunidad.ciudad.com.ar/argentina/buenos_aires/avd/subsub.html)|
 |[2562](https://oeis.org/A002562)|[http://queens.inf.tu-dresden.de](http://queens.inf.tu-dresden.de)|
 |[2577](https://oeis.org/A002577)|[http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf](http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf)|
+|[139250](https://oeis.org/A139250)|[http://boisemathcircles.org/bmc-sessions/toothpicks](http://boisemathcircles.org/bmc-sessions/toothpicks)|
 |[2605](https://oeis.org/A002605)|[http://ecs.inria.fr/services/structure?nbr=476](http://ecs.inria.fr/services/structure?nbr=476)|
 |[2606](https://oeis.org/A002606)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[2620](https://oeis.org/A002620)|[https://lost-contact.mit.edu/afs//nada.kth.se/home/p/u1wdw8tp/Downloads/2306658.pdf](https://lost-contact.mit.edu/afs//nada.kth.se/home/p/u1wdw8tp/Downloads/2306658.pdf), [http://ecs.inria.fr/services/structure?nbr=105](http://ecs.inria.fr/services/structure?nbr=105)|
+|[2620](https://oeis.org/A002620)|[http://ecs.inria.fr/services/structure?nbr=105](http://ecs.inria.fr/services/structure?nbr=105), [https://lost-contact.mit.edu/afs//nada.kth.se/home/p/u1wdw8tp/Downloads/2306658.pdf](https://lost-contact.mit.edu/afs//nada.kth.se/home/p/u1wdw8tp/Downloads/2306658.pdf)|
 |[2621](https://oeis.org/A002621)|[http://ecs.inria.fr/services/structure?nbr=199](http://ecs.inria.fr/services/structure?nbr=199)|
 |[2623](https://oeis.org/A002623)|[http://ecs.inria.fr/services/structure?nbr=203](http://ecs.inria.fr/services/structure?nbr=203), [http://ecs.inria.fr/services/structure?nbr=413](http://ecs.inria.fr/services/structure?nbr=413)|
 |[2624](https://oeis.org/A002624)|[http://ecs.inria.fr/services/structure?nbr=204](http://ecs.inria.fr/services/structure?nbr=204)|
 |[2625](https://oeis.org/A002625)|[http://ecs.inria.fr/services/structure?nbr=205](http://ecs.inria.fr/services/structure?nbr=205)|
 |[2626](https://oeis.org/A002626)|[http://ecs.inria.fr/services/structure?nbr=206](http://ecs.inria.fr/services/structure?nbr=206)|
 |[2627](https://oeis.org/A002627)|[http://ecs.inria.fr/services/structure?nbr=150](http://ecs.inria.fr/services/structure?nbr=150)|
+|[48298](https://oeis.org/A048298)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[2697](https://oeis.org/A002697)|[http://ecs.inria.fr/services/structure?nbr=414](http://ecs.inria.fr/services/structure?nbr=414)|
 |[2720](https://oeis.org/A002720)|[http://ecs.inria.fr/services/structure?nbr=64](http://ecs.inria.fr/services/structure?nbr=64)|
 |[2747](https://oeis.org/A002747)|[http://oldweb.cecm.sfu.ca/cgi-bin/isc/lookup?number=1.8134302039235&amp](http://oldweb.cecm.sfu.ca/cgi-bin/isc/lookup?number=1.8134302039235&amp)|
+|[275974](https://oeis.org/A275974)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[2807](https://oeis.org/A002807)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
 |[2820](https://oeis.org/A002820)|[http://www.calpoly.edu/~kmorriso/Research/mnev01.pdf](http://www.calpoly.edu/~kmorriso/Research/mnev01.pdf)|
 |[2839](https://oeis.org/A002839)|[http://ebookbrowse.com/brooks-smith-stone-tutte-the-dissection-of-rectangles-into-squares-1940-pdf-d37213504](http://ebookbrowse.com/brooks-smith-stone-tutte-the-dissection-of-rectangles-into-squares-1940-pdf-d37213504)|
@@ -370,51 +800,107 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[2864](https://oeis.org/A002864)|[http://baldric.uwo.ca/article.php3?section=baldric&amp](http://baldric.uwo.ca/article.php3?section=baldric&amp)|
 |[2865](https://oeis.org/A002865)|[http://ecs.inria.fr/services/structure?nbr=100](http://ecs.inria.fr/services/structure?nbr=100)|
 |[2866](https://oeis.org/A002866)|[http://ecs.inria.fr/services/structure?nbr=121](http://ecs.inria.fr/services/structure?nbr=121)|
+|[2905](https://oeis.org/A002905)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/)|
+|[48574](https://oeis.org/A048574)|[http://ecs.inria.fr/services/structure?nbr=804](http://ecs.inria.fr/services/structure?nbr=804)|
+|[185103](https://oeis.org/A185103)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
 |[2952](https://oeis.org/A002952)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://amicable.homepage.dk/knwnunap.htm](http://amicable.homepage.dk/knwnunap.htm)|
 |[2953](https://oeis.org/A002953)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://amicable.homepage.dk/knwnunap.htm](http://amicable.homepage.dk/knwnunap.htm)|
 |[2966](https://oeis.org/A002966)|[http://www.magnesium.net/~palomer/egypt.cpp](http://www.magnesium.net/~palomer/egypt.cpp)|
 |[2982](https://oeis.org/A002982)|[http://83.143.57.194:16384/Factorial/](http://83.143.57.194:16384/Factorial/)|
-|[2997](https://oeis.org/A002997)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#78](http://www.chalcedon.demon.co.uk/rgep/publish.html#78), [http://www.chalcedon.demon.co.uk/rgep/publish.html#82](http://www.chalcedon.demon.co.uk/rgep/publish.html#82), [http://www.chalcedon.demon.co.uk/rgep/publish.html#37](http://www.chalcedon.demon.co.uk/rgep/publish.html#37)|
+|[2997](https://oeis.org/A002997)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#37](http://www.chalcedon.demon.co.uk/rgep/publish.html#37), [http://www.chalcedon.demon.co.uk/rgep/publish.html#78](http://www.chalcedon.demon.co.uk/rgep/publish.html#78), [http://www.chalcedon.demon.co.uk/rgep/publish.html#82](http://www.chalcedon.demon.co.uk/rgep/publish.html#82)|
 |[3000](https://oeis.org/A003000)|[http://faculty.missouri.edu/~stephen/preprints/unforgeable.html](http://faculty.missouri.edu/~stephen/preprints/unforgeable.html)|
 |[3020](https://oeis.org/A003020)|[http://www.h4.dion.ne.jp/~rep/](http://www.h4.dion.ne.jp/~rep/)|
-|[3021](https://oeis.org/A003021)|[http://gmplib.org/~tege/fac10p.txt](http://gmplib.org/~tege/fac10p.txt)|
-|[3095](https://oeis.org/A003095)|[http://ocw.upm.es/ciencia-de-la-computacion-e-inteligencia-artificial/computational-logic/contenidos/04interpretation.pdf](http://ocw.upm.es/ciencia-de-la-computacion-e-inteligencia-artificial/computational-logic/contenidos/04interpretation.pdf)|
+|[48710](https://oeis.org/A048710)|[http://www.iki.fi/%7Ekartturi/matikka/r90x150a.htm](http://www.iki.fi/%7Ekartturi/matikka/r90x150a.htm)|
+|[94225](https://oeis.org/A094225)|[http://math2.eku.edu/greenwell/mat303/triangles/](http://math2.eku.edu/greenwell/mat303/triangles/)|
+|[321768](https://oeis.org/A321768)|[http://user42.tuxfamily.org/triples/index.html](http://user42.tuxfamily.org/triples/index.html)|
+|[3064](https://oeis.org/A003064)|[http://cr.yp.to/bib/1996/bleichenbacher-thesis.ps](http://cr.yp.to/bib/1996/bleichenbacher-thesis.ps)|
+|[3065](https://oeis.org/A003065)|[http://cr.yp.to/bib/1996/bleichenbacher-thesis.ps](http://cr.yp.to/bib/1996/bleichenbacher-thesis.ps)|
+|[321782](https://oeis.org/A321782)|[http://user42.tuxfamily.org/triples/index.html](http://user42.tuxfamily.org/triples/index.html)|
+|[321783](https://oeis.org/A321783)|[http://user42.tuxfamily.org/triples/index.html](http://user42.tuxfamily.org/triples/index.html)|
+|[48739](https://oeis.org/A048739)|[http://ecs.inria.fr/services/structure?nbr=1065](http://ecs.inria.fr/services/structure?nbr=1065)|
+|[185276](https://oeis.org/A185276)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
+|[48765](https://oeis.org/A048765)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf), [http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf](http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf)|
+|[3108](https://oeis.org/A003108)|[http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf](http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf), [http://www.gallup.unm.edu/~smarandache/SN/ScArt5/SPartitionType.pdf](http://www.gallup.unm.edu/~smarandache/SN/ScArt5/SPartitionType.pdf)|
 |[3111](https://oeis.org/A003111)|[http://turing.csie.ntu.edu.tw/~arping/cm](http://turing.csie.ntu.edu.tw/~arping/cm)|
 |[3132](https://oeis.org/A003132)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
+|[185312](https://oeis.org/A185312)|[http://south.rotol.ramk.fi/keranen/ias2002/NewAbelianSquare-FreeDT0L-LanguagesOver4Letters.nb](http://south.rotol.ramk.fi/keranen/ias2002/NewAbelianSquare-FreeDT0L-LanguagesOver4Letters.nb)|
+|[48802](https://oeis.org/A048802)|[http://ecs.inria.fr/services/structure?nbr=861](http://ecs.inria.fr/services/structure?nbr=861)|
 |[3149](https://oeis.org/A003149)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2006.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2006.html)|
-|[3168](https://oeis.org/A003168)|[http://ecs.inria.fr/services/structure?nbr=415](http://ecs.inria.fr/services/structure?nbr=415), [http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf](http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf)|
+|[3168](https://oeis.org/A003168)|[http://ecs.inria.fr/services/structure?nbr=415](http://ecs.inria.fr/services/structure?nbr=415)|
 |[3169](https://oeis.org/A003169)|[http://ecs.inria.fr/services/structure?nbr=416](http://ecs.inria.fr/services/structure?nbr=416)|
+|[94345](https://oeis.org/A094345)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[94348](https://oeis.org/A094348)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
 |[3188](https://oeis.org/A003188)|[http://logic.csci.unt.edu/tarau/research/2009/fISO.pdf](http://logic.csci.unt.edu/tarau/research/2009/fISO.pdf), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[94368](https://oeis.org/A094368)|[http://www-irma.u-strasbg.fr/~foata/paper/pub48.html](http://www-irma.u-strasbg.fr/~foata/paper/pub48.html)|
+|[48874](https://oeis.org/A048874)|[http://www.css.tayloru.edu/~mdelong/undergrad.html](http://www.css.tayloru.edu/~mdelong/undergrad.html)|
 |[3229](https://oeis.org/A003229)|[http://ecs.inria.fr/services/structure?nbr=417](http://ecs.inria.fr/services/structure?nbr=417)|
 |[3239](https://oeis.org/A003239)|[http://ecs.inria.fr/services/structure?nbr=761](http://ecs.inria.fr/services/structure?nbr=761)|
 |[3269](https://oeis.org/A003269)|[http://ecs.inria.fr/services/structure?nbr=377](http://ecs.inria.fr/services/structure?nbr=377)|
 |[3285](https://oeis.org/A003285)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
 |[3314](https://oeis.org/A003314)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[3319](https://oeis.org/A003319)|[http://mosaic.math.tamu.edu/~maguiar/hadamard.pdf](http://mosaic.math.tamu.edu/~maguiar/hadamard.pdf)|
-|[3321](https://oeis.org/A003321)|[http://www.magic-squares.net/narciss.htm#PDIs](http://www.magic-squares.net/narciss.htm#PDIs)|
 |[3325](https://oeis.org/A003325)|[http://www.reunion.iufm.fr/dep/mathematiques/Seminaires/ActesPDF/Tournes53.pdf](http://www.reunion.iufm.fr/dep/mathematiques/Seminaires/ActesPDF/Tournes53.pdf)|
+|[94503](https://oeis.org/A094503)|[http://www-irma.u-strasbg.fr/~foata/paper/pub86minimax.html](http://www-irma.u-strasbg.fr/~foata/paper/pub86minimax.html)|
+|[231100](https://oeis.org/A231100)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
 |[3401](https://oeis.org/A003401)|[https://dx.doi/10.2307/2691503](https://dx.doi/10.2307/2691503), [https://dx.doi/10.2307/2323939](https://dx.doi/10.2307/2323939)|
+|[49061](https://oeis.org/A049061)|[http://www-irma.u-strasbg.fr/~foata/paper/pub62.html](http://www-irma.u-strasbg.fr/~foata/paper/pub62.html)|
 |[3415](https://oeis.org/A003415)|[http://doi.baspress.com/pdf-journal/Comptes%20Rendus_4_2013/4_2013_4.pdf](http://doi.baspress.com/pdf-journal/Comptes%20Rendus_4_2013/4_2013_4.pdf)|
 |[3416](https://oeis.org/A003416)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://ecs.inria.fr/services/structure?nbr=112](http://ecs.inria.fr/services/structure?nbr=112)|
 |[3436](https://oeis.org/A003436)|[http://oai.cwi.nl/oai/asset/4970/04970D.pdf](http://oai.cwi.nl/oai/asset/4970/04970D.pdf)|
 |[3437](https://oeis.org/A003437)|[http://www.scipress.org/journals/forma/abstract/2201/22010005.html](http://www.scipress.org/journals/forma/abstract/2201/22010005.html)|
+|[140118](https://oeis.org/A140118)|[http://jonathanwellons.com/](http://jonathanwellons.com/)|
+|[94626](https://oeis.org/A094626)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html)|
 |[3461](https://oeis.org/A003461)|[http://astrosun.tn.cornell.edu/courses/astro201/bodes_law.htm](http://astrosun.tn.cornell.edu/courses/astro201/bodes_law.htm)|
 |[3462](https://oeis.org/A003462)|[http://ecs.inria.fr/services/structure?nbr=372](http://ecs.inria.fr/services/structure?nbr=372)|
 |[3463](https://oeis.org/A003463)|[http://ecs.inria.fr/services/structure?nbr=374](http://ecs.inria.fr/services/structure?nbr=374)|
 |[3464](https://oeis.org/A003464)|[http://ecs.inria.fr/services/structure?nbr=375](http://ecs.inria.fr/services/structure?nbr=375)|
-|[3480](https://oeis.org/A003480)|[http://ecs.inria.fr/services/structure?nbr=418](http://ecs.inria.fr/services/structure?nbr=418), [http://puma.dimai.unifi.it/17_1_2/frosini.pdf](http://puma.dimai.unifi.it/17_1_2/frosini.pdf)|
+|[3476](https://oeis.org/A003476)|[http://user42.tuxfamily.org/dragon/index.html](http://user42.tuxfamily.org/dragon/index.html)|
+|[3477](https://oeis.org/A003477)|[http://user42.tuxfamily.org/dragon/index.html](http://user42.tuxfamily.org/dragon/index.html)|
+|[49140](https://oeis.org/A049140)|[http://ecs.inria.fr/services/structure?nbr=659](http://ecs.inria.fr/services/structure?nbr=659)|
+|[3480](https://oeis.org/A003480)|[http://puma.dimai.unifi.it/17_1_2/frosini.pdf](http://puma.dimai.unifi.it/17_1_2/frosini.pdf), [http://ecs.inria.fr/services/structure?nbr=418](http://ecs.inria.fr/services/structure?nbr=418)|
 |[3484](https://oeis.org/A003484)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
+|[3504](https://oeis.org/A003504)|[http://igd.univ-lyon1.fr/home/mizony/premiers.html](http://igd.univ-lyon1.fr/home/mizony/premiers.html), [http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Problems.html](http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Problems.html), [http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Solution5.3.html](http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Solution5.3.html)|
+|[94685](https://oeis.org/A094685)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
 |[3517](https://oeis.org/A003517)|[http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf](http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf)|
 |[3518](https://oeis.org/A003518)|[http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf](http://puma.dimai.unifi.it/21_2/9_Gudmundsson.pdf)|
 |[3520](https://oeis.org/A003520)|[http://ecs.inria.fr/services/structure?nbr=378](http://ecs.inria.fr/services/structure?nbr=378)|
-|[3558](https://oeis.org/A003558)|[http://harry-j-smith-memorial.com/download.html#XICalc](http://harry-j-smith-memorial.com/download.html#XICalc), [http://www.scipress.org/journals/forma/pdf/1804/18040249.pdf](http://www.scipress.org/journals/forma/pdf/1804/18040249.pdf), [http://math.coe.uga.edu/tme/issues/v05n1/hiltonPederson.pm.pdf](http://math.coe.uga.edu/tme/issues/v05n1/hiltonPederson.pm.pdf)|
+|[94692](https://oeis.org/A094692)|[http://people.math.jussieu.fr/~miw/articles/pdf/SurveyTrdceEllipt2006.pdf](http://people.math.jussieu.fr/~miw/articles/pdf/SurveyTrdceEllipt2006.pdf)|
+|[94706](https://oeis.org/A094706)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
+|[185720](https://oeis.org/A185720)|[http://www.rzuser.uni-heidelberg.de/~hb3/publ/survey.pdf](http://www.rzuser.uni-heidelberg.de/~hb3/publ/survey.pdf)|
+|[322254](https://oeis.org/A322254)|[http://www.dtic.mil/docs/citations/ADA222857](http://www.dtic.mil/docs/citations/ADA222857)|
+|[322256](https://oeis.org/A322256)|[http://www.dtic.mil/docs/citations/ADA222857](http://www.dtic.mil/docs/citations/ADA222857)|
+|[3558](https://oeis.org/A003558)|[http://harry-j-smith-memorial.com/download.html#XICalc](http://harry-j-smith-memorial.com/download.html#XICalc), [http://math.coe.uga.edu/tme/issues/v05n1/hiltonPederson.pm.pdf](http://math.coe.uga.edu/tme/issues/v05n1/hiltonPederson.pm.pdf)|
+|[140259](https://oeis.org/A140259)|[http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace](http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace)|
+|[140260](https://oeis.org/A140260)|[http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace](http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace)|
+|[140261](https://oeis.org/A140261)|[http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace](http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace)|
 |[3605](https://oeis.org/A003605)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[94783](https://oeis.org/A094783)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
+|[49287](https://oeis.org/A049287)|[http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
+|[49288](https://oeis.org/A049288)|[http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
+|[49289](https://oeis.org/A049289)|[http://www.math.tu-dresden.de/~poeschel/poePUBLICATIONSps/lispoepp.ps](http://www.math.tu-dresden.de/~poeschel/poePUBLICATIONSps/lispoepp.ps), [http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
+|[49290](https://oeis.org/A049290)|[http://com2mac.postech.ac.kr/resorce/Lecture_text.htm](http://com2mac.postech.ac.kr/resorce/Lecture_text.htm)|
+|[49297](https://oeis.org/A049297)|[http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
 |[3645](https://oeis.org/A003645)|[http://ecs.inria.fr/services/structure?nbr=652](http://ecs.inria.fr/services/structure?nbr=652)|
+|[49309](https://oeis.org/A049309)|[http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
+|[49310](https://oeis.org/A049310)|[http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf](http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf)|
 |[3661](https://oeis.org/A003661)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[3688](https://oeis.org/A003688)|[http://ecs.inria.fr/services/structure?nbr=419](http://ecs.inria.fr/services/structure?nbr=419)|
+|[94864](https://oeis.org/A094864)|[http://norcom.math.aau.dk/stacks.pdf](http://norcom.math.aau.dk/stacks.pdf)|
+|[49364](https://oeis.org/A049364)|[http://www.immortaltheory.com/NumberTheory/](http://www.immortaltheory.com/NumberTheory/)|
 |[3713](https://oeis.org/A003713)|[http://ecs.inria.fr/services/structure?nbr=298](http://ecs.inria.fr/services/structure?nbr=298), [http://ecs.inria.fr/services/structure?nbr=34](http://ecs.inria.fr/services/structure?nbr=34)|
+|[140395](https://oeis.org/A140395)|[http://bama.ua.edu/~clc/hindi/numbers_hindi.html](http://bama.ua.edu/~clc/hindi/numbers_hindi.html)|
+|[49384](https://oeis.org/A049384)|[http://www.die.uniroma1.it/strutture/labcem/](http://www.die.uniroma1.it/strutture/labcem/)|
 |[3729](https://oeis.org/A003729)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[49417](https://oeis.org/A049417)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[185959](https://oeis.org/A185959)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/index.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/index.html)|
+|[3824](https://oeis.org/A003824)|[http://cr.yp.to/sortedsums.html](http://cr.yp.to/sortedsums.html), [http://pobox.com/~djb/papers/sortedsums.dvi](http://pobox.com/~djb/papers/sortedsums.dvi), [http://cr.yp.to/sortedsums/two4.1000000](http://cr.yp.to/sortedsums/two4.1000000)|
+|[231535](https://oeis.org/A231535)|[http://www.ejtp.com/articles/ejtpv8i25p379.pdf](http://www.ejtp.com/articles/ejtpv8i25p379.pdf)|
+|[49507](https://oeis.org/A049507)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
 |[3849](https://oeis.org/A003849)|[http://prima.lnu.edu.ua/faculty/mechmat/Departments/MathVisnykLU/VLUsMath-84/VisnM-84-062.pdf](http://prima.lnu.edu.ua/faculty/mechmat/Departments/MathVisnykLU/VLUsMath-84/VisnM-84-062.pdf)|
+|[186080](https://oeis.org/A186080)|[http://users.skynet.be/worldofnumbers/cube.htm](http://users.skynet.be/worldofnumbers/cube.htm)|
+|[322617](https://oeis.org/A322617)|[http://math.ipm.ac.ir/~tayfeh-r/papersandpreprints/Williamson.pdf](http://math.ipm.ac.ir/~tayfeh-r/papersandpreprints/Williamson.pdf)|
+|[186101](https://oeis.org/A186101)|[http://cis.csuohio.edu/~somos/rfmc.pdf](http://cis.csuohio.edu/~somos/rfmc.pdf)|
+|[186111](https://oeis.org/A186111)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
 |[3945](https://oeis.org/A003945)|[http://ecs.inria.fr/services/structure?nbr=151](http://ecs.inria.fr/services/structure?nbr=151), [http://ecs.inria.fr/services/structure?nbr=304](http://ecs.inria.fr/services/structure?nbr=304)|
 |[3946](https://oeis.org/A003946)|[http://ecs.inria.fr/services/structure?nbr=305](http://ecs.inria.fr/services/structure?nbr=305)|
 |[3947](https://oeis.org/A003947)|[http://ecs.inria.fr/services/structure?nbr=306](http://ecs.inria.fr/services/structure?nbr=306)|
@@ -424,688 +910,26 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[3951](https://oeis.org/A003951)|[http://ecs.inria.fr/services/structure?nbr=310](http://ecs.inria.fr/services/structure?nbr=310)|
 |[3952](https://oeis.org/A003952)|[http://ecs.inria.fr/services/structure?nbr=311](http://ecs.inria.fr/services/structure?nbr=311)|
 |[3953](https://oeis.org/A003953)|[http://ecs.inria.fr/services/structure?nbr=312](http://ecs.inria.fr/services/structure?nbr=312)|
+|[231664](https://oeis.org/A231664)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[3954](https://oeis.org/A003954)|[http://ecs.inria.fr/services/structure?nbr=313](http://ecs.inria.fr/services/structure?nbr=313)|
 |[3957](https://oeis.org/A003957)|[http://www.nonlinearscience.com/paper.php?pid=0000000113](http://www.nonlinearscience.com/paper.php?pid=0000000113)|
-|[4003](https://oeis.org/A004003)|[http://dx.doi.org/10.1103/PhysRev.124.1664](http://dx.doi.org/10.1103/PhysRev.124.1664), [http://www.combinatorics.org/ojs/index.php/eljc/article/view/v22i1p66](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v22i1p66), [http://www.combinatorics.org/ojs/index.php/eljc/article/view/v4i1r29](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v4i1r29), [http://images.math.cnrs.fr/Le-modele-de-dimeres.html](http://images.math.cnrs.fr/Le-modele-de-dimeres.html), [http://www-math.mit.edu/~rstan/papers/comb.pdf](http://www-math.mit.edu/~rstan/papers/comb.pdf), [https://web.archive.org/web/20190411024906/http://www.mathematica-journal.com/issue/v9i3/polyominoes.html](https://web.archive.org/web/20190411024906/http://www.mathematica-journal.com/issue/v9i3/polyominoes.html)|
+|[231668](https://oeis.org/A231668)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[231672](https://oeis.org/A231672)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[231676](https://oeis.org/A231676)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[231680](https://oeis.org/A231680)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[231684](https://oeis.org/A231684)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[95149](https://oeis.org/A095149)|[http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf](http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf)|
+|[140662](https://oeis.org/A140662)|[http://www.math.yorku.ca/Who/Faculty/Rensburg/Preprints/slits.pdf](http://www.math.yorku.ca/Who/Faculty/Rensburg/Preprints/slits.pdf)|
+|[186181](https://oeis.org/A186181)|[http://cis.csuohio.edu/~somos/rfmc.pdf](http://cis.csuohio.edu/~somos/rfmc.pdf)|
+|[140688](https://oeis.org/A140688)|[http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm)|
+|[186187](https://oeis.org/A186187)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
 |[4111](https://oeis.org/A004111)|[http://ecs.inria.fr/services/structure?nbr=56](http://ecs.inria.fr/services/structure?nbr=56)|
 |[4116](https://oeis.org/A004116)|[http://ecs.inria.fr/services/structure?nbr=420](http://ecs.inria.fr/services/structure?nbr=420)|
-|[4147](https://oeis.org/A004147)|[http://grail.cba.csuohio.edu/~somos/busy.html](http://grail.cba.csuohio.edu/~somos/busy.html), [http://grail.cba.csuohio.edu/~somos/bb.html](http://grail.cba.csuohio.edu/~somos/bb.html)|
+|[231846](https://oeis.org/A231846)|[http://sophia.dtp.fmph.uniba.sk/~fecko/referaty/regensburg_2011.pdf](http://sophia.dtp.fmph.uniba.sk/~fecko/referaty/regensburg_2011.pdf)|
 |[4148](https://oeis.org/A004148)|[http://ecs.inria.fr/services/structure?nbr=421](http://ecs.inria.fr/services/structure?nbr=421)|
-|[4159](https://oeis.org/A004159)|[http://www.dmg.tuwien.ac.at/drmota/dmr6.pdf](http://www.dmg.tuwien.ac.at/drmota/dmr6.pdf)|
-|[4164](https://oeis.org/A004164)|[http://www.dmg.tuwien.ac.at/drmota/dmr6.pdf](http://www.dmg.tuwien.ac.at/drmota/dmr6.pdf)|
-|[4166](https://oeis.org/A004166)|[http://web.archive.org/web/20090729113659/http://www.paulcooijmans.com:80/others/intcont2003.html](http://web.archive.org/web/20090729113659/http://www.paulcooijmans.com:80/others/intcont2003.html)|
+|[95370](https://oeis.org/A095370)|[http://www.h4.dion.ne.jp/~rep](http://www.h4.dion.ne.jp/~rep)|
 |[4253](https://oeis.org/A004253)|[http://ecs.inria.fr/services/structure?nbr=422](http://ecs.inria.fr/services/structure?nbr=422), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
 |[4273](https://oeis.org/A004273)|[http://glooscap.cs.dal.ca:8087/advancedCalc](http://glooscap.cs.dal.ca:8087/advancedCalc)|
-|[4490](https://oeis.org/A004490)|[http://www.math.jussieu.fr/~miw/articles/pdf/LegacyRamanujan2013Text.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/LegacyRamanujan2013Text.pdf)|
-|[4523](https://oeis.org/A004523)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[4524](https://oeis.org/A004524)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[4601](https://oeis.org/A004601)|[http://www.befria.nu/elias/pi/](http://www.befria.nu/elias/pi/)|
-|[4603](https://oeis.org/A004603)|[http://www.befria.nu/elias/pi/lookpi.html](http://www.befria.nu/elias/pi/lookpi.html)|
-|[4607](https://oeis.org/A004607)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[4718](https://oeis.org/A004718)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
-|[4741](https://oeis.org/A004741)|[http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf](http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf)|
-|[4771](https://oeis.org/A004771)|[http://ecs.inria.fr/services/structure?nbr=962](http://ecs.inria.fr/services/structure?nbr=962)|
-|[5036](https://oeis.org/A005036)|[http://com2mac.postech.ac.kr/papers/2001/01-06.pdf](http://com2mac.postech.ac.kr/papers/2001/01-06.pdf)|
-|[5040](https://oeis.org/A005040)|[http://com2mac.postech.ac.kr/](http://com2mac.postech.ac.kr/)|
-|[5043](https://oeis.org/A005043)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf), [http://ecs.inria.fr/services/structure?nbr=423](http://ecs.inria.fr/services/structure?nbr=423)|
-|[5044](https://oeis.org/A005044)|[http://www.risc.uni-linz.ac.at/research/combinat/risc/publications/#ppaule](http://www.risc.uni-linz.ac.at/research/combinat/risc/publications/#ppaule)|
-|[5053](https://oeis.org/A005053)|[http://ecs.inria.fr/services/structure?nbr=883](http://ecs.inria.fr/services/structure?nbr=883)|
-|[5054](https://oeis.org/A005054)|[http://ecs.inria.fr/services/structure?nbr=458](http://ecs.inria.fr/services/structure?nbr=458)|
-|[5100](https://oeis.org/A005100)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
-|[5101](https://oeis.org/A005101)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
-|[5118](https://oeis.org/A005118)|[http://www-math.mit.edu/~rstan/papers/comb.pdf](http://www-math.mit.edu/~rstan/papers/comb.pdf)|
-|[5126](https://oeis.org/A005126)|[http://ecs.inria.fr/services/structure?nbr=921](http://ecs.inria.fr/services/structure?nbr=921)|
-|[5153](https://oeis.org/A005153)|[http://www.currentscience.ac.in/Downloads/article_id_017_06_0179_0180_0.pdf](http://www.currentscience.ac.in/Downloads/article_id_017_06_0179_0180_0.pdf)|
-|[5159](https://oeis.org/A005159)|[http://repository.wit.ie/1693/](http://repository.wit.ie/1693/)|
-|[5180](https://oeis.org/A005180)|[http://for.mat.bham.ac.uk/atlas/html](http://for.mat.bham.ac.uk/atlas/html)|
-|[5187](https://oeis.org/A005187)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[5188](https://oeis.org/A005188)|[http://everything2.net/index.pl?node_id=1407017&amp](http://everything2.net/index.pl?node_id=1407017&amp), [http://everything2.net/index.pl?node_id=1525466&amp](http://everything2.net/index.pl?node_id=1525466&amp)|
-|[5231](https://oeis.org/A005231)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
-|[5245](https://oeis.org/A005245)|[http://expmath.lumii.lv/wiki/index.php/Special:Complexity](http://expmath.lumii.lv/wiki/index.php/Special:Complexity), [http://hdl.handle.net/10515/sy5sj1b71](http://hdl.handle.net/10515/sy5sj1b71)|
-|[5251](https://oeis.org/A005251)|[http://ecs.inria.fr/services/structure?nbr=98](http://ecs.inria.fr/services/structure?nbr=98)|
-|[5252](https://oeis.org/A005252)|[http://ecs.inria.fr/services/structure?nbr=424](http://ecs.inria.fr/services/structure?nbr=424)|
-|[5253](https://oeis.org/A005253)|[http://ecs.inria.fr/services/structure?nbr=425](http://ecs.inria.fr/services/structure?nbr=425)|
-|[5259](https://oeis.org/A005259)|[http://www.math.jussieu.fr/~allouche/bibliorecente.html](http://www.math.jussieu.fr/~allouche/bibliorecente.html)|
-|[5271](https://oeis.org/A005271)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
-|[5314](https://oeis.org/A005314)|[http://ecs.inria.fr/services/structure?nbr=426](http://ecs.inria.fr/services/structure?nbr=426)|
-|[5390](https://oeis.org/A005390)|[http://mathematik.htwm.de/software/gedit/index.html.en](http://mathematik.htwm.de/software/gedit/index.html.en)|
-|[5408](https://oeis.org/A005408)|[http://ecs.inria.fr/services/structure?nbr=935](http://ecs.inria.fr/services/structure?nbr=935), [http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
-|[5422](https://oeis.org/A005422)|[http://www.h4.dion.ne.jp/~rep/](http://www.h4.dion.ne.jp/~rep/)|
-|[5432](https://oeis.org/A005432)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
-|[5442](https://oeis.org/A005442)|[http://ecs.inria.fr/services/structure?nbr=494](http://ecs.inria.fr/services/structure?nbr=494)|
-|[5443](https://oeis.org/A005443)|[http://ecs.inria.fr/services/structure?nbr=511](http://ecs.inria.fr/services/structure?nbr=511)|
-|[5450](https://oeis.org/A005450)|[http://users.forthnet.gr/ath/asin/proandsol.htm](http://users.forthnet.gr/ath/asin/proandsol.htm)|
-|[5451](https://oeis.org/A005451)|[http://users.forthnet.gr/ath/asin/proandsol.htm](http://users.forthnet.gr/ath/asin/proandsol.htm)|
-|[5471](https://oeis.org/A005471)|[https://doi:10.2969/jmsj/02630447](https://doi:10.2969/jmsj/02630447)|
-|[5487](https://oeis.org/A005487)|[http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi](http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi), [http://www-math.mit.edu/~rstan/papers/od.ps](http://www-math.mit.edu/~rstan/papers/od.ps)|
-|[5493](https://oeis.org/A005493)|[http://ecs.inria.fr/services/structure?nbr=152](http://ecs.inria.fr/services/structure?nbr=152)|
-|[5536](https://oeis.org/A005536)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[5563](https://oeis.org/A005563)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[5568](https://oeis.org/A005568)|[http://webpages.ursinus.edu/nscoville/DMFIntegersSubmission.pdf](http://webpages.ursinus.edu/nscoville/DMFIntegersSubmission.pdf)|
-|[5572](https://oeis.org/A005572)|[http://ecs.inria.fr/services/structure?nbr=153](http://ecs.inria.fr/services/structure?nbr=153)|
-|[5573](https://oeis.org/A005573)|[http://repository.wit.ie/1693](http://repository.wit.ie/1693)|
-|[5581](https://oeis.org/A005581)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[5583](https://oeis.org/A005583)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[5584](https://oeis.org/A005584)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[5594](https://oeis.org/A005594)|[http://ecs.inria.fr/services/structure?nbr=107](http://ecs.inria.fr/services/structure?nbr=107), [http://ecs.inria.fr/services/structure?nbr=111](http://ecs.inria.fr/services/structure?nbr=111)|
-|[5602](https://oeis.org/A005602)|[http://ksc9.th.com/warut/cunningham.html](http://ksc9.th.com/warut/cunningham.html)|
-|[5649](https://oeis.org/A005649)|[http://ecs.inria.fr/services/structure?nbr=154](http://ecs.inria.fr/services/structure?nbr=154)|
-|[5652](https://oeis.org/A005652)|[http://www-math.mit.edu/~tchow/add.pdf](http://www-math.mit.edu/~tchow/add.pdf)|
-|[5653](https://oeis.org/A005653)|[http://www-math.mit.edu/~tchow/add.pdf](http://www-math.mit.edu/~tchow/add.pdf)|
-|[5668](https://oeis.org/A005668)|[http://ecs.inria.fr/services/structure?nbr=427](http://ecs.inria.fr/services/structure?nbr=427)|
-|[5704](https://oeis.org/A005704)|[http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf](http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf)|
-|[5705](https://oeis.org/A005705)|[http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf](http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf)|
-|[5706](https://oeis.org/A005706)|[http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf](http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf)|
-|[5708](https://oeis.org/A005708)|[http://ecs.inria.fr/services/structure?nbr=379](http://ecs.inria.fr/services/structure?nbr=379)|
-|[5709](https://oeis.org/A005709)|[http://ecs.inria.fr/services/structure?nbr=380](http://ecs.inria.fr/services/structure?nbr=380)|
-|[5710](https://oeis.org/A005710)|[http://ecs.inria.fr/services/structure?nbr=381](http://ecs.inria.fr/services/structure?nbr=381)|
-|[5711](https://oeis.org/A005711)|[http://ecs.inria.fr/services/structure?nbr=382](http://ecs.inria.fr/services/structure?nbr=382)|
-|[5750](https://oeis.org/A005750)|[http://ecs.inria.fr/services/structure?nbr=428](http://ecs.inria.fr/services/structure?nbr=428)|
-|[5753](https://oeis.org/A005753)|[http://ecs.inria.fr/services/structure?nbr=429](http://ecs.inria.fr/services/structure?nbr=429)|
-|[5754](https://oeis.org/A005754)|[http://ecs.inria.fr/services/structure?nbr=430](http://ecs.inria.fr/services/structure?nbr=430)|
-|[5773](https://oeis.org/A005773)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/mansour_shattuck.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/mansour_shattuck.pdf), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[5807](https://oeis.org/A005807)|[http://ecs.inria.fr/services/structure?nbr=431](http://ecs.inria.fr/services/structure?nbr=431)|
-|[5811](https://oeis.org/A005811)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
-|[5820](https://oeis.org/A005820)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
-|[5828](https://oeis.org/A005828)|[http://www-maths.swan.ac.uk/pgrads/bb/project/node28.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node28.html)|
-|[5835](https://oeis.org/A005835)|[http://www-maths.swan.ac.uk/pgrads/bb/project/node36.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node36.html)|
-|[5836](https://oeis.org/A005836)|[http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi](http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi), [http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
-|[5864](https://oeis.org/A005864)|[http://saturn.hut.fi/~pat/](http://saturn.hut.fi/~pat/)|
-|[5900](https://oeis.org/A005900)|[http://members.fortunecity.fr/polynexus/index.html](http://members.fortunecity.fr/polynexus/index.html)|
-|[5942](https://oeis.org/A005942)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[5986](https://oeis.org/A005986)|[http://www-math.mit.edu/~rstan//pubs/pubfiles/12-2.pdf](http://www-math.mit.edu/~rstan//pubs/pubfiles/12-2.pdf)|
-|[5987](https://oeis.org/A005987)|[http://www-math.mit.edu/~rstan/pubs/pubfiles/12-2.pdf](http://www-math.mit.edu/~rstan/pubs/pubfiles/12-2.pdf)|
-|[6012](https://oeis.org/A006012)|[http://ecs.inria.fr/services/structure?nbr=155](http://ecs.inria.fr/services/structure?nbr=155)|
-|[6013](https://oeis.org/A006013)|[http://ecs.inria.fr/services/structure?nbr=432](http://ecs.inria.fr/services/structure?nbr=432), [http://grail.cba.csuohio.edu/~somos/nwic.html](http://grail.cba.csuohio.edu/~somos/nwic.html)|
-|[6037](https://oeis.org/A006037)|[http://bib.tiera.ru/ShiZ/math/other/Handbook%20Of%20Number%20Theory%20II%20-%20J.%20Sandor](http://bib.tiera.ru/ShiZ/math/other/Handbook%20Of%20Number%20Theory%20II%20-%20J.%20Sandor)|
-|[6053](https://oeis.org/A006053)|[http://ecs.inria.fr/services/structure?nbr=433](http://ecs.inria.fr/services/structure?nbr=433)|
-|[6054](https://oeis.org/A006054)|[http://ecs.inria.fr/services/structure?nbr=434](http://ecs.inria.fr/services/structure?nbr=434)|
-|[6066](https://oeis.org/A006066)|[http://www004.upp.so-net.ne.jp/s_honma/triangle/triangle2.htm](http://www004.upp.so-net.ne.jp/s_honma/triangle/triangle2.htm)|
-|[6125](https://oeis.org/A006125)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[6127](https://oeis.org/A006127)|[http://ecs.inria.fr/services/structure?nbr=435](http://ecs.inria.fr/services/structure?nbr=435)|
-|[6130](https://oeis.org/A006130)|[http://ecs.inria.fr/services/structure?nbr=436](http://ecs.inria.fr/services/structure?nbr=436)|
-|[6131](https://oeis.org/A006131)|[http://ecs.inria.fr/services/structure?nbr=437](http://ecs.inria.fr/services/structure?nbr=437)|
-|[6152](https://oeis.org/A006152)|[http://ecs.inria.fr/services/structure?nbr=156](http://ecs.inria.fr/services/structure?nbr=156)|
-|[6153](https://oeis.org/A006153)|[http://ecs.inria.fr/services/structure?nbr=110](http://ecs.inria.fr/services/structure?nbr=110)|
-|[6155](https://oeis.org/A006155)|[http://ecs.inria.fr/services/structure?nbr=157](http://ecs.inria.fr/services/structure?nbr=157)|
-|[6165](https://oeis.org/A006165)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[6166](https://oeis.org/A006166)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[6190](https://oeis.org/A006190)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf), [http://ecs.inria.fr/services/structure?nbr=158](http://ecs.inria.fr/services/structure?nbr=158)|
-|[6247](https://oeis.org/A006247)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[6318](https://oeis.org/A006318)|[http://oai.cwi.nl/oai/asset/21313/21313A.pdf](http://oai.cwi.nl/oai/asset/21313/21313A.pdf), [http://ecs.inria.fr/services/structure?nbr=159](http://ecs.inria.fr/services/structure?nbr=159), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[6345](https://oeis.org/A006345)|[http://www2.ims.nus.edu.sg/preprints/2007-19.pdf](http://www2.ims.nus.edu.sg/preprints/2007-19.pdf)|
-|[6355](https://oeis.org/A006355)|[http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf), [http://ecs.inria.fr/services/structure?nbr=898](http://ecs.inria.fr/services/structure?nbr=898)|
-|[6356](https://oeis.org/A006356)|[http://ecs.inria.fr/services/structure?nbr=451](http://ecs.inria.fr/services/structure?nbr=451)|
-|[6505](https://oeis.org/A006505)|[http://ecs.inria.fr/services/structure?nbr=102](http://ecs.inria.fr/services/structure?nbr=102)|
-|[6516](https://oeis.org/A006516)|[http://faculty.missouri.edu/~bankswd/papers/2008_Descartes_Final.pdf](http://faculty.missouri.edu/~bankswd/papers/2008_Descartes_Final.pdf)|
-|[6518](https://oeis.org/A006518)|[http://www-centre.mpce.mq.edu.au/alfpapers/a107.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a107.pdf)|
-|[6534](https://oeis.org/A006534)|[http://www.g4g4.com/contentsmmpp.html](http://www.g4g4.com/contentsmmpp.html)|
-|[6600](https://oeis.org/A006600)|[http://math.mit.edu/~poonen/papers/ngon.m](http://math.mit.edu/~poonen/papers/ngon.m)|
-|[6632](https://oeis.org/A006632)|[http://ecs.inria.fr/services/structure?nbr=438](http://ecs.inria.fr/services/structure?nbr=438)|
-|[6677](https://oeis.org/A006677)|[http://ecs.inria.fr/services/structure?nbr=160](http://ecs.inria.fr/services/structure?nbr=160)|
-|[6689](https://oeis.org/A006689)|[https://dmg.tuwien.ac.at/bgitten/Theses/sedlitz.pdf](https://dmg.tuwien.ac.at/bgitten/Theses/sedlitz.pdf)|
-|[6716](https://oeis.org/A006716)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
-|[6720](https://oeis.org/A006720)|[http://grail.eecs.csuohio.edu/~somos/somos6.html](http://grail.eecs.csuohio.edu/~somos/somos6.html), [http://grail.eecs.csuohio.edu/~somos/wxyz.gp](http://grail.eecs.csuohio.edu/~somos/wxyz.gp)|
-|[6721](https://oeis.org/A006721)|[http://grail.eecs.csuohio.edu/~somos/somos6.html](http://grail.eecs.csuohio.edu/~somos/somos6.html)|
-|[6722](https://oeis.org/A006722)|[http://grail.eecs.csuohio.edu/~somos/somos6.html](http://grail.eecs.csuohio.edu/~somos/somos6.html)|
-|[6723](https://oeis.org/A006723)|[http://grail.eecs.csuohio.edu/~somos/somos7.html](http://grail.eecs.csuohio.edu/~somos/somos7.html)|
-|[6752](https://oeis.org/A006752)|[http://www.gutenberg.org/etext/812](http://www.gutenberg.org/etext/812), [https://www.gutenberg.org/ebooks/682](https://www.gutenberg.org/ebooks/682)|
-|[6753](https://oeis.org/A006753)|[http://everything2.net/index.pl?node_id=1104442&amp](http://everything2.net/index.pl?node_id=1104442&amp)|
-|[6769](https://oeis.org/A006769)|[http://grail.eecs.csuohio.edu/~somos/nwic.html](http://grail.eecs.csuohio.edu/~somos/nwic.html)|
-|[6944](https://oeis.org/A006944)|[http://www.gpo.gov/fdsys/pkg/GPO-STYLEMANUAL-2008/pdf/GPO-STYLEMANUAL-2008.pdf](http://www.gpo.gov/fdsys/pkg/GPO-STYLEMANUAL-2008/pdf/GPO-STYLEMANUAL-2008.pdf)|
-|[6951](https://oeis.org/A006951)|[http://ecs.inria.fr/services/structure?nbr=161](http://ecs.inria.fr/services/structure?nbr=161)|
-|[6952](https://oeis.org/A006952)|[http://ecs.inria.fr/services/structure?nbr=162](http://ecs.inria.fr/services/structure?nbr=162)|
-|[6963](https://oeis.org/A006963)|[http://ecs.inria.fr/services/structure?nbr=109](http://ecs.inria.fr/services/structure?nbr=109)|
-|[6964](https://oeis.org/A006964)|[http://ecs.inria.fr/services/structure?nbr=439](http://ecs.inria.fr/services/structure?nbr=439)|
-|[6966](https://oeis.org/A006966)|[http://www-ifm.math.uni-hannover.de/forschung/preprintsifm.html](http://www-ifm.math.uni-hannover.de/forschung/preprintsifm.html)|
-|[6982](https://oeis.org/A006982)|[http://www-ifm.math.uni-hannover.de/forschung/preprintsifm.html](http://www-ifm.math.uni-hannover.de/forschung/preprintsifm.html), [http://www-ifm.math.uni-hannover.de/html/preprints.phtml](http://www-ifm.math.uni-hannover.de/html/preprints.phtml)|
-|[6995](https://oeis.org/A006995)|[http://faculty.missouri.edu/~bankswd/papers/2006_palindromes_iii.pdf](http://faculty.missouri.edu/~bankswd/papers/2006_palindromes_iii.pdf)|
-|[6997](https://oeis.org/A006997)|[http://www-math.mit.edu/~rstan/papers/od.ps](http://www-math.mit.edu/~rstan/papers/od.ps)|
-|[7006](https://oeis.org/A007006)|[http://www.labri.u-bordeaux.fr/~loeb/nov94](http://www.labri.u-bordeaux.fr/~loeb/nov94)|
-|[7009](https://oeis.org/A007009)|[http://www.labri.u-bordeaux.fr/~loeb/vote.html](http://www.labri.u-bordeaux.fr/~loeb/vote.html)|
-|[7010](https://oeis.org/A007010)|[http://www.labri.u-bordeaux.fr/~loeb/vote.html](http://www.labri.u-bordeaux.fr/~loeb/vote.html)|
-|[7011](https://oeis.org/A007011)|[http://www.chalcedon.demon.co.uk/rgep/p41.ps](http://www.chalcedon.demon.co.uk/rgep/p41.ps)|
-|[7047](https://oeis.org/A007047)|[http://www.math.uakron.edu/~sf34/stello_both.pdf](http://www.math.uakron.edu/~sf34/stello_both.pdf)|
-|[7051](https://oeis.org/A007051)|[http://dx.doi.org/10.1364/OE.22.004499](http://dx.doi.org/10.1364/OE.22.004499), [http://ecs.inria.fr/services/structure?nbr=163](http://ecs.inria.fr/services/structure?nbr=163), [http://ecs.inria.fr/services/structure?nbr=454](http://ecs.inria.fr/services/structure?nbr=454)|
-|[7052](https://oeis.org/A007052)|[http://ecs.inria.fr/services/structure?nbr=164](http://ecs.inria.fr/services/structure?nbr=164)|
-|[7070](https://oeis.org/A007070)|[http://ecs.inria.fr/services/structure?nbr=440](http://ecs.inria.fr/services/structure?nbr=440)|
-|[7097](https://oeis.org/A007097)|[https://www.longeri.org/prime/nature.html](https://www.longeri.org/prime/nature.html)|
-|[7113](https://oeis.org/A007113)|[http://ecs.inria.fr/services/structure?nbr=75](http://ecs.inria.fr/services/structure?nbr=75)|
-|[7138](https://oeis.org/A007138)|[https://gmplib.org/~tege/fac10m.txt](https://gmplib.org/~tege/fac10m.txt), [http://www.h4.dion.ne.jp/~rep/Repunit100.txt](http://www.h4.dion.ne.jp/~rep/Repunit100.txt)|
-|[7238](https://oeis.org/A007238)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
-|[7290](https://oeis.org/A007290)|[http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf)|
-|[7297](https://oeis.org/A007297)|[http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf](http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf)|
-|[7302](https://oeis.org/A007302)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
-|[7305](https://oeis.org/A007305)|[http://www-math.ias.tokushima-u.ac.jp/journal/2013/Katayama47.pdf](http://www-math.ias.tokushima-u.ac.jp/journal/2013/Katayama47.pdf)|
-|[7317](https://oeis.org/A007317)|[http://www.tfh-berlin.de/~grude/PapRekursion.pdf](http://www.tfh-berlin.de/~grude/PapRekursion.pdf), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://ecs.inria.fr/services/structure?nbr=124](http://ecs.inria.fr/services/structure?nbr=124), [http://www-math.mit.edu/~rstan/papers/hextrees.pdf](http://www-math.mit.edu/~rstan/papers/hextrees.pdf)|
-|[7321](https://oeis.org/A007321)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
-|[7357](https://oeis.org/A007357)|[http://amicable.adsl.dk/aliquot/i1/i1.txt](http://amicable.adsl.dk/aliquot/i1/i1.txt)|
-|[7363](https://oeis.org/A007363)|[http://www.labri.u-bordeaux.fr/~loeb/vote.html](http://www.labri.u-bordeaux.fr/~loeb/vote.html)|
-|[7364](https://oeis.org/A007364)|[http://www.labri.u-bordeaux.fr/~loeb/vote.html](http://www.labri.u-bordeaux.fr/~loeb/vote.html)|
-|[7378](https://oeis.org/A007378)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[7400](https://oeis.org/A007400)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
-|[7476](https://oeis.org/A007476)|[http://lsze.cosam.calpoly.edu/oeis70.pdf](http://lsze.cosam.calpoly.edu/oeis70.pdf)|
-|[7477](https://oeis.org/A007477)|[http://ecs.inria.fr/services/structure?nbr=441](http://ecs.inria.fr/services/structure?nbr=441)|
-|[7482](https://oeis.org/A007482)|[http://ecs.inria.fr/services/structure?nbr=442](http://ecs.inria.fr/services/structure?nbr=442)|
-|[7494](https://oeis.org/A007494)|[http://ecs.inria.fr/services/structure?nbr=1002](http://ecs.inria.fr/services/structure?nbr=1002)|
-|[7519](https://oeis.org/A007519)|[http://math.mit.edu/~brubaker/781hw5sol.pdf](http://math.mit.edu/~brubaker/781hw5sol.pdf)|
-|[7539](https://oeis.org/A007539)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
-|[7550](https://oeis.org/A007550)|[http://ecs.inria.fr/services/structure?nbr=166](http://ecs.inria.fr/services/structure?nbr=166)|
-|[7556](https://oeis.org/A007556)|[http://ecs.inria.fr/services/structure?nbr=290](http://ecs.inria.fr/services/structure?nbr=290)|
-|[7563](https://oeis.org/A007563)|[http://ecs.inria.fr/services/structure?nbr=167](http://ecs.inria.fr/services/structure?nbr=167)|
-|[7564](https://oeis.org/A007564)|[http://ecs.inria.fr/services/structure?nbr=443](http://ecs.inria.fr/services/structure?nbr=443), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[7582](https://oeis.org/A007582)|[http://ecs.inria.fr/services/structure?nbr=168](http://ecs.inria.fr/services/structure?nbr=168)|
-|[7583](https://oeis.org/A007583)|[http://ecs.inria.fr/services/structure?nbr=893](http://ecs.inria.fr/services/structure?nbr=893)|
-|[7600](https://oeis.org/A007600)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
-|[7647](https://oeis.org/A007647)|[http://www.primzahlenarchiv.de/primes10.html](http://www.primzahlenarchiv.de/primes10.html)|
-|[7665](https://oeis.org/A007665)|[http://www.rialto.k12.ca.us/frisbie/mathfair/hanoilegend.html](http://www.rialto.k12.ca.us/frisbie/mathfair/hanoilegend.html)|
-|[7689](https://oeis.org/A007689)|[http://ecs.inria.fr/services/structure?nbr=169](http://ecs.inria.fr/services/structure?nbr=169)|
-|[7691](https://oeis.org/A007691)|[http://www-maths.swan.ac.uk/pgrads/bb/project/node26.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node26.html)|
-|[7721](https://oeis.org/A007721)|[http://atm2003.eurocontrol.fr/past-seminars/5th-seminar-budapest-hungary-june-2003/papers/paper_033/view](http://atm2003.eurocontrol.fr/past-seminars/5th-seminar-budapest-hungary-june-2003/papers/paper_033/view)|
-|[7814](https://oeis.org/A007814)|[http://jipam.vu.edu.au/article.php?sid=498](http://jipam.vu.edu.au/article.php?sid=498)|
-|[7840](https://oeis.org/A007840)|[http://ecs.inria.fr/services/structure?nbr=122](http://ecs.inria.fr/services/structure?nbr=122)|
-|[7901](https://oeis.org/A007901)|[http://www.7427466391.com.](http://www.7427466391.com.), [http://www.7427466391.com/](http://www.7427466391.com/)|
-|[7908](https://oeis.org/A007908)|[http://99.121.249.54:1200](http://99.121.249.54:1200), [http://99.121.249.54:1200](http://99.121.249.54:1200)|
-|[7909](https://oeis.org/A007909)|[http://ecs.inria.fr/services/structure?nbr=444](http://ecs.inria.fr/services/structure?nbr=444)|
-|[7921](https://oeis.org/A007921)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
-|[7923](https://oeis.org/A007923)|[http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf](http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf), [http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
-|[7924](https://oeis.org/A007924)|[http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf](http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf), [http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf), [http://www.gallup.unm.edu/~smarandache/Kashihara.pdf](http://www.gallup.unm.edu/~smarandache/Kashihara.pdf)|
-|[7925](https://oeis.org/A007925)|[http://harry-j-smith-memorial.com/Display/xyyx.html](http://harry-j-smith-memorial.com/Display/xyyx.html), [http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
-|[7931](https://oeis.org/A007931)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
-|[7934](https://oeis.org/A007934)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
-|[7944](https://oeis.org/A007944)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf), [http://www.gallup.unm.edu/~smarandache/Kashihara.pdf](http://www.gallup.unm.edu/~smarandache/Kashihara.pdf)|
-|[7948](https://oeis.org/A007948)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf), [http://www.gallup.unm.edu/~smarandache/Bottomley-Sm-Mult-Functions.htm](http://www.gallup.unm.edu/~smarandache/Bottomley-Sm-Mult-Functions.htm)|
-|[7949](https://oeis.org/A007949)|[http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf](http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf), [http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
-|[7951](https://oeis.org/A007951)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
-|[7962](https://oeis.org/A007962)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf), [http://www.gallup.unm.edu/~smarandache/Kashihara.pdf](http://www.gallup.unm.edu/~smarandache/Kashihara.pdf)|
-|[7964](https://oeis.org/A007964)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
-|[7992](https://oeis.org/A007992)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[8277](https://oeis.org/A008277)|[http://oai.cwi.nl/oai/asset/2304/2304A.pdf](http://oai.cwi.nl/oai/asset/2304/2304A.pdf)|
-|[8288](https://oeis.org/A008288)|[https://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n4/Ensayos_Meijer2010_PI_.3r.pdf](https://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n4/Ensayos_Meijer2010_PI_.3r.pdf), [http://www.fq.mat.ca/43-2.html](http://www.fq.mat.ca/43-2.html), [http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf](http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf)|
-|[8290](https://oeis.org/A008290)|[http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf](http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf)|
-|[8292](https://oeis.org/A008292)|[http://binomial.csuhayward.edu/Euler.html](http://binomial.csuhayward.edu/Euler.html)|
-|[8297](https://oeis.org/A008297)|[http://puma.dimai.unifi.it/23_2/mansour_schork.pdf](http://puma.dimai.unifi.it/23_2/mansour_schork.pdf)|
-|[8321](https://oeis.org/A008321)|[http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf](http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf), [http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf](http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf)|
-|[8322](https://oeis.org/A008322)|[http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf](http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf)|
-|[8346](https://oeis.org/A008346)|[http://ecs.inria.fr/services/structure?nbr=445](http://ecs.inria.fr/services/structure?nbr=445)|
-|[8404](https://oeis.org/A008404)|[http://www.costasarrays.org/costasrefs/sort_date.html#1984](http://www.costasarrays.org/costasrefs/sort_date.html#1984), [http://www.costasarrays.org/Enumeration27TalkWeb.pdf](http://www.costasarrays.org/Enumeration27TalkWeb.pdf)|
-|[8407](https://oeis.org/A008407)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes), [http://math.mit.edu/~primegaps](http://math.mit.edu/~primegaps)|
-|[8466](https://oeis.org/A008466)|[http://ecs.inria.fr/services/structure?nbr=1020](http://ecs.inria.fr/services/structure?nbr=1020)|
-|[8483](https://oeis.org/A008483)|[http://ecs.inria.fr/services/structure?nbr=446](http://ecs.inria.fr/services/structure?nbr=446)|
-|[8574](https://oeis.org/A008574)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[8581](https://oeis.org/A008581)|[http://ecs.inria.fr/services/structure?nbr=249](http://ecs.inria.fr/services/structure?nbr=249)|
-|[8582](https://oeis.org/A008582)|[http://ecs.inria.fr/services/structure?nbr=252](http://ecs.inria.fr/services/structure?nbr=252)|
-|[8583](https://oeis.org/A008583)|[http://ecs.inria.fr/services/structure?nbr=250](http://ecs.inria.fr/services/structure?nbr=250)|
-|[8584](https://oeis.org/A008584)|[http://ecs.inria.fr/services/structure?nbr=248](http://ecs.inria.fr/services/structure?nbr=248)|
-|[8585](https://oeis.org/A008585)|[http://ecs.inria.fr/services/structure?nbr=315](http://ecs.inria.fr/services/structure?nbr=315)|
-|[8586](https://oeis.org/A008586)|[http://ecs.inria.fr/services/structure?nbr=316](http://ecs.inria.fr/services/structure?nbr=316)|
-|[8587](https://oeis.org/A008587)|[http://ecs.inria.fr/services/structure?nbr=317](http://ecs.inria.fr/services/structure?nbr=317)|
-|[8588](https://oeis.org/A008588)|[http://ecs.inria.fr/services/structure?nbr=318](http://ecs.inria.fr/services/structure?nbr=318)|
-|[8589](https://oeis.org/A008589)|[http://ecs.inria.fr/services/structure?nbr=319](http://ecs.inria.fr/services/structure?nbr=319)|
-|[8590](https://oeis.org/A008590)|[http://ecs.inria.fr/services/structure?nbr=320](http://ecs.inria.fr/services/structure?nbr=320)|
-|[8591](https://oeis.org/A008591)|[http://cdli.ucla.edu/search/archival_view.php?ObjectID=P254585](http://cdli.ucla.edu/search/archival_view.php?ObjectID=P254585), [http://ecs.inria.fr/services/structure?nbr=321](http://ecs.inria.fr/services/structure?nbr=321)|
-|[8592](https://oeis.org/A008592)|[http://ecs.inria.fr/services/structure?nbr=322](http://ecs.inria.fr/services/structure?nbr=322)|
-|[8593](https://oeis.org/A008593)|[http://ecs.inria.fr/services/structure?nbr=323](http://ecs.inria.fr/services/structure?nbr=323)|
-|[8594](https://oeis.org/A008594)|[http://ecs.inria.fr/services/structure?nbr=324](http://ecs.inria.fr/services/structure?nbr=324)|
-|[8595](https://oeis.org/A008595)|[http://ecs.inria.fr/services/structure?nbr=325](http://ecs.inria.fr/services/structure?nbr=325)|
-|[8596](https://oeis.org/A008596)|[http://ecs.inria.fr/services/structure?nbr=326](http://ecs.inria.fr/services/structure?nbr=326)|
-|[8597](https://oeis.org/A008597)|[http://ecs.inria.fr/services/structure?nbr=327](http://ecs.inria.fr/services/structure?nbr=327)|
-|[8598](https://oeis.org/A008598)|[http://ecs.inria.fr/services/structure?nbr=328](http://ecs.inria.fr/services/structure?nbr=328)|
-|[8599](https://oeis.org/A008599)|[http://ecs.inria.fr/services/structure?nbr=329](http://ecs.inria.fr/services/structure?nbr=329)|
-|[8600](https://oeis.org/A008600)|[http://ecs.inria.fr/services/structure?nbr=330](http://ecs.inria.fr/services/structure?nbr=330)|
-|[8601](https://oeis.org/A008601)|[http://ecs.inria.fr/services/structure?nbr=331](http://ecs.inria.fr/services/structure?nbr=331)|
-|[8602](https://oeis.org/A008602)|[http://ecs.inria.fr/services/structure?nbr=332](http://ecs.inria.fr/services/structure?nbr=332)|
-|[8603](https://oeis.org/A008603)|[http://ecs.inria.fr/services/structure?nbr=333](http://ecs.inria.fr/services/structure?nbr=333)|
-|[8604](https://oeis.org/A008604)|[http://ecs.inria.fr/services/structure?nbr=334](http://ecs.inria.fr/services/structure?nbr=334)|
-|[8605](https://oeis.org/A008605)|[http://ecs.inria.fr/services/structure?nbr=335](http://ecs.inria.fr/services/structure?nbr=335)|
-|[8606](https://oeis.org/A008606)|[http://ecs.inria.fr/services/structure?nbr=336](http://ecs.inria.fr/services/structure?nbr=336)|
-|[8607](https://oeis.org/A008607)|[http://ecs.inria.fr/services/structure?nbr=337](http://ecs.inria.fr/services/structure?nbr=337)|
-|[8608](https://oeis.org/A008608)|[http://people.math.jussieu.fr/~vergne/work/BBCV/partitionfunction.zip](http://people.math.jussieu.fr/~vergne/work/BBCV/partitionfunction.zip)|
-|[8611](https://oeis.org/A008611)|[http://ecs.inria.fr/services/structure?nbr=447](http://ecs.inria.fr/services/structure?nbr=447)|
-|[8615](https://oeis.org/A008615)|[http://ecs.inria.fr/services/structure?nbr=448](http://ecs.inria.fr/services/structure?nbr=448), [http://ecs.inria.fr/services/structure?nbr=212](http://ecs.inria.fr/services/structure?nbr=212)|
-|[8616](https://oeis.org/A008616)|[http://ecs.inria.fr/services/structure?nbr=213](http://ecs.inria.fr/services/structure?nbr=213)|
-|[8617](https://oeis.org/A008617)|[http://ecs.inria.fr/services/structure?nbr=214](http://ecs.inria.fr/services/structure?nbr=214)|
-|[8618](https://oeis.org/A008618)|[http://ecs.inria.fr/services/structure?nbr=215](http://ecs.inria.fr/services/structure?nbr=215)|
-|[8619](https://oeis.org/A008619)|[http://ecs.inria.fr/services/structure?nbr=351](http://ecs.inria.fr/services/structure?nbr=351), [http://ecs.inria.fr/services/structure?nbr=120](http://ecs.inria.fr/services/structure?nbr=120), [http://ecs.inria.fr/services/structure?nbr=209](http://ecs.inria.fr/services/structure?nbr=209)|
-|[8620](https://oeis.org/A008620)|[http://ecs.inria.fr/services/structure?nbr=210](http://ecs.inria.fr/services/structure?nbr=210), [http://ecs.inria.fr/services/structure?nbr=449](http://ecs.inria.fr/services/structure?nbr=449)|
-|[8621](https://oeis.org/A008621)|[http://ecs.inria.fr/services/structure?nbr=211](http://ecs.inria.fr/services/structure?nbr=211)|
-|[8622](https://oeis.org/A008622)|[http://ecs.inria.fr/services/structure?nbr=231](http://ecs.inria.fr/services/structure?nbr=231)|
-|[8636](https://oeis.org/A008636)|[http://ecs.inria.fr/services/structure?nbr=356](http://ecs.inria.fr/services/structure?nbr=356)|
-|[8637](https://oeis.org/A008637)|[http://ecs.inria.fr/services/structure?nbr=357](http://ecs.inria.fr/services/structure?nbr=357)|
-|[8638](https://oeis.org/A008638)|[http://ecs.inria.fr/services/structure?nbr=358](http://ecs.inria.fr/services/structure?nbr=358)|
-|[8639](https://oeis.org/A008639)|[http://ecs.inria.fr/services/structure?nbr=359](http://ecs.inria.fr/services/structure?nbr=359)|
-|[8640](https://oeis.org/A008640)|[http://ecs.inria.fr/services/structure?nbr=360](http://ecs.inria.fr/services/structure?nbr=360)|
-|[8641](https://oeis.org/A008641)|[http://ecs.inria.fr/services/structure?nbr=361](http://ecs.inria.fr/services/structure?nbr=361)|
-|[8643](https://oeis.org/A008643)|[http://ecs.inria.fr/services/structure?nbr=233](http://ecs.inria.fr/services/structure?nbr=233)|
-|[8644](https://oeis.org/A008644)|[http://ecs.inria.fr/services/structure?nbr=243](http://ecs.inria.fr/services/structure?nbr=243)|
-|[8645](https://oeis.org/A008645)|[http://ecs.inria.fr/services/structure?nbr=245](http://ecs.inria.fr/services/structure?nbr=245)|
-|[8648](https://oeis.org/A008648)|[http://ecs.inria.fr/services/structure?nbr=221](http://ecs.inria.fr/services/structure?nbr=221)|
-|[8649](https://oeis.org/A008649)|[http://ecs.inria.fr/services/structure?nbr=219](http://ecs.inria.fr/services/structure?nbr=219)|
-|[8650](https://oeis.org/A008650)|[http://ecs.inria.fr/services/structure?nbr=235](http://ecs.inria.fr/services/structure?nbr=235)|
-|[8652](https://oeis.org/A008652)|[http://ecs.inria.fr/services/structure?nbr=220](http://ecs.inria.fr/services/structure?nbr=220)|
-|[8666](https://oeis.org/A008666)|[http://ecs.inria.fr/services/structure?nbr=247](http://ecs.inria.fr/services/structure?nbr=247)|
-|[8667](https://oeis.org/A008667)|[http://ecs.inria.fr/services/structure?nbr=241](http://ecs.inria.fr/services/structure?nbr=241)|
-|[8668](https://oeis.org/A008668)|[http://ecs.inria.fr/services/structure?nbr=240](http://ecs.inria.fr/services/structure?nbr=240)|
-|[8669](https://oeis.org/A008669)|[http://ecs.inria.fr/services/structure?nbr=239](http://ecs.inria.fr/services/structure?nbr=239)|
-|[8670](https://oeis.org/A008670)|[http://ecs.inria.fr/services/structure?nbr=236](http://ecs.inria.fr/services/structure?nbr=236)|
-|[8671](https://oeis.org/A008671)|[http://ecs.inria.fr/services/structure?nbr=227](http://ecs.inria.fr/services/structure?nbr=227)|
-|[8672](https://oeis.org/A008672)|[http://ecs.inria.fr/services/structure?nbr=218](http://ecs.inria.fr/services/structure?nbr=218)|
-|[8673](https://oeis.org/A008673)|[http://ecs.inria.fr/services/structure?nbr=234](http://ecs.inria.fr/services/structure?nbr=234)|
-|[8674](https://oeis.org/A008674)|[http://ecs.inria.fr/services/structure?nbr=244](http://ecs.inria.fr/services/structure?nbr=244)|
-|[8675](https://oeis.org/A008675)|[http://ecs.inria.fr/services/structure?nbr=246](http://ecs.inria.fr/services/structure?nbr=246)|
-|[8676](https://oeis.org/A008676)|[http://ecs.inria.fr/services/structure?nbr=217](http://ecs.inria.fr/services/structure?nbr=217)|
-|[8677](https://oeis.org/A008677)|[http://ecs.inria.fr/services/structure?nbr=230](http://ecs.inria.fr/services/structure?nbr=230)|
-|[8678](https://oeis.org/A008678)|[http://ecs.inria.fr/services/structure?nbr=238](http://ecs.inria.fr/services/structure?nbr=238)|
-|[8679](https://oeis.org/A008679)|[http://ecs.inria.fr/services/structure?nbr=216](http://ecs.inria.fr/services/structure?nbr=216)|
-|[8680](https://oeis.org/A008680)|[http://ecs.inria.fr/services/structure?nbr=228](http://ecs.inria.fr/services/structure?nbr=228)|
-|[8681](https://oeis.org/A008681)|[http://ecs.inria.fr/services/structure?nbr=237](http://ecs.inria.fr/services/structure?nbr=237)|
-|[8682](https://oeis.org/A008682)|[http://ecs.inria.fr/services/structure?nbr=229](http://ecs.inria.fr/services/structure?nbr=229)|
-|[8683](https://oeis.org/A008683)|[http://www-math.mit.edu/~rstan/papers/comb.pdf](http://www-math.mit.edu/~rstan/papers/comb.pdf)|
-|[8719](https://oeis.org/A008719)|[http://ecs.inria.fr/services/structure?nbr=242](http://ecs.inria.fr/services/structure?nbr=242)|
-|[8720](https://oeis.org/A008720)|[http://ecs.inria.fr/services/structure?nbr=223](http://ecs.inria.fr/services/structure?nbr=223)|
-|[8721](https://oeis.org/A008721)|[http://ecs.inria.fr/services/structure?nbr=224](http://ecs.inria.fr/services/structure?nbr=224)|
-|[8722](https://oeis.org/A008722)|[http://ecs.inria.fr/services/structure?nbr=225](http://ecs.inria.fr/services/structure?nbr=225)|
-|[8723](https://oeis.org/A008723)|[http://ecs.inria.fr/services/structure?nbr=226](http://ecs.inria.fr/services/structure?nbr=226)|
-|[8724](https://oeis.org/A008724)|[http://ecs.inria.fr/services/structure?nbr=189](http://ecs.inria.fr/services/structure?nbr=189)|
-|[8725](https://oeis.org/A008725)|[http://ecs.inria.fr/services/structure?nbr=190](http://ecs.inria.fr/services/structure?nbr=190)|
-|[8726](https://oeis.org/A008726)|[http://ecs.inria.fr/services/structure?nbr=191](http://ecs.inria.fr/services/structure?nbr=191)|
-|[8727](https://oeis.org/A008727)|[http://ecs.inria.fr/services/structure?nbr=192](http://ecs.inria.fr/services/structure?nbr=192)|
-|[8728](https://oeis.org/A008728)|[http://ecs.inria.fr/services/structure?nbr=193](http://ecs.inria.fr/services/structure?nbr=193)|
-|[8729](https://oeis.org/A008729)|[http://ecs.inria.fr/services/structure?nbr=194](http://ecs.inria.fr/services/structure?nbr=194)|
-|[8730](https://oeis.org/A008730)|[http://ecs.inria.fr/services/structure?nbr=195](http://ecs.inria.fr/services/structure?nbr=195)|
-|[8731](https://oeis.org/A008731)|[http://ecs.inria.fr/services/structure?nbr=222](http://ecs.inria.fr/services/structure?nbr=222)|
-|[8732](https://oeis.org/A008732)|[http://ecs.inria.fr/services/structure?nbr=188](http://ecs.inria.fr/services/structure?nbr=188)|
-|[8763](https://oeis.org/A008763)|[http://ecs.inria.fr/services/structure?nbr=450](http://ecs.inria.fr/services/structure?nbr=450), [http://ecs.inria.fr/services/structure?nbr=232](http://ecs.inria.fr/services/structure?nbr=232), [http://grail.eecs.csuohio.edu/~somos/step2.txt](http://grail.eecs.csuohio.edu/~somos/step2.txt)|
-|[8776](https://oeis.org/A008776)|[http://ecs.inria.fr/services/structure?nbr=170](http://ecs.inria.fr/services/structure?nbr=170)|
-|[8804](https://oeis.org/A008804)|[http://ecs.inria.fr/services/structure?nbr=197](http://ecs.inria.fr/services/structure?nbr=197)|
-|[8840](https://oeis.org/A008840)|[http://www.labri.u-bordeaux.fr/~loeb](http://www.labri.u-bordeaux.fr/~loeb)|
-|[8844](https://oeis.org/A008844)|[http://www.jstor.org/stable/10.4169/math.mag.84.5.339](http://www.jstor.org/stable/10.4169/math.mag.84.5.339), [http://www.jstor.org/stable/2968551](http://www.jstor.org/stable/2968551)|
-|[8976](https://oeis.org/A008976)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
-|[8998](https://oeis.org/A008998)|[http://ecs.inria.fr/services/structure?nbr=452](http://ecs.inria.fr/services/structure?nbr=452)|
-|[8999](https://oeis.org/A008999)|[http://ecs.inria.fr/services/structure?nbr=479](http://ecs.inria.fr/services/structure?nbr=479)|
-|[9000](https://oeis.org/A009000)|[http://www.teachers.ash.org.au/mikemath/resources/pythagoras.html](http://www.teachers.ash.org.au/mikemath/resources/pythagoras.html), [http://mathdb.org/gallery/poster/description/e_poster_01.htm](http://mathdb.org/gallery/poster/description/e_poster_01.htm)|
-|[9005](https://oeis.org/A009005)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/December2001.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/December2001.html)|
-|[9101](https://oeis.org/A009101)|[http://forums.xkcd.com/viewtopic.php?f=3&amp](http://forums.xkcd.com/viewtopic.php?f=3&amp)|
-|[9117](https://oeis.org/A009117)|[http://ecs.inria.fr/services/structure?nbr=171](http://ecs.inria.fr/services/structure?nbr=171)|
-|[9199](https://oeis.org/A009199)|[http://ecs.inria.fr/services/structure?nbr=128](http://ecs.inria.fr/services/structure?nbr=128)|
-|[9318](https://oeis.org/A009318)|[http://ecs.inria.fr/services/structure?nbr=172](http://ecs.inria.fr/services/structure?nbr=172)|
-|[9324](https://oeis.org/A009324)|[http://ecs.inria.fr/services/structure?nbr=173](http://ecs.inria.fr/services/structure?nbr=173)|
-|[9444](https://oeis.org/A009444)|[http://ecs.inria.fr/services/structure?nbr=125](http://ecs.inria.fr/services/structure?nbr=125)|
-|[9766](https://oeis.org/A009766)|[http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf](http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[10048](https://oeis.org/A010048)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
-|[10060](https://oeis.org/A010060)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://oai.cwi.nl/oai/asset/21313/21313A.pdf](http://oai.cwi.nl/oai/asset/21313/21313A.pdf), [http://www.dmg.tuwien.ac.at/drmota/alongsquares.pdf](http://www.dmg.tuwien.ac.at/drmota/alongsquares.pdf)|
-|[10124](https://oeis.org/A010124)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
-|[10136](https://oeis.org/A010136)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
-|[10145](https://oeis.org/A010145)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
-|[10148](https://oeis.org/A010148)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
-|[10343](https://oeis.org/A010343)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
-|[10344](https://oeis.org/A010344)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
-|[10346](https://oeis.org/A010346)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
-|[10350](https://oeis.org/A010350)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
-|[10353](https://oeis.org/A010353)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
-|[10354](https://oeis.org/A010354)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
-|[10683](https://oeis.org/A010683)|[https://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n4/Ensayos_Meijer2010_PI_.3r.pdf](https://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n4/Ensayos_Meijer2010_PI_.3r.pdf), [http://www-math.mit.edu/~rstan/papers/hip.pdf](http://www-math.mit.edu/~rstan/papers/hip.pdf)|
-|[10693](https://oeis.org/A010693)|[http://ecs.inria.fr/services/structure?nbr=466](http://ecs.inria.fr/services/structure?nbr=466)|
-|[10694](https://oeis.org/A010694)|[http://ecs.inria.fr/services/structure?nbr=1073](http://ecs.inria.fr/services/structure?nbr=1073)|
-|[10701](https://oeis.org/A010701)|[http://ecs.inria.fr/services/structure?nbr=1011](http://ecs.inria.fr/services/structure?nbr=1011)|
-|[10709](https://oeis.org/A010709)|[http://ecs.inria.fr/services/structure?nbr=1012](http://ecs.inria.fr/services/structure?nbr=1012)|
-|[10716](https://oeis.org/A010716)|[http://ecs.inria.fr/services/structure?nbr=1013](http://ecs.inria.fr/services/structure?nbr=1013)|
-|[10722](https://oeis.org/A010722)|[http://ecs.inria.fr/services/structure?nbr=1014](http://ecs.inria.fr/services/structure?nbr=1014)|
-|[10727](https://oeis.org/A010727)|[http://ecs.inria.fr/services/structure?nbr=1015](http://ecs.inria.fr/services/structure?nbr=1015)|
-|[10731](https://oeis.org/A010731)|[http://ecs.inria.fr/services/structure?nbr=1016](http://ecs.inria.fr/services/structure?nbr=1016)|
-|[10734](https://oeis.org/A010734)|[http://math.coe.uga.edu/TME/Issues/v21n2/v21n2_Norton&amp](http://math.coe.uga.edu/TME/Issues/v21n2/v21n2_Norton&amp), [http://ecs.inria.fr/services/structure?nbr=1017](http://ecs.inria.fr/services/structure?nbr=1017)|
-|[10892](https://oeis.org/A010892)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[10912](https://oeis.org/A010912)|[http://ecs.inria.fr/services/structure?nbr=895](http://ecs.inria.fr/services/structure?nbr=895)|
-|[11260](https://oeis.org/A011260)|[http://www.theory.cs.uvic.ca/~cos/inf/neck/PolyInfo.html](http://www.theory.cs.uvic.ca/~cos/inf/neck/PolyInfo.html)|
-|[11268](https://oeis.org/A011268)|[http://134.76.163.65/servlet/digbib?template=view.html&amp](http://134.76.163.65/servlet/digbib?template=view.html&amp), [http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp](http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp)|
-|[11541](https://oeis.org/A011541)|[http://everything2.net/node/1028223](http://everything2.net/node/1028223)|
-|[11943](https://oeis.org/A011943)|[http://alum.wpi.edu/~tiberio/vita/AMM3302.pdf](http://alum.wpi.edu/~tiberio/vita/AMM3302.pdf)|
-|[11971](https://oeis.org/A011971)|[http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf](http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf)|
-|[12250](https://oeis.org/A012250)|[http://math.mit.edu/~rstan/papers/distinctparts.pdf](http://math.mit.edu/~rstan/papers/distinctparts.pdf)|
-|[13594](https://oeis.org/A013594)|[http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf](http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf)|
-|[13609](https://oeis.org/A013609)|[http://www.http://www.ms.uky.edu/~jrge/Papers/Eulerian_binomial_old_old.pdf](http://www.http://www.ms.uky.edu/~jrge/Papers/Eulerian_binomial_old_old.pdf)|
-|[13928](https://oeis.org/A013928)|[http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005abb_196.pdf](http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005abb_196.pdf)|
-|[13998](https://oeis.org/A013998)|[http://web.archive.org/web/20120330094207/http://www.fortunecity.com/emachines/e11/86/padovan.html](http://web.archive.org/web/20120330094207/http://www.fortunecity.com/emachines/e11/86/padovan.html)|
-|[13999](https://oeis.org/A013999)|[http://www-math.mit.edu/~rstan/papers/multfree.pdf](http://www-math.mit.edu/~rstan/papers/multfree.pdf)|
-|[14088](https://oeis.org/A014088)|[http://statweb.stanford.edu/~cgates/PERSI/papers/mosteller89.pdf](http://statweb.stanford.edu/~cgates/PERSI/papers/mosteller89.pdf)|
-|[14113](https://oeis.org/A014113)|[http://ecs.inria.fr/services/structure?nbr=457](http://ecs.inria.fr/services/structure?nbr=457)|
-|[14206](https://oeis.org/A014206)|[http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf), [http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/bitonic/bitonicen.htm](http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/bitonic/bitonicen.htm)|
-|[14217](https://oeis.org/A014217)|[http://www.math-cs.ucmo.edu/~mjms/1998.3/prob.ps](http://www.math-cs.ucmo.edu/~mjms/1998.3/prob.ps), [http://www.math-cs.ucmo.edu/~mjms/2000.1/soln.ps](http://www.math-cs.ucmo.edu/~mjms/2000.1/soln.ps)|
-|[14233](https://oeis.org/A014233)|[http://www-fs.informatik.uni-tuebingen.de/~reinhard/krypto/English/2.3.1.e.html](http://www-fs.informatik.uni-tuebingen.de/~reinhard/krypto/English/2.3.1.e.html), [http://www.security-labs.org/full-page.php3?page=5](http://www.security-labs.org/full-page.php3?page=5)|
-|[14293](https://oeis.org/A014293)|[http://www.tickey.co.za/maths/Puzzles%20-%20%20Coconut%20puzzle.pdf](http://www.tickey.co.za/maths/Puzzles%20-%20%20Coconut%20puzzle.pdf)|
-|[14297](https://oeis.org/A014297)|[http://ecs.inria.fr/services/structure?nbr=506](http://ecs.inria.fr/services/structure?nbr=506)|
-|[14300](https://oeis.org/A014300)|[https://lrecits.usthb.dz/6.5.pdf](https://lrecits.usthb.dz/6.5.pdf)|
-|[14405](https://oeis.org/A014405)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
-|[14406](https://oeis.org/A014406)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
-|[14486](https://oeis.org/A014486)|[http://www.iki.fi/~kartturi/matikka/tab9766.htm](http://www.iki.fi/~kartturi/matikka/tab9766.htm)|
-|[14540](https://oeis.org/A014540)|[http://www.emba.uvm.edu/~archdeac/problems/rectcros.htm](http://www.emba.uvm.edu/~archdeac/problems/rectcros.htm)|
-|[14552](https://oeis.org/A014552)|[https://eprint.panzan.me/articles/langford.pdf](https://eprint.panzan.me/articles/langford.pdf)|
-|[14567](https://oeis.org/A014567)|[http://www.math-cs.ucmo.edu/~mjms/2003.3/feist.pdf](http://www.math-cs.ucmo.edu/~mjms/2003.3/feist.pdf)|
-|[14576](https://oeis.org/A014576)|[http://www.magic-squares.net/narciss.htm](http://www.magic-squares.net/narciss.htm)|
-|[14983](https://oeis.org/A014983)|[http://ecs.inria.fr/services/structure?nbr=927](http://ecs.inria.fr/services/structure?nbr=927)|
-|[15052](https://oeis.org/A015052)|[http://www.gallup.unm.edu/~smarandache/Ibstedt-surfing.pdf](http://www.gallup.unm.edu/~smarandache/Ibstedt-surfing.pdf), [http://www.gallup.unm.edu/~smarandache/CP2.pdf](http://www.gallup.unm.edu/~smarandache/CP2.pdf)|
-|[15630](https://oeis.org/A015630)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[16061](https://oeis.org/A016061)|[http://www.chm.davidson.edu/vce/crystals/ZincBlende.html](http://www.chm.davidson.edu/vce/crystals/ZincBlende.html)|
-|[16114](https://oeis.org/A016114)|[http://www.magic-squares.net/primes.htm#Circular](http://www.magic-squares.net/primes.htm#Circular)|
-|[16116](https://oeis.org/A016116)|[http://ecs.inria.fr/services/structure?nbr=1067](http://ecs.inria.fr/services/structure?nbr=1067)|
-|[16437](https://oeis.org/A016437)|[http://izasc-mirror.la.asu.edu/fmi/xsl/IZA-SC/ftc_fw.xsl?-db=Atlas_main&amp](http://izasc-mirror.la.asu.edu/fmi/xsl/IZA-SC/ftc_fw.xsl?-db=Atlas_main&amp)|
-|[16789](https://oeis.org/A016789)|[http://ecs.inria.fr/services/structure?nbr=937](http://ecs.inria.fr/services/structure?nbr=937)|
-|[16813](https://oeis.org/A016813)|[https://www.scribd.com/document/22916829/Summation-of-Series-2nd-rev-ed-L-B-W-Jolley-1961-WW](https://www.scribd.com/document/22916829/Summation-of-Series-2nd-rev-ed-L-B-W-Jolley-1961-WW)|
-|[16837](https://oeis.org/A016837)|[http://ecs.inria.fr/services/structure?nbr=940](http://ecs.inria.fr/services/structure?nbr=940)|
-|[16897](https://oeis.org/A016897)|[http://ecs.inria.fr/services/structure?nbr=944](http://ecs.inria.fr/services/structure?nbr=944)|
-|[16969](https://oeis.org/A016969)|[http://ecs.inria.fr/services/structure?nbr=949](http://ecs.inria.fr/services/structure?nbr=949)|
-|[17053](https://oeis.org/A017053)|[http://ecs.inria.fr/services/structure?nbr=955](http://ecs.inria.fr/services/structure?nbr=955)|
-|[17257](https://oeis.org/A017257)|[http://ecs.inria.fr/services/structure?nbr=970](http://ecs.inria.fr/services/structure?nbr=970)|
-|[17377](https://oeis.org/A017377)|[http://ecs.inria.fr/services/structure?nbr=979](http://ecs.inria.fr/services/structure?nbr=979)|
-|[17509](https://oeis.org/A017509)|[http://ecs.inria.fr/services/structure?nbr=989](http://ecs.inria.fr/services/structure?nbr=989)|
-|[17653](https://oeis.org/A017653)|[http://ecs.inria.fr/services/structure?nbr=1000](http://ecs.inria.fr/services/structure?nbr=1000)|
-|[17817](https://oeis.org/A017817)|[http://ecs.inria.fr/services/structure?nbr=484](http://ecs.inria.fr/services/structure?nbr=484)|
-|[18223](https://oeis.org/A018223)|[http://www.labri.u-bordeaux.fr/~loeb/vote.html](http://www.labri.u-bordeaux.fr/~loeb/vote.html)|
-|[18226](https://oeis.org/A018226)|[http://www.iaea.or.at/programmes/ripc/ih/volumes/vol_one/cht_i_02.pdf](http://www.iaea.or.at/programmes/ripc/ih/volumes/vol_one/cht_i_02.pdf)|
-|[18235](https://oeis.org/A018235)|[http://sis.univ-tln.fr/~bonnecaze/biblio.html](http://sis.univ-tln.fr/~bonnecaze/biblio.html), [http://sis.univ-tln.fr/~bonnecaze/biblio.html](http://sis.univ-tln.fr/~bonnecaze/biblio.html)|
-|[18237](https://oeis.org/A018237)|[http://academic.uofs.edu/faculty/doughertys1/we3.htm](http://academic.uofs.edu/faculty/doughertys1/we3.htm)|
-|[18247](https://oeis.org/A018247)|[http://freespace.virgin.net/anthony.edey/automorph.htm](http://freespace.virgin.net/anthony.edey/automorph.htm)|
-|[18248](https://oeis.org/A018248)|[http://freespace.virgin.net/anthony.edey/automorph.htm](http://freespace.virgin.net/anthony.edey/automorph.htm)|
-|[18807](https://oeis.org/A018807)|[http://zealint.ru/maxflow-kings-1dwalks-comp.html](http://zealint.ru/maxflow-kings-1dwalks-comp.html)|
-|[18818](https://oeis.org/A018818)|[http://www.dli.gov.in/rawdataupload/upload/insa/INSA_2/20005a84_1276.pdf](http://www.dli.gov.in/rawdataupload/upload/insa/INSA_2/20005a84_1276.pdf)|
-|[18886](https://oeis.org/A018886)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
-|[18897](https://oeis.org/A018897)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/)|
-|[18899](https://oeis.org/A018899)|[http://www.liafa.jussieu.fr/~berthe/publi.html](http://www.liafa.jussieu.fr/~berthe/publi.html)|
-|[18902](https://oeis.org/A018902)|[http://ecs.inria.fr/services/structure?nbr=474](http://ecs.inria.fr/services/structure?nbr=474)|
-|[18903](https://oeis.org/A018903)|[http://ecs.inria.fr/services/structure?nbr=879](http://ecs.inria.fr/services/structure?nbr=879)|
-|[19276](https://oeis.org/A019276)|[http://repos.project.cwi.nl:8888/cwi_repository/docs/I/10/10355A.pdf](http://repos.project.cwi.nl:8888/cwi_repository/docs/I/10/10355A.pdf)|
-|[19516](https://oeis.org/A019516)|[http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf](http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf)|
-|[19517](https://oeis.org/A019517)|[http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf](http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf)|
-|[19518](https://oeis.org/A019518)|[http://www.gallup.unm.edu/~smarandache/SmConPri.txt](http://www.gallup.unm.edu/~smarandache/SmConPri.txt), [http://www.gallup.unm.edu/~smarandache/CP2.pdf](http://www.gallup.unm.edu/~smarandache/CP2.pdf)|
-|[19519](https://oeis.org/A019519)|[http://www.gallup.unm.edu/~smarandache/CP2.pdf](http://www.gallup.unm.edu/~smarandache/CP2.pdf), [http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf](http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf)|
-|[19554](https://oeis.org/A019554)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
-|[19555](https://oeis.org/A019555)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
-|[19569](https://oeis.org/A019569)|[http://ingrate.8k.com/nrep/intro.html](http://ingrate.8k.com/nrep/intro.html)|
-|[19590](https://oeis.org/A019590)|[http://www.cs.wichita.edu/~chang/fermat.html](http://www.cs.wichita.edu/~chang/fermat.html), [http://www.simonsingh.com/Fermat_Corner.html](http://www.simonsingh.com/Fermat_Corner.html), [http://www.prometheus.demon.co.uk/01/01fermat.htm](http://www.prometheus.demon.co.uk/01/01fermat.htm), [http://users.forthnet.gr/ath/kimon/FLTmilestones.htm](http://users.forthnet.gr/ath/kimon/FLTmilestones.htm), [http://students.bath.ac.uk/ma0sjbs/fermat.html](http://students.bath.ac.uk/ma0sjbs/fermat.html), [http://www.public.iastate.edu/~kchoi/time.htm](http://www.public.iastate.edu/~kchoi/time.htm), [http://www.uz.ac.zw/science/maths/zimaths/flt.htm](http://www.uz.ac.zw/science/maths/zimaths/flt.htm), [http://www-centre.mpce.mq.edu.au/alfpapers/a142e.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a142e.pdf), [http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Fermat&#39](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Fermat&#39), [http://library.thinkquest.org/28049/final_stages_in_proving_fermat.htm](http://library.thinkquest.org/28049/final_stages_in_proving_fermat.htm), [http://mathematics.gulfcoast.edu/mgf1107/newpage11.htm](http://mathematics.gulfcoast.edu/mgf1107/newpage11.htm), [http://personales.ya.com/casanchi/mat/conjeturafermat.pdf](http://personales.ya.com/casanchi/mat/conjeturafermat.pdf), [http://www.public.iastate.edu/~kchoi/fermat.htm](http://www.public.iastate.edu/~kchoi/fermat.htm), [http://www.math.uncc.edu/~hbreiter/m6105/pythag.pdf](http://www.math.uncc.edu/~hbreiter/m6105/pythag.pdf), [http://mathdb.org/gallery/poster/description/e_poster_02.htm](http://mathdb.org/gallery/poster/description/e_poster_02.htm), [http://www.ulb.ac.be/assoc/bms/info/rechmath.pdf](http://www.ulb.ac.be/assoc/bms/info/rechmath.pdf)|
-|[20699](https://oeis.org/A020699)|[http://ecs.inria.fr/services/structure?nbr=1037](http://ecs.inria.fr/services/structure?nbr=1037)|
-|[20711](https://oeis.org/A020711)|[http://ecs.inria.fr/services/structure?nbr=911](http://ecs.inria.fr/services/structure?nbr=911)|
-|[20714](https://oeis.org/A020714)|[http://ecs.inria.fr/services/structure?nbr=1003](http://ecs.inria.fr/services/structure?nbr=1003)|
-|[20745](https://oeis.org/A020745)|[http://ecs.inria.fr/services/structure?nbr=877](http://ecs.inria.fr/services/structure?nbr=877)|
-|[20882](https://oeis.org/A020882)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
-|[20987](https://oeis.org/A020987)|[http://www-centre.mpce.mq.edu.au/alfpapers/a084.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a084.pdf)|
-|[22004](https://oeis.org/A022004)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
-|[22543](https://oeis.org/A022543)|[http://www.dcss.mcmaster.ca/~bill/pubs.shtml](http://www.dcss.mcmaster.ca/~bill/pubs.shtml)|
-|[22567](https://oeis.org/A022567)|[http://ecs.inria.fr/services/structure?nbr=852](http://ecs.inria.fr/services/structure?nbr=852)|
-|[23431](https://oeis.org/A023431)|[http://ecs.inria.fr/services/structure?nbr=666](http://ecs.inria.fr/services/structure?nbr=666)|
-|[23434](https://oeis.org/A023434)|[http://ecs.inria.fr/services/structure?nbr=1070](http://ecs.inria.fr/services/structure?nbr=1070)|
-|[24175](https://oeis.org/A024175)|[https://doi.org/10.1364/OE.22.004499](https://doi.org/10.1364/OE.22.004499)|
-|[24351](https://oeis.org/A024351)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
-|[24490](https://oeis.org/A024490)|[http://ecs.inria.fr/services/structure?nbr=886](http://ecs.inria.fr/services/structure?nbr=886)|
-|[25035](https://oeis.org/A025035)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/harmse_remmel.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/harmse_remmel.pdf)|
-|[25147](https://oeis.org/A025147)|[http://ecs.inria.fr/services/structure?nbr=798](http://ecs.inria.fr/services/structure?nbr=798)|
-|[25167](https://oeis.org/A025167)|[http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf](http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf)|
-|[25225](https://oeis.org/A025225)|[http://ecs.inria.fr/services/structure?nbr=653](http://ecs.inria.fr/services/structure?nbr=653)|
-|[25227](https://oeis.org/A025227)|[http://ecs.inria.fr/services/structure?nbr=657](http://ecs.inria.fr/services/structure?nbr=657), [http://ecs.inria.fr/services/structure?nbr=655](http://ecs.inria.fr/services/structure?nbr=655)|
-|[25235](https://oeis.org/A025235)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[25237](https://oeis.org/A025237)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[25242](https://oeis.org/A025242)|[http://puma.dimai.unifi.it/22_2/mansour_shattuck.pdf](http://puma.dimai.unifi.it/22_2/mansour_shattuck.pdf)|
-|[25246](https://oeis.org/A025246)|[http://ecs.inria.fr/services/structure?nbr=666](http://ecs.inria.fr/services/structure?nbr=666)|
-|[25262](https://oeis.org/A025262)|[http://grail.eecs.csuohio.edu/~somos/nwic.html](http://grail.eecs.csuohio.edu/~somos/nwic.html)|
-|[26150](https://oeis.org/A026150)|[http://ecs.inria.fr/services/structure?nbr=1052](http://ecs.inria.fr/services/structure?nbr=1052)|
-|[26378](https://oeis.org/A026378)|[http://repository.wit.ie/1693](http://repository.wit.ie/1693)|
-|[26671](https://oeis.org/A026671)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[26741](https://oeis.org/A026741)|[http://www.math.sci.hokudai.ac.jp/~nakamura/ADEHilb.pdf](http://www.math.sci.hokudai.ac.jp/~nakamura/ADEHilb.pdf)|
-|[26794](https://oeis.org/A026794)|[http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf](http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf)|
-|[26820](https://oeis.org/A026820)|[http://phystech.com/ftp/A026820.c](http://phystech.com/ftp/A026820.c)|
-|[26905](https://oeis.org/A026905)|[http://ecs.inria.fr/services/structure?nbr=800](http://ecs.inria.fr/services/structure?nbr=800)|
-|[27307](https://oeis.org/A027307)|[http://oai.cwi.nl/oai/asset/21313/21313A.pdf](http://oai.cwi.nl/oai/asset/21313/21313A.pdf)|
-|[27375](https://oeis.org/A027375)|[http://www.math.jussieu.fr/~allouche/bibliorecente.html](http://www.math.jussieu.fr/~allouche/bibliorecente.html)|
-|[27417](https://oeis.org/A027417)|[http://wwwmaths.anu.edu.au/~brent/pub/pub055.html](http://wwwmaths.anu.edu.au/~brent/pub/pub055.html)|
-|[27468](https://oeis.org/A027468)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
-|[27471](https://oeis.org/A027471)|[http://ecs.inria.fr/services/structure?nbr=715](http://ecs.inria.fr/services/structure?nbr=715)|
-|[27567](https://oeis.org/A027567)|[http://www.magic-squares.net/pandiag5.htm](http://www.magic-squares.net/pandiag5.htm)|
-|[27675](https://oeis.org/A027675)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
-|[27676](https://oeis.org/A027676)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
-|[27677](https://oeis.org/A027677)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
-|[27678](https://oeis.org/A027678)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
-|[27679](https://oeis.org/A027679)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
-|[27687](https://oeis.org/A027687)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
-|[27692](https://oeis.org/A027692)|[https://doi:10.2969/jmsj/02630447](https://doi:10.2969/jmsj/02630447)|
-|[27710](https://oeis.org/A027710)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
-|[27881](https://oeis.org/A027881)|[http://dipmza.physik.uni-mainz.de/~kreimer/homepage.html](http://dipmza.physik.uni-mainz.de/~kreimer/homepage.html)|
-|[28310](https://oeis.org/A028310)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
-|[28381](https://oeis.org/A028381)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[28382](https://oeis.org/A028382)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[28384](https://oeis.org/A028384)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[28444](https://oeis.org/A028444)|[http://grail.cba.csuohio.edu/~somos/busy.html](http://grail.cba.csuohio.edu/~somos/busy.html), [http://grail.cba.csuohio.edu/~somos/bb.html](http://grail.cba.csuohio.edu/~somos/bb.html)|
-|[28446](https://oeis.org/A028446)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28447](https://oeis.org/A028447)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28448](https://oeis.org/A028448)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28449](https://oeis.org/A028449)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28450](https://oeis.org/A028450)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28451](https://oeis.org/A028451)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28452](https://oeis.org/A028452)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
-|[28453](https://oeis.org/A028453)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28454](https://oeis.org/A028454)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28455](https://oeis.org/A028455)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28456](https://oeis.org/A028456)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28457](https://oeis.org/A028457)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28458](https://oeis.org/A028458)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28459](https://oeis.org/A028459)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28460](https://oeis.org/A028460)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28461](https://oeis.org/A028461)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28462](https://oeis.org/A028462)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28463](https://oeis.org/A028463)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28464](https://oeis.org/A028464)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28465](https://oeis.org/A028465)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28466](https://oeis.org/A028466)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28467](https://oeis.org/A028467)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28468](https://oeis.org/A028468)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
-|[28469](https://oeis.org/A028469)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
-|[28470](https://oeis.org/A028470)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28471](https://oeis.org/A028471)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
-|[28472](https://oeis.org/A028472)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
-|[28473](https://oeis.org/A028473)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28474](https://oeis.org/A028474)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
-|[28477](https://oeis.org/A028477)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28478](https://oeis.org/A028478)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28479](https://oeis.org/A028479)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28480](https://oeis.org/A028480)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28481](https://oeis.org/A028481)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28482](https://oeis.org/A028482)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28483](https://oeis.org/A028483)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28484](https://oeis.org/A028484)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28485](https://oeis.org/A028485)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28486](https://oeis.org/A028486)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[28487](https://oeis.org/A028487)|[http://www.theophys.kth.se/~phl/Text/1factors2.pdf](http://www.theophys.kth.se/~phl/Text/1factors2.pdf), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
-|[28495](https://oeis.org/A028495)|[http://ecs.inria.fr/services/structure?nbr=1057](http://ecs.inria.fr/services/structure?nbr=1057), [http://ecs.inria.fr/services/structure?nbr=1056](http://ecs.inria.fr/services/structure?nbr=1056)|
-|[28847](https://oeis.org/A028847)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
-|[28848](https://oeis.org/A028848)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
-|[28849](https://oeis.org/A028849)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
-|[28850](https://oeis.org/A028850)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
-|[28851](https://oeis.org/A028851)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
-|[28852](https://oeis.org/A028852)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
-|[28853](https://oeis.org/A028853)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
-|[28854](https://oeis.org/A028854)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
-|[28855](https://oeis.org/A028855)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
-|[28856](https://oeis.org/A028856)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
-|[28857](https://oeis.org/A028857)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
-|[28858](https://oeis.org/A028858)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
-|[28859](https://oeis.org/A028859)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[28860](https://oeis.org/A028860)|[http://ecs.inria.fr/services/structure?nbr=924](http://ecs.inria.fr/services/structure?nbr=924)|
-|[29725](https://oeis.org/A029725)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
-|[29726](https://oeis.org/A029726)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
-|[29767](https://oeis.org/A029767)|[http://ecs.inria.fr/services/structure?nbr=777](http://ecs.inria.fr/services/structure?nbr=777), [http://ecs.inria.fr/services/structure?nbr=498](http://ecs.inria.fr/services/structure?nbr=498)|
-|[29856](https://oeis.org/A029856)|[http://ecs.inria.fr/services/structure?nbr=768](http://ecs.inria.fr/services/structure?nbr=768)|
-|[30019](https://oeis.org/A030019)|[http://ecs.inria.fr/services/structure?nbr=810](http://ecs.inria.fr/services/structure?nbr=810)|
-|[30030](https://oeis.org/A030030)|[http://sis.univ-tln.fr/~bonnecaze/biblio.html](http://sis.univ-tln.fr/~bonnecaze/biblio.html)|
-|[30050](https://oeis.org/A030050)|[http://hofprints.hofstra.edu/24/01/Bhargava](http://hofprints.hofstra.edu/24/01/Bhargava)|
-|[30051](https://oeis.org/A030051)|[http://blog.sciencenews.org/2006/03/all_square.html](http://blog.sciencenews.org/2006/03/all_square.html)|
-|[30169](https://oeis.org/A030169)|[http://www.gutenberg.org/etext/634](http://www.gutenberg.org/etext/634)|
-|[30186](https://oeis.org/A030186)|[http://ecs.inria.fr/services/structure?nbr=473](http://ecs.inria.fr/services/structure?nbr=473), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
-|[30504](https://oeis.org/A030504)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
-|[30505](https://oeis.org/A030505)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
-|[30506](https://oeis.org/A030506)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
-|[30508](https://oeis.org/A030508)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
-|[30509](https://oeis.org/A030509)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
-|[30510](https://oeis.org/A030510)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
-|[30797](https://oeis.org/A030797)|[http://www.gutenberg.org/etext/634](http://www.gutenberg.org/etext/634)|
-|[31131](https://oeis.org/A031131)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
-|[31869](https://oeis.org/A031869)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
-|[31870](https://oeis.org/A031870)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
-|[31871](https://oeis.org/A031871)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
-|[31872](https://oeis.org/A031872)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
-|[31874](https://oeis.org/A031874)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
-|[31875](https://oeis.org/A031875)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
-|[32031](https://oeis.org/A032031)|[http://ecs.inria.fr/services/structure?nbr=491](http://ecs.inria.fr/services/structure?nbr=491)|
-|[32037](https://oeis.org/A032037)|[http://ecs.inria.fr/services/structure?nbr=92](http://ecs.inria.fr/services/structure?nbr=92)|
-|[32085](https://oeis.org/A032085)|[http://ecs.inria.fr/services/structure?nbr=1022](http://ecs.inria.fr/services/structure?nbr=1022)|
-|[32182](https://oeis.org/A032182)|[http://ecs.inria.fr/services/structure?nbr=837](http://ecs.inria.fr/services/structure?nbr=837)|
-|[32184](https://oeis.org/A032184)|[http://ecs.inria.fr/services/structure?nbr=565](http://ecs.inria.fr/services/structure?nbr=565)|
-|[32188](https://oeis.org/A032188)|[http://ecs.inria.fr/services/structure?nbr=89](http://ecs.inria.fr/services/structure?nbr=89)|
-|[32190](https://oeis.org/A032190)|[http://ecs.inria.fr/services/structure?nbr=764](http://ecs.inria.fr/services/structure?nbr=764)|
-|[32203](https://oeis.org/A032203)|[http://ecs.inria.fr/services/structure?nbr=79](http://ecs.inria.fr/services/structure?nbr=79)|
-|[32260](https://oeis.org/A032260)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html)|
-|[32435](https://oeis.org/A032435)|[http://www.gutenberg.org/files/26839/26839-pdf.pdf](http://www.gutenberg.org/files/26839/26839-pdf.pdf)|
-|[32436](https://oeis.org/A032436)|[http://www.gutenberg.org/files/26839/26839-pdf.pdf](http://www.gutenberg.org/files/26839/26839-pdf.pdf)|
-|[32766](https://oeis.org/A032766)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf), [http://www.mathdb.org/resource_sharing/prelim/se_00-01_sol.pdf](http://www.mathdb.org/resource_sharing/prelim/se_00-01_sol.pdf)|
-|[32908](https://oeis.org/A032908)|[http://ecs.inria.fr/services/structure?nbr=919](http://ecs.inria.fr/services/structure?nbr=919)|
-|[33113](https://oeis.org/A033113)|[http://ecs.inria.fr/services/structure?nbr=906](http://ecs.inria.fr/services/structure?nbr=906)|
-|[33138](https://oeis.org/A033138)|[http://ecs.inria.fr/services/structure?nbr=926](http://ecs.inria.fr/services/structure?nbr=926), [http://www.imfm.si/preprinti/PDF/01150.pdf](http://www.imfm.si/preprinti/PDF/01150.pdf)|
-|[33156](https://oeis.org/A033156)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[33184](https://oeis.org/A033184)|[http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf](http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf)|
-|[33200](https://oeis.org/A033200)|[http://dongthapvietnam.informe.com/blog/uploads/2012/10/cruxv25_1999.pdf](http://dongthapvietnam.informe.com/blog/uploads/2012/10/cruxv25_1999.pdf)|
-|[33307](https://oeis.org/A033307)|[https://chessprogramming.wikispaces.com/David+Champernowne](https://chessprogramming.wikispaces.com/David+Champernowne)|
-|[33428](https://oeis.org/A033428)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[33506](https://oeis.org/A033506)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33507](https://oeis.org/A033507)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33508](https://oeis.org/A033508)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33509](https://oeis.org/A033509)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33510](https://oeis.org/A033510)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33511](https://oeis.org/A033511)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33512](https://oeis.org/A033512)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33513](https://oeis.org/A033513)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
-|[33514](https://oeis.org/A033514)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33515](https://oeis.org/A033515)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.pdf](http://www.theophys.kth.se/~phl/Text/1factors2.pdf)|
-|[33516](https://oeis.org/A033516)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33517](https://oeis.org/A033517)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.pdf](http://www.theophys.kth.se/~phl/Text/1factors2.pdf)|
-|[33518](https://oeis.org/A033518)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33519](https://oeis.org/A033519)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33520](https://oeis.org/A033520)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33521](https://oeis.org/A033521)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33522](https://oeis.org/A033522)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33523](https://oeis.org/A033523)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33524](https://oeis.org/A033524)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33525](https://oeis.org/A033525)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33526](https://oeis.org/A033526)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33527](https://oeis.org/A033527)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33528](https://oeis.org/A033528)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33529](https://oeis.org/A033529)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33530](https://oeis.org/A033530)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33531](https://oeis.org/A033531)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33532](https://oeis.org/A033532)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33533](https://oeis.org/A033533)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33534](https://oeis.org/A033534)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33535](https://oeis.org/A033535)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[33538](https://oeis.org/A033538)|[http://www.iki.fi/~kartturi/software/stacks.lsp](http://www.iki.fi/~kartturi/software/stacks.lsp)|
-|[33539](https://oeis.org/A033539)|[http://www.iki.fi/~kartturi/software/stacks.lsp](http://www.iki.fi/~kartturi/software/stacks.lsp)|
-|[33565](https://oeis.org/A033565)|[http://dept-info.labri.u-bordeaux.fr/~bousquet/](http://dept-info.labri.u-bordeaux.fr/~bousquet/)|
-|[33622](https://oeis.org/A033622)|[http://www.xyzzy.claranet.de/rexxsort.htm#TESTS](http://www.xyzzy.claranet.de/rexxsort.htm#TESTS)|
-|[33638](https://oeis.org/A033638)|[http://dx.doi.org/10.1364/OE.22.004499](http://dx.doi.org/10.1364/OE.22.004499)|
-|[33670](https://oeis.org/A033670)|[http://www.floot.demon.co.uk/palindromes.html](http://www.floot.demon.co.uk/palindromes.html)|
-|[33812](https://oeis.org/A033812)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
-|[33869](https://oeis.org/A033869)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[33889](https://oeis.org/A033889)|[http://demmath.mini.pw.edu.pl/archive/dm46_1/2.pdf](http://demmath.mini.pw.edu.pl/archive/dm46_1/2.pdf)|
-|[33948](https://oeis.org/A033948)|[http://ihome.cuhk.edu.hk/~s005636/number/primitive.pdf](http://ihome.cuhk.edu.hk/~s005636/number/primitive.pdf)|
-|[33999](https://oeis.org/A033999)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
-|[34001](https://oeis.org/A034001)|[http://ecs.inria.fr/services/structure?nbr=495](http://ecs.inria.fr/services/structure?nbr=495)|
-|[34150](https://oeis.org/A034150)|[http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf](http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf)|
-|[34177](https://oeis.org/A034177)|[http://ecs.inria.fr/services/structure?nbr=513](http://ecs.inria.fr/services/structure?nbr=513)|
-|[34276](https://oeis.org/A034276)|[http://www.magic-squares.net/primes.htm](http://www.magic-squares.net/primes.htm)|
-|[34325](https://oeis.org/A034325)|[http://ecs.inria.fr/services/structure?nbr=594](http://ecs.inria.fr/services/structure?nbr=594)|
-|[34472](https://oeis.org/A034472)|[http://ecs.inria.fr/services/structure?nbr=454](http://ecs.inria.fr/services/structure?nbr=454)|
-|[34693](https://oeis.org/A034693)|[http://eprints.maths.ox.ac.uk/166/](http://eprints.maths.ox.ac.uk/166/)|
-|[34856](https://oeis.org/A034856)|[http://ecs.inria.fr/services/structure?nbr=471](http://ecs.inria.fr/services/structure?nbr=471)|
-|[34943](https://oeis.org/A034943)|[http://ecs.inria.fr/services/structure?nbr=904](http://ecs.inria.fr/services/structure?nbr=904)|
-|[35006](https://oeis.org/A035006)|[http://www-math.mit.edu/~rstan/bij.pdf](http://www-math.mit.edu/~rstan/bij.pdf)|
-|[35051](https://oeis.org/A035051)|[http://ecs.inria.fr/services/structure?nbr=864](http://ecs.inria.fr/services/structure?nbr=864)|
-|[35052](https://oeis.org/A035052)|[http://ecs.inria.fr/services/structure?nbr=862](http://ecs.inria.fr/services/structure?nbr=862)|
-|[35095](https://oeis.org/A035095)|[http://acta.fyx.hu/acta/showCustomerArticle.action?id=5970&amp](http://acta.fyx.hu/acta/showCustomerArticle.action?id=5970&amp)|
-|[35120](https://oeis.org/A035120)|[http://euler.univ-lyon1.fr/home/roblot/tables.html#1](http://euler.univ-lyon1.fr/home/roblot/tables.html#1)|
-|[35138](https://oeis.org/A035138)|[http://www.magic-squares.net/narciss.htm](http://www.magic-squares.net/narciss.htm)|
-|[35263](https://oeis.org/A035263)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[35610](https://oeis.org/A035610)|[http://student.plattsburgh.edu/quenelgt/pubpdf/freeprod.pdf](http://student.plattsburgh.edu/quenelgt/pubpdf/freeprod.pdf)|
-|[36214](https://oeis.org/A036214)|[http://www.iki.fi/%7Ekarttu/matikka/revpow.htm](http://www.iki.fi/%7Ekarttu/matikka/revpow.htm)|
-|[36215](https://oeis.org/A036215)|[http://www.iki.fi/%7Ekarttu/matikka/revpow.htm](http://www.iki.fi/%7Ekarttu/matikka/revpow.htm)|
-|[36249](https://oeis.org/A036249)|[http://ecs.inria.fr/services/structure?nbr=768](http://ecs.inria.fr/services/structure?nbr=768)|
-|[36287](https://oeis.org/A036287)|[http://www.iki.fi/%7Ekarttu/matikka/vertfibo.htm](http://www.iki.fi/%7Ekarttu/matikka/vertfibo.htm)|
-|[36469](https://oeis.org/A036469)|[http://ecs.inria.fr/services/structure?nbr=774](http://ecs.inria.fr/services/structure?nbr=774)|
-|[36544](https://oeis.org/A036544)|[http://www.iki.fi/%7ekarttu/software/extrapolator.cl](http://www.iki.fi/%7ekarttu/software/extrapolator.cl)|
-|[36718](https://oeis.org/A036718)|[http://www.theory.cs.uvic.ca/~cos/inf/tree/RootedTree.html](http://www.theory.cs.uvic.ca/~cos/inf/tree/RootedTree.html)|
-|[36765](https://oeis.org/A036765)|[http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf](http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf)|
-|[36770](https://oeis.org/A036770)|[http://ecs.inria.fr/services/structure?nbr=46](http://ecs.inria.fr/services/structure?nbr=46)|
-|[36771](https://oeis.org/A036771)|[http://ecs.inria.fr/services/structure?nbr=47](http://ecs.inria.fr/services/structure?nbr=47)|
-|[37123](https://oeis.org/A037123)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[37232](https://oeis.org/A037232)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[37233](https://oeis.org/A037233)|[http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
-|[37306](https://oeis.org/A037306)|[http://home.earthlink.net/~dwasserm/A037306.html](http://home.earthlink.net/~dwasserm/A037306.html)|
-|[37445](https://oeis.org/A037445)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[38148](https://oeis.org/A038148)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[38156](https://oeis.org/A038156)|[http://ecs.inria.fr/services/structure?nbr=836](http://ecs.inria.fr/services/structure?nbr=836)|
-|[38360](https://oeis.org/A038360)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
-|[38507](https://oeis.org/A038507)|[http://ecs.inria.fr/services/structure?nbr=763](http://ecs.inria.fr/services/structure?nbr=763), [http://ecs.inria.fr/services/structure?nbr=834](http://ecs.inria.fr/services/structure?nbr=834)|
-|[38554](https://oeis.org/A038554)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[38721](https://oeis.org/A038721)|[http://www.exp-math.uni-essen.de/~immink/pdf/jsac13.pdf](http://www.exp-math.uni-essen.de/~immink/pdf/jsac13.pdf)|
-|[38776](https://oeis.org/A038776)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[39508](https://oeis.org/A039508)|[http://home.earthlink.net/~dwasserm/EISfile](http://home.earthlink.net/~dwasserm/EISfile)|
-|[39598](https://oeis.org/A039598)|[http://sci-prew.inf.ua/v113/2/S0305004100075964.pdf](http://sci-prew.inf.ua/v113/2/S0305004100075964.pdf)|
-|[39599](https://oeis.org/A039599)|[https://repository.wit.ie/1693/1/AoifeThesis.pdf](https://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[39921](https://oeis.org/A039921)|[http://www.maths.leeds.ac.uk/~alastair/](http://www.maths.leeds.ac.uk/~alastair/)|
-|[39951](https://oeis.org/A039951)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[40001](https://oeis.org/A040001)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[41078](https://oeis.org/A041078)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
-|[41079](https://oeis.org/A041079)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
-|[45310](https://oeis.org/A045310)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[45794](https://oeis.org/A045794)|[http://theory2.phys.cwru.edu/~pete/sequence.html](http://theory2.phys.cwru.edu/~pete/sequence.html)|
-|[46001](https://oeis.org/A046001)|[http://enriques.mathematik.uni-mainz.de/kon/docs/Eflaechen.shtml](http://enriques.mathematik.uni-mainz.de/kon/docs/Eflaechen.shtml)|
-|[46060](https://oeis.org/A046060)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
-|[46061](https://oeis.org/A046061)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
-|[46092](https://oeis.org/A046092)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[46142](https://oeis.org/A046142)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[46413](https://oeis.org/A046413)|[http://www.h4.dion.ne.jp/~rep](http://www.h4.dion.ne.jp/~rep)|
-|[46462](https://oeis.org/A046462)|[http://www.gallup.unm.edu/~smarandache/michafleuren.htm](http://www.gallup.unm.edu/~smarandache/michafleuren.htm)|
-|[46736](https://oeis.org/A046736)|[http://ecs.inria.fr/services/structure?nbr=93](http://ecs.inria.fr/services/structure?nbr=93)|
-|[46759](https://oeis.org/A046759)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#62](http://www.chalcedon.demon.co.uk/rgep/publish.html#62), [http://www.pourlascience.com/index.php?ids=aPyshoMZcCzdxrZZogDE&amp](http://www.pourlascience.com/index.php?ids=aPyshoMZcCzdxrZZogDE&amp)|
-|[47053](https://oeis.org/A047053)|[http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf](http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf), [http://ecs.inria.fr/services/structure?nbr=492](http://ecs.inria.fr/services/structure?nbr=492)|
-|[47058](https://oeis.org/A047058)|[http://ecs.inria.fr/services/structure?nbr=528](http://ecs.inria.fr/services/structure?nbr=528)|
-|[47229](https://oeis.org/A047229)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[47329](https://oeis.org/A047329)|[http://highway55.library.yale.edu/PHOTONEGIMG/zoom/Z362/z3624231.jpg](http://highway55.library.yale.edu/PHOTONEGIMG/zoom/Z362/z3624231.jpg)|
-|[47335](https://oeis.org/A047335)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[47625](https://oeis.org/A047625)|[http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf](http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf)|
-|[47838](https://oeis.org/A047838)|[http://online-judge.uva.es/p/v102/10276.html.](http://online-judge.uva.es/p/v102/10276.html.)|
-|[47891](https://oeis.org/A047891)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[47999](https://oeis.org/A047999)|[http://www-math.cudenver.edu/~wcherowi/jcorn6.html](http://www-math.cudenver.edu/~wcherowi/jcorn6.html), [http://ccins.camosun.bc.ca/~jbritton/blaise/bigblaise.html](http://ccins.camosun.bc.ca/~jbritton/blaise/bigblaise.html), [http://www-math.cudenver.edu/~wcherowi/jcorn5.html](http://www-math.cudenver.edu/~wcherowi/jcorn5.html), [http://www.mathforum.org/dr.math/faq/formulas/faq/regpoly.html](http://www.mathforum.org/dr.math/faq/formulas/faq/regpoly.html)|
-|[48298](https://oeis.org/A048298)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
-|[48341](https://oeis.org/A048341)|[http://www.magic-squares.net/narciss.htm](http://www.magic-squares.net/narciss.htm)|
-|[48574](https://oeis.org/A048574)|[http://ecs.inria.fr/services/structure?nbr=804](http://ecs.inria.fr/services/structure?nbr=804)|
-|[48691](https://oeis.org/A048691)|[http://www.kalva.demon.co.uk/putnam/psoln/psol601.html](http://www.kalva.demon.co.uk/putnam/psoln/psol601.html)|
-|[48710](https://oeis.org/A048710)|[http://www.iki.fi/%7Ekartturi/matikka/r90x150a.htm](http://www.iki.fi/%7Ekartturi/matikka/r90x150a.htm)|
-|[48739](https://oeis.org/A048739)|[http://ecs.inria.fr/services/structure?nbr=1065](http://ecs.inria.fr/services/structure?nbr=1065)|
-|[48764](https://oeis.org/A048764)|[http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf](http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf), [http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
-|[48802](https://oeis.org/A048802)|[http://ecs.inria.fr/services/structure?nbr=861](http://ecs.inria.fr/services/structure?nbr=861)|
-|[48874](https://oeis.org/A048874)|[http://www.css.tayloru.edu/~mdelong/undergrad.html](http://www.css.tayloru.edu/~mdelong/undergrad.html)|
-|[48883](https://oeis.org/A048883)|[http://www.imfm.si/preprinti/PDF/00696.pdf](http://www.imfm.si/preprinti/PDF/00696.pdf)|
-|[49019](https://oeis.org/A049019)|[http://www.math.uakron.edu/~sf34/hedra.htm#index](http://www.math.uakron.edu/~sf34/hedra.htm#index)|
-|[49130](https://oeis.org/A049130)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[49140](https://oeis.org/A049140)|[http://ecs.inria.fr/services/structure?nbr=659](http://ecs.inria.fr/services/structure?nbr=659)|
-|[49213](https://oeis.org/A049213)|[http://www.cs.uwaterloo.ca/journals/JIS/VOL3/LANG/lang.html](http://www.cs.uwaterloo.ca/journals/JIS/VOL3/LANG/lang.html)|
-|[49287](https://oeis.org/A049287)|[http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
-|[49288](https://oeis.org/A049288)|[http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
-|[49289](https://oeis.org/A049289)|[http://www.math.tu-dresden.de/~poeschel/poePUBLICATIONSps/lispoepp.ps](http://www.math.tu-dresden.de/~poeschel/poePUBLICATIONSps/lispoepp.ps), [http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
-|[49290](https://oeis.org/A049290)|[http://com2mac.postech.ac.kr/resorce/Lecture_text.htm](http://com2mac.postech.ac.kr/resorce/Lecture_text.htm)|
-|[49297](https://oeis.org/A049297)|[http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
-|[49309](https://oeis.org/A049309)|[http://www.math.tu-dresden.de/~poeschel/Publikationen.html](http://www.math.tu-dresden.de/~poeschel/Publikationen.html)|
-|[49310](https://oeis.org/A049310)|[http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf](http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf), [http://repository.wit.ie/1693](http://repository.wit.ie/1693)|
-|[49364](https://oeis.org/A049364)|[http://www.immortaltheory.com/NumberTheory/](http://www.immortaltheory.com/NumberTheory/)|
-|[49384](https://oeis.org/A049384)|[http://www.die.uniroma1.it/strutture/labcem/](http://www.die.uniroma1.it/strutture/labcem/)|
-|[49417](https://oeis.org/A049417)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[49419](https://oeis.org/A049419)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[49507](https://oeis.org/A049507)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
 |[49980](https://oeis.org/A049980)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
 |[49981](https://oeis.org/A049981)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
 |[49982](https://oeis.org/A049982)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
@@ -1113,13 +937,38 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[49986](https://oeis.org/A049986)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
 |[49989](https://oeis.org/A049989)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
 |[49991](https://oeis.org/A049991)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
+|[186506](https://oeis.org/A186506)|[http://ms.appliedprobability.org/data/files/Abstracts%2043/43-2-5.pdf](http://ms.appliedprobability.org/data/files/Abstracts%2043/43-2-5.pdf)|
 |[49992](https://oeis.org/A049992)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
 |[49993](https://oeis.org/A049993)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
 |[49994](https://oeis.org/A049994)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
 |[49995](https://oeis.org/A049995)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
+|[277566](https://oeis.org/A277566)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
+|[141056](https://oeis.org/A141056)|[http://adsabs.harvard.edu/abs/1840AN.....17R.351](http://adsabs.harvard.edu/abs/1840AN.....17R.351)|
+|[277632](https://oeis.org/A277632)|[http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp](http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp)|
+|[323191](https://oeis.org/A323191)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[141165](https://oeis.org/A141165)|[https://oeis.org/wiki/User:Peter_Luschny/BinaryQuadraticForms#Implementation](https://oeis.org/wiki/User:Peter_Luschny/BinaryQuadraticForms#Implementation)|
+|[323202](https://oeis.org/A323202)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[4490](https://oeis.org/A004490)|[http://www.math.jussieu.fr/~miw/articles/pdf/LegacyRamanujan2013Text.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/LegacyRamanujan2013Text.pdf)|
+|[141199](https://oeis.org/A141199)|[http://ago.inria.fr/libraries/libraries.html).](http://ago.inria.fr/libraries/libraries.html).)|
+|[277739](https://oeis.org/A277739)|[http://dx.doi.org/10.3311/PPee.7074](http://dx.doi.org/10.3311/PPee.7074)|
+|[277741](https://oeis.org/A277741)|[http://dx.doi.org/10.3311/PPee.7074](http://dx.doi.org/10.3311/PPee.7074)|
+|[4523](https://oeis.org/A004523)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[4524](https://oeis.org/A004524)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[4601](https://oeis.org/A004601)|[http://www.befria.nu/elias/pi/](http://www.befria.nu/elias/pi/)|
+|[4603](https://oeis.org/A004603)|[http://www.befria.nu/elias/pi/lookpi.html](http://www.befria.nu/elias/pi/lookpi.html)|
 |[50289](https://oeis.org/A050289)|[http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsn.html](http://www-ang.kfunigraz.ac.at/~fripert/fga/k1elsn.html)|
+|[186809](https://oeis.org/A186809)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
+|[277847](https://oeis.org/A277847)|[http://list.seqfan.eu/oldermail/seqfan/2016-November/016878.html](http://list.seqfan.eu/oldermail/seqfan/2016-November/016878.html)|
+|[186813](https://oeis.org/A186813)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
+|[232397](https://oeis.org/A232397)|[http://list.seqfan.eu/oldermail/seqfan/2013-November/011886.html](http://list.seqfan.eu/oldermail/seqfan/2013-November/011886.html)|
 |[50383](https://oeis.org/A050383)|[http://ecs.inria.fr/services/structure?nbr=773](http://ecs.inria.fr/services/structure?nbr=773)|
+|[4718](https://oeis.org/A004718)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[50407](https://oeis.org/A050407)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
+|[95926](https://oeis.org/A095926)|[http://7427466391.com](http://7427466391.com)|
+|[95937](https://oeis.org/A095937)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
+|[4767](https://oeis.org/A004767)|[http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf](http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf)|
+|[4771](https://oeis.org/A004771)|[http://ecs.inria.fr/services/structure?nbr=962](http://ecs.inria.fr/services/structure?nbr=962)|
+|[95968](https://oeis.org/A095968)|[http://www.izzycat.org/math/index.php?p=51](http://www.izzycat.org/math/index.php?p=51)|
 |[50534](https://oeis.org/A050534)|[http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf)|
 |[50537](https://oeis.org/A050537)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50538](https://oeis.org/A050538)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
@@ -1142,6 +991,7 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[50557](https://oeis.org/A050557)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50558](https://oeis.org/A050558)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50559](https://oeis.org/A050559)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
+|[187074](https://oeis.org/A187074)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
 |[50560](https://oeis.org/A050560)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50561](https://oeis.org/A050561)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50562](https://oeis.org/A050562)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
@@ -1154,7 +1004,7 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[50569](https://oeis.org/A050569)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50570](https://oeis.org/A050570)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50571](https://oeis.org/A050571)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
-|[50572](https://oeis.org/A050572)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
+|[96082](https://oeis.org/A096082)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
 |[50573](https://oeis.org/A050573)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50574](https://oeis.org/A050574)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50575](https://oeis.org/A050575)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
@@ -1181,12 +1031,30 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[50597](https://oeis.org/A050597)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50598](https://oeis.org/A050598)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50599](https://oeis.org/A050599)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
+|[141618](https://oeis.org/A141618)|[https://mathfiles.kfupm.edu.sa/data/files/mathonly/TechnicalReportsData/305.pdf](https://mathfiles.kfupm.edu.sa/data/files/mathonly/TechnicalReportsData/305.pdf)|
+|[323658](https://oeis.org/A323658)|[http://www.scielo.org.co/scielo.php?script=sci_arttext&amp](http://www.scielo.org.co/scielo.php?script=sci_arttext&amp)|
 |[50616](https://oeis.org/A050616)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50617](https://oeis.org/A050617)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50618](https://oeis.org/A050618)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50619](https://oeis.org/A050619)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
-|[50680](https://oeis.org/A050680)|[http://www.gallup.unm.edu/~smarandache/michafleuren.htm](http://www.gallup.unm.edu/~smarandache/michafleuren.htm)|
+|[96151](https://oeis.org/A096151)|[http://www-gap.dcs.st-and.ac.uk/~history/Diagrams/ArchimedesCPSoln.gif](http://www-gap.dcs.st-and.ac.uk/~history/Diagrams/ArchimedesCPSoln.gif), [http://www.mcs.drexel.edu/~crorres/Archimedes/Cattle/Statement.html](http://www.mcs.drexel.edu/~crorres/Archimedes/Cattle/Statement.html)|
+|[50679](https://oeis.org/A050679)|[http://www.gallup.unm.edu/~smarandache/michafleuren.htm](http://www.gallup.unm.edu/~smarandache/michafleuren.htm)|
+|[50680](https://oeis.org/A050680)|[http://www.gallup.unm.edu/~smarandache/michafleuren.htm](http://www.gallup.unm.edu/~smarandache/michafleuren.htm), [http://www.gallup.unm.edu/~smarandache/micha.txt](http://www.gallup.unm.edu/~smarandache/micha.txt)|
+|[50681](https://oeis.org/A050681)|[http://www.gallup.unm.edu/~smarandache/michafleuren.htm](http://www.gallup.unm.edu/~smarandache/michafleuren.htm), [http://www.gallup.unm.edu/~smarandache/micha.txt](http://www.gallup.unm.edu/~smarandache/micha.txt)|
+|[50682](https://oeis.org/A050682)|[http://www.gallup.unm.edu/~smarandache/micha.txt](http://www.gallup.unm.edu/~smarandache/micha.txt)|
 |[50694](https://oeis.org/A050694)|[http://home.mindspring.com/~kikiriki/id14.html](http://home.mindspring.com/~kikiriki/id14.html)|
+|[5036](https://oeis.org/A005036)|[http://com2mac.postech.ac.kr/papers/2001/01-06.pdf](http://com2mac.postech.ac.kr/papers/2001/01-06.pdf)|
+|[323757](https://oeis.org/A323757)|[https://taac.org.ua/files/a2014/proceedings/UA-2-Andrew%20Lelechenko-440.pdf](https://taac.org.ua/files/a2014/proceedings/UA-2-Andrew%20Lelechenko-440.pdf)|
+|[5040](https://oeis.org/A005040)|[http://com2mac.postech.ac.kr/](http://com2mac.postech.ac.kr/)|
+|[5043](https://oeis.org/A005043)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf), [http://ecs.inria.fr/services/structure?nbr=423](http://ecs.inria.fr/services/structure?nbr=423)|
+|[5044](https://oeis.org/A005044)|[http://www2.edc.org/makingmath/handbook/Teacher/GettingInformation/TrianglesAndBarrels.pdf](http://www2.edc.org/makingmath/handbook/Teacher/GettingInformation/TrianglesAndBarrels.pdf)|
+|[5053](https://oeis.org/A005053)|[http://ecs.inria.fr/services/structure?nbr=883](http://ecs.inria.fr/services/structure?nbr=883)|
+|[5054](https://oeis.org/A005054)|[http://ecs.inria.fr/services/structure?nbr=458](http://ecs.inria.fr/services/structure?nbr=458)|
+|[5100](https://oeis.org/A005100)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
+|[5101](https://oeis.org/A005101)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
+|[96300](https://oeis.org/A096300)|[http://cr.yp.to/bib/1989/granville.ps](http://cr.yp.to/bib/1989/granville.ps)|
+|[5126](https://oeis.org/A005126)|[http://ecs.inria.fr/services/structure?nbr=921](http://ecs.inria.fr/services/structure?nbr=921)|
+|[141826](https://oeis.org/A141826)|[http://www.scienceu.com/geometry/facts/solids/handson.html](http://www.scienceu.com/geometry/facts/solids/handson.html)|
 |[50830](https://oeis.org/A050830)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50831](https://oeis.org/A050831)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50832](https://oeis.org/A050832)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
@@ -1199,7 +1067,9 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[50839](https://oeis.org/A050839)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50840](https://oeis.org/A050840)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50841](https://oeis.org/A050841)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
+|[5166](https://oeis.org/A005166)|[http://igd.univ-lyon1.fr/home/mizony/premiers.html](http://igd.univ-lyon1.fr/home/mizony/premiers.html)|
 |[50842](https://oeis.org/A050842)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
+|[5167](https://oeis.org/A005167)|[http://igd.univ-lyon1.fr/home/mizony/premiers.html](http://igd.univ-lyon1.fr/home/mizony/premiers.html)|
 |[50843](https://oeis.org/A050843)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50844](https://oeis.org/A050844)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50845](https://oeis.org/A050845)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
@@ -1212,6 +1082,7 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[50852](https://oeis.org/A050852)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50853](https://oeis.org/A050853)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50854](https://oeis.org/A050854)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
+|[5180](https://oeis.org/A005180)|[http://for.mat.bham.ac.uk/atlas/html](http://for.mat.bham.ac.uk/atlas/html)|
 |[50855](https://oeis.org/A050855)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50856](https://oeis.org/A050856)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50857](https://oeis.org/A050857)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
@@ -1219,10 +1090,11 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[50859](https://oeis.org/A050859)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50860](https://oeis.org/A050860)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50861](https://oeis.org/A050861)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
+|[5187](https://oeis.org/A005187)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[50862](https://oeis.org/A050862)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
+|[5188](https://oeis.org/A005188)|[http://everything2.net/index.pl?node_id=1525466&amp](http://everything2.net/index.pl?node_id=1525466&amp), [http://everything2.net/index.pl?node_id=1407017&amp](http://everything2.net/index.pl?node_id=1407017&amp)|
 |[50863](https://oeis.org/A050863)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50864](https://oeis.org/A050864)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
-|[50865](https://oeis.org/A050865)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50866](https://oeis.org/A050866)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50867](https://oeis.org/A050867)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50868](https://oeis.org/A050868)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
@@ -1256,36 +1128,162 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[50904](https://oeis.org/A050904)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50905](https://oeis.org/A050905)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50906](https://oeis.org/A050906)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
+|[5231](https://oeis.org/A005231)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
 |[50907](https://oeis.org/A050907)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
 |[50908](https://oeis.org/A050908)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
+|[5245](https://oeis.org/A005245)|[http://expmath.lumii.lv/wiki/index.php/Special:Complexity](http://expmath.lumii.lv/wiki/index.php/Special:Complexity), [http://hdl.handle.net/10515/sy5sj1b71](http://hdl.handle.net/10515/sy5sj1b71)|
+|[5251](https://oeis.org/A005251)|[http://ecs.inria.fr/services/structure?nbr=98](http://ecs.inria.fr/services/structure?nbr=98)|
+|[5252](https://oeis.org/A005252)|[http://ecs.inria.fr/services/structure?nbr=424](http://ecs.inria.fr/services/structure?nbr=424)|
+|[5253](https://oeis.org/A005253)|[http://ecs.inria.fr/services/structure?nbr=425](http://ecs.inria.fr/services/structure?nbr=425)|
+|[5259](https://oeis.org/A005259)|[http://www.math.jussieu.fr/~allouche/bibliorecente.html](http://www.math.jussieu.fr/~allouche/bibliorecente.html)|
+|[5271](https://oeis.org/A005271)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[5314](https://oeis.org/A005314)|[http://ecs.inria.fr/services/structure?nbr=426](http://ecs.inria.fr/services/structure?nbr=426)|
+|[324036](https://oeis.org/A324036)|[http://nini-software.fr/site/uploads/arithmetics/collatz/Intrinsic%203x+1%20V2.01.pdf](http://nini-software.fr/site/uploads/arithmetics/collatz/Intrinsic%203x+1%20V2.01.pdf)|
+|[324038](https://oeis.org/A324038)|[http://nini-software.fr/site/uploads/arithmetics/collatz/Intrinsic%203x+1%20V2.01.pdf](http://nini-software.fr/site/uploads/arithmetics/collatz/Intrinsic%203x+1%20V2.01.pdf)|
+|[5322](https://oeis.org/A005322)|[https://liforce.usthb.dz/sites/default/files/2020-11/article1.pdf](https://liforce.usthb.dz/sites/default/files/2020-11/article1.pdf)|
+|[5390](https://oeis.org/A005390)|[http://mathematik.htwm.de/software/gedit/index.html.en](http://mathematik.htwm.de/software/gedit/index.html.en)|
+|[187595](https://oeis.org/A187595)|[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD273464&amp](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD273464&amp)|
+|[5408](https://oeis.org/A005408)|[http://ecs.inria.fr/services/structure?nbr=935](http://ecs.inria.fr/services/structure?nbr=935), [http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
+|[96595](https://oeis.org/A096595)|[http://home.mindspring.com/~kikiriki/id15.html](http://home.mindspring.com/~kikiriki/id15.html)|
+|[5422](https://oeis.org/A005422)|[http://www.h4.dion.ne.jp/~rep/](http://www.h4.dion.ne.jp/~rep/)|
+|[5432](https://oeis.org/A005432)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
+|[5442](https://oeis.org/A005442)|[http://ecs.inria.fr/services/structure?nbr=494](http://ecs.inria.fr/services/structure?nbr=494)|
+|[5443](https://oeis.org/A005443)|[http://ecs.inria.fr/services/structure?nbr=511](http://ecs.inria.fr/services/structure?nbr=511)|
+|[5471](https://oeis.org/A005471)|[https://doi:10.2969/jmsj/02630447](https://doi:10.2969/jmsj/02630447)|
+|[51167](https://oeis.org/A051167)|[http://pobox.com/~djb/papers/sortedsums.dvi](http://pobox.com/~djb/papers/sortedsums.dvi)|
+|[5493](https://oeis.org/A005493)|[http://ecs.inria.fr/services/structure?nbr=152](http://ecs.inria.fr/services/structure?nbr=152)|
 |[51188](https://oeis.org/A051188)|[http://ecs.inria.fr/services/structure?nbr=614](http://ecs.inria.fr/services/structure?nbr=614)|
+|[324245](https://oeis.org/A324245)|[http://nini-software.fr/site/uploads/arithmetics/collatz/Intrinsic%203x+1%20V2.01.pdf](http://nini-software.fr/site/uploads/arithmetics/collatz/Intrinsic%203x+1%20V2.01.pdf)|
+|[324246](https://oeis.org/A324246)|[http://nini-software.fr/site/uploads/arithmetics/collatz/Intrinsic%203x+1%20V2.01.pdf](http://nini-software.fr/site/uploads/arithmetics/collatz/Intrinsic%203x+1%20V2.01.pdf)|
+|[5536](https://oeis.org/A005536)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[187737](https://oeis.org/A187737)|[http://oai.cwi.nl/oai/asset/6942/6942A.pdf](http://oai.cwi.nl/oai/asset/6942/6942A.pdf)|
 |[51224](https://oeis.org/A051224)|[http://m29s20.vlinux.de/~wschub/nqueen.html](http://m29s20.vlinux.de/~wschub/nqueen.html), [http://m29s20.vlinux.de/~wschub/nqueen.html](http://m29s20.vlinux.de/~wschub/nqueen.html)|
+|[5563](https://oeis.org/A005563)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[5568](https://oeis.org/A005568)|[http://webpages.ursinus.edu/nscoville/DMFIntegersSubmission.pdf](http://webpages.ursinus.edu/nscoville/DMFIntegersSubmission.pdf)|
+|[5572](https://oeis.org/A005572)|[http://ecs.inria.fr/services/structure?nbr=153](http://ecs.inria.fr/services/structure?nbr=153)|
+|[5581](https://oeis.org/A005581)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[5583](https://oeis.org/A005583)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[5584](https://oeis.org/A005584)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[5594](https://oeis.org/A005594)|[http://ecs.inria.fr/services/structure?nbr=111](http://ecs.inria.fr/services/structure?nbr=111), [http://ecs.inria.fr/services/structure?nbr=107](http://ecs.inria.fr/services/structure?nbr=107)|
+|[5602](https://oeis.org/A005602)|[http://ksc9.th.com/warut/cunningham.html](http://ksc9.th.com/warut/cunningham.html)|
+|[5649](https://oeis.org/A005649)|[http://ecs.inria.fr/services/structure?nbr=154](http://ecs.inria.fr/services/structure?nbr=154)|
 |[51337](https://oeis.org/A051337)|[http://www.gutenberg.org/ebooks/42833](http://www.gutenberg.org/ebooks/42833)|
+|[5668](https://oeis.org/A005668)|[http://ecs.inria.fr/services/structure?nbr=427](http://ecs.inria.fr/services/structure?nbr=427)|
+|[187871](https://oeis.org/A187871)|[http://www.misacertijos.com.ar/2011/03/lineas-con-numeros-de-1-n.html](http://www.misacertijos.com.ar/2011/03/lineas-con-numeros-de-1-n.html)|
+|[5704](https://oeis.org/A005704)|[http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf](http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf)|
+|[5705](https://oeis.org/A005705)|[http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf](http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf)|
+|[5706](https://oeis.org/A005706)|[http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf](http://140.109.74.92/hk/wp-content/files/2012/07/mis-n-to-the-logn.pdf)|
+|[5708](https://oeis.org/A005708)|[http://ecs.inria.fr/services/structure?nbr=379](http://ecs.inria.fr/services/structure?nbr=379)|
+|[5709](https://oeis.org/A005709)|[http://ecs.inria.fr/services/structure?nbr=380](http://ecs.inria.fr/services/structure?nbr=380)|
+|[5710](https://oeis.org/A005710)|[http://ecs.inria.fr/services/structure?nbr=381](http://ecs.inria.fr/services/structure?nbr=381)|
+|[5711](https://oeis.org/A005711)|[http://ecs.inria.fr/services/structure?nbr=382](http://ecs.inria.fr/services/structure?nbr=382)|
+|[5750](https://oeis.org/A005750)|[http://ecs.inria.fr/services/structure?nbr=428](http://ecs.inria.fr/services/structure?nbr=428)|
+|[5753](https://oeis.org/A005753)|[http://ecs.inria.fr/services/structure?nbr=429](http://ecs.inria.fr/services/structure?nbr=429)|
+|[5754](https://oeis.org/A005754)|[http://ecs.inria.fr/services/structure?nbr=430](http://ecs.inria.fr/services/structure?nbr=430)|
 |[51437](https://oeis.org/A051437)|[http://www2.informns.k12.mn.us/schoolties/class/homeroom1.cfm?class=tyoung1](http://www2.informns.k12.mn.us/schoolties/class/homeroom1.cfm?class=tyoung1)|
+|[5773](https://oeis.org/A005773)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/mansour_shattuck.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/mansour_shattuck.pdf)|
+|[5807](https://oeis.org/A005807)|[http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf](http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf), [http://ecs.inria.fr/services/structure?nbr=431](http://ecs.inria.fr/services/structure?nbr=431)|
+|[233538](https://oeis.org/A233538)|[http://amicable.homepage.dk/apstat.htm#typesys](http://amicable.homepage.dk/apstat.htm#typesys)|
+|[5811](https://oeis.org/A005811)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
+|[5820](https://oeis.org/A005820)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
+|[5828](https://oeis.org/A005828)|[http://www-maths.swan.ac.uk/pgrads/bb/project/node28.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node28.html)|
+|[5835](https://oeis.org/A005835)|[http://www-maths.swan.ac.uk/pgrads/bb/project/node36.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node36.html)|
+|[5836](https://oeis.org/A005836)|[http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi](http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi), [http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
+|[5840](https://oeis.org/A005840)|[http://dedekind.mit.edu/~rstan/pubs/pubfiles/83.pdf](http://dedekind.mit.edu/~rstan/pubs/pubfiles/83.pdf)|
+|[5864](https://oeis.org/A005864)|[http://saturn.hut.fi/~pat/](http://saturn.hut.fi/~pat/)|
 |[51567](https://oeis.org/A051567)|[http://www.scribd.com/doc/207185086/Gardner-1997-the-Last-Recreations](http://www.scribd.com/doc/207185086/Gardner-1997-the-Last-Recreations)|
+|[5893](https://oeis.org/A005893)|[http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf](http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf)|
 |[51578](https://oeis.org/A051578)|[http://ecs.inria.fr/services/structure?nbr=521](http://ecs.inria.fr/services/structure?nbr=521)|
+|[5900](https://oeis.org/A005900)|[http://members.fortunecity.fr/polynexus/index.html](http://members.fortunecity.fr/polynexus/index.html)|
+|[5914](https://oeis.org/A005914)|[https://derby.openrepository.com/handle/10545/583372](https://derby.openrepository.com/handle/10545/583372)|
+|[97130](https://oeis.org/A097130)|[http://dsns.csie.nctu.edu.tw/research/crypto/HTML/PDF/E88/267.PDF](http://dsns.csie.nctu.edu.tw/research/crypto/HTML/PDF/E88/267.PDF)|
+|[5942](https://oeis.org/A005942)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[279194](https://oeis.org/A279194)|[http://www-irma.u-strasbg.fr/~guoniu/papers/p93apwen/](http://www-irma.u-strasbg.fr/~guoniu/papers/p93apwen/)|
+|[279195](https://oeis.org/A279195)|[http://www-irma.u-strasbg.fr/~guoniu/papers/p93apwen/](http://www-irma.u-strasbg.fr/~guoniu/papers/p93apwen/)|
+|[142708](https://oeis.org/A142708)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[6012](https://oeis.org/A006012)|[http://ecs.inria.fr/services/structure?nbr=155](http://ecs.inria.fr/services/structure?nbr=155)|
+|[6013](https://oeis.org/A006013)|[http://ecs.inria.fr/services/structure?nbr=432](http://ecs.inria.fr/services/structure?nbr=432)|
 |[51711](https://oeis.org/A051711)|[http://oldweb.cecm.sfu.ca/projects/IntegerRelations/MAA/emerging98.html](http://oldweb.cecm.sfu.ca/projects/IntegerRelations/MAA/emerging98.html), [http://ecs.inria.fr/services/structure?nbr=647](http://ecs.inria.fr/services/structure?nbr=647)|
+|[6037](https://oeis.org/A006037)|[http://bib.tiera.ru/ShiZ/math/other/Handbook%20Of%20Number%20Theory%20II%20-%20J.%20Sandor](http://bib.tiera.ru/ShiZ/math/other/Handbook%20Of%20Number%20Theory%20II%20-%20J.%20Sandor)|
+|[233779](https://oeis.org/A233779)|[http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf](http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf)|
 |[51735](https://oeis.org/A051735)|[http://science.kennesaw.edu/~jdemaio/twinbc.htm](http://science.kennesaw.edu/~jdemaio/twinbc.htm)|
+|[6053](https://oeis.org/A006053)|[http://ecs.inria.fr/services/structure?nbr=433](http://ecs.inria.fr/services/structure?nbr=433)|
+|[6054](https://oeis.org/A006054)|[http://ecs.inria.fr/services/structure?nbr=434](http://ecs.inria.fr/services/structure?nbr=434)|
+|[6066](https://oeis.org/A006066)|[http://www004.upp.so-net.ne.jp/s_honma/triangle/triangle2.htm](http://www004.upp.so-net.ne.jp/s_honma/triangle/triangle2.htm)|
 |[51770](https://oeis.org/A051770)|[http://science.kennesaw.edu/~jdemaio/twinbc.htm](http://science.kennesaw.edu/~jdemaio/twinbc.htm)|
 |[51771](https://oeis.org/A051771)|[http://science.kennesaw.edu/~jdemaio/twinbc.htm](http://science.kennesaw.edu/~jdemaio/twinbc.htm)|
+|[233824](https://oeis.org/A233824)|[http://www.nlaa8.ir/EN-Final.pdf#page=147](http://www.nlaa8.ir/EN-Final.pdf#page=147)|
+|[6127](https://oeis.org/A006127)|[http://ecs.inria.fr/services/structure?nbr=435](http://ecs.inria.fr/services/structure?nbr=435)|
+|[97323](https://oeis.org/A097323)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[6130](https://oeis.org/A006130)|[http://ecs.inria.fr/services/structure?nbr=436](http://ecs.inria.fr/services/structure?nbr=436)|
+|[6131](https://oeis.org/A006131)|[http://ecs.inria.fr/services/structure?nbr=437](http://ecs.inria.fr/services/structure?nbr=437)|
 |[51835](https://oeis.org/A051835)|[http://ksc9.th.com/warut/dubner.html](http://ksc9.th.com/warut/dubner.html)|
+|[6152](https://oeis.org/A006152)|[http://ecs.inria.fr/services/structure?nbr=156](http://ecs.inria.fr/services/structure?nbr=156)|
+|[6153](https://oeis.org/A006153)|[http://ecs.inria.fr/services/structure?nbr=110](http://ecs.inria.fr/services/structure?nbr=110)|
+|[6155](https://oeis.org/A006155)|[http://ecs.inria.fr/services/structure?nbr=157](http://ecs.inria.fr/services/structure?nbr=157)|
+|[51842](https://oeis.org/A051842)|[http://www.lmu.ac.uk/natfhe/nmeans.htm](http://www.lmu.ac.uk/natfhe/nmeans.htm)|
+|[6165](https://oeis.org/A006165)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[6166](https://oeis.org/A006166)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[51855](https://oeis.org/A051855)|[http://pages.prodigy.net/chris_nash/primeform.html](http://pages.prodigy.net/chris_nash/primeform.html)|
 |[51856](https://oeis.org/A051856)|[http://pages.prodigy.net/chris_nash/primeform.html](http://pages.prodigy.net/chris_nash/primeform.html)|
 |[51857](https://oeis.org/A051857)|[http://pages.prodigy.net/chris_nash/primeform.html](http://pages.prodigy.net/chris_nash/primeform.html)|
+|[188377](https://oeis.org/A188377)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/)|
+|[97383](https://oeis.org/A097383)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[97384](https://oeis.org/A097384)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[6190](https://oeis.org/A006190)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf), [http://ecs.inria.fr/services/structure?nbr=158](http://ecs.inria.fr/services/structure?nbr=158)|
+|[97404](https://oeis.org/A097404)|[http://www.metoffice.com/education/historic/beaufort.html](http://www.metoffice.com/education/historic/beaufort.html), [http://www.crh.noaa.gov/lot/webpage/beaufort/](http://www.crh.noaa.gov/lot/webpage/beaufort/)|
 |[51917](https://oeis.org/A051917)|[http://www.eleves.ens.fr:8080/home/madore/math/games.ps.gz](http://www.eleves.ens.fr:8080/home/madore/math/games.ps.gz)|
-|[51936](https://oeis.org/A051936)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
 |[51952](https://oeis.org/A051952)|[http://smallsystems.isn-oldenburg.de/publications/metadocs/ebs.quadratsummen.html](http://smallsystems.isn-oldenburg.de/publications/metadocs/ebs.quadratsummen.html)|
-|[52200](https://oeis.org/A052200)|[http://grail.cba.csuohio.edu/~somos/busy.html](http://grail.cba.csuohio.edu/~somos/busy.html)|
+|[97486](https://oeis.org/A097486)|[https://home.comcast.net/~davejanelle/mandel.pdf](https://home.comcast.net/~davejanelle/mandel.pdf), [https://home.comcast.net/~davejanelle/mandel.html](https://home.comcast.net/~davejanelle/mandel.html)|
+|[188510](https://oeis.org/A188510)|[http://cis.csuohio.edu/~somos/rfmc.html](http://cis.csuohio.edu/~somos/rfmc.html)|
+|[6318](https://oeis.org/A006318)|[http://oai.cwi.nl/oai/asset/21313/21313A.pdf](http://oai.cwi.nl/oai/asset/21313/21313A.pdf), [http://ecs.inria.fr/services/structure?nbr=159](http://ecs.inria.fr/services/structure?nbr=159)|
+|[188528](https://oeis.org/A188528)|[http://www.merlyn.demon.co.uk/zel-86px.htm](http://www.merlyn.demon.co.uk/zel-86px.htm)|
+|[6345](https://oeis.org/A006345)|[http://www2.ims.nus.edu.sg/preprints/2007-19.pdf](http://www2.ims.nus.edu.sg/preprints/2007-19.pdf)|
+|[6355](https://oeis.org/A006355)|[http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf), [http://ecs.inria.fr/services/structure?nbr=898](http://ecs.inria.fr/services/structure?nbr=898)|
+|[6356](https://oeis.org/A006356)|[http://ecs.inria.fr/services/structure?nbr=451](http://ecs.inria.fr/services/structure?nbr=451)|
+|[188578](https://oeis.org/A188578)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[279619](https://oeis.org/A279619)|[http://www.francescosica.org/Francesco_Sica/Publications_files/chancoopersica.pdf](http://www.francescosica.org/Francesco_Sica/Publications_files/chancoopersica.pdf)|
+|[97610](https://oeis.org/A097610)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf), [https://www.math.rochester.edu/people/faculty/doug/mypapers/lrs.pdf](https://www.math.rochester.edu/people/faculty/doug/mypapers/lrs.pdf)|
+|[6505](https://oeis.org/A006505)|[http://ecs.inria.fr/services/structure?nbr=102](http://ecs.inria.fr/services/structure?nbr=102)|
+|[97707](https://oeis.org/A097707)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
+|[6516](https://oeis.org/A006516)|[http://faculty.missouri.edu/~bankswd/papers/2008_Descartes_Final.pdf](http://faculty.missouri.edu/~bankswd/papers/2008_Descartes_Final.pdf)|
+|[6518](https://oeis.org/A006518)|[http://www-centre.mpce.mq.edu.au/alfpapers/a107.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a107.pdf)|
+|[6534](https://oeis.org/A006534)|[http://www.g4g4.com/contentsmmpp.html](http://www.g4g4.com/contentsmmpp.html)|
+|[143300](https://oeis.org/A143300)|[http://www.pages.drexel.edu/~schmutze/PAPERS/musn.pdf](http://www.pages.drexel.edu/~schmutze/PAPERS/musn.pdf), [http://ftp.bolyai.hu/~p_erdos/1965-08.pdf](http://ftp.bolyai.hu/~p_erdos/1965-08.pdf)|
 |[52319](https://oeis.org/A052319)|[http://puma.dimai.unifi.it/22_2/jones_remmel.pdf](http://puma.dimai.unifi.it/22_2/jones_remmel.pdf)|
+|[6632](https://oeis.org/A006632)|[http://ecs.inria.fr/services/structure?nbr=438](http://ecs.inria.fr/services/structure?nbr=438)|
+|[234373](https://oeis.org/A234373)|[http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf](http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf)|
 |[52333](https://oeis.org/A052333)|[http://www.znz.freesurf.fr/pages/titanix.html).](http://www.znz.freesurf.fr/pages/titanix.html).)|
 |[52334](https://oeis.org/A052334)|[http://www.znz.freesurf.fr/pages/titanix.html).](http://www.znz.freesurf.fr/pages/titanix.html).)|
+|[6677](https://oeis.org/A006677)|[http://ecs.inria.fr/services/structure?nbr=160](http://ecs.inria.fr/services/structure?nbr=160)|
 |[52382](https://oeis.org/A052382)|[http://carmaweb.newcastle.edu.au/mahler/docs/115.pdf](http://carmaweb.newcastle.edu.au/mahler/docs/115.pdf)|
+|[6711](https://oeis.org/A006711)|[http://pumj.org/docs/Issue1/Article_4.pdf](http://pumj.org/docs/Issue1/Article_4.pdf)|
+|[6716](https://oeis.org/A006716)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
+|[325449](https://oeis.org/A325449)|[http://oai.cwi.nl/oai/asset/13093/13093A.pdf](http://oai.cwi.nl/oai/asset/13093/13093A.pdf)|
+|[6721](https://oeis.org/A006721)|[http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Problems.html](http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Problems.html)|
+|[6722](https://oeis.org/A006722)|[http://grail.eecs.csuohio.edu/~somos/somos6.html](http://grail.eecs.csuohio.edu/~somos/somos6.html)|
+|[6723](https://oeis.org/A006723)|[http://grail.eecs.csuohio.edu/~somos/somos7.html](http://grail.eecs.csuohio.edu/~somos/somos7.html)|
+|[97928](https://oeis.org/A097928)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FPari%20GP%20scripts&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FPari%20GP%20scripts&amp)|
+|[97929](https://oeis.org/A097929)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FPari%20GP%20scripts&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FPari%20GP%20scripts&amp)|
+|[97930](https://oeis.org/A097930)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FPari%20GP%20scripts&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FPari%20GP%20scripts&amp)|
+|[97931](https://oeis.org/A097931)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FPari%20GP%20scripts&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FPari%20GP%20scripts&amp)|
 |[52431](https://oeis.org/A052431)|[http://dcsmail.anu.edu.au/pipermail/nauty-list/2002/000031.html](http://dcsmail.anu.edu.au/pipermail/nauty-list/2002/000031.html)|
+|[97937](https://oeis.org/A097937)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[52433](https://oeis.org/A052433)|[http://dcsmail.anu.edu.au/pipermail/nauty-list/2002/000031.html](http://dcsmail.anu.edu.au/pipermail/nauty-list/2002/000031.html)|
 |[52434](https://oeis.org/A052434)|[http://harry-j-smith-memorial.com/download.html#XPCalc](http://harry-j-smith-memorial.com/download.html#XPCalc)|
-|[52447](https://oeis.org/A052447)|[https://www3.tuhh.de/e11/schmidt/CombinatorialData/GraphData.html](https://www3.tuhh.de/e11/schmidt/CombinatorialData/GraphData.html)|
-|[52448](https://oeis.org/A052448)|[https://www3.tuhh.de/e11/schmidt/CombinatorialData/GraphData.html](https://www3.tuhh.de/e11/schmidt/CombinatorialData/GraphData.html)|
-|[52453](https://oeis.org/A052453)|[http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
+|[6752](https://oeis.org/A006752)|[https://www.gutenberg.org/ebooks/682](https://www.gutenberg.org/ebooks/682), [http://www.gutenberg.org/etext/812](http://www.gutenberg.org/etext/812)|
+|[6753](https://oeis.org/A006753)|[http://everything2.net/index.pl?node_id=1104442&amp](http://everything2.net/index.pl?node_id=1104442&amp)|
+|[52453](https://oeis.org/A052453)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html), [http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
+|[143484](https://oeis.org/A143484)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
+|[143485](https://oeis.org/A143485)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
+|[143486](https://oeis.org/A143486)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
+|[143487](https://oeis.org/A143487)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
+|[143488](https://oeis.org/A143488)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
+|[143489](https://oeis.org/A143489)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
+|[143490](https://oeis.org/A143490)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
+|[6792](https://oeis.org/A006792)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/index.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/index.html)|
+|[6799](https://oeis.org/A006799)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/index.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/index.html)|
+|[6800](https://oeis.org/A006800)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/index.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/index.html)|
 |[52501](https://oeis.org/A052501)|[http://ecs.inria.fr/services/structure?nbr=26](http://ecs.inria.fr/services/structure?nbr=26)|
 |[52502](https://oeis.org/A052502)|[http://ecs.inria.fr/services/structure?nbr=27](http://ecs.inria.fr/services/structure?nbr=27)|
 |[52503](https://oeis.org/A052503)|[http://ecs.inria.fr/services/structure?nbr=28](http://ecs.inria.fr/services/structure?nbr=28)|
@@ -1293,7 +1291,9 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52505](https://oeis.org/A052505)|[http://ecs.inria.fr/services/structure?nbr=38](http://ecs.inria.fr/services/structure?nbr=38)|
 |[52506](https://oeis.org/A052506)|[http://ecs.inria.fr/services/structure?nbr=39](http://ecs.inria.fr/services/structure?nbr=39)|
 |[52510](https://oeis.org/A052510)|[http://ecs.inria.fr/services/structure?nbr=54](http://ecs.inria.fr/services/structure?nbr=54)|
+|[143530](https://oeis.org/A143530)|[http://www-m3.ma.tum.de/m3old/bornemann/challengebook/AppendixD/waldvogel_problem_solution.pdf](http://www-m3.ma.tum.de/m3old/bornemann/challengebook/AppendixD/waldvogel_problem_solution.pdf)|
 |[52512](https://oeis.org/A052512)|[http://ecs.inria.fr/services/structure?nbr=58](http://ecs.inria.fr/services/structure?nbr=58)|
+|[143531](https://oeis.org/A143531)|[http://www-m3.ma.tum.de/m3old/bornemann/challengebook/AppendixD/waldvogel_problem_solution.pdf](http://www-m3.ma.tum.de/m3old/bornemann/challengebook/AppendixD/waldvogel_problem_solution.pdf)|
 |[52513](https://oeis.org/A052513)|[http://ecs.inria.fr/services/structure?nbr=59](http://ecs.inria.fr/services/structure?nbr=59)|
 |[52514](https://oeis.org/A052514)|[http://ecs.inria.fr/services/structure?nbr=60](http://ecs.inria.fr/services/structure?nbr=60)|
 |[52515](https://oeis.org/A052515)|[http://ecs.inria.fr/services/structure?nbr=81](http://ecs.inria.fr/services/structure?nbr=81)|
@@ -1311,12 +1311,12 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52527](https://oeis.org/A052527)|[http://ecs.inria.fr/services/structure?nbr=453](http://ecs.inria.fr/services/structure?nbr=453)|
 |[52528](https://oeis.org/A052528)|[http://ecs.inria.fr/services/structure?nbr=455](http://ecs.inria.fr/services/structure?nbr=455)|
 |[52529](https://oeis.org/A052529)|[http://ecs.inria.fr/services/structure?nbr=459](http://ecs.inria.fr/services/structure?nbr=459)|
-|[52530](https://oeis.org/A052530)|[http://ecs.inria.fr/services/structure?nbr=460](http://ecs.inria.fr/services/structure?nbr=460)|
 |[52531](https://oeis.org/A052531)|[http://ecs.inria.fr/services/structure?nbr=461](http://ecs.inria.fr/services/structure?nbr=461)|
 |[52532](https://oeis.org/A052532)|[http://ecs.inria.fr/services/structure?nbr=462](http://ecs.inria.fr/services/structure?nbr=462)|
 |[52533](https://oeis.org/A052533)|[http://ecs.inria.fr/services/structure?nbr=463](http://ecs.inria.fr/services/structure?nbr=463)|
 |[52534](https://oeis.org/A052534)|[http://ecs.inria.fr/services/structure?nbr=464](http://ecs.inria.fr/services/structure?nbr=464)|
 |[52535](https://oeis.org/A052535)|[http://ecs.inria.fr/services/structure?nbr=465](http://ecs.inria.fr/services/structure?nbr=465)|
+|[98041](https://oeis.org/A098041)|[http://cadigweb.ew.usna.edu/%7ewdj/mcmath/shanks_squfof.pdf](http://cadigweb.ew.usna.edu/%7ewdj/mcmath/shanks_squfof.pdf)|
 |[52536](https://oeis.org/A052536)|[http://ecs.inria.fr/services/structure?nbr=467](http://ecs.inria.fr/services/structure?nbr=467)|
 |[52537](https://oeis.org/A052537)|[http://ecs.inria.fr/services/structure?nbr=468](http://ecs.inria.fr/services/structure?nbr=468)|
 |[52538](https://oeis.org/A052538)|[http://ecs.inria.fr/services/structure?nbr=469](http://ecs.inria.fr/services/structure?nbr=469)|
@@ -1328,9 +1328,13 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52544](https://oeis.org/A052544)|[http://ecs.inria.fr/services/structure?nbr=480](http://ecs.inria.fr/services/structure?nbr=480)|
 |[52545](https://oeis.org/A052545)|[http://ecs.inria.fr/services/structure?nbr=481](http://ecs.inria.fr/services/structure?nbr=481)|
 |[52546](https://oeis.org/A052546)|[http://ecs.inria.fr/services/structure?nbr=482](http://ecs.inria.fr/services/structure?nbr=482)|
+|[234589](https://oeis.org/A234589)|[http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf](http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf)|
 |[52547](https://oeis.org/A052547)|[http://ecs.inria.fr/services/structure?nbr=483](http://ecs.inria.fr/services/structure?nbr=483)|
+|[234590](https://oeis.org/A234590)|[http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf](http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf)|
 |[52548](https://oeis.org/A052548)|[http://ecs.inria.fr/services/structure?nbr=485](http://ecs.inria.fr/services/structure?nbr=485)|
+|[234591](https://oeis.org/A234591)|[http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf](http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf)|
 |[52549](https://oeis.org/A052549)|[http://ecs.inria.fr/services/structure?nbr=486](http://ecs.inria.fr/services/structure?nbr=486)|
+|[234592](https://oeis.org/A234592)|[http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf](http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf)|
 |[52550](https://oeis.org/A052550)|[http://ecs.inria.fr/services/structure?nbr=487](http://ecs.inria.fr/services/structure?nbr=487)|
 |[52551](https://oeis.org/A052551)|[http://ecs.inria.fr/services/structure?nbr=488](http://ecs.inria.fr/services/structure?nbr=488)|
 |[52552](https://oeis.org/A052552)|[http://ecs.inria.fr/services/structure?nbr=489](http://ecs.inria.fr/services/structure?nbr=489)|
@@ -1384,8 +1388,10 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52601](https://oeis.org/A052601)|[http://ecs.inria.fr/services/structure?nbr=546](http://ecs.inria.fr/services/structure?nbr=546)|
 |[52602](https://oeis.org/A052602)|[http://ecs.inria.fr/services/structure?nbr=547](http://ecs.inria.fr/services/structure?nbr=547)|
 |[52603](https://oeis.org/A052603)|[http://ecs.inria.fr/services/structure?nbr=548](http://ecs.inria.fr/services/structure?nbr=548)|
+|[98108](https://oeis.org/A098108)|[http://home.iiserbhopal.ac.in/~kashyap/tau.pdf](http://home.iiserbhopal.ac.in/~kashyap/tau.pdf)|
 |[52604](https://oeis.org/A052604)|[http://ecs.inria.fr/services/structure?nbr=549](http://ecs.inria.fr/services/structure?nbr=549)|
 |[52605](https://oeis.org/A052605)|[http://ecs.inria.fr/services/structure?nbr=550](http://ecs.inria.fr/services/structure?nbr=550)|
+|[280154](https://oeis.org/A280154)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
 |[52606](https://oeis.org/A052606)|[http://ecs.inria.fr/services/structure?nbr=551](http://ecs.inria.fr/services/structure?nbr=551)|
 |[52607](https://oeis.org/A052607)|[http://ecs.inria.fr/services/structure?nbr=552](http://ecs.inria.fr/services/structure?nbr=552)|
 |[52608](https://oeis.org/A052608)|[http://ecs.inria.fr/services/structure?nbr=553](http://ecs.inria.fr/services/structure?nbr=553)|
@@ -1403,6 +1409,7 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52620](https://oeis.org/A052620)|[http://ecs.inria.fr/services/structure?nbr=566](http://ecs.inria.fr/services/structure?nbr=566)|
 |[52621](https://oeis.org/A052621)|[http://ecs.inria.fr/services/structure?nbr=567](http://ecs.inria.fr/services/structure?nbr=567)|
 |[52622](https://oeis.org/A052622)|[http://ecs.inria.fr/services/structure?nbr=568](http://ecs.inria.fr/services/structure?nbr=568)|
+|[98127](https://oeis.org/A098127)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
 |[52623](https://oeis.org/A052623)|[http://ecs.inria.fr/services/structure?nbr=569](http://ecs.inria.fr/services/structure?nbr=569)|
 |[52624](https://oeis.org/A052624)|[http://ecs.inria.fr/services/structure?nbr=570](http://ecs.inria.fr/services/structure?nbr=570)|
 |[52625](https://oeis.org/A052625)|[http://ecs.inria.fr/services/structure?nbr=571](http://ecs.inria.fr/services/structure?nbr=571)|
@@ -1425,21 +1432,27 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52642](https://oeis.org/A052642)|[http://ecs.inria.fr/services/structure?nbr=588](http://ecs.inria.fr/services/structure?nbr=588)|
 |[52643](https://oeis.org/A052643)|[http://ecs.inria.fr/services/structure?nbr=589](http://ecs.inria.fr/services/structure?nbr=589)|
 |[52644](https://oeis.org/A052644)|[http://ecs.inria.fr/services/structure?nbr=590](http://ecs.inria.fr/services/structure?nbr=590)|
+|[6951](https://oeis.org/A006951)|[http://ecs.inria.fr/services/structure?nbr=161](http://ecs.inria.fr/services/structure?nbr=161)|
 |[52645](https://oeis.org/A052645)|[http://ecs.inria.fr/services/structure?nbr=591](http://ecs.inria.fr/services/structure?nbr=591)|
+|[6952](https://oeis.org/A006952)|[http://ecs.inria.fr/services/structure?nbr=162](http://ecs.inria.fr/services/structure?nbr=162)|
 |[52646](https://oeis.org/A052646)|[http://ecs.inria.fr/services/structure?nbr=592](http://ecs.inria.fr/services/structure?nbr=592)|
 |[52647](https://oeis.org/A052647)|[http://ecs.inria.fr/services/structure?nbr=593](http://ecs.inria.fr/services/structure?nbr=593)|
 |[52648](https://oeis.org/A052648)|[http://ecs.inria.fr/services/structure?nbr=595](http://ecs.inria.fr/services/structure?nbr=595)|
 |[52649](https://oeis.org/A052649)|[http://ecs.inria.fr/services/structure?nbr=596](http://ecs.inria.fr/services/structure?nbr=596)|
 |[52650](https://oeis.org/A052650)|[http://ecs.inria.fr/services/structure?nbr=597](http://ecs.inria.fr/services/structure?nbr=597)|
+|[143667](https://oeis.org/A143667)|[http://alexis.monnerot-dumaine.neuf.fr/articles/fibonacci%20fractal.pdf](http://alexis.monnerot-dumaine.neuf.fr/articles/fibonacci%20fractal.pdf)|
 |[52651](https://oeis.org/A052651)|[http://ecs.inria.fr/services/structure?nbr=598](http://ecs.inria.fr/services/structure?nbr=598)|
 |[52652](https://oeis.org/A052652)|[http://ecs.inria.fr/services/structure?nbr=599](http://ecs.inria.fr/services/structure?nbr=599)|
 |[52653](https://oeis.org/A052653)|[http://ecs.inria.fr/services/structure?nbr=600](http://ecs.inria.fr/services/structure?nbr=600)|
 |[52654](https://oeis.org/A052654)|[http://ecs.inria.fr/services/structure?nbr=601](http://ecs.inria.fr/services/structure?nbr=601)|
 |[52655](https://oeis.org/A052655)|[http://ecs.inria.fr/services/structure?nbr=602](http://ecs.inria.fr/services/structure?nbr=602)|
 |[52656](https://oeis.org/A052656)|[http://ecs.inria.fr/services/structure?nbr=603](http://ecs.inria.fr/services/structure?nbr=603)|
+|[6963](https://oeis.org/A006963)|[http://ecs.inria.fr/services/structure?nbr=109](http://ecs.inria.fr/services/structure?nbr=109)|
 |[52657](https://oeis.org/A052657)|[http://ecs.inria.fr/services/structure?nbr=604](http://ecs.inria.fr/services/structure?nbr=604)|
+|[6964](https://oeis.org/A006964)|[http://ecs.inria.fr/services/structure?nbr=439](http://ecs.inria.fr/services/structure?nbr=439)|
 |[52658](https://oeis.org/A052658)|[http://ecs.inria.fr/services/structure?nbr=605](http://ecs.inria.fr/services/structure?nbr=605)|
 |[52659](https://oeis.org/A052659)|[http://ecs.inria.fr/services/structure?nbr=606](http://ecs.inria.fr/services/structure?nbr=606)|
+|[6966](https://oeis.org/A006966)|[http://www-ifm.math.uni-hannover.de/forschung/preprintsifm.html](http://www-ifm.math.uni-hannover.de/forschung/preprintsifm.html)|
 |[52660](https://oeis.org/A052660)|[http://ecs.inria.fr/services/structure?nbr=607](http://ecs.inria.fr/services/structure?nbr=607)|
 |[52661](https://oeis.org/A052661)|[http://ecs.inria.fr/services/structure?nbr=608](http://ecs.inria.fr/services/structure?nbr=608)|
 |[52662](https://oeis.org/A052662)|[http://ecs.inria.fr/services/structure?nbr=609](http://ecs.inria.fr/services/structure?nbr=609)|
@@ -1456,18 +1469,20 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52673](https://oeis.org/A052673)|[http://ecs.inria.fr/services/structure?nbr=621](http://ecs.inria.fr/services/structure?nbr=621)|
 |[52674](https://oeis.org/A052674)|[http://ecs.inria.fr/services/structure?nbr=622](http://ecs.inria.fr/services/structure?nbr=622)|
 |[52675](https://oeis.org/A052675)|[http://ecs.inria.fr/services/structure?nbr=623](http://ecs.inria.fr/services/structure?nbr=623)|
+|[6982](https://oeis.org/A006982)|[http://www-ifm.math.uni-hannover.de/forschung/preprintsifm.html](http://www-ifm.math.uni-hannover.de/forschung/preprintsifm.html), [http://www-ifm.math.uni-hannover.de/html/preprints.phtml](http://www-ifm.math.uni-hannover.de/html/preprints.phtml)|
 |[52676](https://oeis.org/A052676)|[http://ecs.inria.fr/services/structure?nbr=624](http://ecs.inria.fr/services/structure?nbr=624)|
 |[52677](https://oeis.org/A052677)|[http://ecs.inria.fr/services/structure?nbr=625](http://ecs.inria.fr/services/structure?nbr=625)|
 |[52678](https://oeis.org/A052678)|[http://ecs.inria.fr/services/structure?nbr=626](http://ecs.inria.fr/services/structure?nbr=626)|
 |[52679](https://oeis.org/A052679)|[http://ecs.inria.fr/services/structure?nbr=627](http://ecs.inria.fr/services/structure?nbr=627)|
-|[52680](https://oeis.org/A052680)|[http://ecs.inria.fr/services/structure?nbr=628](http://ecs.inria.fr/services/structure?nbr=628)|
 |[52681](https://oeis.org/A052681)|[http://ecs.inria.fr/services/structure?nbr=629](http://ecs.inria.fr/services/structure?nbr=629)|
 |[52682](https://oeis.org/A052682)|[http://ecs.inria.fr/services/structure?nbr=630](http://ecs.inria.fr/services/structure?nbr=630)|
+|[143699](https://oeis.org/A143699)|[http://www.theophys.kth.se/~phl/Text/1factors2.pdf](http://www.theophys.kth.se/~phl/Text/1factors2.pdf)|
 |[52683](https://oeis.org/A052683)|[http://ecs.inria.fr/services/structure?nbr=631](http://ecs.inria.fr/services/structure?nbr=631)|
 |[52684](https://oeis.org/A052684)|[http://ecs.inria.fr/services/structure?nbr=632](http://ecs.inria.fr/services/structure?nbr=632)|
 |[52685](https://oeis.org/A052685)|[http://ecs.inria.fr/services/structure?nbr=633](http://ecs.inria.fr/services/structure?nbr=633)|
 |[52686](https://oeis.org/A052686)|[http://ecs.inria.fr/services/structure?nbr=634](http://ecs.inria.fr/services/structure?nbr=634)|
 |[52687](https://oeis.org/A052687)|[http://ecs.inria.fr/services/structure?nbr=635](http://ecs.inria.fr/services/structure?nbr=635)|
+|[6995](https://oeis.org/A006995)|[http://faculty.missouri.edu/~bankswd/papers/2006_palindromes_iii.pdf](http://faculty.missouri.edu/~bankswd/papers/2006_palindromes_iii.pdf)|
 |[52688](https://oeis.org/A052688)|[http://ecs.inria.fr/services/structure?nbr=636](http://ecs.inria.fr/services/structure?nbr=636)|
 |[52689](https://oeis.org/A052689)|[http://ecs.inria.fr/services/structure?nbr=637](http://ecs.inria.fr/services/structure?nbr=637)|
 |[52690](https://oeis.org/A052690)|[http://ecs.inria.fr/services/structure?nbr=638](http://ecs.inria.fr/services/structure?nbr=638)|
@@ -1479,11 +1494,15 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52696](https://oeis.org/A052696)|[http://ecs.inria.fr/services/structure?nbr=645](http://ecs.inria.fr/services/structure?nbr=645)|
 |[52697](https://oeis.org/A052697)|[http://ecs.inria.fr/services/structure?nbr=646](http://ecs.inria.fr/services/structure?nbr=646)|
 |[52698](https://oeis.org/A052698)|[http://ecs.inria.fr/services/structure?nbr=648](http://ecs.inria.fr/services/structure?nbr=648)|
+|[7006](https://oeis.org/A007006)|[http://www.labri.u-bordeaux.fr/~loeb/nov94](http://www.labri.u-bordeaux.fr/~loeb/nov94)|
 |[52699](https://oeis.org/A052699)|[http://ecs.inria.fr/services/structure?nbr=649](http://ecs.inria.fr/services/structure?nbr=649)|
 |[52700](https://oeis.org/A052700)|[http://ecs.inria.fr/services/structure?nbr=650](http://ecs.inria.fr/services/structure?nbr=650)|
-|[52701](https://oeis.org/A052701)|[http://ecs.inria.fr/services/structure?nbr=651](http://ecs.inria.fr/services/structure?nbr=651), [http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[52701](https://oeis.org/A052701)|[http://ecs.inria.fr/services/structure?nbr=651](http://ecs.inria.fr/services/structure?nbr=651)|
+|[7009](https://oeis.org/A007009)|[http://www.labri.u-bordeaux.fr/~loeb/vote.html](http://www.labri.u-bordeaux.fr/~loeb/vote.html)|
 |[52702](https://oeis.org/A052702)|[http://ecs.inria.fr/services/structure?nbr=654](http://ecs.inria.fr/services/structure?nbr=654)|
+|[7010](https://oeis.org/A007010)|[http://www.labri.u-bordeaux.fr/~loeb/vote.html](http://www.labri.u-bordeaux.fr/~loeb/vote.html)|
 |[52703](https://oeis.org/A052703)|[http://ecs.inria.fr/services/structure?nbr=656](http://ecs.inria.fr/services/structure?nbr=656)|
+|[7011](https://oeis.org/A007011)|[http://www.chalcedon.demon.co.uk/rgep/p41.ps](http://www.chalcedon.demon.co.uk/rgep/p41.ps)|
 |[52704](https://oeis.org/A052704)|[http://ecs.inria.fr/services/structure?nbr=658](http://ecs.inria.fr/services/structure?nbr=658)|
 |[52705](https://oeis.org/A052705)|[http://ecs.inria.fr/services/structure?nbr=660](http://ecs.inria.fr/services/structure?nbr=660)|
 |[52706](https://oeis.org/A052706)|[http://ecs.inria.fr/services/structure?nbr=661](http://ecs.inria.fr/services/structure?nbr=661)|
@@ -1505,30 +1524,39 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52722](https://oeis.org/A052722)|[http://ecs.inria.fr/services/structure?nbr=678](http://ecs.inria.fr/services/structure?nbr=678)|
 |[52723](https://oeis.org/A052723)|[http://ecs.inria.fr/services/structure?nbr=679](http://ecs.inria.fr/services/structure?nbr=679)|
 |[52724](https://oeis.org/A052724)|[http://ecs.inria.fr/services/structure?nbr=680](http://ecs.inria.fr/services/structure?nbr=680)|
+|[143742](https://oeis.org/A143742)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
 |[52725](https://oeis.org/A052725)|[http://ecs.inria.fr/services/structure?nbr=681](http://ecs.inria.fr/services/structure?nbr=681)|
+|[143743](https://oeis.org/A143743)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
 |[52726](https://oeis.org/A052726)|[http://ecs.inria.fr/services/structure?nbr=682](http://ecs.inria.fr/services/structure?nbr=682)|
+|[143744](https://oeis.org/A143744)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
 |[52727](https://oeis.org/A052727)|[http://ecs.inria.fr/services/structure?nbr=683](http://ecs.inria.fr/services/structure?nbr=683)|
+|[143745](https://oeis.org/A143745)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
 |[52728](https://oeis.org/A052728)|[http://ecs.inria.fr/services/structure?nbr=684](http://ecs.inria.fr/services/structure?nbr=684)|
 |[52729](https://oeis.org/A052729)|[http://ecs.inria.fr/services/structure?nbr=685](http://ecs.inria.fr/services/structure?nbr=685)|
 |[52730](https://oeis.org/A052730)|[http://ecs.inria.fr/services/structure?nbr=686](http://ecs.inria.fr/services/structure?nbr=686)|
+|[98235](https://oeis.org/A098235)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
 |[52731](https://oeis.org/A052731)|[http://ecs.inria.fr/services/structure?nbr=687](http://ecs.inria.fr/services/structure?nbr=687)|
 |[52732](https://oeis.org/A052732)|[http://ecs.inria.fr/services/structure?nbr=688](http://ecs.inria.fr/services/structure?nbr=688)|
+|[98238](https://oeis.org/A098238)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
 |[52733](https://oeis.org/A052733)|[http://ecs.inria.fr/services/structure?nbr=689](http://ecs.inria.fr/services/structure?nbr=689)|
+|[143751](https://oeis.org/A143751)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
 |[52734](https://oeis.org/A052734)|[http://ecs.inria.fr/services/structure?nbr=690](http://ecs.inria.fr/services/structure?nbr=690)|
+|[143752](https://oeis.org/A143752)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
 |[52735](https://oeis.org/A052735)|[http://ecs.inria.fr/services/structure?nbr=691](http://ecs.inria.fr/services/structure?nbr=691)|
 |[52736](https://oeis.org/A052736)|[http://ecs.inria.fr/services/structure?nbr=692](http://ecs.inria.fr/services/structure?nbr=692)|
 |[52737](https://oeis.org/A052737)|[http://ecs.inria.fr/services/structure?nbr=693](http://ecs.inria.fr/services/structure?nbr=693)|
 |[52738](https://oeis.org/A052738)|[http://ecs.inria.fr/services/structure?nbr=694](http://ecs.inria.fr/services/structure?nbr=694)|
 |[52739](https://oeis.org/A052739)|[http://ecs.inria.fr/services/structure?nbr=695](http://ecs.inria.fr/services/structure?nbr=695)|
-|[52740](https://oeis.org/A052740)|[http://ecs.inria.fr/services/structure?nbr=696](http://ecs.inria.fr/services/structure?nbr=696)|
+|[7047](https://oeis.org/A007047)|[http://www.math.uakron.edu/~sf34/stello_both.pdf](http://www.math.uakron.edu/~sf34/stello_both.pdf)|
 |[52741](https://oeis.org/A052741)|[http://ecs.inria.fr/services/structure?nbr=697](http://ecs.inria.fr/services/structure?nbr=697)|
 |[52742](https://oeis.org/A052742)|[http://ecs.inria.fr/services/structure?nbr=698](http://ecs.inria.fr/services/structure?nbr=698)|
 |[52743](https://oeis.org/A052743)|[http://ecs.inria.fr/services/structure?nbr=699](http://ecs.inria.fr/services/structure?nbr=699)|
 |[52744](https://oeis.org/A052744)|[http://ecs.inria.fr/services/structure?nbr=700](http://ecs.inria.fr/services/structure?nbr=700)|
+|[7051](https://oeis.org/A007051)|[http://dx.doi.org/10.1364/OE.22.004499](http://dx.doi.org/10.1364/OE.22.004499), [http://ecs.inria.fr/services/structure?nbr=163](http://ecs.inria.fr/services/structure?nbr=163), [http://ecs.inria.fr/services/structure?nbr=454](http://ecs.inria.fr/services/structure?nbr=454)|
 |[52745](https://oeis.org/A052745)|[http://ecs.inria.fr/services/structure?nbr=701](http://ecs.inria.fr/services/structure?nbr=701)|
+|[7052](https://oeis.org/A007052)|[http://ecs.inria.fr/services/structure?nbr=164](http://ecs.inria.fr/services/structure?nbr=164)|
 |[52746](https://oeis.org/A052746)|[http://ecs.inria.fr/services/structure?nbr=702](http://ecs.inria.fr/services/structure?nbr=702)|
 |[52747](https://oeis.org/A052747)|[http://ecs.inria.fr/services/structure?nbr=703](http://ecs.inria.fr/services/structure?nbr=703)|
-|[52748](https://oeis.org/A052748)|[http://ecs.inria.fr/services/structure?nbr=704](http://ecs.inria.fr/services/structure?nbr=704)|
 |[52749](https://oeis.org/A052749)|[http://ecs.inria.fr/services/structure?nbr=705](http://ecs.inria.fr/services/structure?nbr=705)|
 |[52750](https://oeis.org/A052750)|[http://ecs.inria.fr/services/structure?nbr=706](http://ecs.inria.fr/services/structure?nbr=706)|
 |[52751](https://oeis.org/A052751)|[http://ecs.inria.fr/services/structure?nbr=707](http://ecs.inria.fr/services/structure?nbr=707)|
@@ -1544,9 +1572,11 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52761](https://oeis.org/A052761)|[http://ecs.inria.fr/services/structure?nbr=718](http://ecs.inria.fr/services/structure?nbr=718)|
 |[52762](https://oeis.org/A052762)|[http://ecs.inria.fr/services/structure?nbr=719](http://ecs.inria.fr/services/structure?nbr=719)|
 |[52763](https://oeis.org/A052763)|[http://ecs.inria.fr/services/structure?nbr=720](http://ecs.inria.fr/services/structure?nbr=720)|
+|[7070](https://oeis.org/A007070)|[http://ecs.inria.fr/services/structure?nbr=440](http://ecs.inria.fr/services/structure?nbr=440)|
 |[52764](https://oeis.org/A052764)|[http://ecs.inria.fr/services/structure?nbr=721](http://ecs.inria.fr/services/structure?nbr=721)|
 |[52765](https://oeis.org/A052765)|[http://ecs.inria.fr/services/structure?nbr=722](http://ecs.inria.fr/services/structure?nbr=722)|
 |[52766](https://oeis.org/A052766)|[http://ecs.inria.fr/services/structure?nbr=723](http://ecs.inria.fr/services/structure?nbr=723)|
+|[234810](https://oeis.org/A234810)|[http://download2.polytechnic.edu.na/pub4/sourceforge/w/wi/wieferich/results/table.txt](http://download2.polytechnic.edu.na/pub4/sourceforge/w/wi/wieferich/results/table.txt)|
 |[52767](https://oeis.org/A052767)|[http://ecs.inria.fr/services/structure?nbr=724](http://ecs.inria.fr/services/structure?nbr=724)|
 |[52768](https://oeis.org/A052768)|[http://ecs.inria.fr/services/structure?nbr=725](http://ecs.inria.fr/services/structure?nbr=725)|
 |[52769](https://oeis.org/A052769)|[http://ecs.inria.fr/services/structure?nbr=726](http://ecs.inria.fr/services/structure?nbr=726)|
@@ -1571,6 +1601,7 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52788](https://oeis.org/A052788)|[http://ecs.inria.fr/services/structure?nbr=745](http://ecs.inria.fr/services/structure?nbr=745)|
 |[52789](https://oeis.org/A052789)|[http://ecs.inria.fr/services/structure?nbr=746](http://ecs.inria.fr/services/structure?nbr=746)|
 |[52790](https://oeis.org/A052790)|[http://ecs.inria.fr/services/structure?nbr=747](http://ecs.inria.fr/services/structure?nbr=747)|
+|[7097](https://oeis.org/A007097)|[https://www.longeri.org/prime/nature.html](https://www.longeri.org/prime/nature.html)|
 |[52791](https://oeis.org/A052791)|[http://ecs.inria.fr/services/structure?nbr=748](http://ecs.inria.fr/services/structure?nbr=748)|
 |[52792](https://oeis.org/A052792)|[http://ecs.inria.fr/services/structure?nbr=749](http://ecs.inria.fr/services/structure?nbr=749)|
 |[52793](https://oeis.org/A052793)|[http://ecs.inria.fr/services/structure?nbr=750](http://ecs.inria.fr/services/structure?nbr=750)|
@@ -1588,6 +1619,7 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52805](https://oeis.org/A052805)|[http://ecs.inria.fr/services/structure?nbr=766](http://ecs.inria.fr/services/structure?nbr=766)|
 |[52806](https://oeis.org/A052806)|[http://ecs.inria.fr/services/structure?nbr=767](http://ecs.inria.fr/services/structure?nbr=767)|
 |[52807](https://oeis.org/A052807)|[http://ecs.inria.fr/services/structure?nbr=769](http://ecs.inria.fr/services/structure?nbr=769)|
+|[7113](https://oeis.org/A007113)|[http://ecs.inria.fr/services/structure?nbr=75](http://ecs.inria.fr/services/structure?nbr=75)|
 |[52808](https://oeis.org/A052808)|[http://ecs.inria.fr/services/structure?nbr=770](http://ecs.inria.fr/services/structure?nbr=770)|
 |[52809](https://oeis.org/A052809)|[http://ecs.inria.fr/services/structure?nbr=771](http://ecs.inria.fr/services/structure?nbr=771)|
 |[52810](https://oeis.org/A052810)|[http://ecs.inria.fr/services/structure?nbr=772](http://ecs.inria.fr/services/structure?nbr=772)|
@@ -1613,6 +1645,7 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52830](https://oeis.org/A052830)|[http://ecs.inria.fr/services/structure?nbr=795](http://ecs.inria.fr/services/structure?nbr=795)|
 |[52831](https://oeis.org/A052831)|[http://ecs.inria.fr/services/structure?nbr=796](http://ecs.inria.fr/services/structure?nbr=796)|
 |[52832](https://oeis.org/A052832)|[http://ecs.inria.fr/services/structure?nbr=797](http://ecs.inria.fr/services/structure?nbr=797)|
+|[7138](https://oeis.org/A007138)|[http://www.h4.dion.ne.jp/~rep/Repunit100.txt](http://www.h4.dion.ne.jp/~rep/Repunit100.txt)|
 |[52833](https://oeis.org/A052833)|[http://ecs.inria.fr/services/structure?nbr=799](http://ecs.inria.fr/services/structure?nbr=799)|
 |[52834](https://oeis.org/A052834)|[http://ecs.inria.fr/services/structure?nbr=801](http://ecs.inria.fr/services/structure?nbr=801)|
 |[52835](https://oeis.org/A052835)|[http://ecs.inria.fr/services/structure?nbr=802](http://ecs.inria.fr/services/structure?nbr=802)|
@@ -1629,7 +1662,7 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52846](https://oeis.org/A052846)|[http://ecs.inria.fr/services/structure?nbr=814](http://ecs.inria.fr/services/structure?nbr=814)|
 |[52847](https://oeis.org/A052847)|[http://ecs.inria.fr/services/structure?nbr=815](http://ecs.inria.fr/services/structure?nbr=815)|
 |[52848](https://oeis.org/A052848)|[http://ecs.inria.fr/services/structure?nbr=816](http://ecs.inria.fr/services/structure?nbr=816)|
-|[52849](https://oeis.org/A052849)|[http://ecs.inria.fr/services/structure?nbr=490](http://ecs.inria.fr/services/structure?nbr=490), [http://ecs.inria.fr/services/structure?nbr=817](http://ecs.inria.fr/services/structure?nbr=817)|
+|[52849](https://oeis.org/A052849)|[http://ecs.inria.fr/services/structure?nbr=817](http://ecs.inria.fr/services/structure?nbr=817), [http://ecs.inria.fr/services/structure?nbr=490](http://ecs.inria.fr/services/structure?nbr=490)|
 |[52850](https://oeis.org/A052850)|[http://ecs.inria.fr/services/structure?nbr=818](http://ecs.inria.fr/services/structure?nbr=818)|
 |[52851](https://oeis.org/A052851)|[http://ecs.inria.fr/services/structure?nbr=819](http://ecs.inria.fr/services/structure?nbr=819)|
 |[52852](https://oeis.org/A052852)|[http://ecs.inria.fr/services/structure?nbr=820](http://ecs.inria.fr/services/structure?nbr=820)|
@@ -1659,6 +1692,7 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52876](https://oeis.org/A052876)|[http://ecs.inria.fr/services/structure?nbr=847](http://ecs.inria.fr/services/structure?nbr=847)|
 |[52877](https://oeis.org/A052877)|[http://ecs.inria.fr/services/structure?nbr=848](http://ecs.inria.fr/services/structure?nbr=848)|
 |[52878](https://oeis.org/A052878)|[http://ecs.inria.fr/services/structure?nbr=849](http://ecs.inria.fr/services/structure?nbr=849)|
+|[189391](https://oeis.org/A189391)|[http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf)|
 |[52879](https://oeis.org/A052879)|[http://ecs.inria.fr/services/structure?nbr=850](http://ecs.inria.fr/services/structure?nbr=850)|
 |[52880](https://oeis.org/A052880)|[http://ecs.inria.fr/services/structure?nbr=851](http://ecs.inria.fr/services/structure?nbr=851)|
 |[52881](https://oeis.org/A052881)|[http://ecs.inria.fr/services/structure?nbr=853](http://ecs.inria.fr/services/structure?nbr=853)|
@@ -1686,6 +1720,7 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52904](https://oeis.org/A052904)|[http://ecs.inria.fr/services/structure?nbr=882](http://ecs.inria.fr/services/structure?nbr=882)|
 |[52905](https://oeis.org/A052905)|[http://ecs.inria.fr/services/structure?nbr=884](http://ecs.inria.fr/services/structure?nbr=884)|
 |[52906](https://oeis.org/A052906)|[http://ecs.inria.fr/services/structure?nbr=885](http://ecs.inria.fr/services/structure?nbr=885)|
+|[234951](https://oeis.org/A234951)|[http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf](http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf)|
 |[52907](https://oeis.org/A052907)|[http://ecs.inria.fr/services/structure?nbr=887](http://ecs.inria.fr/services/structure?nbr=887)|
 |[52908](https://oeis.org/A052908)|[http://ecs.inria.fr/services/structure?nbr=888](http://ecs.inria.fr/services/structure?nbr=888)|
 |[52909](https://oeis.org/A052909)|[http://ecs.inria.fr/services/structure?nbr=889](http://ecs.inria.fr/services/structure?nbr=889)|
@@ -1701,6 +1736,7 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52919](https://oeis.org/A052919)|[http://ecs.inria.fr/services/structure?nbr=902](http://ecs.inria.fr/services/structure?nbr=902)|
 |[52920](https://oeis.org/A052920)|[http://ecs.inria.fr/services/structure?nbr=903](http://ecs.inria.fr/services/structure?nbr=903)|
 |[52921](https://oeis.org/A052921)|[http://ecs.inria.fr/services/structure?nbr=905](http://ecs.inria.fr/services/structure?nbr=905)|
+|[98427](https://oeis.org/A098427)|[http://www.ocf.berleley.edu/~wwu/papers/platonicsolids.pdf](http://www.ocf.berleley.edu/~wwu/papers/platonicsolids.pdf), [http://www-history.mcs.st-and.ac.uk/~john/geometry/Lectures/L10.html](http://www-history.mcs.st-and.ac.uk/~john/geometry/Lectures/L10.html)|
 |[52922](https://oeis.org/A052922)|[http://ecs.inria.fr/services/structure?nbr=907](http://ecs.inria.fr/services/structure?nbr=907)|
 |[52923](https://oeis.org/A052923)|[http://ecs.inria.fr/services/structure?nbr=908](http://ecs.inria.fr/services/structure?nbr=908)|
 |[52924](https://oeis.org/A052924)|[http://ecs.inria.fr/services/structure?nbr=909](http://ecs.inria.fr/services/structure?nbr=909)|
@@ -1711,6 +1747,7 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52929](https://oeis.org/A052929)|[http://ecs.inria.fr/services/structure?nbr=915](http://ecs.inria.fr/services/structure?nbr=915)|
 |[52930](https://oeis.org/A052930)|[http://ecs.inria.fr/services/structure?nbr=916](http://ecs.inria.fr/services/structure?nbr=916)|
 |[52931](https://oeis.org/A052931)|[http://ecs.inria.fr/services/structure?nbr=917](http://ecs.inria.fr/services/structure?nbr=917)|
+|[7238](https://oeis.org/A007238)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[52932](https://oeis.org/A052932)|[http://ecs.inria.fr/services/structure?nbr=918](http://ecs.inria.fr/services/structure?nbr=918)|
 |[52933](https://oeis.org/A052933)|[http://ecs.inria.fr/services/structure?nbr=920](http://ecs.inria.fr/services/structure?nbr=920)|
 |[52934](https://oeis.org/A052934)|[http://ecs.inria.fr/services/structure?nbr=922](http://ecs.inria.fr/services/structure?nbr=922)|
@@ -1747,7 +1784,6 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52965](https://oeis.org/A052965)|[http://ecs.inria.fr/services/structure?nbr=1036](http://ecs.inria.fr/services/structure?nbr=1036)|
 |[52966](https://oeis.org/A052966)|[http://ecs.inria.fr/services/structure?nbr=1038](http://ecs.inria.fr/services/structure?nbr=1038)|
 |[52967](https://oeis.org/A052967)|[http://ecs.inria.fr/services/structure?nbr=1039](http://ecs.inria.fr/services/structure?nbr=1039)|
-|[52968](https://oeis.org/A052968)|[http://ecs.inria.fr/services/structure?nbr=1040](http://ecs.inria.fr/services/structure?nbr=1040)|
 |[52969](https://oeis.org/A052969)|[http://ecs.inria.fr/services/structure?nbr=1041](http://ecs.inria.fr/services/structure?nbr=1041)|
 |[52970](https://oeis.org/A052970)|[http://ecs.inria.fr/services/structure?nbr=1042](http://ecs.inria.fr/services/structure?nbr=1042)|
 |[52971](https://oeis.org/A052971)|[http://ecs.inria.fr/services/structure?nbr=1043](http://ecs.inria.fr/services/structure?nbr=1043)|
@@ -1760,9 +1796,11 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52978](https://oeis.org/A052978)|[http://ecs.inria.fr/services/structure?nbr=1050](http://ecs.inria.fr/services/structure?nbr=1050)|
 |[52979](https://oeis.org/A052979)|[http://ecs.inria.fr/services/structure?nbr=1051](http://ecs.inria.fr/services/structure?nbr=1051)|
 |[52980](https://oeis.org/A052980)|[http://ecs.inria.fr/services/structure?nbr=1053](http://ecs.inria.fr/services/structure?nbr=1053)|
+|[98485](https://oeis.org/A098485)|[http://www.csit.fsu.edu/~burkardt/f_src/grafpack/grafpack.html](http://www.csit.fsu.edu/~burkardt/f_src/grafpack/grafpack.html)|
 |[52981](https://oeis.org/A052981)|[http://ecs.inria.fr/services/structure?nbr=1054](http://ecs.inria.fr/services/structure?nbr=1054)|
 |[52982](https://oeis.org/A052982)|[http://ecs.inria.fr/services/structure?nbr=1055](http://ecs.inria.fr/services/structure?nbr=1055)|
 |[52984](https://oeis.org/A052984)|[http://ecs.inria.fr/services/structure?nbr=1058](http://ecs.inria.fr/services/structure?nbr=1058)|
+|[7290](https://oeis.org/A007290)|[http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf)|
 |[52985](https://oeis.org/A052985)|[http://ecs.inria.fr/services/structure?nbr=1059](http://ecs.inria.fr/services/structure?nbr=1059)|
 |[52986](https://oeis.org/A052986)|[http://ecs.inria.fr/services/structure?nbr=1060](http://ecs.inria.fr/services/structure?nbr=1060)|
 |[52987](https://oeis.org/A052987)|[http://ecs.inria.fr/services/structure?nbr=1061](http://ecs.inria.fr/services/structure?nbr=1061)|
@@ -1771,54 +1809,390 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[52990](https://oeis.org/A052990)|[http://ecs.inria.fr/services/structure?nbr=1064](http://ecs.inria.fr/services/structure?nbr=1064)|
 |[52991](https://oeis.org/A052991)|[http://ecs.inria.fr/services/structure?nbr=1066](http://ecs.inria.fr/services/structure?nbr=1066)|
 |[52992](https://oeis.org/A052992)|[http://ecs.inria.fr/services/structure?nbr=1068](http://ecs.inria.fr/services/structure?nbr=1068)|
+|[7299](https://oeis.org/A007299)|[http://math.ipm.ac.ir/tayfeh-r/Hadamard32.htm](http://math.ipm.ac.ir/tayfeh-r/Hadamard32.htm), [http://math.ipm.ac.ir/~tayfeh-r/papersandpreprints/H32typetwo.pdf](http://math.ipm.ac.ir/~tayfeh-r/papersandpreprints/H32typetwo.pdf)|
 |[52993](https://oeis.org/A052993)|[http://ecs.inria.fr/services/structure?nbr=1069](http://ecs.inria.fr/services/structure?nbr=1069)|
 |[52994](https://oeis.org/A052994)|[http://ecs.inria.fr/services/structure?nbr=1071](http://ecs.inria.fr/services/structure?nbr=1071)|
 |[52995](https://oeis.org/A052995)|[http://ecs.inria.fr/services/structure?nbr=1072](http://ecs.inria.fr/services/structure?nbr=1072)|
+|[7302](https://oeis.org/A007302)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[52996](https://oeis.org/A052996)|[http://ecs.inria.fr/services/structure?nbr=1074](http://ecs.inria.fr/services/structure?nbr=1074)|
 |[52997](https://oeis.org/A052997)|[http://ecs.inria.fr/services/structure?nbr=1075](http://ecs.inria.fr/services/structure?nbr=1075)|
+|[53008](https://oeis.org/A053008)|[https://github.com/archmageirvine/joeis/blob/master/src/irvine/oeis/a053/A053008.java](https://github.com/archmageirvine/joeis/blob/master/src/irvine/oeis/a053/A053008.java)|
+|[7317](https://oeis.org/A007317)|[http://www.tfh-berlin.de/~grude/PapRekursion.pdf](http://www.tfh-berlin.de/~grude/PapRekursion.pdf), [http://ecs.inria.fr/services/structure?nbr=124](http://ecs.inria.fr/services/structure?nbr=124)|
 |[53016](https://oeis.org/A053016)|[http://davidf.faricy.net/polyhedra/Platonic_Solids.html](http://davidf.faricy.net/polyhedra/Platonic_Solids.html), [http://www.lsbu.ac.uk/water/platonic2.html](http://www.lsbu.ac.uk/water/platonic2.html), [http://www.pen.k12.va.us/Div/Winchester/jhhs/math/lessons/geometry/plato.html](http://www.pen.k12.va.us/Div/Winchester/jhhs/math/lessons/geometry/plato.html), [http://matti.usu.edu/nlvm/nav/frames_asid_128_g_3_t_3.html](http://matti.usu.edu/nlvm/nav/frames_asid_128_g_3_t_3.html)|
+|[7321](https://oeis.org/A007321)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
+|[7323](https://oeis.org/A007323)|[http://www.impa.br/~nivaldo/algebra/semigroups/index.html](http://www.impa.br/~nivaldo/algebra/semigroups/index.html)|
+|[7357](https://oeis.org/A007357)|[http://amicable.adsl.dk/aliquot/i1/i1.txt](http://amicable.adsl.dk/aliquot/i1/i1.txt)|
+|[7363](https://oeis.org/A007363)|[http://www.labri.u-bordeaux.fr/~loeb/vote.html](http://www.labri.u-bordeaux.fr/~loeb/vote.html)|
+|[7364](https://oeis.org/A007364)|[http://www.labri.u-bordeaux.fr/~loeb/vote.html](http://www.labri.u-bordeaux.fr/~loeb/vote.html)|
+|[280617](https://oeis.org/A280617)|[http://www.sympy.orgimport](http://www.sympy.orgimport)|
+|[7378](https://oeis.org/A007378)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[53089](https://oeis.org/A053089)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
-|[53117](https://oeis.org/A053117)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[53120](https://oeis.org/A053120)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[53121](https://oeis.org/A053121)|[http://repository.wit.ie/1693](http://repository.wit.ie/1693)|
+|[7400](https://oeis.org/A007400)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
+|[7434](https://oeis.org/A007434)|[https://insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005a79_1156.pdf](https://insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005a79_1156.pdf)|
 |[53150](https://oeis.org/A053150)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
+|[189672](https://oeis.org/A189672)|[http://user42.tuxfamily.org/terdragon/index.html](http://user42.tuxfamily.org/terdragon/index.html)|
+|[189674](https://oeis.org/A189674)|[http://user42.tuxfamily.org/terdragon/index.html](http://user42.tuxfamily.org/terdragon/index.html)|
+|[7476](https://oeis.org/A007476)|[http://lsze.cosam.calpoly.edu/oeis70.pdf](http://lsze.cosam.calpoly.edu/oeis70.pdf)|
+|[7477](https://oeis.org/A007477)|[http://ecs.inria.fr/services/structure?nbr=441](http://ecs.inria.fr/services/structure?nbr=441)|
+|[7482](https://oeis.org/A007482)|[http://ecs.inria.fr/services/structure?nbr=442](http://ecs.inria.fr/services/structure?nbr=442)|
+|[280735](https://oeis.org/A280735)|[http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory](http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory)|
+|[280736](https://oeis.org/A280736)|[http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory](http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory)|
+|[7494](https://oeis.org/A007494)|[http://ecs.inria.fr/services/structure?nbr=1002](http://ecs.inria.fr/services/structure?nbr=1002)|
+|[189717](https://oeis.org/A189717)|[http://user42.tuxfamily.org/terdragon/index.html](http://user42.tuxfamily.org/terdragon/index.html)|
+|[189722](https://oeis.org/A189722)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/April2011.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/April2011.html), [http://vihart.com/blog/how-to-snakes/](http://vihart.com/blog/how-to-snakes/)|
+|[98722](https://oeis.org/A098722)|[http://www.cs.uwaterloo.ca/journals/JIS/VOL10/Caminiti/caminiti.html](http://www.cs.uwaterloo.ca/journals/JIS/VOL10/Caminiti/caminiti.html), [http://www.cs.uwaterloo.ca/journals/JIS/VOL7/Lamathe/lamathe2.html](http://www.cs.uwaterloo.ca/journals/JIS/VOL7/Lamathe/lamathe2.html)|
+|[7539](https://oeis.org/A007539)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
+|[7550](https://oeis.org/A007550)|[http://ecs.inria.fr/services/structure?nbr=166](http://ecs.inria.fr/services/structure?nbr=166)|
+|[7556](https://oeis.org/A007556)|[http://ecs.inria.fr/services/structure?nbr=290](http://ecs.inria.fr/services/structure?nbr=290)|
+|[7563](https://oeis.org/A007563)|[http://ecs.inria.fr/services/structure?nbr=167](http://ecs.inria.fr/services/structure?nbr=167)|
+|[7564](https://oeis.org/A007564)|[http://ecs.inria.fr/services/structure?nbr=443](http://ecs.inria.fr/services/structure?nbr=443)|
+|[7582](https://oeis.org/A007582)|[http://ecs.inria.fr/services/structure?nbr=168](http://ecs.inria.fr/services/structure?nbr=168)|
+|[7583](https://oeis.org/A007583)|[http://ecs.inria.fr/services/structure?nbr=893](http://ecs.inria.fr/services/structure?nbr=893)|
+|[98786](https://oeis.org/A098786)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[7598](https://oeis.org/A007598)|[http://www-irma.u-strasbg.fr/~foata/paper/pub71.html](http://www-irma.u-strasbg.fr/~foata/paper/pub71.html)|
+|[7600](https://oeis.org/A007600)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
+|[7623](https://oeis.org/A007623)|[http://home.coqui.net/dejterij/acson.pdf](http://home.coqui.net/dejterij/acson.pdf)|
+|[280877](https://oeis.org/A280877)|[http://www.gibbs.if.usp.br/~marchett/estocastica/MarkKac-Statistical-Independence.pdf](http://www.gibbs.if.usp.br/~marchett/estocastica/MarkKac-Statistical-Independence.pdf)|
+|[7647](https://oeis.org/A007647)|[http://www.primzahlenarchiv.de/primes10.html](http://www.primzahlenarchiv.de/primes10.html)|
+|[7665](https://oeis.org/A007665)|[http://www.rialto.k12.ca.us/frisbie/mathfair/hanoilegend.html](http://www.rialto.k12.ca.us/frisbie/mathfair/hanoilegend.html)|
+|[189888](https://oeis.org/A189888)|[http://bitc.bme.emory.edu/~lzhou/blogs/?p=206](http://bitc.bme.emory.edu/~lzhou/blogs/?p=206)|
+|[7689](https://oeis.org/A007689)|[http://ecs.inria.fr/services/structure?nbr=169](http://ecs.inria.fr/services/structure?nbr=169)|
+|[7691](https://oeis.org/A007691)|[http://www-maths.swan.ac.uk/pgrads/bb/project/node26.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node26.html)|
+|[280945](https://oeis.org/A280945)|[https://imo-official.org/problems/IMO2015SL.pdf](https://imo-official.org/problems/IMO2015SL.pdf)|
 |[53406](https://oeis.org/A053406)|[http://euclid.tp.ph.ic.ac.uk/~albrecht/college-only/astro-notes-old/astro-notes/node106.html](http://euclid.tp.ph.ic.ac.uk/~albrecht/college-only/astro-notes-old/astro-notes/node106.html), [http://astro.estec.esa.nl/Hipparcos/](http://astro.estec.esa.nl/Hipparcos/)|
+|[7721](https://oeis.org/A007721)|[http://atm2003.eurocontrol.fr/past-seminars/5th-seminar-budapest-hungary-june-2003/papers/paper_033/view](http://atm2003.eurocontrol.fr/past-seminars/5th-seminar-budapest-hungary-june-2003/papers/paper_033/view)|
 |[53464](https://oeis.org/A053464)|[http://ecs.inria.fr/services/structure?nbr=756](http://ecs.inria.fr/services/structure?nbr=756)|
+|[98979](https://oeis.org/A098979)|[http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf](http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf)|
 |[53492](https://oeis.org/A053492)|[http://ecs.inria.fr/services/structure?nbr=854](http://ecs.inria.fr/services/structure?nbr=854)|
+|[7814](https://oeis.org/A007814)|[http://jipam.vu.edu.au/article.php?sid=498](http://jipam.vu.edu.au/article.php?sid=498)|
+|[281069](https://oeis.org/A281069)|[https://faculty.missouri.edu/~bankswd/papers/2011_power_totients_almost_primes_published_version.pdf](https://faculty.missouri.edu/~bankswd/papers/2011_power_totients_almost_primes_published_version.pdf)|
 |[53529](https://oeis.org/A053529)|[http://puma.dimai.unifi.it/24_1/2.holloway_shattuck.pdf](http://puma.dimai.unifi.it/24_1/2.holloway_shattuck.pdf)|
+|[7840](https://oeis.org/A007840)|[http://ecs.inria.fr/services/structure?nbr=122](http://ecs.inria.fr/services/structure?nbr=122)|
+|[7901](https://oeis.org/A007901)|[http://www.7427466391.com.](http://www.7427466391.com.), [http://www.7427466391.com/](http://www.7427466391.com/)|
+|[144618](https://oeis.org/A144618)|[http://dip.sun.ac.za/~laurie/papers/computing_gamma.pdf](http://dip.sun.ac.za/~laurie/papers/computing_gamma.pdf)|
+|[7908](https://oeis.org/A007908)|[http://99.121.249.54:1200](http://99.121.249.54:1200), [http://99.121.249.54:1200](http://99.121.249.54:1200)|
+|[7909](https://oeis.org/A007909)|[http://ecs.inria.fr/services/structure?nbr=444](http://ecs.inria.fr/services/structure?nbr=444)|
+|[7923](https://oeis.org/A007923)|[http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf](http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf), [http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
+|[7924](https://oeis.org/A007924)|[http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf](http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf), [http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf), [http://www.gallup.unm.edu/~smarandache/Kashihara.pdf](http://www.gallup.unm.edu/~smarandache/Kashihara.pdf)|
+|[7925](https://oeis.org/A007925)|[http://harry-j-smith-memorial.com/Display/xyyx.html](http://harry-j-smith-memorial.com/Display/xyyx.html), [http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
+|[7933](https://oeis.org/A007933)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
+|[7934](https://oeis.org/A007934)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
+|[7944](https://oeis.org/A007944)|[http://www.gallup.unm.edu/~smarandache/Kashihara.pdf](http://www.gallup.unm.edu/~smarandache/Kashihara.pdf), [http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
+|[7947](https://oeis.org/A007947)|[http://fs.gallup.unm.edu/Bottomley-Sm-Mult-Functions.htm](http://fs.gallup.unm.edu/Bottomley-Sm-Mult-Functions.htm)|
 |[53646](https://oeis.org/A053646)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[7954](https://oeis.org/A007954)|[http://www.gallup.unm.edu/~smarandache/OPNS.pdf](http://www.gallup.unm.edu/~smarandache/OPNS.pdf)|
 |[53657](https://oeis.org/A053657)|[http://icm.uaeu.ac.ae/pdf/TomeI.pdf](http://icm.uaeu.ac.ae/pdf/TomeI.pdf)|
+|[7992](https://oeis.org/A007992)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[144714](https://oeis.org/A144714)|[http://harry-j-smith-memorial.com/download.html#Left-Tru](http://harry-j-smith-memorial.com/download.html#Left-Tru)|
+|[99206](https://oeis.org/A099206)|[http://www.meden.demon.co.uk/Fractals/cubic8.html](http://www.meden.demon.co.uk/Fractals/cubic8.html)|
+|[144738](https://oeis.org/A144738)|[http://barrybrent.9f.com/storage/my%20math/zeta.pdf](http://barrybrent.9f.com/storage/my%20math/zeta.pdf)|
+|[99333](https://oeis.org/A099333)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99334](https://oeis.org/A099334)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99335](https://oeis.org/A099335)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99336](https://oeis.org/A099336)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99337](https://oeis.org/A099337)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99338](https://oeis.org/A099338)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[53832](https://oeis.org/A053832)|[http://www.jstor.org/stable/2322179](http://www.jstor.org/stable/2322179), [http://www.jstor.org/stable/2322523](http://www.jstor.org/stable/2322523)|
+|[99339](https://oeis.org/A099339)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99340](https://oeis.org/A099340)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99341](https://oeis.org/A099341)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99342](https://oeis.org/A099342)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99343](https://oeis.org/A099343)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99344](https://oeis.org/A099344)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99345](https://oeis.org/A099345)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99346](https://oeis.org/A099346)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99347](https://oeis.org/A099347)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99348](https://oeis.org/A099348)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
+|[99436](https://oeis.org/A099436)|[http://people.csse.uwa.edu.au/gordon/graphs/#class2](http://people.csse.uwa.edu.au/gordon/graphs/#class2)|
+|[99438](https://oeis.org/A099438)|[http://people.csse.uwa.edu.au/gordon/graphs/#class2](http://people.csse.uwa.edu.au/gordon/graphs/#class2)|
+|[8277](https://oeis.org/A008277)|[http://oai.cwi.nl/oai/asset/2304/2304A.pdf](http://oai.cwi.nl/oai/asset/2304/2304A.pdf)|
+|[8280](https://oeis.org/A008280)|[http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf](http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf)|
+|[8282](https://oeis.org/A008282)|[http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf](http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf)|
+|[8288](https://oeis.org/A008288)|[https://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n4/Ensayos_Meijer2010_PI_.3r.pdf](https://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n4/Ensayos_Meijer2010_PI_.3r.pdf), [http://www.fq.mat.ca/43-2.html](http://www.fq.mat.ca/43-2.html), [http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf](http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf)|
+|[8290](https://oeis.org/A008290)|[http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf](http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf)|
+|[8292](https://oeis.org/A008292)|[http://binomial.csuhayward.edu/Euler.html](http://binomial.csuhayward.edu/Euler.html), [http://www-irma.u-strasbg.fr/~foata/paper/pub62.html](http://www-irma.u-strasbg.fr/~foata/paper/pub62.html)|
+|[8294](https://oeis.org/A008294)|[http://www-irma.u-strasbg.fr/~foata/paper/pub119derivative.pdf](http://www-irma.u-strasbg.fr/~foata/paper/pub119derivative.pdf)|
+|[8297](https://oeis.org/A008297)|[http://puma.dimai.unifi.it/23_2/mansour_schork.pdf](http://puma.dimai.unifi.it/23_2/mansour_schork.pdf)|
+|[8301](https://oeis.org/A008301)|[http://www-irma.u-strasbg.fr/~foata/paper/pub120.html](http://www-irma.u-strasbg.fr/~foata/paper/pub120.html)|
+|[8302](https://oeis.org/A008302)|[http://www-irma.u-strasbg.fr/~guoniu/papers/p02nbiject.pdf](http://www-irma.u-strasbg.fr/~guoniu/papers/p02nbiject.pdf), [http://www-irma.u-strasbg.fr/~foata/paper/pub63.html](http://www-irma.u-strasbg.fr/~foata/paper/pub63.html)|
+|[8310](https://oeis.org/A008310)|[http://www-irma.u-strasbg.fr/~foata/paper/pub71.html](http://www-irma.u-strasbg.fr/~foata/paper/pub71.html)|
+|[8312](https://oeis.org/A008312)|[http://www-irma.u-strasbg.fr/~foata/paper/pub71.html](http://www-irma.u-strasbg.fr/~foata/paper/pub71.html)|
+|[8320](https://oeis.org/A008320)|[http://www.gallup.unm.edu/~smarandache/SN/ScArt5/RecSeq.pdf](http://www.gallup.unm.edu/~smarandache/SN/ScArt5/RecSeq.pdf), [http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf](http://www.gallup.unm.edu/~smarandache/Sequences-book.pdf)|
+|[8346](https://oeis.org/A008346)|[http://ecs.inria.fr/services/structure?nbr=445](http://ecs.inria.fr/services/structure?nbr=445)|
+|[8404](https://oeis.org/A008404)|[http://www.costasarrays.org/costasrefs/sort_date.html#1984](http://www.costasarrays.org/costasrefs/sort_date.html#1984), [http://www.costasarrays.org/Enumeration27TalkWeb.pdf](http://www.costasarrays.org/Enumeration27TalkWeb.pdf)|
+|[8406](https://oeis.org/A008406)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/)|
+|[8407](https://oeis.org/A008407)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
+|[8466](https://oeis.org/A008466)|[http://ecs.inria.fr/services/structure?nbr=1020](http://ecs.inria.fr/services/structure?nbr=1020)|
+|[99679](https://oeis.org/A099679)|[http://www.h4.dion.ne.jp/~rep](http://www.h4.dion.ne.jp/~rep)|
+|[8483](https://oeis.org/A008483)|[http://ecs.inria.fr/services/structure?nbr=446](http://ecs.inria.fr/services/structure?nbr=446)|
+|[54242](https://oeis.org/A054242)|[http://www.insa.nic.in/writereaddata/UpLoadedFiles/PINSA/Vol23A_1957_5_Art04.pdf](http://www.insa.nic.in/writereaddata/UpLoadedFiles/PINSA/Vol23A_1957_5_Art04.pdf)|
 |[54245](https://oeis.org/A054245)|[http://www.gutenberg.org/ebooks/156](http://www.gutenberg.org/ebooks/156)|
 |[54248](https://oeis.org/A054248)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[54320](https://oeis.org/A054320)|[https://doi.org/10.11575/cdm.v3i2.61940](https://doi.org/10.11575/cdm.v3i2.61940)|
-|[54391](https://oeis.org/A054391)|[http://puma.dimai.unifi.it/22_2/mansour_shattuck.pdf](http://puma.dimai.unifi.it/22_2/mansour_shattuck.pdf)|
+|[8553](https://oeis.org/A008553)|[http://www.tanyakhovanova.com/RecursiveSequences/NonRecursions.html](http://www.tanyakhovanova.com/RecursiveSequences/NonRecursions.html)|
+|[8574](https://oeis.org/A008574)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[8581](https://oeis.org/A008581)|[http://ecs.inria.fr/services/structure?nbr=249](http://ecs.inria.fr/services/structure?nbr=249)|
+|[8582](https://oeis.org/A008582)|[http://ecs.inria.fr/services/structure?nbr=252](http://ecs.inria.fr/services/structure?nbr=252)|
+|[8583](https://oeis.org/A008583)|[http://ecs.inria.fr/services/structure?nbr=250](http://ecs.inria.fr/services/structure?nbr=250)|
+|[8584](https://oeis.org/A008584)|[http://ecs.inria.fr/services/structure?nbr=248](http://ecs.inria.fr/services/structure?nbr=248)|
+|[8585](https://oeis.org/A008585)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html), [http://ecs.inria.fr/services/structure?nbr=315](http://ecs.inria.fr/services/structure?nbr=315)|
+|[8586](https://oeis.org/A008586)|[http://ecs.inria.fr/services/structure?nbr=316](http://ecs.inria.fr/services/structure?nbr=316), [http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[8587](https://oeis.org/A008587)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html), [http://ecs.inria.fr/services/structure?nbr=317](http://ecs.inria.fr/services/structure?nbr=317)|
+|[8588](https://oeis.org/A008588)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html), [http://ecs.inria.fr/services/structure?nbr=318](http://ecs.inria.fr/services/structure?nbr=318)|
+|[8589](https://oeis.org/A008589)|[http://ecs.inria.fr/services/structure?nbr=319](http://ecs.inria.fr/services/structure?nbr=319), [http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[8590](https://oeis.org/A008590)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html), [http://ecs.inria.fr/services/structure?nbr=320](http://ecs.inria.fr/services/structure?nbr=320)|
+|[8591](https://oeis.org/A008591)|[http://ecs.inria.fr/services/structure?nbr=321](http://ecs.inria.fr/services/structure?nbr=321), [http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[8592](https://oeis.org/A008592)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html), [http://ecs.inria.fr/services/structure?nbr=322](http://ecs.inria.fr/services/structure?nbr=322)|
+|[8593](https://oeis.org/A008593)|[http://ecs.inria.fr/services/structure?nbr=323](http://ecs.inria.fr/services/structure?nbr=323)|
+|[8594](https://oeis.org/A008594)|[http://ecs.inria.fr/services/structure?nbr=324](http://ecs.inria.fr/services/structure?nbr=324)|
+|[8595](https://oeis.org/A008595)|[http://ecs.inria.fr/services/structure?nbr=325](http://ecs.inria.fr/services/structure?nbr=325)|
+|[8596](https://oeis.org/A008596)|[http://ecs.inria.fr/services/structure?nbr=326](http://ecs.inria.fr/services/structure?nbr=326)|
+|[8597](https://oeis.org/A008597)|[http://ecs.inria.fr/services/structure?nbr=327](http://ecs.inria.fr/services/structure?nbr=327)|
+|[8598](https://oeis.org/A008598)|[http://ecs.inria.fr/services/structure?nbr=328](http://ecs.inria.fr/services/structure?nbr=328)|
+|[8599](https://oeis.org/A008599)|[http://ecs.inria.fr/services/structure?nbr=329](http://ecs.inria.fr/services/structure?nbr=329)|
+|[8600](https://oeis.org/A008600)|[http://ecs.inria.fr/services/structure?nbr=330](http://ecs.inria.fr/services/structure?nbr=330)|
+|[8601](https://oeis.org/A008601)|[http://ecs.inria.fr/services/structure?nbr=331](http://ecs.inria.fr/services/structure?nbr=331)|
+|[8602](https://oeis.org/A008602)|[http://ecs.inria.fr/services/structure?nbr=332](http://ecs.inria.fr/services/structure?nbr=332)|
+|[8603](https://oeis.org/A008603)|[http://ecs.inria.fr/services/structure?nbr=333](http://ecs.inria.fr/services/structure?nbr=333)|
+|[8604](https://oeis.org/A008604)|[http://ecs.inria.fr/services/structure?nbr=334](http://ecs.inria.fr/services/structure?nbr=334)|
+|[8605](https://oeis.org/A008605)|[http://ecs.inria.fr/services/structure?nbr=335](http://ecs.inria.fr/services/structure?nbr=335)|
+|[8606](https://oeis.org/A008606)|[http://ecs.inria.fr/services/structure?nbr=336](http://ecs.inria.fr/services/structure?nbr=336)|
+|[8607](https://oeis.org/A008607)|[http://ecs.inria.fr/services/structure?nbr=337](http://ecs.inria.fr/services/structure?nbr=337)|
+|[8608](https://oeis.org/A008608)|[http://people.math.jussieu.fr/~vergne/work/BBCV/partitionfunction.zip](http://people.math.jussieu.fr/~vergne/work/BBCV/partitionfunction.zip)|
+|[8611](https://oeis.org/A008611)|[http://ecs.inria.fr/services/structure?nbr=447](http://ecs.inria.fr/services/structure?nbr=447)|
+|[8615](https://oeis.org/A008615)|[http://ecs.inria.fr/services/structure?nbr=212](http://ecs.inria.fr/services/structure?nbr=212), [http://ecs.inria.fr/services/structure?nbr=448](http://ecs.inria.fr/services/structure?nbr=448)|
+|[8616](https://oeis.org/A008616)|[http://ecs.inria.fr/services/structure?nbr=213](http://ecs.inria.fr/services/structure?nbr=213)|
+|[8617](https://oeis.org/A008617)|[http://ecs.inria.fr/services/structure?nbr=214](http://ecs.inria.fr/services/structure?nbr=214)|
+|[99825](https://oeis.org/A099825)|[http://groups.msn.com/First300billionprimes/sumprimeslt2n.msnw](http://groups.msn.com/First300billionprimes/sumprimeslt2n.msnw)|
+|[8618](https://oeis.org/A008618)|[http://ecs.inria.fr/services/structure?nbr=215](http://ecs.inria.fr/services/structure?nbr=215)|
+|[99826](https://oeis.org/A099826)|[http://groups.msn.com/First300billionprimes/sumprimeslt2n.msnw](http://groups.msn.com/First300billionprimes/sumprimeslt2n.msnw)|
+|[8619](https://oeis.org/A008619)|[http://ecs.inria.fr/services/structure?nbr=120](http://ecs.inria.fr/services/structure?nbr=120), [http://ecs.inria.fr/services/structure?nbr=209](http://ecs.inria.fr/services/structure?nbr=209), [http://ecs.inria.fr/services/structure?nbr=351](http://ecs.inria.fr/services/structure?nbr=351)|
+|[8620](https://oeis.org/A008620)|[http://ecs.inria.fr/services/structure?nbr=210](http://ecs.inria.fr/services/structure?nbr=210), [http://ecs.inria.fr/services/structure?nbr=449](http://ecs.inria.fr/services/structure?nbr=449)|
+|[8621](https://oeis.org/A008621)|[http://ecs.inria.fr/services/structure?nbr=211](http://ecs.inria.fr/services/structure?nbr=211)|
+|[8622](https://oeis.org/A008622)|[http://ecs.inria.fr/services/structure?nbr=231](http://ecs.inria.fr/services/structure?nbr=231)|
+|[99837](https://oeis.org/A099837)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
+|[8636](https://oeis.org/A008636)|[http://ecs.inria.fr/services/structure?nbr=356](http://ecs.inria.fr/services/structure?nbr=356)|
+|[8637](https://oeis.org/A008637)|[http://ecs.inria.fr/services/structure?nbr=357](http://ecs.inria.fr/services/structure?nbr=357)|
+|[8638](https://oeis.org/A008638)|[http://ecs.inria.fr/services/structure?nbr=358](http://ecs.inria.fr/services/structure?nbr=358)|
+|[8639](https://oeis.org/A008639)|[http://ecs.inria.fr/services/structure?nbr=359](http://ecs.inria.fr/services/structure?nbr=359)|
+|[8640](https://oeis.org/A008640)|[http://ecs.inria.fr/services/structure?nbr=360](http://ecs.inria.fr/services/structure?nbr=360)|
+|[8641](https://oeis.org/A008641)|[http://ecs.inria.fr/services/structure?nbr=361](http://ecs.inria.fr/services/structure?nbr=361)|
+|[8643](https://oeis.org/A008643)|[http://ecs.inria.fr/services/structure?nbr=233](http://ecs.inria.fr/services/structure?nbr=233)|
+|[8644](https://oeis.org/A008644)|[http://ecs.inria.fr/services/structure?nbr=243](http://ecs.inria.fr/services/structure?nbr=243)|
+|[8645](https://oeis.org/A008645)|[http://ecs.inria.fr/services/structure?nbr=245](http://ecs.inria.fr/services/structure?nbr=245)|
+|[8648](https://oeis.org/A008648)|[http://ecs.inria.fr/services/structure?nbr=221](http://ecs.inria.fr/services/structure?nbr=221)|
+|[8649](https://oeis.org/A008649)|[http://ecs.inria.fr/services/structure?nbr=219](http://ecs.inria.fr/services/structure?nbr=219)|
+|[8650](https://oeis.org/A008650)|[http://ecs.inria.fr/services/structure?nbr=235](http://ecs.inria.fr/services/structure?nbr=235)|
+|[8652](https://oeis.org/A008652)|[http://ecs.inria.fr/services/structure?nbr=220](http://ecs.inria.fr/services/structure?nbr=220)|
+|[8666](https://oeis.org/A008666)|[http://ecs.inria.fr/services/structure?nbr=247](http://ecs.inria.fr/services/structure?nbr=247)|
+|[145388](https://oeis.org/A145388)|[http://www.collectanea.ub.edu/index.php/Collectanea/article/view/3699/4377](http://www.collectanea.ub.edu/index.php/Collectanea/article/view/3699/4377)|
+|[8667](https://oeis.org/A008667)|[http://ecs.inria.fr/services/structure?nbr=241](http://ecs.inria.fr/services/structure?nbr=241)|
+|[8668](https://oeis.org/A008668)|[http://ecs.inria.fr/services/structure?nbr=240](http://ecs.inria.fr/services/structure?nbr=240)|
+|[8669](https://oeis.org/A008669)|[http://ecs.inria.fr/services/structure?nbr=239](http://ecs.inria.fr/services/structure?nbr=239)|
+|[8670](https://oeis.org/A008670)|[http://ecs.inria.fr/services/structure?nbr=236](http://ecs.inria.fr/services/structure?nbr=236)|
+|[8671](https://oeis.org/A008671)|[http://ecs.inria.fr/services/structure?nbr=227](http://ecs.inria.fr/services/structure?nbr=227)|
+|[8672](https://oeis.org/A008672)|[http://ecs.inria.fr/services/structure?nbr=218](http://ecs.inria.fr/services/structure?nbr=218)|
+|[8673](https://oeis.org/A008673)|[http://ecs.inria.fr/services/structure?nbr=234](http://ecs.inria.fr/services/structure?nbr=234)|
+|[8674](https://oeis.org/A008674)|[http://ecs.inria.fr/services/structure?nbr=244](http://ecs.inria.fr/services/structure?nbr=244)|
+|[8675](https://oeis.org/A008675)|[http://ecs.inria.fr/services/structure?nbr=246](http://ecs.inria.fr/services/structure?nbr=246)|
+|[8676](https://oeis.org/A008676)|[http://ecs.inria.fr/services/structure?nbr=217](http://ecs.inria.fr/services/structure?nbr=217)|
+|[8677](https://oeis.org/A008677)|[http://ecs.inria.fr/services/structure?nbr=230](http://ecs.inria.fr/services/structure?nbr=230)|
+|[8678](https://oeis.org/A008678)|[http://ecs.inria.fr/services/structure?nbr=238](http://ecs.inria.fr/services/structure?nbr=238)|
+|[8679](https://oeis.org/A008679)|[http://ecs.inria.fr/services/structure?nbr=216](http://ecs.inria.fr/services/structure?nbr=216)|
+|[8680](https://oeis.org/A008680)|[http://ecs.inria.fr/services/structure?nbr=228](http://ecs.inria.fr/services/structure?nbr=228)|
+|[8681](https://oeis.org/A008681)|[http://ecs.inria.fr/services/structure?nbr=237](http://ecs.inria.fr/services/structure?nbr=237)|
+|[8682](https://oeis.org/A008682)|[http://ecs.inria.fr/services/structure?nbr=229](http://ecs.inria.fr/services/structure?nbr=229)|
+|[8683](https://oeis.org/A008683)|[http://www.plu.edu/~edgartj/](http://www.plu.edu/~edgartj/)|
+|[54395](https://oeis.org/A054395)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[54396](https://oeis.org/A054396)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[145438](https://oeis.org/A145438)|[http://locutus.cs.dal.ca:8088/archive/00000131/](http://locutus.cs.dal.ca:8088/archive/00000131/)|
+|[99927](https://oeis.org/A099927)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
+|[8719](https://oeis.org/A008719)|[http://ecs.inria.fr/services/structure?nbr=242](http://ecs.inria.fr/services/structure?nbr=242)|
+|[8720](https://oeis.org/A008720)|[http://ecs.inria.fr/services/structure?nbr=223](http://ecs.inria.fr/services/structure?nbr=223)|
+|[8721](https://oeis.org/A008721)|[http://ecs.inria.fr/services/structure?nbr=224](http://ecs.inria.fr/services/structure?nbr=224)|
+|[8722](https://oeis.org/A008722)|[http://ecs.inria.fr/services/structure?nbr=225](http://ecs.inria.fr/services/structure?nbr=225)|
+|[8723](https://oeis.org/A008723)|[http://ecs.inria.fr/services/structure?nbr=226](http://ecs.inria.fr/services/structure?nbr=226)|
+|[8724](https://oeis.org/A008724)|[http://ecs.inria.fr/services/structure?nbr=189](http://ecs.inria.fr/services/structure?nbr=189)|
+|[8725](https://oeis.org/A008725)|[http://ecs.inria.fr/services/structure?nbr=190](http://ecs.inria.fr/services/structure?nbr=190)|
+|[8726](https://oeis.org/A008726)|[http://ecs.inria.fr/services/structure?nbr=191](http://ecs.inria.fr/services/structure?nbr=191)|
+|[8727](https://oeis.org/A008727)|[http://ecs.inria.fr/services/structure?nbr=192](http://ecs.inria.fr/services/structure?nbr=192)|
+|[8728](https://oeis.org/A008728)|[http://ecs.inria.fr/services/structure?nbr=193](http://ecs.inria.fr/services/structure?nbr=193)|
+|[8729](https://oeis.org/A008729)|[http://ecs.inria.fr/services/structure?nbr=194](http://ecs.inria.fr/services/structure?nbr=194)|
+|[8730](https://oeis.org/A008730)|[http://ecs.inria.fr/services/structure?nbr=195](http://ecs.inria.fr/services/structure?nbr=195)|
+|[8731](https://oeis.org/A008731)|[http://ecs.inria.fr/services/structure?nbr=222](http://ecs.inria.fr/services/structure?nbr=222)|
+|[8732](https://oeis.org/A008732)|[http://ecs.inria.fr/services/structure?nbr=188](http://ecs.inria.fr/services/structure?nbr=188)|
+|[8763](https://oeis.org/A008763)|[http://ecs.inria.fr/services/structure?nbr=450](http://ecs.inria.fr/services/structure?nbr=450), [http://ecs.inria.fr/services/structure?nbr=232](http://ecs.inria.fr/services/structure?nbr=232), [http://grail.eecs.csuohio.edu/~somos/step2.txt](http://grail.eecs.csuohio.edu/~somos/step2.txt)|
+|[8776](https://oeis.org/A008776)|[http://ecs.inria.fr/services/structure?nbr=170](http://ecs.inria.fr/services/structure?nbr=170)|
+|[99999](https://oeis.org/A099999)|[http://www.ijp.si/Configurations2004/papers.html](http://www.ijp.si/Configurations2004/papers.html)|
+|[100000](https://oeis.org/A100000)|[http://etopia.sintlucas.be/~dhuylebrouck/Ishango_web/Ishango_web.htm](http://etopia.sintlucas.be/~dhuylebrouck/Ishango_web/Ishango_web.htm)|
+|[8804](https://oeis.org/A008804)|[http://ecs.inria.fr/services/structure?nbr=197](http://ecs.inria.fr/services/structure?nbr=197)|
+|[100015](https://oeis.org/A100015)|[http://webdb.uni-graz.at/~fripert/fga/k1recontre.html](http://webdb.uni-graz.at/~fripert/fga/k1recontre.html)|
+|[145549](https://oeis.org/A145549)|[http://magicdragon.com/EmeraldCity/Nonfiction/four9s.html](http://magicdragon.com/EmeraldCity/Nonfiction/four9s.html)|
+|[8840](https://oeis.org/A008840)|[http://www.labri.u-bordeaux.fr/~loeb](http://www.labri.u-bordeaux.fr/~loeb)|
+|[100050](https://oeis.org/A100050)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
+|[100051](https://oeis.org/A100051)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
+|[145578](https://oeis.org/A145578)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[54591](https://oeis.org/A054591)|[https://math.psu.edu/mass/sites/default/files/reu2003/6.pdf](https://math.psu.edu/mass/sites/default/files/reu2003/6.pdf)|
-|[54726](https://oeis.org/A054726)|[http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf](http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf)|
-|[54760](https://oeis.org/A054760)|[http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
+|[191106](https://oeis.org/A191106)|[https://math.psu.edu/mass/sites/default/files/reu2003/6.pdf](https://math.psu.edu/mass/sites/default/files/reu2003/6.pdf)|
+|[145648](https://oeis.org/A145648)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[236681](https://oeis.org/A236681)|[http://www.math.ucr.edu/home/baez/42.html](http://www.math.ucr.edu/home/baez/42.html)|
+|[145657](https://oeis.org/A145657)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[8933](https://oeis.org/A008933)|[http://dbwilson.com](http://dbwilson.com)|
+|[54639](https://oeis.org/A054639)|[http://www.cpt.univ-mrs.fr/~gef/oulipo7.html#150300](http://www.cpt.univ-mrs.fr/~gef/oulipo7.html#150300)|
+|[145659](https://oeis.org/A145659)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[236684](https://oeis.org/A236684)|[http://www.math.ucr.edu/home/baez/42.html](http://www.math.ucr.edu/home/baez/42.html)|
+|[236686](https://oeis.org/A236686)|[http://www.math.ucr.edu/home/baez/42.html](http://www.math.ucr.edu/home/baez/42.html)|
+|[145665](https://oeis.org/A145665)|[http://for.mat.bham.ac.uk/atlas/v2.0/spor/M11/](http://for.mat.bham.ac.uk/atlas/v2.0/spor/M11/)|
+|[145683](https://oeis.org/A145683)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[145685](https://oeis.org/A145685)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[145686](https://oeis.org/A145686)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[145687](https://oeis.org/A145687)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[8976](https://oeis.org/A008976)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
+|[8998](https://oeis.org/A008998)|[http://ecs.inria.fr/services/structure?nbr=452](http://ecs.inria.fr/services/structure?nbr=452)|
+|[8999](https://oeis.org/A008999)|[http://ecs.inria.fr/services/structure?nbr=479](http://ecs.inria.fr/services/structure?nbr=479)|
+|[9000](https://oeis.org/A009000)|[http://www.teachers.ash.org.au/mikemath/resources/pythagoras.html](http://www.teachers.ash.org.au/mikemath/resources/pythagoras.html), [http://www.tssi.com/Pythagoras%20Connections.html](http://www.tssi.com/Pythagoras%20Connections.html), [http://mathdb.org/gallery/poster/description/e_poster_01.htm](http://mathdb.org/gallery/poster/description/e_poster_01.htm)|
+|[9005](https://oeis.org/A009005)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/December2001.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/December2001.html)|
+|[327754](https://oeis.org/A327754)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans](http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans)|
+|[327767](https://oeis.org/A327767)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[100261](https://oeis.org/A100261)|[http://www-centre.mpce.mq.edu.au/alfpapers/a117.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a117.pdf)|
+|[54760](https://oeis.org/A054760)|[http://staffhome.ecm.uwa.edu.au/~00013890//remote/cages/](http://staffhome.ecm.uwa.edu.au/~00013890//remote/cages/), [http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html), [http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
+|[145781](https://oeis.org/A145781)|[http://www.parabola.unsw.edu.au/vol45_no1/vol45_no1_1.pdf](http://www.parabola.unsw.edu.au/vol45_no1/vol45_no1_1.pdf)|
+|[9101](https://oeis.org/A009101)|[http://forums.xkcd.com/viewtopic.php?f=3&amp](http://forums.xkcd.com/viewtopic.php?f=3&amp)|
+|[9117](https://oeis.org/A009117)|[http://ecs.inria.fr/services/structure?nbr=171](http://ecs.inria.fr/services/structure?nbr=171)|
+|[191372](https://oeis.org/A191372)|[http://faculty.plattsburgh.edu/sam.northshield/08-0412.pdf](http://faculty.plattsburgh.edu/sam.northshield/08-0412.pdf)|
+|[236928](https://oeis.org/A236928)|[https://doi:10.3390/sym9120314](https://doi:10.3390/sym9120314)|
+|[236934](https://oeis.org/A236934)|[http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf](http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf)|
+|[236935](https://oeis.org/A236935)|[http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf](http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf)|
+|[145922](https://oeis.org/A145922)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[9199](https://oeis.org/A009199)|[http://ecs.inria.fr/services/structure?nbr=128](http://ecs.inria.fr/services/structure?nbr=128)|
+|[145933](https://oeis.org/A145933)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
+|[191426](https://oeis.org/A191426)|[http://www.math-cs.ucmo.edu/~mjms/1998.3/prob.ps](http://www.math-cs.ucmo.edu/~mjms/1998.3/prob.ps), [http://www.math-cs.ucmo.edu/~mjms/2000.1/soln.ps](http://www.math-cs.ucmo.edu/~mjms/2000.1/soln.ps)|
+|[54923](https://oeis.org/A054923)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/)|
+|[54924](https://oeis.org/A054924)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/)|
+|[145981](https://oeis.org/A145981)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[145982](https://oeis.org/A145982)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[100508](https://oeis.org/A100508)|[http://www.mta.nyc.ny.us/nyct/service/fourline.htm](http://www.mta.nyc.ny.us/nyct/service/fourline.htm)|
+|[55016](https://oeis.org/A055016)|[http://list.seqfan.eu/oldermail/seqfan/2015-June/014998.html](http://list.seqfan.eu/oldermail/seqfan/2015-June/014998.html)|
+|[9318](https://oeis.org/A009318)|[http://ecs.inria.fr/services/structure?nbr=172](http://ecs.inria.fr/services/structure?nbr=172)|
+|[9324](https://oeis.org/A009324)|[http://ecs.inria.fr/services/structure?nbr=173](http://ecs.inria.fr/services/structure?nbr=173)|
+|[100556](https://oeis.org/A100556)|[http://groups.msn.com/BC2LCC/2qqisprime3divq.msnw](http://groups.msn.com/BC2LCC/2qqisprime3divq.msnw)|
+|[146075](https://oeis.org/A146075)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[55060](https://oeis.org/A055060)|[http://www.math.jussieu.fr/~allouche/bibliorecente.html](http://www.math.jussieu.fr/~allouche/bibliorecente.html)|
-|[55069](https://oeis.org/A055069)|[http://www.the-acr.com/codes/cntryno.htm](http://www.the-acr.com/codes/cntryno.htm)|
+|[191590](https://oeis.org/A191590)|[http://www.jens.putzka.net/download/diplomarbeit.pdf](http://www.jens.putzka.net/download/diplomarbeit.pdf)|
+|[191595](https://oeis.org/A191595)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html), [http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
 |[55096](https://oeis.org/A055096)|[http://www.iki.fi/~kartturi/matikka/A055096e.htm](http://www.iki.fi/~kartturi/matikka/A055096e.htm)|
-|[55199](https://oeis.org/A055199)|[http://gj.mit.edu/pi/digits/](http://gj.mit.edu/pi/digits/)|
-|[55203](https://oeis.org/A055203)|[http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html](http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html), [http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
+|[100603](https://oeis.org/A100603)|[http://magicdragon.com/math.html](http://magicdragon.com/math.html)|
+|[191646](https://oeis.org/A191646)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/multigraphs/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/multigraphs/)|
+|[9444](https://oeis.org/A009444)|[http://ecs.inria.fr/services/structure?nbr=125](http://ecs.inria.fr/services/structure?nbr=125)|
+|[328206](https://oeis.org/A328206)|[https://community.plu.edu/~edgartj/consecutivefactniven.pdf](https://community.plu.edu/~edgartj/consecutivefactniven.pdf)|
+|[328207](https://oeis.org/A328207)|[https://community.plu.edu/~edgartj/consecutivefactniven.pdf](https://community.plu.edu/~edgartj/consecutivefactniven.pdf)|
+|[100682](https://oeis.org/A100682)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
+|[55203](https://oeis.org/A055203)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf), [http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html](http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html)|
+|[237362](https://oeis.org/A237362)|[http://jones.math.unibas.ch/~kraft/Papers/KP-Primer.pdf](http://jones.math.unibas.ch/~kraft/Papers/KP-Primer.pdf)|
+|[100831](https://oeis.org/A100831)|[http://theory2.phys.cwru.edu/~pete/java_chaos/KochApplet.html](http://theory2.phys.cwru.edu/~pete/java_chaos/KochApplet.html)|
 |[55380](https://oeis.org/A055380)|[http://stop.inferia.ru/](http://stop.inferia.ru/)|
 |[55386](https://oeis.org/A055386)|[http://cage.rug.ac.be/~hvernaev/problems/Proble36.html](http://cage.rug.ac.be/~hvernaev/problems/Proble36.html)|
+|[9766](https://oeis.org/A009766)|[http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf](http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf), [http://home.coqui.net/dejterij/aneliese.pdf](http://home.coqui.net/dejterij/aneliese.pdf), [http://home.coqui.net/dejterij/anumeral.pdf](http://home.coqui.net/dejterij/anumeral.pdf), [http://home.coqui.net/dejterij/acson.pdf](http://home.coqui.net/dejterij/acson.pdf)|
+|[100982](https://oeis.org/A100982)|[http://www.math.grin.edu/~chamberl/3x.html](http://www.math.grin.edu/~chamberl/3x.html), [http://www.math.grin.edu/~chamberl/papers/3x_survey_cat.pdf](http://www.math.grin.edu/~chamberl/papers/3x_survey_cat.pdf)|
 |[55503](https://oeis.org/A055503)|[http://physolymp.fml31.ru/olymp/files/f194.pdf](http://physolymp.fml31.ru/olymp/files/f194.pdf)|
-|[55553](https://oeis.org/A055553)|[http://www.chalcedon.demon.co.uk/rgep/p82.pdf](http://www.chalcedon.demon.co.uk/rgep/p82.pdf), [http://www.chalcedon.demon.co.uk/rgep/p73.ps](http://www.chalcedon.demon.co.uk/rgep/p73.ps), [http://www.chalcedon.demon.co.uk/rgep/publish.html#76](http://www.chalcedon.demon.co.uk/rgep/publish.html#76)|
+|[192062](https://oeis.org/A192062)|[http://tech.groups.com/group/Triangular_and_Fibonacci_Numbers/messages](http://tech.groups.com/group/Triangular_and_Fibonacci_Numbers/messages)|
+|[55553](https://oeis.org/A055553)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#76](http://www.chalcedon.demon.co.uk/rgep/publish.html#76), [http://www.chalcedon.demon.co.uk/rgep/p73.ps](http://www.chalcedon.demon.co.uk/rgep/p73.ps), [http://www.chalcedon.demon.co.uk/rgep/p82.pdf](http://www.chalcedon.demon.co.uk/rgep/p82.pdf)|
+|[55561](https://oeis.org/A055561)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
 |[55562](https://oeis.org/A055562)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
+|[101089](https://oeis.org/A101089)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101090](https://oeis.org/A101090)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101091](https://oeis.org/A101091)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101092](https://oeis.org/A101092)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101093](https://oeis.org/A101093)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101094](https://oeis.org/A101094)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101095](https://oeis.org/A101095)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm), [http://www.math.nmsu.edu/~davidp/bridge.pdf](http://www.math.nmsu.edu/~davidp/bridge.pdf)|
+|[101096](https://oeis.org/A101096)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm), [http://sofia.nmsu.edu/~davidp/bridge.pdf](http://sofia.nmsu.edu/~davidp/bridge.pdf)|
+|[101097](https://oeis.org/A101097)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101098](https://oeis.org/A101098)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101099](https://oeis.org/A101099)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101100](https://oeis.org/A101100)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm), [http://www.math.nmsu.edu/~davidp/bridge.pdf](http://www.math.nmsu.edu/~davidp/bridge.pdf)|
+|[101102](https://oeis.org/A101102)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101104](https://oeis.org/A101104)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm), [http://www.math.nmsu.edu/~davidp/bridge.pdf](http://www.math.nmsu.edu/~davidp/bridge.pdf)|
 |[55622](https://oeis.org/A055622)|[http://www.csm.astate.edu/~wpaulsen/tower/hanoi.htm](http://www.csm.astate.edu/~wpaulsen/tower/hanoi.htm)|
+|[237695](https://oeis.org/A237695)|[http://michaelnielsen.org/polymath1/index.php?title=The_Erd%C5%91s_discrepancy_problem](http://michaelnielsen.org/polymath1/index.php?title=The_Erd%C5%91s_discrepancy_problem)|
+|[283239](https://oeis.org/A283239)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[10048](https://oeis.org/A010048)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
+|[283321](https://oeis.org/A283321)|[http://kwsman.com/articles/Revised%20Bakare.pdf](http://kwsman.com/articles/Revised%20Bakare.pdf)|
+|[10060](https://oeis.org/A010060)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://oai.cwi.nl/oai/asset/21313/21313A.pdf](http://oai.cwi.nl/oai/asset/21313/21313A.pdf)|
+|[283322](https://oeis.org/A283322)|[http://kwsman.com/articles/Revised%20Bakare.pdf](http://kwsman.com/articles/Revised%20Bakare.pdf)|
+|[10094](https://oeis.org/A010094)|[http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf](http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf)|
+|[10124](https://oeis.org/A010124)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
+|[101343](https://oeis.org/A101343)|[http://www-irma.u-strasbg.fr/~foata/paper/pub119derivative.pdf](http://www-irma.u-strasbg.fr/~foata/paper/pub119derivative.pdf)|
+|[10136](https://oeis.org/A010136)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
+|[10145](https://oeis.org/A010145)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
+|[10148](https://oeis.org/A010148)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
 |[55860](https://oeis.org/A055860)|[http://ecs.inria.fr/services/structure?nbr=67](http://ecs.inria.fr/services/structure?nbr=67)|
+|[146888](https://oeis.org/A146888)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[146889](https://oeis.org/A146889)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[146893](https://oeis.org/A146893)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[146894](https://oeis.org/A146894)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[146895](https://oeis.org/A146895)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[55870](https://oeis.org/A055870)|[http://dspace.dml.cz/handle/10338.dmlcz/130423](http://dspace.dml.cz/handle/10338.dmlcz/130423)|
-|[55922](https://oeis.org/A055922)|[http://www.dli.gov.in/data_copy/upload/INSA/INSA_2/20005a88_147.pdf](http://www.dli.gov.in/data_copy/upload/INSA/INSA_2/20005a88_147.pdf)|
+|[146896](https://oeis.org/A146896)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[146897](https://oeis.org/A146897)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[192432](https://oeis.org/A192432)|[http://www.liafa.jussieu.fr/~lovejoy/WRTmock5.pdf](http://www.liafa.jussieu.fr/~lovejoy/WRTmock5.pdf)|
+|[192433](https://oeis.org/A192433)|[http://www.liafa.jussieu.fr/~lovejoy/WRTmock5.pdf](http://www.liafa.jussieu.fr/~lovejoy/WRTmock5.pdf)|
+|[146946](https://oeis.org/A146946)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[101451](https://oeis.org/A101451)|[http://www.fermentas.com/techinfo/nucleicacids/sitesfx174.htm](http://www.fermentas.com/techinfo/nucleicacids/sitesfx174.htm)|
+|[101453](https://oeis.org/A101453)|[http://turing.csie.ntu.edu.tw/~arping/cm](http://turing.csie.ntu.edu.tw/~arping/cm)|
+|[101454](https://oeis.org/A101454)|[http://turing.csie.ntu.edu.tw/~arping/cm](http://turing.csie.ntu.edu.tw/~arping/cm)|
+|[56004](https://oeis.org/A056004)|[http://www.scielo.org.co/pdf/rcm/v41n2/v41n2a08.pdf](http://www.scielo.org.co/pdf/rcm/v41n2/v41n2a08.pdf)|
+|[101511](https://oeis.org/A101511)|[http://www.robertmrozek.org/appletprime20.html](http://www.robertmrozek.org/appletprime20.html)|
 |[56010](https://oeis.org/A056010)|[http://grail.eecs.csuohio.edu/~somos/nwic.html](http://grail.eecs.csuohio.edu/~somos/nwic.html)|
+|[10343](https://oeis.org/A010343)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
+|[10344](https://oeis.org/A010344)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
+|[10346](https://oeis.org/A010346)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
+|[10350](https://oeis.org/A010350)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
+|[10353](https://oeis.org/A010353)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
+|[10354](https://oeis.org/A010354)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
 |[56064](https://oeis.org/A056064)|[http://us.imdb.com/Bio?Benny](http://us.imdb.com/Bio?Benny)|
+|[283627](https://oeis.org/A283627)|[http://www.resnet.wm.edu/~cklixx/reu02.pdf](http://www.resnet.wm.edu/~cklixx/reu02.pdf)|
+|[329148](https://oeis.org/A329148)|[http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp](http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp)|
 |[56220](https://oeis.org/A056220)|[http://puma.dimai.unifi.it/21_2/11_Phillipson_Riehl_Williams.pdf](http://puma.dimai.unifi.it/21_2/11_Phillipson_Riehl_Williams.pdf)|
 |[56221](https://oeis.org/A056221)|[http://jipam.vu.edu.au/v3n4/053_02.html](http://jipam.vu.edu.au/v3n4/053_02.html)|
+|[238370](https://oeis.org/A238370)|[http://www.usna.edu/Users/math/traves/presentations/MAAC2004print.pdf](http://www.usna.edu/Users/math/traves/presentations/MAAC2004print.pdf)|
+|[101853](https://oeis.org/A101853)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101854](https://oeis.org/A101854)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101855](https://oeis.org/A101855)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101860](https://oeis.org/A101860)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101861](https://oeis.org/A101861)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[101862](https://oeis.org/A101862)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
+|[10683](https://oeis.org/A010683)|[https://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n4/Ensayos_Meijer2010_PI_.3r.pdf](https://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n4/Ensayos_Meijer2010_PI_.3r.pdf)|
+|[10693](https://oeis.org/A010693)|[http://ecs.inria.fr/services/structure?nbr=466](http://ecs.inria.fr/services/structure?nbr=466)|
+|[10694](https://oeis.org/A010694)|[http://ecs.inria.fr/services/structure?nbr=1073](http://ecs.inria.fr/services/structure?nbr=1073)|
+|[329451](https://oeis.org/A329451)|[http://www.fmjd.org/downloads/FMJD_Annexes_2018.pdf](http://www.fmjd.org/downloads/FMJD_Annexes_2018.pdf)|
+|[10701](https://oeis.org/A010701)|[http://ecs.inria.fr/services/structure?nbr=1011](http://ecs.inria.fr/services/structure?nbr=1011)|
+|[10709](https://oeis.org/A010709)|[https://community.plu.edu/~edgartj/powers49.pdf](https://community.plu.edu/~edgartj/powers49.pdf), [http://ecs.inria.fr/services/structure?nbr=1012](http://ecs.inria.fr/services/structure?nbr=1012)|
+|[10716](https://oeis.org/A010716)|[http://ecs.inria.fr/services/structure?nbr=1013](http://ecs.inria.fr/services/structure?nbr=1013)|
+|[10722](https://oeis.org/A010722)|[http://ecs.inria.fr/services/structure?nbr=1014](http://ecs.inria.fr/services/structure?nbr=1014)|
+|[10727](https://oeis.org/A010727)|[http://ecs.inria.fr/services/structure?nbr=1015](http://ecs.inria.fr/services/structure?nbr=1015)|
+|[10731](https://oeis.org/A010731)|[http://ecs.inria.fr/services/structure?nbr=1016](http://ecs.inria.fr/services/structure?nbr=1016)|
+|[101950](https://oeis.org/A101950)|[http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf](http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf)|
+|[10734](https://oeis.org/A010734)|[http://ecs.inria.fr/services/structure?nbr=1017](http://ecs.inria.fr/services/structure?nbr=1017), [http://math.coe.uga.edu/TME/Issues/v21n2/v21n2_Norton&amp](http://math.coe.uga.edu/TME/Issues/v21n2/v21n2_Norton&amp)|
+|[102026](https://oeis.org/A102026)|[http://www.raphaelreischuk.de/pub/nubfals.pdf](http://www.raphaelreischuk.de/pub/nubfals.pdf)|
 |[56520](https://oeis.org/A056520)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
+|[193069](https://oeis.org/A193069)|[http://www.numq.com/pwn/](http://www.numq.com/pwn/)|
+|[56570](https://oeis.org/A056570)|[http://www-irma.u-strasbg.fr/~foata/paper/pub71.html](http://www-irma.u-strasbg.fr/~foata/paper/pub71.html)|
 |[56588](https://oeis.org/A056588)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
+|[10892](https://oeis.org/A010892)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
+|[238644](https://oeis.org/A238644)|[http://bact.mathcircles.org/files/2009/files/Summer2010/PenneyAnte.pdf](http://bact.mathcircles.org/files/2009/files/Summer2010/PenneyAnte.pdf)|
 |[56605](https://oeis.org/A056605)|[http://home.interserv.com/~mniemiec/objcount.htm](http://home.interserv.com/~mniemiec/objcount.htm)|
+|[10912](https://oeis.org/A010912)|[http://ecs.inria.fr/services/structure?nbr=895](http://ecs.inria.fr/services/structure?nbr=895)|
+|[238736](https://oeis.org/A238736)|[http://www.hytc.cn/xsjl/szh/coms3.pdf](http://www.hytc.cn/xsjl/szh/coms3.pdf)|
 |[56718](https://oeis.org/A056718)|[http://max0526.fcpages.com/2180.zip](http://max0526.fcpages.com/2180.zip), [http://max0526.fcpages.com/2116.zip](http://max0526.fcpages.com/2116.zip)|
-|[56739](https://oeis.org/A056739)|[http://enriques.mathematik.uni-mainz.de/cm/article_primes.pdf](http://enriques.mathematik.uni-mainz.de/cm/article_primes.pdf)|
-|[56940](https://oeis.org/A056940)|[http://www-math.mit.edu/~rstan/pubs/pubfiles/12-2.pdf](http://www-math.mit.edu/~rstan/pubs/pubfiles/12-2.pdf)|
+|[102241](https://oeis.org/A102241)|[http://www.yijing.co.uk/](http://www.yijing.co.uk/), [http://pacificcoast.net/~wh/Index.html](http://pacificcoast.net/~wh/Index.html)|
+|[102250](https://oeis.org/A102250)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
+|[193256](https://oeis.org/A193256)|[http://mathinfo06.iecn.u-nancy.fr/papers/dmAG411-414.pdf](http://mathinfo06.iecn.u-nancy.fr/papers/dmAG411-414.pdf)|
+|[102283](https://oeis.org/A102283)|[http://dergipark.ulakbim.gov.tr/hujms/article/view/5000017451](http://dergipark.ulakbim.gov.tr/hujms/article/view/5000017451)|
+|[147848](https://oeis.org/A147848)|[https://community.plu.edu/~edgartj/dihedral.pdf](https://community.plu.edu/~edgartj/dihedral.pdf)|
+|[102380](https://oeis.org/A102380)|[http://www.h4.dion.ne.jp/~rep/](http://www.h4.dion.ne.jp/~rep/)|
+|[284442](https://oeis.org/A284442)|[https://orbi.ulg.ac.be/bitstream/2268/205077/1/postprint%20auteur.pdf](https://orbi.ulg.ac.be/bitstream/2268/205077/1/postprint%20auteur.pdf)|
+|[11260](https://oeis.org/A011260)|[http://www.theory.cs.uvic.ca/~cos/inf/neck/PolyInfo.html](http://www.theory.cs.uvic.ca/~cos/inf/neck/PolyInfo.html)|
+|[11268](https://oeis.org/A011268)|[http://134.76.163.65/servlet/digbib?template=view.html&amp](http://134.76.163.65/servlet/digbib?template=view.html&amp), [http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp](http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp)|
 |[56979](https://oeis.org/A056979)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[56997](https://oeis.org/A056997)|[http://www.ethiopic.com/calendar/ethiopic.htm](http://www.ethiopic.com/calendar/ethiopic.htm)|
 |[57005](https://oeis.org/A057005)|[http://com2mac.postech.ac.kr/resorce/Lecture_text.htm](http://com2mac.postech.ac.kr/resorce/Lecture_text.htm)|
@@ -1827,15 +2201,28 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[57009](https://oeis.org/A057009)|[http://com2mac.postech.ac.kr/resorce/Lecture_text.htm](http://com2mac.postech.ac.kr/resorce/Lecture_text.htm)|
 |[57012](https://oeis.org/A057012)|[http://com2mac.postech.ac.kr/resorce/Lecture_text.htm](http://com2mac.postech.ac.kr/resorce/Lecture_text.htm)|
 |[57014](https://oeis.org/A057014)|[http://com2mac.postech.ac.kr/resorce/Lecture_text.htm](http://com2mac.postech.ac.kr/resorce/Lecture_text.htm)|
-|[57020](https://oeis.org/A057020)|[http://web.science.mq.edu.au/groups/acac/researchstudent_completed/Daniel_Sutantyo.pdf](http://web.science.mq.edu.au/groups/acac/researchstudent_completed/Daniel_Sutantyo.pdf)|
-|[57077](https://oeis.org/A057077)|[https://doi.org/10.11575/cdm.v3i2.61940](https://doi.org/10.11575/cdm.v3i2.61940)|
-|[57079](https://oeis.org/A057079)|[https://doi.org/10.11575/cdm.v3i2.61940](https://doi.org/10.11575/cdm.v3i2.61940)|
-|[57080](https://oeis.org/A057080)|[https://doi.org/10.11575/cdm.v3i2.61940](https://doi.org/10.11575/cdm.v3i2.61940)|
-|[57081](https://oeis.org/A057081)|[https://doi.org/10.11575/cdm.v3i2.61940](https://doi.org/10.11575/cdm.v3i2.61940)|
+|[193623](https://oeis.org/A193623)|[http://www.resnet.wm.edu/~cklixx/reu02.pdf](http://www.resnet.wm.edu/~cklixx/reu02.pdf)|
 |[57112](https://oeis.org/A057112)|[http://www.iki.fi/~kartturi/matikka/permgraf/troctahe.htm](http://www.iki.fi/~kartturi/matikka/permgraf/troctahe.htm)|
 |[57117](https://oeis.org/A057117)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[57118](https://oeis.org/A057118)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[330206](https://oeis.org/A330206)|[http://icm.mcs.kent.edu/reports/1999/chebpol.pdf](http://icm.mcs.kent.edu/reports/1999/chebpol.pdf)|
+|[330207](https://oeis.org/A330207)|[http://icm.mcs.kent.edu/reports/1999/chebpol.pdf](http://icm.mcs.kent.edu/reports/1999/chebpol.pdf)|
+|[330208](https://oeis.org/A330208)|[http://icm.mcs.kent.edu/reports/1999/chebpol.pdf](http://icm.mcs.kent.edu/reports/1999/chebpol.pdf)|
 |[57164](https://oeis.org/A057164)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[193690](https://oeis.org/A193690)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[102742](https://oeis.org/A102742)|[http://www.primenace.com/papers/math/ElitePrimes.htm](http://www.primenace.com/papers/math/ElitePrimes.htm)|
+|[11541](https://oeis.org/A011541)|[http://everything2.net/node/1028223](http://everything2.net/node/1028223), [http://pobox.com/~djb/papers/sortedsums.dvi](http://pobox.com/~djb/papers/sortedsums.dvi)|
+|[193768](https://oeis.org/A193768)|[http://www.math.ucdenver.edu/~msj/papers/DomProdI.pdf](http://www.math.ucdenver.edu/~msj/papers/DomProdI.pdf)|
+|[193778](https://oeis.org/A193778)|[http://puma.dimai.unifi.it/23_3/hardt_troyka.pdf](http://puma.dimai.unifi.it/23_3/hardt_troyka.pdf)|
+|[330315](https://oeis.org/A330315)|[https://10.2969/jmsj/05110237](https://10.2969/jmsj/05110237)|
+|[330316](https://oeis.org/A330316)|[https://10.2969/jmsj/05110237](https://10.2969/jmsj/05110237)|
+|[102778](https://oeis.org/A102778)|[http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm](http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm)|
+|[330317](https://oeis.org/A330317)|[https://10.2969/jmsj/05110237](https://10.2969/jmsj/05110237)|
+|[102779](https://oeis.org/A102779)|[http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm](http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm)|
+|[330318](https://oeis.org/A330318)|[https://10.2969/jmsj/05110237](https://10.2969/jmsj/05110237)|
+|[284842](https://oeis.org/A284842)|[http://for.mat.bham.ac.uk/atlas/v2.0/spor/M12/](http://for.mat.bham.ac.uk/atlas/v2.0/spor/M12/)|
+|[102809](https://oeis.org/A102809)|[http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm](http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm)|
+|[102853](https://oeis.org/A102853)|[http://groups.msn.com/BC2LCC/3n2isnotsquare.msnw](http://groups.msn.com/BC2LCC/3n2isnotsquare.msnw)|
 |[57354](https://oeis.org/A057354)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
 |[57355](https://oeis.org/A057355)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
 |[57357](https://oeis.org/A057357)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
@@ -1843,35 +2230,98 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[57359](https://oeis.org/A057359)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
 |[57360](https://oeis.org/A057360)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
 |[57361](https://oeis.org/A057361)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
-|[57362](https://oeis.org/A057362)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
 |[57363](https://oeis.org/A057363)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
+|[193879](https://oeis.org/A193879)|[http://articles.adsabs.harvard.edu/full/seri/AN.../0220/0000203.000.html](http://articles.adsabs.harvard.edu/full/seri/AN.../0220/0000203.000.html)|
 |[57364](https://oeis.org/A057364)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
 |[57365](https://oeis.org/A057365)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
 |[57366](https://oeis.org/A057366)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
-|[57429](https://oeis.org/A057429)|[http://www.mail-archive.com/mersenne@base.com/msg05162.html](http://www.mail-archive.com/mersenne@base.com/msg05162.html)|
+|[193910](https://oeis.org/A193910)|[http://articles.adsabs.harvard.edu/full/seri/AN.../0220/0000203.000.html](http://articles.adsabs.harvard.edu/full/seri/AN.../0220/0000203.000.html)|
 |[57486](https://oeis.org/A057486)|[http://webloria.loria.fr/~zimmerma/irred/57885161.txt](http://webloria.loria.fr/~zimmerma/irred/57885161.txt)|
-|[57501](https://oeis.org/A057501)|[http://www-math.mit.edu/~rstan/ec/catalan.pdf](http://www-math.mit.edu/~rstan/ec/catalan.pdf)|
 |[57502](https://oeis.org/A057502)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[57505](https://oeis.org/A057505)|[http://www-cs-staff.Stanford.EDU/~knuth/fasc4a.ps.gz](http://www-cs-staff.Stanford.EDU/~knuth/fasc4a.ps.gz)|
 |[57508](https://oeis.org/A057508)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[57509](https://oeis.org/A057509)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[57510](https://oeis.org/A057510)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[57513](https://oeis.org/A057513)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[57515](https://oeis.org/A057515)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[57563](https://oeis.org/A057563)|[http://www.znz.freesurf.fr/pages/titanix.html](http://www.znz.freesurf.fr/pages/titanix.html)|
+|[330612](https://oeis.org/A330612)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
 |[57646](https://oeis.org/A057646)|[http://webloria.loria.fr/~zimmerma/irred/57885161.txt](http://webloria.loria.fr/~zimmerma/irred/57885161.txt)|
-|[57711](https://oeis.org/A057711)|[http://ki.cs.tu-berlin.de/diplomarbeiten/wolf/da.html](http://ki.cs.tu-berlin.de/diplomarbeiten/wolf/da.html), [http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf)|
+|[11943](https://oeis.org/A011943)|[http://alum.wpi.edu/~tiberio/vita/AMM3302.pdf](http://alum.wpi.edu/~tiberio/vita/AMM3302.pdf)|
+|[194181](https://oeis.org/A194181)|[http://eprints.maths.ox.ac.uk/1106/1/NA-06-17.pdf](http://eprints.maths.ox.ac.uk/1106/1/NA-06-17.pdf)|
+|[11971](https://oeis.org/A011971)|[http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf](http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf)|
+|[57711](https://oeis.org/A057711)|[http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf), [http://ki.cs.tu-berlin.de/diplomarbeiten/wolf/da.html](http://ki.cs.tu-berlin.de/diplomarbeiten/wolf/da.html)|
+|[57744](https://oeis.org/A057744)|[http://user42.tuxfamily.org/dragon/index.html](http://user42.tuxfamily.org/dragon/index.html)|
+|[239797](https://oeis.org/A239797)|[http://sage.math.washington.edu/home/wstein/www/books/ant/](http://sage.math.washington.edu/home/wstein/www/books/ant/), [http://sage.math.washington.edu/home/wstein/www/books/ant/ant/node40.html](http://sage.math.washington.edu/home/wstein/www/books/ant/ant/node40.html)|
 |[57754](https://oeis.org/A057754)|[http://documents.wolfram.com/v3/](http://documents.wolfram.com/v3/)|
-|[57790](https://oeis.org/A057790)|[http://www.imfm.si/preprinti/PDF/00687.pdf](http://www.imfm.si/preprinti/PDF/00687.pdf)|
-|[57817](https://oeis.org/A057817)|[http://math.mit.edu/~apost/papers/](http://math.mit.edu/~apost/papers/)|
+|[239890](https://oeis.org/A239890)|[http://dx.doi.org/10.1364/OE.22.004499](http://dx.doi.org/10.1364/OE.22.004499)|
 |[57848](https://oeis.org/A057848)|[http://myhome.hanafos.com/~1234chae/myindex.htm](http://myhome.hanafos.com/~1234chae/myindex.htm)|
 |[57853](https://oeis.org/A057853)|[http://wwwtios.cs.utwente.nl/esperanto/hypercourse/getallen.html](http://wwwtios.cs.utwente.nl/esperanto/hypercourse/getallen.html)|
-|[58014](https://oeis.org/A058014)|[http://math.mit.edu/~apost/papers.html](http://math.mit.edu/~apost/papers.html)|
+|[103372](https://oeis.org/A103372)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
+|[103373](https://oeis.org/A103373)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
+|[103374](https://oeis.org/A103374)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
+|[103375](https://oeis.org/A103375)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
+|[103376](https://oeis.org/A103376)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
+|[103377](https://oeis.org/A103377)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
+|[103378](https://oeis.org/A103378)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
+|[103379](https://oeis.org/A103379)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
+|[103380](https://oeis.org/A103380)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
+|[103389](https://oeis.org/A103389)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
+|[103399](https://oeis.org/A103399)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
+|[103400](https://oeis.org/A103400)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
+|[103435](https://oeis.org/A103435)|[https://community.plu.edu/~edgartj/fiblucas.pdf](https://community.plu.edu/~edgartj/fiblucas.pdf)|
+|[194541](https://oeis.org/A194541)|[http://imperator.usc.edu/~bruck/classes/fall2003/math126/exams/finalsolns.pdf](http://imperator.usc.edu/~bruck/classes/fall2003/math126/exams/finalsolns.pdf)|
+|[285579](https://oeis.org/A285579)|[http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp](http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp)|
+|[194687](https://oeis.org/A194687)|[http://wiki.l-functions.org/LfunctionsAndModularFormsII/CentralValues/Rank4](http://wiki.l-functions.org/LfunctionsAndModularFormsII/CentralValues/Rank4), [http://emis.mi.ras.ru/journals/JIS/VOL12/Janfada/janfada3.html](http://emis.mi.ras.ru/journals/JIS/VOL12/Janfada/janfada3.html)|
+|[103710](https://oeis.org/A103710)|[http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov](http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov)|
+|[103711](https://oeis.org/A103711)|[http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov](http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov)|
+|[103713](https://oeis.org/A103713)|[http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov](http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov)|
+|[103743](https://oeis.org/A103743)|[http://pweb.nju.edu.cn/zwsun/](http://pweb.nju.edu.cn/zwsun/), [http://pweb.nju.edu.cn/zwsun/Cover.pdf](http://pweb.nju.edu.cn/zwsun/Cover.pdf), [http://pweb.nju.edu.cn/zwsun/43l.pdf](http://pweb.nju.edu.cn/zwsun/43l.pdf)|
+|[103752](https://oeis.org/A103752)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[103773](https://oeis.org/A103773)|[http://www.gutenberg.org/etext/633](http://www.gutenberg.org/etext/633)|
+|[285832](https://oeis.org/A285832)|[http://www.dtic.mil/dtic/tr/fulltext/u2/a392002.pdf](http://www.dtic.mil/dtic/tr/fulltext/u2/a392002.pdf)|
+|[103789](https://oeis.org/A103789)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[103793](https://oeis.org/A103793)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[103808](https://oeis.org/A103808)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634), [http://www.math-cs.ucmo.edu/~mjms/2000.1/soln.ps](http://www.math-cs.ucmo.edu/~mjms/2000.1/soln.ps), [http://www.math-cs.ucmo.edu/~mjms/1998.3/prob.ps](http://www.math-cs.ucmo.edu/~mjms/1998.3/prob.ps)|
 |[58296](https://oeis.org/A058296)|[http://www.math.siu.edu/mills/interesting_seqs.pdf](http://www.math.siu.edu/mills/interesting_seqs.pdf)|
+|[103809](https://oeis.org/A103809)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[103810](https://oeis.org/A103810)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[103811](https://oeis.org/A103811)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[103812](https://oeis.org/A103812)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[240438](https://oeis.org/A240438)|[http://homepage.hispeed.ch/FSJM/documents/22_Quarts_ind.pdf](http://homepage.hispeed.ch/FSJM/documents/22_Quarts_ind.pdf)|
+|[194923](https://oeis.org/A194923)|[http://south.rotol.ramk.fi/keranen/ias2002/NewAbelianSquare-FreeDT0L-LanguagesOver4Letters.nb](http://south.rotol.ramk.fi/keranen/ias2002/NewAbelianSquare-FreeDT0L-LanguagesOver4Letters.nb)|
+|[194942](https://oeis.org/A194942)|[http://south.rotol.ramk.fi/keranen/ias2002/NewAbelianSquare-FreeDT0L-LanguagesOver4Letters.nb](http://south.rotol.ramk.fi/keranen/ias2002/NewAbelianSquare-FreeDT0L-LanguagesOver4Letters.nb)|
+|[103946](https://oeis.org/A103946)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
+|[103982](https://oeis.org/A103982)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
+|[104003](https://oeis.org/A104003)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
+|[104019](https://oeis.org/A104019)|[http://www.smart.net/~mmontes/freq1.html](http://www.smart.net/~mmontes/freq1.html)|
 |[58529](https://oeis.org/A058529)|[http://pythag.net/node4.html](http://pythag.net/node4.html)|
+|[286128](https://oeis.org/A286128)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
+|[286129](https://oeis.org/A286129)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
+|[286131](https://oeis.org/A286131)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
+|[286132](https://oeis.org/A286132)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
+|[286133](https://oeis.org/A286133)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
+|[286134](https://oeis.org/A286134)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
+|[286135](https://oeis.org/A286135)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
+|[286137](https://oeis.org/A286137)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
+|[104101](https://oeis.org/A104101)|[http://www.d.kth.se/~dicander/lost.html](http://www.d.kth.se/~dicander/lost.html)|
 |[58635](https://oeis.org/A058635)|[http://pweb.nju.edu.cn/zwsun/39f.pdf](http://pweb.nju.edu.cn/zwsun/39f.pdf)|
+|[104155](https://oeis.org/A104155)|[http://psyche.uthct.edu/shaun/SBlack/geneticd.html](http://psyche.uthct.edu/shaun/SBlack/geneticd.html)|
+|[195166](https://oeis.org/A195166)|[https://www.mast.queensu.ca/~murty/monthly-ruderman.pdf](https://www.mast.queensu.ca/~murty/monthly-ruderman.pdf)|
+|[104158](https://oeis.org/A104158)|[http://web.ukonline.co.uk/patrick.chaplin/Darts_History/why_are_the_numbers_on_a_dartboa.htm](http://web.ukonline.co.uk/patrick.chaplin/Darts_History/why_are_the_numbers_on_a_dartboa.htm)|
+|[58693](https://oeis.org/A058693)|[https://www-imai.is.s.u-tokyo.ac.jp/~ymatsu/matroid/](https://www-imai.is.s.u-tokyo.ac.jp/~ymatsu/matroid/)|
+|[104203](https://oeis.org/A104203)|[http://www.de.dau.lv/matematika/lemniscatic/S3F3v1.pdf](http://www.de.dau.lv/matematika/lemniscatic/S3F3v1.pdf)|
 |[58728](https://oeis.org/A058728)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
+|[195284](https://oeis.org/A195284)|[http://spikedmath.com/524.html](http://spikedmath.com/524.html)|
 |[58800](https://oeis.org/A058800)|[http://www-ifm.math.uni-hannover.de/forschung/preprintsifm.html](http://www-ifm.math.uni-hannover.de/forschung/preprintsifm.html)|
+|[104392](https://oeis.org/A104392)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
+|[104393](https://oeis.org/A104393)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
+|[104394](https://oeis.org/A104394)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
+|[104395](https://oeis.org/A104395)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
+|[104396](https://oeis.org/A104396)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
+|[104397](https://oeis.org/A104397)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
+|[104398](https://oeis.org/A104398)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
+|[104399](https://oeis.org/A104399)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
+|[104400](https://oeis.org/A104400)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
 |[58929](https://oeis.org/A058929)|[http://myhome.hanafos.com/~1234chae/myindex.htm](http://myhome.hanafos.com/~1234chae/myindex.htm)|
 |[58930](https://oeis.org/A058930)|[http://myhome.hanafos.com/~1234chae/myindex.htm](http://myhome.hanafos.com/~1234chae/myindex.htm)|
 |[58931](https://oeis.org/A058931)|[http://myhome.hanafos.com/~1234chae/myindex.htm](http://myhome.hanafos.com/~1234chae/myindex.htm)|
@@ -1881,165 +2331,512 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[58947](https://oeis.org/A058947)|[http://www.theory.cs.uvic.ca/~cos/gen/poly.html](http://www.theory.cs.uvic.ca/~cos/gen/poly.html)|
 |[58992](https://oeis.org/A058992)|[http://www.scribd.com/doc/138937268/Extended-9-Dots-Puzzle-to-nxnx-xn-Dots-General-Solving-Method](http://www.scribd.com/doc/138937268/Extended-9-Dots-Puzzle-to-nxnx-xn-Dots-General-Solving-Method)|
 |[59015](https://oeis.org/A059015)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[332077](https://oeis.org/A332077)|[https://asone.ai/polymath/index.php?title=The_Erdos-Rado_sunflower_lemma](https://asone.ai/polymath/index.php?title=The_Erdos-Rado_sunflower_lemma)|
 |[59090](https://oeis.org/A059090)|[http://search.ieice.or.jp/1997/abs/e80-a_8_1502.htm](http://search.ieice.or.jp/1997/abs/e80-a_8_1502.htm)|
 |[59106](https://oeis.org/A059106)|[https://eprint.panzan.me/articles/langford.pdf](https://eprint.panzan.me/articles/langford.pdf)|
-|[59231](https://oeis.org/A059231)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[59418](https://oeis.org/A059418)|[http://www.dmg.tuwien.ac.at/drmota/recursivetrees.pdf](http://www.dmg.tuwien.ac.at/drmota/recursivetrees.pdf)|
+|[241164](https://oeis.org/A241164)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubtrans/index.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubtrans/index.html)|
+|[286762](https://oeis.org/A286762)|[https://www.integers-ejcnt.org/vol18.html](https://www.integers-ejcnt.org/vol18.html)|
+|[286763](https://oeis.org/A286763)|[https://www.integers-ejcnt.org/vol18.html](https://www.integers-ejcnt.org/vol18.html)|
+|[332251](https://oeis.org/A332251)|[http://user42.tuxfamily.org/c-curve/index.html](http://user42.tuxfamily.org/c-curve/index.html)|
+|[104745](https://oeis.org/A104745)|[http://www.factorization.ath.cx/index.php?query=5%5E7954+%2B+7954](http://www.factorization.ath.cx/index.php?query=5%5E7954+%2B+7954)|
+|[59282](https://oeis.org/A059282)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/foster/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/foster/), [http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubtrans/index.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubtrans/index.html)|
+|[13609](https://oeis.org/A013609)|[http://www.http://www.ms.uky.edu/~jrge/Papers/Eulerian_binomial_old_old.pdf](http://www.http://www.ms.uky.edu/~jrge/Papers/Eulerian_binomial_old_old.pdf)|
+|[286885](https://oeis.org/A286885)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[286944](https://oeis.org/A286944)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[104916](https://oeis.org/A104916)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104917](https://oeis.org/A104917)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104918](https://oeis.org/A104918)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104919](https://oeis.org/A104919)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104920](https://oeis.org/A104920)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104921](https://oeis.org/A104921)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104922](https://oeis.org/A104922)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104923](https://oeis.org/A104923)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104924](https://oeis.org/A104924)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104925](https://oeis.org/A104925)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104926](https://oeis.org/A104926)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104927](https://oeis.org/A104927)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104928](https://oeis.org/A104928)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104929](https://oeis.org/A104929)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104930](https://oeis.org/A104930)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104931](https://oeis.org/A104931)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104932](https://oeis.org/A104932)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104933](https://oeis.org/A104933)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
+|[104956](https://oeis.org/A104956)|[https://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1979A&amp](https://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1979A&amp)|
 |[59451](https://oeis.org/A059451)|[http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/February2001.html](http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/February2001.html)|
 |[59452](https://oeis.org/A059452)|[http://ksc9.th.com/warut/cunningham.html](http://ksc9.th.com/warut/cunningham.html)|
 |[59515](https://oeis.org/A059515)|[http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html](http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html)|
 |[59517](https://oeis.org/A059517)|[http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html](http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html)|
 |[59573](https://oeis.org/A059573)|[http://w1.875.telia.com/~u87509703/mathez/polyotessaminoes/polyotessaminonumbers.html](http://w1.875.telia.com/~u87509703/mathez/polyotessaminoes/polyotessaminonumbers.html)|
+|[287148](https://oeis.org/A287148)|[https://www.spitzer.caltech.edu/explore/trappist-1](https://www.spitzer.caltech.edu/explore/trappist-1), [http://www.trappist.one/files/Gillon_2016a.pdf](http://www.trappist.one/files/Gillon_2016a.pdf), [http://trappist.one](http://trappist.one)|
+|[196149](https://oeis.org/A196149)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
+|[13928](https://oeis.org/A013928)|[http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005abb_196.pdf](http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005abb_196.pdf)|
 |[59688](https://oeis.org/A059688)|[http://ksc9.th.com/warut/cunningham.html](http://ksc9.th.com/warut/cunningham.html)|
 |[59690](https://oeis.org/A059690)|[http://ksc9.th.com/warut/cunningham.html](http://ksc9.th.com/warut/cunningham.html)|
-|[59738](https://oeis.org/A059738)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
 |[59739](https://oeis.org/A059739)|[http://www-home.math.uwo.ca/~srankin/papers/knots/altlnk.submit.pdf](http://www-home.math.uwo.ca/~srankin/papers/knots/altlnk.submit.pdf), [http://knotilus.math.uwo.ca](http://knotilus.math.uwo.ca)|
+|[59756](https://oeis.org/A059756)|[http://list.seqfan.eu/oldermail/seqfan/2014-December/014092.html](http://list.seqfan.eu/oldermail/seqfan/2014-December/014092.html)|
+|[14113](https://oeis.org/A014113)|[http://ecs.inria.fr/services/structure?nbr=457](http://ecs.inria.fr/services/structure?nbr=457)|
+|[14117](https://oeis.org/A014117)|[http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Problems.html](http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Problems.html)|
+|[105368](https://oeis.org/A105368)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[105393](https://oeis.org/A105393)|[http://www.math.jussieu.fr/~miw/articles/pdf/SurveyTrdceEllipt2006.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/SurveyTrdceEllipt2006.pdf)|
+|[14206](https://oeis.org/A014206)|[http://puma.dimai.unifi.it/19_2_3/3.pdf](http://puma.dimai.unifi.it/19_2_3/3.pdf), [http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/bitonic/bitonicen.htm](http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/bitonic/bitonicen.htm)|
 |[59919](https://oeis.org/A059919)|[http://www1.uni-hamburg.de/RRZ/W.Keller/GFN03.html](http://www1.uni-hamburg.de/RRZ/W.Keller/GFN03.html)|
+|[14217](https://oeis.org/A014217)|[http://www.math-cs.ucmo.edu/~mjms/2000.1/soln.ps](http://www.math-cs.ucmo.edu/~mjms/2000.1/soln.ps), [http://www.math-cs.ucmo.edu/~mjms/1998.3/prob.ps](http://www.math-cs.ucmo.edu/~mjms/1998.3/prob.ps)|
 |[59925](https://oeis.org/A059925)|[http://ymmij.de/Nerd/p4/p4-2.pdf](http://ymmij.de/Nerd/p4/p4-2.pdf)|
+|[14233](https://oeis.org/A014233)|[http://www-fs.informatik.uni-tuebingen.de/~reinhard/krypto/English/2.3.1.e.html](http://www-fs.informatik.uni-tuebingen.de/~reinhard/krypto/English/2.3.1.e.html), [http://www.security-labs.org/full-page.php3?page=5](http://www.security-labs.org/full-page.php3?page=5)|
 |[59956](https://oeis.org/A059956)|[http://harry-j-smith-memorial.com/download.html#XPCalc](http://harry-j-smith-memorial.com/download.html#XPCalc)|
 |[59963](https://oeis.org/A059963)|[http://agl.ifrance.com/agl/A059963.htm](http://agl.ifrance.com/agl/A059963.htm)|
+|[242049](https://oeis.org/A242049)|[http://user42.tuxfamily.org/pari-vpar/index.html](http://user42.tuxfamily.org/pari-vpar/index.html)|
+|[14293](https://oeis.org/A014293)|[http://www.tickey.co.za/maths/Puzzles%20-%20%20Coconut%20puzzle.pdf](http://www.tickey.co.za/maths/Puzzles%20-%20%20Coconut%20puzzle.pdf)|
+|[14297](https://oeis.org/A014297)|[http://ecs.inria.fr/services/structure?nbr=506](http://ecs.inria.fr/services/structure?nbr=506)|
+|[14300](https://oeis.org/A014300)|[https://lrecits.usthb.dz/6.5.pdf](https://lrecits.usthb.dz/6.5.pdf)|
 |[60006](https://oeis.org/A060006)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
+|[105547](https://oeis.org/A105547)|[http://sis.univ-tln.fr/~bonnecaze/biblio.html](http://sis.univ-tln.fr/~bonnecaze/biblio.html), [http://sis.univ-tln.fr/~bonnecaze/biblio.html](http://sis.univ-tln.fr/~bonnecaze/biblio.html)|
+|[287616](https://oeis.org/A287616)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[60082](https://oeis.org/A060082)|[http://pweb.nju.edu.cn/zwsun/papers.htm](http://pweb.nju.edu.cn/zwsun/papers.htm)|
+|[14405](https://oeis.org/A014405)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
+|[14406](https://oeis.org/A014406)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
 |[60115](https://oeis.org/A060115)|[http://www.iki.fi/~kartturi/matikka/findnext.txt](http://www.iki.fi/~kartturi/matikka/findnext.txt)|
 |[60116](https://oeis.org/A060116)|[http://www.iki.fi/~kartturi/matikka/findnext.txt](http://www.iki.fi/~kartturi/matikka/findnext.txt)|
 |[60135](https://oeis.org/A060135)|[http://www.iki.fi/~kartturi/matikka/permgraf/troctahe.htm](http://www.iki.fi/~kartturi/matikka/permgraf/troctahe.htm)|
-|[60187](https://oeis.org/A060187)|[http://www-math.mit.edu/~rstan/papers/qbc.pdf](http://www-math.mit.edu/~rstan/papers/qbc.pdf)|
+|[105681](https://oeis.org/A105681)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
+|[105682](https://oeis.org/A105682)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
+|[14466](https://oeis.org/A014466)|[http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf](http://www.gallup.unm.edu/~smarandache/Atanassov-SomeProblems.pdf), [http://www.gallup.unm.edu/~smarandache/NeutrosophicProceedings.pdf](http://www.gallup.unm.edu/~smarandache/NeutrosophicProceedings.pdf)|
+|[105688](https://oeis.org/A105688)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
+|[105689](https://oeis.org/A105689)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
+|[14486](https://oeis.org/A014486)|[http://www.iki.fi/~kartturi/matikka/tab9766.htm](http://www.iki.fi/~kartturi/matikka/tab9766.htm)|
+|[333270](https://oeis.org/A333270)|[https://people.engr.ncsu.edu/savage/PAPERS/rational.pdf](https://people.engr.ncsu.edu/savage/PAPERS/rational.pdf)|
+|[333271](https://oeis.org/A333271)|[https://people.engr.ncsu.edu/savage/PAPERS/rational.pdf](https://people.engr.ncsu.edu/savage/PAPERS/rational.pdf)|
+|[333272](https://oeis.org/A333272)|[https://people.engr.ncsu.edu/savage/PAPERS/rational.pdf](https://people.engr.ncsu.edu/savage/PAPERS/rational.pdf)|
+|[14540](https://oeis.org/A014540)|[http://www.emba.uvm.edu/~archdeac/problems/rectcros.htm](http://www.emba.uvm.edu/~archdeac/problems/rectcros.htm)|
+|[14552](https://oeis.org/A014552)|[https://eprint.panzan.me/articles/langford.pdf](https://eprint.panzan.me/articles/langford.pdf)|
+|[14567](https://oeis.org/A014567)|[http://www.math-cs.ucmo.edu/~mjms/2003.3/feist.pdf](http://www.math-cs.ucmo.edu/~mjms/2003.3/feist.pdf)|
 |[60295](https://oeis.org/A060295)|[http://users.skynet.be/radoux/163.htm](http://users.skynet.be/radoux/163.htm), [http://users.skynet.be/radoux/163-2.htm](http://users.skynet.be/radoux/163-2.htm)|
-|[60564](https://oeis.org/A060564)|[http://islab.oregonstate.edu/papers/c21curve.pdf](http://islab.oregonstate.edu/papers/c21curve.pdf), [http://www.math.hr/~duje/tors/rankhist.html](http://www.math.hr/~duje/tors/rankhist.html), [http://www.maths.nottingham.ac.uk/personal/jec/ftp/data/INDEX.html](http://www.maths.nottingham.ac.uk/personal/jec/ftp/data/INDEX.html), [http://www.math.brown.edu/~jhs/Presentations/WyomingEllipticCurve.pdf](http://www.math.brown.edu/~jhs/Presentations/WyomingEllipticCurve.pdf), [http://mathworld.wolfram.com/EllipticCurve.html](http://mathworld.wolfram.com/EllipticCurve.html)|
+|[333347](https://oeis.org/A333347)|[http://user42.tuxfamily.org/graph-maker-other/MostMaximumMatchingsTree-samples.pdf](http://user42.tuxfamily.org/graph-maker-other/MostMaximumMatchingsTree-samples.pdf)|
+|[333348](https://oeis.org/A333348)|[http://user42.tuxfamily.org/pari-vpar/index.html](http://user42.tuxfamily.org/pari-vpar/index.html)|
+|[287921](https://oeis.org/A287921)|[http://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.pdf](http://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.pdf)|
+|[242435](https://oeis.org/A242435)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#82](http://www.chalcedon.demon.co.uk/rgep/publish.html#82)|
+|[242465](https://oeis.org/A242465)|[http://magicdragon.com/EmeraldCity/Nonfiction/four9s.html](http://magicdragon.com/EmeraldCity/Nonfiction/four9s.html)|
+|[60443](https://oeis.org/A060443)|[http://cage.ugent.be/~jdemeyer/cunningham/](http://cage.ugent.be/~jdemeyer/cunningham/)|
+|[60465](https://oeis.org/A060465)|[http://cr.yp.to/threecubes.html](http://cr.yp.to/threecubes.html)|
+|[242539](https://oeis.org/A242539)|[http://adsabs.harvard.edu/full/1917PA.....25...72C](http://adsabs.harvard.edu/full/1917PA.....25...72C)|
+|[106007](https://oeis.org/A106007)|[http://www.pythagoras.nu).](http://www.pythagoras.nu).)|
+|[60564](https://oeis.org/A060564)|[http://islab.oregonstate.edu/papers/c21curve.pdf](http://islab.oregonstate.edu/papers/c21curve.pdf)|
 |[60628](https://oeis.org/A060628)|[http://www-maths.swan.ac.uk/staff/fwc/Gregynog-slides.pdf](http://www-maths.swan.ac.uk/staff/fwc/Gregynog-slides.pdf)|
-|[60693](https://oeis.org/A060693)|[https://m.math.tecnico.ulisboa.pt/seminars/ceafel/index.php.en?action=show&amp](https://m.math.tecnico.ulisboa.pt/seminars/ceafel/index.php.en?action=show&amp)|
-|[60728](https://oeis.org/A060728)|[http://ojas.ucok.edu/98/T98/THIENDO.HTM](http://ojas.ucok.edu/98/T98/THIENDO.HTM), [http://www.biochem.okstate.edu/OAS/OJAS/thiendo.htm](http://www.biochem.okstate.edu/OAS/OJAS/thiendo.htm)|
-|[60803](https://oeis.org/A060803)|[http://logic.csci.unt.edu/tarau/research/2009/fISO.pdf](http://logic.csci.unt.edu/tarau/research/2009/fISO.pdf)|
-|[60843](https://oeis.org/A060843)|[http://grail.cba.csuohio.edu/~somos/busy.html](http://grail.cba.csuohio.edu/~somos/busy.html), [http://grail.cba.csuohio.edu/~somos/bb.html](http://grail.cba.csuohio.edu/~somos/bb.html)|
-|[60941](https://oeis.org/A060941)|[http://dmg.tuwien.ac.at/mwallner/files/Dissertation_Wallner.pdf](http://dmg.tuwien.ac.at/mwallner/files/Dissertation_Wallner.pdf)|
+|[106182](https://oeis.org/A106182)|[http://www.hpl.hp.com/techreports/2004/HPL-2004-153.html](http://www.hpl.hp.com/techreports/2004/HPL-2004-153.html)|
+|[60693](https://oeis.org/A060693)|[https://m.math.tecnico.ulisboa.pt/seminars/ceafel/index.php.en?action=show&amp](https://m.math.tecnico.ulisboa.pt/seminars/ceafel/index.php.en?action=show&amp), [http://www.cs.uwaterloo.ca/journals/JIS/VOL9/Barry/barry91.html](http://www.cs.uwaterloo.ca/journals/JIS/VOL9/Barry/barry91.html)|
+|[14983](https://oeis.org/A014983)|[http://ecs.inria.fr/services/structure?nbr=927](http://ecs.inria.fr/services/structure?nbr=927)|
+|[60728](https://oeis.org/A060728)|[http://ojas.ucok.edu/98/T98/THIENDO.HTM](http://ojas.ucok.edu/98/T98/THIENDO.HTM), [http://www.biochem.okstate.edu/OAS/OJAS/thiendo.htm](http://www.biochem.okstate.edu/OAS/OJAS/thiendo.htm), [https://bayanbox.ir/view/5143526036407318041/problem-solving-strategies-math-cs.blog.ir.pdf](https://bayanbox.ir/view/5143526036407318041/problem-solving-strategies-math-cs.blog.ir.pdf)|
+|[60833](https://oeis.org/A060833)|[http://user42.tuxfamily.org/dragon/index.html](http://user42.tuxfamily.org/dragon/index.html)|
+|[333909](https://oeis.org/A333909)|[https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf](https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf)|
+|[333910](https://oeis.org/A333910)|[https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf](https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf)|
+|[333911](https://oeis.org/A333911)|[https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf](https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf)|
+|[151937](https://oeis.org/A151937)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html)|
+|[151938](https://oeis.org/A151938)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html)|
+|[151939](https://oeis.org/A151939)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html)|
+|[151940](https://oeis.org/A151940)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html)|
+|[106433](https://oeis.org/A106433)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[197424](https://oeis.org/A197424)|[http://www.mathramz.com/mrpsg/Sol/MathMag1854.pdf](http://www.mathramz.com/mrpsg/Sol/MathMag1854.pdf)|
 |[60973](https://oeis.org/A060973)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[60995](https://oeis.org/A060995)|[http://www.kalva.demon.co.uk/imo/isoln/isoln796.html](http://www.kalva.demon.co.uk/imo/isoln/isoln796.html)|
 |[61013](https://oeis.org/A061013)|[http://www-bior.sozwi.uni-kl.de/1998/welcome.htm](http://www-bior.sozwi.uni-kl.de/1998/welcome.htm)|
+|[61034](https://oeis.org/A061034)|[http://dx.doi.org/10.1090/S0002-9904-1927-04354-3](http://dx.doi.org/10.1090/S0002-9904-1927-04354-3)|
+|[61041](https://oeis.org/A061041)|[http://adsabs.harvard.edu/abs/1922ApJ....56..154B](http://adsabs.harvard.edu/abs/1922ApJ....56..154B)|
+|[243116](https://oeis.org/A243116)|[https://lrecits.usthb.dz/6.5.pdf](https://lrecits.usthb.dz/6.5.pdf)|
+|[334114](https://oeis.org/A334114)|[http://eusebeia.dyndns.org/4d/J88](http://eusebeia.dyndns.org/4d/J88)|
+|[152089](https://oeis.org/A152089)|[http://stefan.guninski.com/seq/guyres2.txt](http://stefan.guninski.com/seq/guyres2.txt)|
+|[106665](https://oeis.org/A106665)|[http://user42.tuxfamily.org/alternate/index.html](http://user42.tuxfamily.org/alternate/index.html)|
+|[61167](https://oeis.org/A061167)|[http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Problems.html](http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Problems.html)|
 |[61168](https://oeis.org/A061168)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[61193](https://oeis.org/A061193)|[http://harry-j-smith-memorial.com/Perfect/Mersenne.html](http://harry-j-smith-memorial.com/Perfect/Mersenne.html), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[152217](https://oeis.org/A152217)|[http://staff.spd.dcu.ie/johnbcos/jacobi.htm](http://staff.spd.dcu.ie/johnbcos/jacobi.htm)|
+|[61193](https://oeis.org/A061193)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://harry-j-smith-memorial.com/Perfect/Mersenne.html](http://harry-j-smith-memorial.com/Perfect/Mersenne.html)|
+|[106739](https://oeis.org/A106739)|[http://www.csr.uvic.ca/~wendym/torus/embedding.html](http://www.csr.uvic.ca/~wendym/torus/embedding.html)|
+|[15630](https://oeis.org/A015630)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
 |[61354](https://oeis.org/A061354)|[http://home.earthlink.net/~jsondow/PrimesAndE.pdf](http://home.earthlink.net/~jsondow/PrimesAndE.pdf)|
+|[243508](https://oeis.org/A243508)|[http://www.math-cs.ucmo.edu/~mjms/2003.1/pyiu.pdf](http://www.math-cs.ucmo.edu/~mjms/2003.1/pyiu.pdf)|
+|[61436](https://oeis.org/A061436)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp)|
+|[61438](https://oeis.org/A061438)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp)|
 |[61526](https://oeis.org/A061526)|[http://ladybug.xs4all.nl/arlet/puzzles/solutions/contrib/tictactoe.html](http://ladybug.xs4all.nl/arlet/puzzles/solutions/contrib/tictactoe.html)|
 |[61527](https://oeis.org/A061527)|[http://ladybug.xs4all.nl/arlet/puzzles/solutions/contrib/tictactoe.html](http://ladybug.xs4all.nl/arlet/puzzles/solutions/contrib/tictactoe.html)|
 |[61528](https://oeis.org/A061528)|[http://ladybug.xs4all.nl/arlet/puzzles/solutions/contrib/tictactoe.html](http://ladybug.xs4all.nl/arlet/puzzles/solutions/contrib/tictactoe.html)|
 |[61529](https://oeis.org/A061529)|[http://ladybug.xs4all.nl/arlet/puzzles/solutions/contrib/tictactoe.html](http://ladybug.xs4all.nl/arlet/puzzles/solutions/contrib/tictactoe.html)|
 |[61530](https://oeis.org/A061530)|[http://ladybug.xs4all.nl/arlet/puzzles/solutions/contrib/tictactoe.html](http://ladybug.xs4all.nl/arlet/puzzles/solutions/contrib/tictactoe.html)|
 |[61534](https://oeis.org/A061534)|[http://ecs.inria.fr/services/structure?nbr=1056](http://ecs.inria.fr/services/structure?nbr=1056)|
-|[61554](https://oeis.org/A061554)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[61712](https://oeis.org/A061712)|[http://www.dmg.tuwien.ac.at/drmota/DMRcomp2.pdf](http://www.dmg.tuwien.ac.at/drmota/DMRcomp2.pdf)|
+|[107232](https://oeis.org/A107232)|[http://puma.dimai.unifi.it/22_2/manara_perelli-cippo.pdf](http://puma.dimai.unifi.it/22_2/manara_perelli-cippo.pdf)|
+|[334820](https://oeis.org/A334820)|[http://user42.tuxfamily.org/seq-A334820/index.html](http://user42.tuxfamily.org/seq-A334820/index.html)|
+|[198300](https://oeis.org/A198300)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html)|
+|[198306](https://oeis.org/A198306)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html)|
+|[198307](https://oeis.org/A198307)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html)|
+|[198308](https://oeis.org/A198308)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html)|
+|[198309](https://oeis.org/A198309)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html)|
+|[198310](https://oeis.org/A198310)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html)|
+|[16116](https://oeis.org/A016116)|[http://ecs.inria.fr/services/structure?nbr=1067](http://ecs.inria.fr/services/structure?nbr=1067)|
+|[107373](https://oeis.org/A107373)|[http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf)|
 |[61854](https://oeis.org/A061854)|[http://www.iki.fi/~kartturi/matikka/tab9766.htm](http://www.iki.fi/~kartturi/matikka/tab9766.htm)|
 |[61855](https://oeis.org/A061855)|[http://www.iki.fi/~kartturi/matikka/tab9766.htm](http://www.iki.fi/~kartturi/matikka/tab9766.htm)|
+|[107427](https://oeis.org/A107427)|[http://www.jimloy.com/puzz/cole.htm](http://www.jimloy.com/puzz/cole.htm)|
+|[335050](https://oeis.org/A335050)|[http://bayer.faculty.ku.edu/pub/preprints/pill.pdf](http://bayer.faculty.ku.edu/pub/preprints/pill.pdf)|
+|[289632](https://oeis.org/A289632)|[http://blog.greaterthanzero.com/post/159874910652/some-mathematics-algorithms-and-probabilities](http://blog.greaterthanzero.com/post/159874910652/some-mathematics-algorithms-and-probabilities)|
 |[62103](https://oeis.org/A062103)|[http://www.iki.fi/~kartturi/shogi/shoogi.htm](http://www.iki.fi/~kartturi/shogi/shoogi.htm)|
+|[16437](https://oeis.org/A016437)|[http://izasc-mirror.la.asu.edu/fmi/xsl/IZA-SC/ftc_fw.xsl?-db=Atlas_main&amp](http://izasc-mirror.la.asu.edu/fmi/xsl/IZA-SC/ftc_fw.xsl?-db=Atlas_main&amp)|
 |[62208](https://oeis.org/A062208)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
-|[62361](https://oeis.org/A062361)|[http://math.mit.edu/~poonen/papers/ngon.pdf](http://math.mit.edu/~poonen/papers/ngon.pdf)|
+|[107769](https://oeis.org/A107769)|[https://dx.doi/10.1023/A:1019163812482](https://dx.doi/10.1023/A:1019163812482)|
+|[107784](https://oeis.org/A107784)|[http://library.thinkquest.org/3471/mass_binding_body.html](http://library.thinkquest.org/3471/mass_binding_body.html)|
+|[153385](https://oeis.org/A153385)|[http://harry-j-smith-memorial.com/download.html#XICalc](http://harry-j-smith-memorial.com/download.html#XICalc)|
+|[16789](https://oeis.org/A016789)|[http://ecs.inria.fr/services/structure?nbr=937](http://ecs.inria.fr/services/structure?nbr=937)|
+|[16813](https://oeis.org/A016813)|[https://www.scribd.com/document/22916829/Summation-of-Series-2nd-rev-ed-L-B-W-Jolley-1961-WW](https://www.scribd.com/document/22916829/Summation-of-Series-2nd-rev-ed-L-B-W-Jolley-1961-WW)|
+|[62529](https://oeis.org/A062529)|[http://groups.msn.com/NthprimeAlgorithms/twinprimesjava.msnw](http://groups.msn.com/NthprimeAlgorithms/twinprimesjava.msnw)|
+|[335599](https://oeis.org/A335599)|[http://user42.tuxfamily.org/seq-A334820/index.html](http://user42.tuxfamily.org/seq-A334820/index.html)|
 |[62536](https://oeis.org/A062536)|[http://thesaurus.maths.org/dictionary/map/word/2105](http://thesaurus.maths.org/dictionary/map/word/2105)|
+|[16837](https://oeis.org/A016837)|[http://ecs.inria.fr/services/structure?nbr=940](http://ecs.inria.fr/services/structure?nbr=940)|
+|[244644](https://oeis.org/A244644)|[http://www2.washjeff.edu/users/mwoltermann/Dorrie/38.pdf](http://www2.washjeff.edu/users/mwoltermann/Dorrie/38.pdf)|
+|[16873](https://oeis.org/A016873)|[http://groups.msn.com/BC2LCC/3x5x211k.msnw](http://groups.msn.com/BC2LCC/3x5x211k.msnw)|
+|[16897](https://oeis.org/A016897)|[http://ecs.inria.fr/services/structure?nbr=944](http://ecs.inria.fr/services/structure?nbr=944)|
+|[290188](https://oeis.org/A290188)|[http://web.araachive.org/web/20091027034731/http://uk.geocities.com/nassarawa%40btinternet.com/probprim2.htm](http://web.araachive.org/web/20091027034731/http://uk.geocities.com/nassarawa%40btinternet.com/probprim2.htm)|
+|[290189](https://oeis.org/A290189)|[http://web.araachive.org/web/20091027034731/http://uk.geocities.com/nassarawa%40btinternet.com/probprim2.htm](http://web.araachive.org/web/20091027034731/http://uk.geocities.com/nassarawa%40btinternet.com/probprim2.htm)|
+|[16969](https://oeis.org/A016969)|[http://ecs.inria.fr/services/structure?nbr=949](http://ecs.inria.fr/services/structure?nbr=949)|
 |[62692](https://oeis.org/A062692)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
-|[62726](https://oeis.org/A062726)|[http://www.wilkiecollins.demon.co.uk/roman/front.htm](http://www.wilkiecollins.demon.co.uk/roman/front.htm)|
-|[62769](https://oeis.org/A062769)|[http://home.earthlink.net/~usondermann/contfrac.html](http://home.earthlink.net/~usondermann/contfrac.html)|
-|[62890](https://oeis.org/A062890)|[http://www.risc.uni-linz.ac.at/research/combinat/risc/publications/#ppaule](http://www.risc.uni-linz.ac.at/research/combinat/risc/publications/#ppaule)|
+|[244801](https://oeis.org/A244801)|[http://prpnet.primegrid.com:13001/](http://prpnet.primegrid.com:13001/)|
+|[62756](https://oeis.org/A062756)|[http://user42.tuxfamily.org/terdragon/index.html](http://user42.tuxfamily.org/terdragon/index.html)|
+|[244839](https://oeis.org/A244839)|[http://moodle.thecarma.net/jon/ontology.pdf](http://moodle.thecarma.net/jon/ontology.pdf)|
+|[17053](https://oeis.org/A017053)|[http://ecs.inria.fr/services/structure?nbr=955](http://ecs.inria.fr/services/structure?nbr=955)|
+|[244843](https://oeis.org/A244843)|[http://moodle.thecarma.net/jon/ontology.pdf](http://moodle.thecarma.net/jon/ontology.pdf)|
+|[244850](https://oeis.org/A244850)|[http://moodle.thecarma.net/jon/ontology.pdf](http://moodle.thecarma.net/jon/ontology.pdf)|
+|[244858](https://oeis.org/A244858)|[http://moodle.thecarma.net/jon/ontology.pdf](http://moodle.thecarma.net/jon/ontology.pdf)|
+|[108446](https://oeis.org/A108446)|[http://www.jstor.org/stable/2589192](http://www.jstor.org/stable/2589192)|
+|[290472](https://oeis.org/A290472)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[290491](https://oeis.org/A290491)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[108495](https://oeis.org/A108495)|[http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Problems.html](http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Problems.html)|
+|[108496](https://oeis.org/A108496)|[http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Problems.html](http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Problems.html)|
+|[17257](https://oeis.org/A017257)|[http://ecs.inria.fr/services/structure?nbr=970](http://ecs.inria.fr/services/structure?nbr=970)|
+|[290507](https://oeis.org/A290507)|[https://www.parabola.unsw.edu.au/2000-2009/volume-45-2009/issue-1/article/partitions-primes](https://www.parabola.unsw.edu.au/2000-2009/volume-45-2009/issue-1/article/partitions-primes)|
+|[199476](https://oeis.org/A199476)|[http://www.springerlink.com/content/24g51u87527017u7/](http://www.springerlink.com/content/24g51u87527017u7/)|
+|[199477](https://oeis.org/A199477)|[http://www.springerlink.com/content/24g51u87527017u7/](http://www.springerlink.com/content/24g51u87527017u7/)|
+|[199478](https://oeis.org/A199478)|[http://www.springerlink.com/content/980453w252uvn23j/](http://www.springerlink.com/content/980453w252uvn23j/)|
 |[62980](https://oeis.org/A062980)|[http://ipht.cea.fr/Docspht/articles/t04/086/public/1126-6708_2004_11_031.pdf](http://ipht.cea.fr/Docspht/articles/t04/086/public/1126-6708_2004_11_031.pdf)|
+|[17377](https://oeis.org/A017377)|[http://ecs.inria.fr/services/structure?nbr=979](http://ecs.inria.fr/services/structure?nbr=979)|
+|[245176](https://oeis.org/A245176)|[http://129.81.170.14/~vhm/papers_html/invo-may12.pdf](http://129.81.170.14/~vhm/papers_html/invo-may12.pdf)|
+|[245177](https://oeis.org/A245177)|[http://dauns.math.tulane.edu/~vhm/papers_html/invo-may12.pdf](http://dauns.math.tulane.edu/~vhm/papers_html/invo-may12.pdf)|
 |[63170](https://oeis.org/A063170)|[http://dauns.math.tulane.edu/~vhm/papers_html/schenker.pdf](http://dauns.math.tulane.edu/~vhm/papers_html/schenker.pdf)|
+|[199715](https://oeis.org/A199715)|[http://adsabs.harvard.edu/abs/2008MPBu...35...78G](http://adsabs.harvard.edu/abs/2008MPBu...35...78G)|
+|[17509](https://oeis.org/A017509)|[http://ecs.inria.fr/services/structure?nbr=989](http://ecs.inria.fr/services/structure?nbr=989)|
+|[108749](https://oeis.org/A108749)|[http://www.fermentas.com/techinfo/nucleicacids/sitesfx174.htm](http://www.fermentas.com/techinfo/nucleicacids/sitesfx174.htm)|
+|[108776](https://oeis.org/A108776)|[http://www.fermentas.com/techinfo/nucleicacids/sitesfx174.htm](http://www.fermentas.com/techinfo/nucleicacids/sitesfx174.htm)|
+|[108785](https://oeis.org/A108785)|[http://www.fermentas.com/techinfo/nucleicacids/sitesfx174.htm](http://www.fermentas.com/techinfo/nucleicacids/sitesfx174.htm)|
+|[108877](https://oeis.org/A108877)|[http://www.fermentas.com/techinfo/nucleicacids/sitesfx174.htm](http://www.fermentas.com/techinfo/nucleicacids/sitesfx174.htm)|
+|[108878](https://oeis.org/A108878)|[http://www.fermentas.com/techinfo/nucleicacids/sitesfx174.htm](http://www.fermentas.com/techinfo/nucleicacids/sitesfx174.htm)|
+|[17653](https://oeis.org/A017653)|[http://ecs.inria.fr/services/structure?nbr=1000](http://ecs.inria.fr/services/structure?nbr=1000)|
+|[108903](https://oeis.org/A108903)|[http://groups.msn.com/BC2LCC/9559iscomposite.msnw](http://groups.msn.com/BC2LCC/9559iscomposite.msnw)|
 |[63378](https://oeis.org/A063378)|[http://ksc9.th.com/warut/cunningham.html](http://ksc9.th.com/warut/cunningham.html)|
+|[108904](https://oeis.org/A108904)|[http://groups.msn.com/BC2LCC/9779iscomposite.msnw](http://groups.msn.com/BC2LCC/9779iscomposite.msnw)|
+|[290945](https://oeis.org/A290945)|[http://magicdragon.com/fig.html](http://magicdragon.com/fig.html)|
+|[109032](https://oeis.org/A109032)|[http://beta.mapleprimes.com/blog/alec/ponder_this](http://beta.mapleprimes.com/blog/alec/ponder_this)|
 |[63516](https://oeis.org/A063516)|[http://www.reciprocalsystem.com/nbm/index.htm](http://www.reciprocalsystem.com/nbm/index.htm)|
+|[17817](https://oeis.org/A017817)|[http://ecs.inria.fr/services/structure?nbr=484](http://ecs.inria.fr/services/structure?nbr=484)|
 |[63574](https://oeis.org/A063574)|[http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf](http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf)|
+|[245686](https://oeis.org/A245686)|[http://www-groups.mcs.st-andrews.ac.uk/~jamesm/data.php](http://www-groups.mcs.st-andrews.ac.uk/~jamesm/data.php)|
+|[291154](https://oeis.org/A291154)|[https://www.casinoz.club/content/everything-about-roulette-wheel-construction-588.html](https://www.casinoz.club/content/everything-about-roulette-wheel-construction-588.html)|
+|[291171](https://oeis.org/A291171)|[https://www.casinoz.club/content/everything-about-roulette-wheel-construction-588.html](https://www.casinoz.club/content/everything-about-roulette-wheel-construction-588.html)|
 |[63637](https://oeis.org/A063637)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
-|[63800](https://oeis.org/A063800)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63801](https://oeis.org/A063801)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63802](https://oeis.org/A063802)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63803](https://oeis.org/A063803)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63804](https://oeis.org/A063804)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63805](https://oeis.org/A063805)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63851](https://oeis.org/A063851)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63852](https://oeis.org/A063852)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
+|[336704](https://oeis.org/A336704)|[https://www-imai.is.s.u-tokyo.ac.jp/~ymatsu/matroid/](https://www-imai.is.s.u-tokyo.ac.jp/~ymatsu/matroid/)|
+|[291187](https://oeis.org/A291187)|[http://homepages.vub.ac.be/~jvpoucke/MasterThesisMOLS.pdf](http://homepages.vub.ac.be/~jvpoucke/MasterThesisMOLS.pdf)|
+|[291188](https://oeis.org/A291188)|[http://homepages.vub.ac.be/~jvpoucke/MasterThesisMOLS.pdf](http://homepages.vub.ac.be/~jvpoucke/MasterThesisMOLS.pdf)|
+|[109262](https://oeis.org/A109262)|[http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf](http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf)|
+|[245837](https://oeis.org/A245837)|[http://polpix.sueddeutsche.com/bild/1.2053721.1405695752/860x860/die-weltsprache-algorithmen.jpg](http://polpix.sueddeutsche.com/bild/1.2053721.1405695752/860x860/die-weltsprache-algorithmen.jpg)|
+|[336909](https://oeis.org/A336909)|[http://www.gibbs.if.usp.br/~marchett/estocastica/MarkKac-Statistical-Independence.pdf](http://www.gibbs.if.usp.br/~marchett/estocastica/MarkKac-Statistical-Independence.pdf)|
+|[336910](https://oeis.org/A336910)|[http://www.gibbs.if.usp.br/~marchett/estocastica/MarkKac-Statistical-Independence.pdf](http://www.gibbs.if.usp.br/~marchett/estocastica/MarkKac-Statistical-Independence.pdf)|
+|[109379](https://oeis.org/A109379)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
 |[63853](https://oeis.org/A063853)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63854](https://oeis.org/A063854)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63855](https://oeis.org/A063855)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63856](https://oeis.org/A063856)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63857](https://oeis.org/A063857)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63858](https://oeis.org/A063858)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63859](https://oeis.org/A063859)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63860](https://oeis.org/A063860)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63861](https://oeis.org/A063861)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[63862](https://oeis.org/A063862)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
 |[63863](https://oeis.org/A063863)|[http://cst-www.nrl.navy.mil/lattice/struk/a15.html](http://cst-www.nrl.navy.mil/lattice/struk/a15.html)|
 |[63864](https://oeis.org/A063864)|[http://cst-www.nrl.navy.mil/lattice/struk/a15.html](http://cst-www.nrl.navy.mil/lattice/struk/a15.html)|
+|[18223](https://oeis.org/A018223)|[http://www.labri.u-bordeaux.fr/~loeb/vote.html](http://www.labri.u-bordeaux.fr/~loeb/vote.html)|
+|[18226](https://oeis.org/A018226)|[http://www.iaea.or.at/programmes/ripc/ih/volumes/vol_one/cht_i_02.pdf](http://www.iaea.or.at/programmes/ripc/ih/volumes/vol_one/cht_i_02.pdf)|
+|[337004](https://oeis.org/A337004)|[http://user42.tuxfamily.org/r5dragon/index.html](http://user42.tuxfamily.org/r5dragon/index.html)|
+|[18235](https://oeis.org/A018235)|[http://sis.univ-tln.fr/~bonnecaze/biblio.html](http://sis.univ-tln.fr/~bonnecaze/biblio.html), [http://sis.univ-tln.fr/~bonnecaze/biblio.html](http://sis.univ-tln.fr/~bonnecaze/biblio.html)|
+|[18237](https://oeis.org/A018237)|[http://academic.uofs.edu/faculty/doughertys1/we3.htm](http://academic.uofs.edu/faculty/doughertys1/we3.htm)|
+|[18248](https://oeis.org/A018248)|[http://freespace.virgin.net/anthony.edey/automorph.htm](http://freespace.virgin.net/anthony.edey/automorph.htm)|
+|[246054](https://oeis.org/A246054)|[http://www.math.grin.edu/~chamberl/papers/mean_median.pdf](http://www.math.grin.edu/~chamberl/papers/mean_median.pdf)|
+|[246055](https://oeis.org/A246055)|[http://www.math.grin.edu/~chamberl/papers/mean_median.pdf](http://www.math.grin.edu/~chamberl/papers/mean_median.pdf)|
 |[63990](https://oeis.org/A063990)|[http://britton.disted.camosun.bc.ca/amicable.html](http://britton.disted.camosun.bc.ca/amicable.html), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://oai.cwi.nl/oai/asset/4143/04143D.pdf](http://oai.cwi.nl/oai/asset/4143/04143D.pdf), [http://www-maths.swan.ac.uk/pgrads/bb/project/node16.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node16.html), [http://nautilus.fis.uc.pt/mn/i_amigos/amigos.swf](http://nautilus.fis.uc.pt/mn/i_amigos/amigos.swf)|
-|[63991](https://oeis.org/A063991)|[http://amicable.homepage.dk/knwnunap.htm](http://amicable.homepage.dk/knwnunap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[64005](https://oeis.org/A064005)|[http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf](http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf)|
-|[64006](https://oeis.org/A064006)|[http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf](http://www.gallup.unm.edu/~smarandache/Definitions-book.pdf)|
+|[63991](https://oeis.org/A063991)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://amicable.homepage.dk/knwnunap.htm](http://amicable.homepage.dk/knwnunap.htm)|
+|[18321](https://oeis.org/A018321)|[http://www.scienceu.com/geometry/articles/tritile/nice.html](http://www.scienceu.com/geometry/articles/tritile/nice.html)|
 |[64035](https://oeis.org/A064035)|[http://www.g4g4.com/contentsmmpp.html](http://www.g4g4.com/contentsmmpp.html)|
+|[291600](https://oeis.org/A291600)|[http://echochamber.me/viewtopic.php?t=74216](http://echochamber.me/viewtopic.php?t=74216)|
 |[64172](https://oeis.org/A064172)|[http://smard.cqu.edu.au/Database/Senior/Maths_B/Introduction_to_Functions/Linear_Functions/](http://smard.cqu.edu.au/Database/Senior/Maths_B/Introduction_to_Functions/Linear_Functions/)|
+|[200678](https://oeis.org/A200678)|[http://adsabs.harvard.edu/full/1998MNRAS.297.1151S](http://adsabs.harvard.edu/full/1998MNRAS.297.1151S)|
+|[200724](https://oeis.org/A200724)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[109783](https://oeis.org/A109783)|[http://beta.mapleprimes.com/blog/alec/ponder_this](http://beta.mapleprimes.com/blog/alec/ponder_this)|
+|[109808](https://oeis.org/A109808)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
 |[64383](https://oeis.org/A064383)|[http://home.earthlink.net/~jsondow/PrimesAndE.pdf](http://home.earthlink.net/~jsondow/PrimesAndE.pdf)|
 |[64384](https://oeis.org/A064384)|[http://home.earthlink.net/~jsondow/PrimesAndE.pdf](http://home.earthlink.net/~jsondow/PrimesAndE.pdf)|
+|[109952](https://oeis.org/A109952)|[http://www.scorpiosite69.freeserve.co.uk/temperature.htm](http://www.scorpiosite69.freeserve.co.uk/temperature.htm)|
 |[64513](https://oeis.org/A064513)|[http://maite71.upc.es/grup_de_grafs/grafs/taula_delta_d.html](http://maite71.upc.es/grup_de_grafs/grafs/taula_delta_d.html)|
-|[64640](https://oeis.org/A064640)|[http://www-math.mit.edu/~rstan/ec/catalan.pdf](http://www-math.mit.edu/~rstan/ec/catalan.pdf)|
+|[18818](https://oeis.org/A018818)|[https://insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005a84_1276.pdf](https://insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005a84_1276.pdf), [http://www.dli.gov.in/rawdataupload/upload/insa/INSA_2/20005a84_1276.pdf](http://www.dli.gov.in/rawdataupload/upload/insa/INSA_2/20005a84_1276.pdf)|
+|[292077](https://oeis.org/A292077)|[http://user42.tuxfamily.org/alternate/index.html](http://user42.tuxfamily.org/alternate/index.html)|
+|[18886](https://oeis.org/A018886)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
+|[18897](https://oeis.org/A018897)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/)|
+|[18899](https://oeis.org/A018899)|[http://www.liafa.jussieu.fr/~berthe/publi.html](http://www.liafa.jussieu.fr/~berthe/publi.html)|
+|[64614](https://oeis.org/A064614)|[http://dx.doi.org/10.1090/S0002-9904-1915-02686-8](http://dx.doi.org/10.1090/S0002-9904-1915-02686-8)|
+|[18902](https://oeis.org/A018902)|[http://ecs.inria.fr/services/structure?nbr=474](http://ecs.inria.fr/services/structure?nbr=474)|
+|[18903](https://oeis.org/A018903)|[http://ecs.inria.fr/services/structure?nbr=879](http://ecs.inria.fr/services/structure?nbr=879)|
+|[110148](https://oeis.org/A110148)|[http://ilib.mirror1.mccme.ru/djvu/yaglom/square.htm](http://ilib.mirror1.mccme.ru/djvu/yaglom/square.htm)|
+|[201126](https://oeis.org/A201126)|[http://www.magic-squares.net/square-update-2.htm#Knecht%20Topographical%20squares](http://www.magic-squares.net/square-update-2.htm#Knecht%20Topographical%20squares)|
+|[201144](https://oeis.org/A201144)|[http://list.seqfan.eu/oldermail/seqfan/2009-November/002937.html](http://list.seqfan.eu/oldermail/seqfan/2009-November/002937.html)|
+|[292185](https://oeis.org/A292185)|[http://www.jsoftware.com(PARI)](http://www.jsoftware.com(PARI))|
+|[110186](https://oeis.org/A110186)|[http://www.tech.plymouth.ac.uk/sme/desnotes/prefsize.htm](http://www.tech.plymouth.ac.uk/sme/desnotes/prefsize.htm)|
+|[64723](https://oeis.org/A064723)|[http://list.seqfan.eu/oldermail/seqfan/2014-March/012750.html](http://list.seqfan.eu/oldermail/seqfan/2014-March/012750.html)|
+|[64731](https://oeis.org/A064731)|[http://www.prace-ri.eu/IMG/pdf/wp58_generating_integral_graphs_using_the_prace_research_infrastructure.pdf](http://www.prace-ri.eu/IMG/pdf/wp58_generating_integral_graphs_using_the_prace_research_infrastructure.pdf)|
+|[337814](https://oeis.org/A337814)|[http://list.seqfan.eu/oldermail/seqfan/2020-October/020998.html](http://list.seqfan.eu/oldermail/seqfan/2020-October/020998.html)|
 |[64764](https://oeis.org/A064764)|[http://home.earthlink.net/~dwasserm/A064764.html](http://home.earthlink.net/~dwasserm/A064764.html)|
+|[110316](https://oeis.org/A110316)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[64942](https://oeis.org/A064942)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/solutions/March2000.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/solutions/March2000.html)|
+|[110501](https://oeis.org/A110501)|[http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf](http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf)|
+|[110507](https://oeis.org/A110507)|[http://ginger.indstate.edu/ge/Graphs/RECTILINEAR/index.html](http://ginger.indstate.edu/ge/Graphs/RECTILINEAR/index.html)|
+|[19276](https://oeis.org/A019276)|[http://repos.project.cwi.nl:8888/cwi_repository/docs/I/10/10355A.pdf](http://repos.project.cwi.nl:8888/cwi_repository/docs/I/10/10355A.pdf)|
 |[65049](https://oeis.org/A065049)|[http://www.csm.astate.edu/~wpaulsen/primemaze/pmaze.html](http://www.csm.astate.edu/~wpaulsen/primemaze/pmaze.html)|
+|[201559](https://oeis.org/A201559)|[http://oai.cwi.nl/oai/asset/6554/6554A.pdf](http://oai.cwi.nl/oai/asset/6554/6554A.pdf)|
 |[65081](https://oeis.org/A065081)|[http://www.csm.astate.edu/~wpaulsen/primemaze/mazepart.html](http://www.csm.astate.edu/~wpaulsen/primemaze/mazepart.html)|
+|[247158](https://oeis.org/A247158)|[http://www.hpl.hp.com/techreports/2011/HPL-2011-239.pdf](http://www.hpl.hp.com/techreports/2011/HPL-2011-239.pdf)|
 |[65091](https://oeis.org/A065091)|[http://icm.mcs.kent.edu/reports/1998/ICM-199802-0001.pdf](http://icm.mcs.kent.edu/reports/1998/ICM-199802-0001.pdf)|
+|[338218](https://oeis.org/A338218)|[http://grail.eecs.csuohio.edu/~somos/somospol.html](http://grail.eecs.csuohio.edu/~somos/somospol.html)|
+|[156209](https://oeis.org/A156209)|[http://mars.wnec.edu/~thull/papers/flatsurvey.pdf](http://mars.wnec.edu/~thull/papers/flatsurvey.pdf), [http://mars.wnec.edu/~thull/papers/countingfolds.pdf](http://mars.wnec.edu/~thull/papers/countingfolds.pdf)|
+|[247306](https://oeis.org/A247306)|[http://www-old.newton.ac.uk/preprints/NI04015.pdf](http://www-old.newton.ac.uk/preprints/NI04015.pdf)|
 |[65249](https://oeis.org/A065249)|[http://www.iki.fi/~kartturi/matikka/stebrota.htm](http://www.iki.fi/~kartturi/matikka/stebrota.htm)|
 |[65251](https://oeis.org/A065251)|[http://www.iki.fi/~kartturi/matikka/stebrota.htm](http://www.iki.fi/~kartturi/matikka/stebrota.htm)|
+|[19549](https://oeis.org/A019549)|[https://www.gallup.unm.edu/~smarandache/SYLSMITH.HTM](https://www.gallup.unm.edu/~smarandache/SYLSMITH.HTM)|
+|[19550](https://oeis.org/A019550)|[https://www.gallup.unm.edu/~smarandache/SYLSMITH.HTM](https://www.gallup.unm.edu/~smarandache/SYLSMITH.HTM)|
+|[19551](https://oeis.org/A019551)|[https://www.gallup.unm.edu/~smarandache/SYLSMITH.HTM](https://www.gallup.unm.edu/~smarandache/SYLSMITH.HTM)|
+|[19554](https://oeis.org/A019554)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
+|[19555](https://oeis.org/A019555)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
+|[338293](https://oeis.org/A338293)|[http://user42.tuxfamily.org/pari-vpar/index.html](http://user42.tuxfamily.org/pari-vpar/index.html)|
+|[338294](https://oeis.org/A338294)|[http://user42.tuxfamily.org/pari-vpar/index.html](http://user42.tuxfamily.org/pari-vpar/index.html)|
+|[19569](https://oeis.org/A019569)|[http://ingrate.8k.com/nrep/intro.html](http://ingrate.8k.com/nrep/intro.html)|
+|[19590](https://oeis.org/A019590)|[http://mathematics.gulfcoast.edu/mgf1107/newpage11.htm](http://mathematics.gulfcoast.edu/mgf1107/newpage11.htm), [http://www.cs.wichita.edu/~chang/fermat.html](http://www.cs.wichita.edu/~chang/fermat.html), [http://www.col-camus-soufflenheim.ac-strasbourg.fr/Page.php?IDP=340](http://www.col-camus-soufflenheim.ac-strasbourg.fr/Page.php?IDP=340), [http://www.public.iastate.edu/~kchoi/time.htm](http://www.public.iastate.edu/~kchoi/time.htm), [http://www.prometheus.demon.co.uk/01/01fermat.htm](http://www.prometheus.demon.co.uk/01/01fermat.htm), [http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Fermat&#39](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Fermat&#39), [http://users.forthnet.gr/ath/kimon/FLTmilestones.htm](http://users.forthnet.gr/ath/kimon/FLTmilestones.htm), [http://students.bath.ac.uk/ma0sjbs/fermat.html](http://students.bath.ac.uk/ma0sjbs/fermat.html), [http://www-centre.mpce.mq.edu.au/alfpapers/a142e.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a142e.pdf), [http://library.thinkquest.org/28049/final_stages_in_proving_fermat.htm](http://library.thinkquest.org/28049/final_stages_in_proving_fermat.htm), [http://personales.ya.com/casanchi/mat/conjeturafermat.pdf](http://personales.ya.com/casanchi/mat/conjeturafermat.pdf), [http://mathdb.org/gallery/poster/description/e_poster_02.htm](http://mathdb.org/gallery/poster/description/e_poster_02.htm), [http://fermat.workjoke.com](http://fermat.workjoke.com), [http://www.public.iastate.edu/~kchoi/fermat.htm](http://www.public.iastate.edu/~kchoi/fermat.htm), [http://www.math.uncc.edu/~hbreiter/m6105/pythag.pdf](http://www.math.uncc.edu/~hbreiter/m6105/pythag.pdf), [http://www.uz.ac.zw/science/maths/zimaths/flt.htm](http://www.uz.ac.zw/science/maths/zimaths/flt.htm)|
+|[292896](https://oeis.org/A292896)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
 |[65359](https://oeis.org/A065359)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
 |[65381](https://oeis.org/A065381)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
+|[111004](https://oeis.org/A111004)|[http://puma.dimai.unifi.it/22_2/jones_remmel.pdf](http://puma.dimai.unifi.it/22_2/jones_remmel.pdf)|
+|[111044](https://oeis.org/A111044)|[http://les-mathematiques.u-strasbg.fr/phorum/read.php?f=2&amp](http://les-mathematiques.u-strasbg.fr/phorum/read.php?f=2&amp)|
+|[111078](https://oeis.org/A111078)|[http://maddogcarter.com/phil/runescape/xpformula.html](http://maddogcarter.com/phil/runescape/xpformula.html)|
+|[111113](https://oeis.org/A111113)|[http://acta.fyx.hu/acta/showCustomerArticle.action?id=5859&amp](http://acta.fyx.hu/acta/showCustomerArticle.action?id=5859&amp)|
+|[156595](https://oeis.org/A156595)|[http://user42.tuxfamily.org/terdragon/index.html](http://user42.tuxfamily.org/terdragon/index.html)|
+|[156596](https://oeis.org/A156596)|[http://alexis.monnerot-dumaine.neuf.fr/articles/fibonacci%20fractal.pdf](http://alexis.monnerot-dumaine.neuf.fr/articles/fibonacci%20fractal.pdf)|
 |[65625](https://oeis.org/A065625)|[http://www.iki.fi/~kartturi/matikka/stebrota.htm](http://www.iki.fi/~kartturi/matikka/stebrota.htm)|
+|[338691](https://oeis.org/A338691)|[http://user42.tuxfamily.org/alternate/index.html](http://user42.tuxfamily.org/alternate/index.html)|
+|[338692](https://oeis.org/A338692)|[http://user42.tuxfamily.org/alternate/index.html](http://user42.tuxfamily.org/alternate/index.html)|
+|[202155](https://oeis.org/A202155)|[http://www.dli.gov.in/rawdataupload/upload/insa/INSA_1/20006851_577.pdf](http://www.dli.gov.in/rawdataupload/upload/insa/INSA_1/20006851_577.pdf)|
+|[202156](https://oeis.org/A202156)|[http://www.dli.gov.in/rawdataupload/upload/insa/INSA_1/20006851_577.pdf](http://www.dli.gov.in/rawdataupload/upload/insa/INSA_1/20006851_577.pdf)|
 |[65678](https://oeis.org/A065678)|[http://theory2.phys.cwru.edu/~pete/sequence.html](http://theory2.phys.cwru.edu/~pete/sequence.html)|
+|[111237](https://oeis.org/A111237)|[http://www.jsoftware.com):H=:](http://www.jsoftware.com):H=:)|
+|[202212](https://oeis.org/A202212)|[http://infoshako.sk.tsukuba.ac.jp/~hachi/COS/cos2011/abst/ochiumi.pdf](http://infoshako.sk.tsukuba.ac.jp/~hachi/COS/cos2011/abst/ochiumi.pdf)|
+|[338852](https://oeis.org/A338852)|[http://www.aoki.ecei.tohoku.ac.jp/arith/mg/algorithm.html#ppa_73](http://www.aoki.ecei.tohoku.ac.jp/arith/mg/algorithm.html#ppa_73)|
+|[338866](https://oeis.org/A338866)|[http://ymmij.de/Nerd/p4/p4-2.pdf](http://ymmij.de/Nerd/p4/p4-2.pdf), [http://ymmij.de/Nerd/p4/calculation.pdf](http://ymmij.de/Nerd/p4/calculation.pdf)|
+|[338868](https://oeis.org/A338868)|[http://ymmij.de/Nerd/p4/calculation.pdf](http://ymmij.de/Nerd/p4/calculation.pdf), [http://ymmij.de/Nerd/p4/p4-3.pdf](http://ymmij.de/Nerd/p4/p4-3.pdf)|
+|[156989](https://oeis.org/A156989)|[http://michaelnielsen.org/polymath1/index.php?title=Main_Page](http://michaelnielsen.org/polymath1/index.php?title=Main_Page)|
 |[66012](https://oeis.org/A066012)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
 |[66013](https://oeis.org/A066013)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
 |[66014](https://oeis.org/A066014)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
 |[66015](https://oeis.org/A066015)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
 |[66016](https://oeis.org/A066016)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
 |[66017](https://oeis.org/A066017)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
-|[66180](https://oeis.org/A066180)|[http://www.primes.viner-steward.org/andy/titans.html](http://www.primes.viner-steward.org/andy/titans.html)|
-|[66186](https://oeis.org/A066186)|[http://qseries.org/fgarvan/papers/hspt.pdf](http://qseries.org/fgarvan/papers/hspt.pdf)|
+|[339189](https://oeis.org/A339189)|[http://ymmij.de/Nerd/p4/calculation.pdf](http://ymmij.de/Nerd/p4/calculation.pdf), [http://ymmij.de/Nerd/p4/p4-3.pdf](http://ymmij.de/Nerd/p4/p4-3.pdf)|
+|[293710](https://oeis.org/A293710)|[http://marathwadamathsociety.org/vol17-1/June16-Arolkar.pdf](http://marathwadamathsociety.org/vol17-1/June16-Arolkar.pdf)|
+|[66180](https://oeis.org/A066180)|[http://www.primes.viner-steward.org/andy/titans.html](http://www.primes.viner-steward.org/andy/titans.html), [http://dx.doi.org/10.1090/S0025-5718-1979-0537980-7](http://dx.doi.org/10.1090/S0025-5718-1979-0537980-7)|
+|[202679](https://oeis.org/A202679)|[http://carmaweb.newcastle.edu.au/mahler/docs/047.pdf](http://carmaweb.newcastle.edu.au/mahler/docs/047.pdf)|
+|[293858](https://oeis.org/A293858)|[https://doi.org/10.1090/S0025-5718-1993-1202609-9](https://doi.org/10.1090/S0025-5718-1993-1202609-9)|
+|[66325](https://oeis.org/A066325)|[http://www-irma.u-strasbg.fr/~foata/paper/pub94.html](http://www-irma.u-strasbg.fr/~foata/paper/pub94.html)|
+|[111904](https://oeis.org/A111904)|[http://amicable.homepage.dk/knwnunap.htm](http://amicable.homepage.dk/knwnunap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[111927](https://oeis.org/A111927)|[http://user42.tuxfamily.org/terdragon/index.html](http://user42.tuxfamily.org/terdragon/index.html)|
+|[20699](https://oeis.org/A020699)|[http://ecs.inria.fr/services/structure?nbr=1037](http://ecs.inria.fr/services/structure?nbr=1037)|
+|[111944](https://oeis.org/A111944)|[http://www.csam.montclair.edu/~thomasd/john.pdf](http://www.csam.montclair.edu/~thomasd/john.pdf)|
+|[20711](https://oeis.org/A020711)|[http://ecs.inria.fr/services/structure?nbr=911](http://ecs.inria.fr/services/structure?nbr=911)|
+|[20714](https://oeis.org/A020714)|[http://ecs.inria.fr/services/structure?nbr=1003](http://ecs.inria.fr/services/structure?nbr=1003)|
+|[20745](https://oeis.org/A020745)|[http://ecs.inria.fr/services/structure?nbr=877](http://ecs.inria.fr/services/structure?nbr=877)|
+|[248646](https://oeis.org/A248646)|[http://www.zime.lv/book/?oeis](http://www.zime.lv/book/?oeis)|
+|[20882](https://oeis.org/A020882)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
+|[294155](https://oeis.org/A294155)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[294156](https://oeis.org/A294156)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[248727](https://oeis.org/A248727)|[http://www.math.uakron.edu/~sf34/hedra.htm#index](http://www.math.uakron.edu/~sf34/hedra.htm#index)|
 |[66666](https://oeis.org/A066666)|[http://hypo.ge-dip.etat-ge.ch/www/math/gif/reuleauxt.gif](http://hypo.ge-dip.etat-ge.ch/www/math/gif/reuleauxt.gif)|
-|[66674](https://oeis.org/A066674)|[http://eprints.maths.ox.ac.uk/166/](http://eprints.maths.ox.ac.uk/166/)|
+|[20987](https://oeis.org/A020987)|[http://www-centre.mpce.mq.edu.au/alfpapers/a084.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a084.pdf)|
+|[20988](https://oeis.org/A020988)|[http://cage.ugent.be/~kthas/Fun/library/Kurokawa.pdf](http://cage.ugent.be/~kthas/Fun/library/Kurokawa.pdf)|
+|[20989](https://oeis.org/A020989)|[http://user42.tuxfamily.org/alternate/index.html](http://user42.tuxfamily.org/alternate/index.html)|
+|[112236](https://oeis.org/A112236)|[http://wvlc.uwaterloo.ca/biology447/modules/module5/pcbdegradation.htm](http://wvlc.uwaterloo.ca/biology447/modules/module5/pcbdegradation.htm), [http://wvlc.uwaterloo.ca/biology447/modules/intro/assignments/pcb_pjpa.htm](http://wvlc.uwaterloo.ca/biology447/modules/intro/assignments/pcb_pjpa.htm)|
+|[112262](https://oeis.org/A112262)|[http://www.cybertiggyr.com/gene/htdocs/shiva-0/shiva-0.html](http://www.cybertiggyr.com/gene/htdocs/shiva-0/shiva-0.html)|
+|[112263](https://oeis.org/A112263)|[http://www.cybertiggyr.com/gene/htdocs/shiva-0/shiva-0.html](http://www.cybertiggyr.com/gene/htdocs/shiva-0/shiva-0.html)|
+|[112299](https://oeis.org/A112299)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[157795](https://oeis.org/A157795)|[http://michaelnielsen.org/polymath1/index.php?title=Fujimura%27s_problem](http://michaelnielsen.org/polymath1/index.php?title=Fujimura%27s_problem)|
+|[157810](https://oeis.org/A157810)|[http://www.thehcmr.org/issue1_2/problems_and_solutions.pdf](http://www.thehcmr.org/issue1_2/problems_and_solutions.pdf)|
+|[157849](https://oeis.org/A157849)|[http://www.ma.noda.tus.ac.jp/u/tg/files/uts.pdf](http://www.ma.noda.tus.ac.jp/u/tg/files/uts.pdf)|
 |[66873](https://oeis.org/A066873)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm)|
 |[66910](https://oeis.org/A066910)|[http://www.mathforum.com/epigone/sci.math/sazhazhi](http://www.mathforum.com/epigone/sci.math/sazhazhi)|
 |[66947](https://oeis.org/A066947)|[http://webpages.shepherd.edu/amihailo/AbstractAlgebra.html](http://webpages.shepherd.edu/amihailo/AbstractAlgebra.html)|
+|[249020](https://oeis.org/A249020)|[http://grail.eecs.csuohio.edu/~somos/somospol.html](http://grail.eecs.csuohio.edu/~somos/somospol.html)|
 |[66997](https://oeis.org/A066997)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[249103](https://oeis.org/A249103)|[http://www.ejtp.com/articles/ejtpv8i25p379.pdf](http://www.ejtp.com/articles/ejtpv8i25p379.pdf)|
 |[67063](https://oeis.org/A067063)|[http://www.h4.dion.ne.jp/~rep/](http://www.h4.dion.ne.jp/~rep/)|
-|[67151](https://oeis.org/A067151)|[http://math.mit.edu/~poonen/papers/ngon.m](http://math.mit.edu/~poonen/papers/ngon.m)|
-|[67152](https://oeis.org/A067152)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
-|[67156](https://oeis.org/A067156)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
-|[67157](https://oeis.org/A067157)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
-|[67158](https://oeis.org/A067158)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
-|[67159](https://oeis.org/A067159)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
-|[67162](https://oeis.org/A067162)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
-|[67163](https://oeis.org/A067163)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
-|[67164](https://oeis.org/A067164)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
-|[67165](https://oeis.org/A067165)|[http://math.mit.edu/~poonen/](http://math.mit.edu/~poonen/)|
+|[294732](https://oeis.org/A294732)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubics/index.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubics/index.html)|
+|[158239](https://oeis.org/A158239)|[http://blade100.math.scu.edu.tw/~u9217/hw3.nb](http://blade100.math.scu.edu.tw/~u9217/hw3.nb)|
 |[67318](https://oeis.org/A067318)|[http://209.196.11.38/hnh.html](http://209.196.11.38/hnh.html)|
+|[249389](https://oeis.org/A249389)|[http://www.dli.gov.in/data_copy/upload/INSA/INSA_2/20005a88_147.pdf](http://www.dli.gov.in/data_copy/upload/INSA/INSA_2/20005a88_147.pdf)|
+|[112868](https://oeis.org/A112868)|[http://stderr.org/pipermail/inquiry/2005-October/003108.html](http://stderr.org/pipermail/inquiry/2005-October/003108.html)|
+|[294949](https://oeis.org/A294949)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[67433](https://oeis.org/A067433)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp)|
+|[249550](https://oeis.org/A249550)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[295161](https://oeis.org/A295161)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[340669](https://oeis.org/A340669)|[http://user42.tuxfamily.org/dragon/index.html](http://user42.tuxfamily.org/dragon/index.html)|
+|[340670](https://oeis.org/A340670)|[http://user42.tuxfamily.org/dragon/index.html](http://user42.tuxfamily.org/dragon/index.html)|
+|[113197](https://oeis.org/A113197)|[http://stderr.org/pipermail/inquiry/2005-October/003122.html](http://stderr.org/pipermail/inquiry/2005-October/003122.html)|
+|[113199](https://oeis.org/A113199)|[http://stderr.org/pipermail/inquiry/2005-October/003127.html](http://stderr.org/pipermail/inquiry/2005-October/003127.html)|
+|[295230](https://oeis.org/A295230)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
 |[67699](https://oeis.org/A067699)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[22004](https://oeis.org/A022004)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
 |[67769](https://oeis.org/A067769)|[http://www.maik.rssi.ru/contents/cryst/cryst1_1v46cont.htm](http://www.maik.rssi.ru/contents/cryst/cryst1_1v46cont.htm)|
+|[249836](https://oeis.org/A249836)|[http://math.udel.edu/~lazebnik/papers/tan_n.pdf](http://math.udel.edu/~lazebnik/papers/tan_n.pdf)|
+|[204329](https://oeis.org/A204329)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubics/index.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubics/index.html)|
+|[250000](https://oeis.org/A250000)|[http://zeynep.web.cs.unibo.it/SymCon04/proceedings.htmlN.](http://zeynep.web.cs.unibo.it/SymCon04/proceedings.htmlN.), [http://www.mathopt.org/Optima-Issues/optima62.pdf](http://www.mathopt.org/Optima-Issues/optima62.pdf), [http://www.mathopt.org/Optima-Issues/optima64.pdf](http://www.mathopt.org/Optima-Issues/optima64.pdf)|
+|[295513](https://oeis.org/A295513)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[341029](https://oeis.org/A341029)|[http://user42.tuxfamily.org/dragon/index.html](http://user42.tuxfamily.org/dragon/index.html)|
+|[341030](https://oeis.org/A341030)|[http://user42.tuxfamily.org/dragon/index.html](http://user42.tuxfamily.org/dragon/index.html)|
+|[295556](https://oeis.org/A295556)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[68072](https://oeis.org/A068072)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
+|[113617](https://oeis.org/A113617)|[http://groups.msn.com/First300billionprimes/sumprimeslt2n.msnw](http://groups.msn.com/First300billionprimes/sumprimeslt2n.msnw)|
+|[113619](https://oeis.org/A113619)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
+|[113626](https://oeis.org/A113626)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
+|[113633](https://oeis.org/A113633)|[http://groups.msn.com/First300billionprimes/sumfirst5nprimes.msnw](http://groups.msn.com/First300billionprimes/sumfirst5nprimes.msnw)|
+|[341242](https://oeis.org/A341242)|[https://datagenetics.com/blog/december12014/index.html](https://datagenetics.com/blog/december12014/index.html)|
+|[22543](https://oeis.org/A022543)|[http://www.dcss.mcmaster.ca/~bill/pubs.shtml](http://www.dcss.mcmaster.ca/~bill/pubs.shtml)|
+|[113788](https://oeis.org/A113788)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
+|[22567](https://oeis.org/A022567)|[http://ecs.inria.fr/services/structure?nbr=852](http://ecs.inria.fr/services/structure?nbr=852)|
+|[22597](https://oeis.org/A022597)|[http://www-irma.u-strasbg.fr/~foata/paper/pub81.html](http://www-irma.u-strasbg.fr/~foata/paper/pub81.html)|
 |[68322](https://oeis.org/A068322)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
 |[68324](https://oeis.org/A068324)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
+|[159328](https://oeis.org/A159328)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
+|[159329](https://oeis.org/A159329)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
+|[159330](https://oeis.org/A159330)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
+|[159334](https://oeis.org/A159334)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
+|[159338](https://oeis.org/A159338)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
+|[113882](https://oeis.org/A113882)|[http://www.ps.uni-sb.de/Papers/abstracts/bodirsky2005wellnested.html](http://www.ps.uni-sb.de/Papers/abstracts/bodirsky2005wellnested.html)|
+|[159340](https://oeis.org/A159340)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
+|[159342](https://oeis.org/A159342)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
+|[159343](https://oeis.org/A159343)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
+|[159347](https://oeis.org/A159347)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
+|[159348](https://oeis.org/A159348)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
+|[159349](https://oeis.org/A159349)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
+|[159350](https://oeis.org/A159350)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
+|[295990](https://oeis.org/A295990)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[295991](https://oeis.org/A295991)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[295992](https://oeis.org/A295992)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[295993](https://oeis.org/A295993)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[295994](https://oeis.org/A295994)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[295995](https://oeis.org/A295995)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[296022](https://oeis.org/A296022)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[296023](https://oeis.org/A296023)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[296024](https://oeis.org/A296024)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[296025](https://oeis.org/A296025)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[296026](https://oeis.org/A296026)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[296030](https://oeis.org/A296030)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
+|[114037](https://oeis.org/A114037)|[http://s13.invisionfree.com/Gothic_Chess_Forum/index.php?showtopic=205](http://s13.invisionfree.com/Gothic_Chess_Forum/index.php?showtopic=205)|
+|[114139](https://oeis.org/A114139)|[http://www.akdart.com/postrate.html](http://www.akdart.com/postrate.html)|
+|[296166](https://oeis.org/A296166)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[159619](https://oeis.org/A159619)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[68639](https://oeis.org/A068639)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
-|[68652](https://oeis.org/A068652)|[http://www.magic-squares.net/primes.htm#Circular](http://www.magic-squares.net/primes.htm#Circular)|
-|[69038](https://oeis.org/A069038)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html), [http://www.magicdragon.com/math.html](http://www.magicdragon.com/math.html)|
+|[23022](https://oeis.org/A023022)|[http://www.oaj.pku.edu.cn/sxjz/EN/10.11845/sxjz.20130409b](http://www.oaj.pku.edu.cn/sxjz/EN/10.11845/sxjz.20130409b)|
+|[159782](https://oeis.org/A159782)|[http://puma.dimai.unifi.it/19_2_3/4.pdf](http://puma.dimai.unifi.it/19_2_3/4.pdf)|
+|[159919](https://oeis.org/A159919)|[http://banach.millersville.edu/~bob/math478/History/Sundaram.html](http://banach.millersville.edu/~bob/math478/History/Sundaram.html)|
+|[159920](https://oeis.org/A159920)|[http://banach.millersville.edu/~bob/math478/History/Sundaram.html](http://banach.millersville.edu/~bob/math478/History/Sundaram.html)|
+|[342101](https://oeis.org/A342101)|[https://user42.tuxfamily.org/seq-A342101-middle-delete/index.html](https://user42.tuxfamily.org/seq-A342101-middle-delete/index.html)|
+|[114595](https://oeis.org/A114595)|[http://cane.roxr.com/Nauka/UVS/A114595.TXT](http://cane.roxr.com/Nauka/UVS/A114595.TXT)|
 |[69125](https://oeis.org/A069125)|[http://www.members.fortunecity.fr/polynexus/index.html](http://www.members.fortunecity.fr/polynexus/index.html)|
-|[69271](https://oeis.org/A069271)|[http://hdl.handle.net/10019.1/107091](http://hdl.handle.net/10019.1/107091)|
+|[23431](https://oeis.org/A023431)|[http://ecs.inria.fr/services/structure?nbr=666](http://ecs.inria.fr/services/structure?nbr=666)|
+|[23434](https://oeis.org/A023434)|[http://ecs.inria.fr/services/structure?nbr=1070](http://ecs.inria.fr/services/structure?nbr=1070)|
+|[23645](https://oeis.org/A023645)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/)|
+|[114986](https://oeis.org/A114986)|[http://materials.iisc.ernet.in/~lord/webfiles/vop.pdf](http://materials.iisc.ernet.in/~lord/webfiles/vop.pdf)|
+|[115016](https://oeis.org/A115016)|[http://cr.yp.to/bib/1996/bleichenbacher-thesis.ps](http://cr.yp.to/bib/1996/bleichenbacher-thesis.ps)|
+|[160590](https://oeis.org/A160590)|[http://sfnet.fi/group.php?newsgroup=sfnet.tiede.matematiikka&amp](http://sfnet.fi/group.php?newsgroup=sfnet.tiede.matematiikka&amp)|
 |[69646](https://oeis.org/A069646)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[69769](https://oeis.org/A069769)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[69771](https://oeis.org/A069771)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm), [http://www-math.mit.edu/~rstan/ec/catalan.pdf](http://www-math.mit.edu/~rstan/ec/catalan.pdf)|
-|[69772](https://oeis.org/A069772)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm), [http://www-math.mit.edu/~rstan/ec/catalan.pdf](http://www-math.mit.edu/~rstan/ec/catalan.pdf)|
+|[69771](https://oeis.org/A069771)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[69772](https://oeis.org/A069772)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[69773](https://oeis.org/A069773)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[69774](https://oeis.org/A069774)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[69775](https://oeis.org/A069775)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[69776](https://oeis.org/A069776)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[69787](https://oeis.org/A069787)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[69888](https://oeis.org/A069888)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm), [http://www-math.mit.edu/~rstan/ec/catalan.pdf](http://www-math.mit.edu/~rstan/ec/catalan.pdf)|
-|[69889](https://oeis.org/A069889)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm), [http://www-math.mit.edu/~rstan/ec/catalan.pdf](http://www-math.mit.edu/~rstan/ec/catalan.pdf)|
-|[69906](https://oeis.org/A069906)|[http://www.risc.uni-linz.ac.at/research/combinat/risc/publications/#ppaule](http://www.risc.uni-linz.ac.at/research/combinat/risc/publications/#ppaule)|
-|[69981](https://oeis.org/A069981)|[http://www.risc.uni-linz.ac.at/research/combinat/risc/publications/#ppaule](http://www.risc.uni-linz.ac.at/research/combinat/risc/publications/#ppaule)|
+|[115380](https://oeis.org/A115380)|[http://www.rikk-cowsys.com/lofiversion/index.php/t328.html](http://www.rikk-cowsys.com/lofiversion/index.php/t328.html)|
+|[206370](https://oeis.org/A206370)|[http://www.infres.enst.fr/~flori/thesis/thesis.pdf](http://www.infres.enst.fr/~flori/thesis/thesis.pdf)|
+|[24175](https://oeis.org/A024175)|[https://doi.org/10.1364/OE.22.004499](https://doi.org/10.1364/OE.22.004499)|
+|[69888](https://oeis.org/A069888)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[69889](https://oeis.org/A069889)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[70041](https://oeis.org/A070041)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[70189](https://oeis.org/A070189)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[24490](https://oeis.org/A024490)|[http://ecs.inria.fr/services/structure?nbr=886](http://ecs.inria.fr/services/structure?nbr=886)|
+|[206711](https://oeis.org/A206711)|[http://math.ipm.ac.ir/tayfeh-r/papersandpreprints/H32typetwo.pdf](http://math.ipm.ac.ir/tayfeh-r/papersandpreprints/H32typetwo.pdf)|
+|[206712](https://oeis.org/A206712)|[http://math.ipm.ac.ir/tayfeh-r/papersandpreprints/H32typetwo.pdf](http://math.ipm.ac.ir/tayfeh-r/papersandpreprints/H32typetwo.pdf)|
+|[70300](https://oeis.org/A070300)|[http://www.tanyakhovanova.com/RecursiveSequences/NonRecursions.html](http://www.tanyakhovanova.com/RecursiveSequences/NonRecursions.html)|
+|[115836](https://oeis.org/A115836)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[161328](https://oeis.org/A161328)|[http://blog.barabel.net/index.php?post/2012/01/epiphanie](http://blog.barabel.net/index.php?post/2012/01/epiphanie)|
+|[343453](https://oeis.org/A343453)|[https://user42.tuxfamily.org/seq-A342101-middle-delete/index.html](https://user42.tuxfamily.org/seq-A342101-middle-delete/index.html)|
+|[343485](https://oeis.org/A343485)|[http://user42.tuxfamily.org/terdragon/index.html](http://user42.tuxfamily.org/terdragon/index.html)|
+|[343486](https://oeis.org/A343486)|[http://user42.tuxfamily.org/terdragon/index.html](http://user42.tuxfamily.org/terdragon/index.html)|
+|[343487](https://oeis.org/A343487)|[http://user42.tuxfamily.org/terdragon/index.html](http://user42.tuxfamily.org/terdragon/index.html)|
+|[161434](https://oeis.org/A161434)|[http://www.mat.unisi.it/newsito/puma/public_html/17_1_2/grazzini.pdf](http://www.mat.unisi.it/newsito/puma/public_html/17_1_2/grazzini.pdf)|
+|[252593](https://oeis.org/A252593)|[http://pinter.netii.net/comb.htm](http://pinter.netii.net/comb.htm)|
+|[343592](https://oeis.org/A343592)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
+|[161664](https://oeis.org/A161664)|[http://wiki.wildforests.co/topic/Cicada](http://wiki.wildforests.co/topic/Cicada), [http://philoscience.unibe.ch/lehre/winter06/wtwg_bio/webb01.pdf](http://philoscience.unibe.ch/lehre/winter06/wtwg_bio/webb01.pdf)|
+|[161680](https://oeis.org/A161680)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[343785](https://oeis.org/A343785)|[http://user42.tuxfamily.org/terdragon/index.html](http://user42.tuxfamily.org/terdragon/index.html)|
+|[25035](https://oeis.org/A025035)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/harmse_remmel.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/harmse_remmel.pdf)|
+|[343795](https://oeis.org/A343795)|[http://puma.dimai.unifi.it/21_2/5_Burstein_Josuat-Verges_Stromquist.pdf](http://puma.dimai.unifi.it/21_2/5_Burstein_Josuat-Verges_Stromquist.pdf)|
+|[161810](https://oeis.org/A161810)|[http://ace.delos.com/HOL09)](http://ace.delos.com/HOL09))|
+|[116369](https://oeis.org/A116369)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
+|[25147](https://oeis.org/A025147)|[http://ecs.inria.fr/services/structure?nbr=798](http://ecs.inria.fr/services/structure?nbr=798)|
+|[25167](https://oeis.org/A025167)|[http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf](http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf)|
+|[25169](https://oeis.org/A025169)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[116411](https://oeis.org/A116411)|[https://lrecits.usthb.dz/6.5.pdf](https://lrecits.usthb.dz/6.5.pdf)|
+|[298427](https://oeis.org/A298427)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[298428](https://oeis.org/A298428)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[298429](https://oeis.org/A298429)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[298430](https://oeis.org/A298430)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[298431](https://oeis.org/A298431)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[298437](https://oeis.org/A298437)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[343949](https://oeis.org/A343949)|[http://user42.tuxfamily.org/dragon/index.html](http://user42.tuxfamily.org/dragon/index.html)|
 |[70914](https://oeis.org/A070914)|[http://www.math.uakron.edu/~cossey/636papers/hilton%20and%20pedersen.pdf](http://www.math.uakron.edu/~cossey/636papers/hilton%20and%20pedersen.pdf)|
+|[25225](https://oeis.org/A025225)|[http://ecs.inria.fr/services/structure?nbr=653](http://ecs.inria.fr/services/structure?nbr=653)|
+|[25227](https://oeis.org/A025227)|[http://ecs.inria.fr/services/structure?nbr=657](http://ecs.inria.fr/services/structure?nbr=657), [http://ecs.inria.fr/services/structure?nbr=655](http://ecs.inria.fr/services/structure?nbr=655)|
+|[253013](https://oeis.org/A253013)|[http://users.aims.ac.za/~stephan/GraphicalEnumeration.pdf](http://users.aims.ac.za/~stephan/GraphicalEnumeration.pdf)|
+|[253014](https://oeis.org/A253014)|[http://users.aims.ac.za/~stephan/GraphicalEnumeration.pdf](http://users.aims.ac.za/~stephan/GraphicalEnumeration.pdf)|
+|[25242](https://oeis.org/A025242)|[http://puma.dimai.unifi.it/22_2/mansour_shattuck.pdf](http://puma.dimai.unifi.it/22_2/mansour_shattuck.pdf)|
+|[25246](https://oeis.org/A025246)|[http://ecs.inria.fr/services/structure?nbr=666](http://ecs.inria.fr/services/structure?nbr=666)|
+|[161948](https://oeis.org/A161948)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
+|[161949](https://oeis.org/A161949)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
+|[161950](https://oeis.org/A161950)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
+|[161952](https://oeis.org/A161952)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
+|[25262](https://oeis.org/A025262)|[http://grail.eecs.csuohio.edu/~somos/nwic.html](http://grail.eecs.csuohio.edu/~somos/nwic.html)|
+|[298614](https://oeis.org/A298614)|[http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp](http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp)|
+|[116603](https://oeis.org/A116603)|[https://doi.org/10.1186/s13660-019-2153-0](https://doi.org/10.1186/s13660-019-2153-0)|
+|[253186](https://oeis.org/A253186)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/multigraphs/index.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/multigraphs/index.html)|
 |[71153](https://oeis.org/A071153)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[298703](https://oeis.org/A298703)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
 |[71155](https://oeis.org/A071155)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[71157](https://oeis.org/A071157)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[71160](https://oeis.org/A071160)|[http://www2.bc.edu/~lewbel/jugweb/science-1.html](http://www2.bc.edu/~lewbel/jugweb/science-1.html), [http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm), [http://www-math.mit.edu/~rstan/papers.html](http://www-math.mit.edu/~rstan/papers.html)|
-|[71356](https://oeis.org/A071356)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[71160](https://oeis.org/A071160)|[http://www2.bc.edu/~lewbel/jugweb/science-1.html](http://www2.bc.edu/~lewbel/jugweb/science-1.html), [http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[344229](https://oeis.org/A344229)|[http://users.skynet.be/lch/mquiz/mquiz%202003/vragen/mquiz_2003_tafelronde_2.htm](http://users.skynet.be/lch/mquiz/mquiz%202003/vragen/mquiz_2003_tafelronde_2.htm)|
+|[253265](https://oeis.org/A253265)|[https://cs.uwaterloo.ca/journals/JIS/VOL12/Stenson/stenson8.html](https://cs.uwaterloo.ca/journals/JIS/VOL12/Stenson/stenson8.html)|
+|[298739](https://oeis.org/A298739)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[253426](https://oeis.org/A253426)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/March2015.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/March2015.html)|
+|[298909](https://oeis.org/A298909)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[298910](https://oeis.org/A298910)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[298911](https://oeis.org/A298911)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[298912](https://oeis.org/A298912)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubcay/)|
+|[253474](https://oeis.org/A253474)|[http://www.math-cs.ucmo.edu/~mjms/2004.1/Francis-Squares.pdf](http://www.math-cs.ucmo.edu/~mjms/2004.1/Francis-Squares.pdf)|
+|[162395](https://oeis.org/A162395)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[298973](https://oeis.org/A298973)|[http://insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005a58_40.pdf](http://insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005a58_40.pdf)|
+|[299029](https://oeis.org/A299029)|[http://www.sztaki.mta.hu/~bozoki/queens/](http://www.sztaki.mta.hu/~bozoki/queens/)|
+|[299041](https://oeis.org/A299041)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
+|[117140](https://oeis.org/A117140)|[http://www.eng.um.edu.mt/~andebo/numbers/numcom27.htm](http://www.eng.um.edu.mt/~andebo/numbers/numcom27.htm)|
 |[71608](https://oeis.org/A071608)|[http://turing.csie.ntu.edu.tw/~arping/cm](http://turing.csie.ntu.edu.tw/~arping/cm)|
+|[162607](https://oeis.org/A162607)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
+|[71642](https://oeis.org/A071642)|[http://www.commsys.isy.liu.se/publications/Theses/Theses%3AMikael%3A1012402388.25.pdf](http://www.commsys.isy.liu.se/publications/Theses/Theses%3AMikael%3A1012402388.25.pdf)|
 |[71655](https://oeis.org/A071655)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[71656](https://oeis.org/A071656)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[71657](https://oeis.org/A071657)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2058,9 +2855,27 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[71670](https://oeis.org/A071670)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[71671](https://oeis.org/A071671)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[71672](https://oeis.org/A071672)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[117232](https://oeis.org/A117232)|[http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf](http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf)|
+|[117233](https://oeis.org/A117233)|[http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf](http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf)|
+|[117234](https://oeis.org/A117234)|[http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf](http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf)|
+|[117235](https://oeis.org/A117235)|[http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf](http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf)|
+|[117236](https://oeis.org/A117236)|[http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf](http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf)|
+|[117237](https://oeis.org/A117237)|[http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf](http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf)|
+|[117238](https://oeis.org/A117238)|[http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf](http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf)|
 |[71706](https://oeis.org/A071706)|[http://turing.csie.ntu.edu.tw/~arping/cm](http://turing.csie.ntu.edu.tw/~arping/cm)|
+|[117239](https://oeis.org/A117239)|[http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf](http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf)|
+|[117240](https://oeis.org/A117240)|[http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf](http://www-m3.ma.tum.de/foswiki/pub/M3/Allgemeines/FolkmarBornemannPublications/short.pdf)|
+|[26150](https://oeis.org/A026150)|[http://ecs.inria.fr/services/structure?nbr=1052](http://ecs.inria.fr/services/structure?nbr=1052)|
+|[253942](https://oeis.org/A253942)|[http://www.matematikproje.com/dosyalar/05cb6Subset_smallest_elements_Sum.pdf](http://www.matematikproje.com/dosyalar/05cb6Subset_smallest_elements_Sum.pdf)|
+|[253944](https://oeis.org/A253944)|[http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf](http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf)|
+|[253945](https://oeis.org/A253945)|[http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf](http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf)|
+|[253947](https://oeis.org/A253947)|[http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf](http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf)|
+|[26179](https://oeis.org/A026179)|[http://user42.tuxfamily.org/terdragon/index.html](http://user42.tuxfamily.org/terdragon/index.html)|
+|[71903](https://oeis.org/A071903)|[http://www.hti.umich.edu/cgi/t/text/text-idx?sid=b88432273f115fb346725f1a42422e19](http://www.hti.umich.edu/cgi/t/text/text-idx?sid=b88432273f115fb346725f1a42422e19)|
 |[71986](https://oeis.org/A071986)|[http://michaelnielsen.org/polymath1/index.php?title=Prime_counting_function](http://michaelnielsen.org/polymath1/index.php?title=Prime_counting_function)|
 |[72002](https://oeis.org/A072002)|[http://www-staff.maths.uts.au/~rons/mpfn/mpfn.htm](http://www-staff.maths.uts.au/~rons/mpfn/mpfn.htm)|
+|[117535](https://oeis.org/A117535)|[https://community.plu.edu/~edgartj/binomialcoeffs.pdf](https://community.plu.edu/~edgartj/binomialcoeffs.pdf)|
+|[208571](https://oeis.org/A208571)|[http://www.collectanea.ub.edu/index.php/Collectanea/article/view/3814/4518](http://www.collectanea.ub.edu/index.php/Collectanea/article/view/3814/4518)|
 |[72088](https://oeis.org/A072088)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72089](https://oeis.org/A072089)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72090](https://oeis.org/A072090)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2069,12 +2884,19 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[72093](https://oeis.org/A072093)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72094](https://oeis.org/A072094)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72095](https://oeis.org/A072095)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[72136](https://oeis.org/A072136)|[http://www.astro.univie.ac.at/~wasi/PI/pi_normal.html](http://www.astro.univie.ac.at/~wasi/PI/pi_normal.html)|
+|[163095](https://oeis.org/A163095)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[72189](https://oeis.org/A072189)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[72294](https://oeis.org/A072294)|[http://grail.eecs.csuohio.edu/~somos/tritab.html](http://grail.eecs.csuohio.edu/~somos/tritab.html)|
+|[208853](https://oeis.org/A208853)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
 |[72364](https://oeis.org/A072364)|[http://oldweb.cecm.sfu.ca/cgi-bin/isc/lookup?number=.69220062755&amp](http://oldweb.cecm.sfu.ca/cgi-bin/isc/lookup?number=.69220062755&amp)|
+|[117934](https://oeis.org/A117934)|[https://cr.yp.to/papers/powers.pdf](https://cr.yp.to/papers/powers.pdf)|
+|[117955](https://oeis.org/A117955)|[https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf](https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf)|
+|[117956](https://oeis.org/A117956)|[https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf](https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf)|
 |[72437](https://oeis.org/A072437)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
+|[26741](https://oeis.org/A026741)|[http://www.math.sci.hokudai.ac.jp/~nakamura/ADEHilb.pdf](http://www.math.sci.hokudai.ac.jp/~nakamura/ADEHilb.pdf)|
+|[26794](https://oeis.org/A026794)|[http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf](http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf)|
 |[72552](https://oeis.org/A072552)|[http://www.infosun.fmi.uni-passau.de/GTL/](http://www.infosun.fmi.uni-passau.de/GTL/)|
+|[26905](https://oeis.org/A026905)|[http://ecs.inria.fr/services/structure?nbr=800](http://ecs.inria.fr/services/structure?nbr=800)|
 |[72619](https://oeis.org/A072619)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72620](https://oeis.org/A072620)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72621](https://oeis.org/A072621)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2088,9 +2910,10 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[72657](https://oeis.org/A072657)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72658](https://oeis.org/A072658)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72659](https://oeis.org/A072659)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[345737](https://oeis.org/A345737)|[https://en.cnki.com.cn/Article_en/CJFDTotal-GLKX200503018.htm](https://en.cnki.com.cn/Article_en/CJFDTotal-GLKX200503018.htm)|
+|[209257](https://oeis.org/A209257)|[http://astronomia.udea.edu.co/sitios/astronomia-2.0/pages/metcomp.rs/files/Tareas/Tarea5/71755174/2001JRASC..95..189C.pdf](http://astronomia.udea.edu.co/sitios/astronomia-2.0/pages/metcomp.rs/files/Tareas/Tarea5/71755174/2001JRASC..95..189C.pdf)|
 |[72764](https://oeis.org/A072764)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72765](https://oeis.org/A072765)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[72766](https://oeis.org/A072766)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72767](https://oeis.org/A072767)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72768](https://oeis.org/A072768)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72771](https://oeis.org/A072771)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2099,8 +2922,17 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[72787](https://oeis.org/A072787)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72788](https://oeis.org/A072788)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[72798](https://oeis.org/A072798)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[118363](https://oeis.org/A118363)|[https://community.plu.edu/~edgartj/consecutivefactniven.pdf](https://community.plu.edu/~edgartj/consecutivefactniven.pdf)|
+|[118493](https://oeis.org/A118493)|[http://groups.msn.com/Primeslessthanorequaltox/sumtwinsbas.msnw](http://groups.msn.com/Primeslessthanorequaltox/sumtwinsbas.msnw), [http://groups.msn.com/Primeslessthanorequaltox/sumprimedllbas.msnw](http://groups.msn.com/Primeslessthanorequaltox/sumprimedllbas.msnw)|
+|[255068](https://oeis.org/A255068)|[http://user42.tuxfamily.org/dragon/index.html](http://user42.tuxfamily.org/dragon/index.html)|
+|[73012](https://oeis.org/A073012)|[https://www.sapili.org/livros/en/gu000634.pdf](https://www.sapili.org/livros/en/gu000634.pdf)|
+|[73057](https://oeis.org/A073057)|[http://user42.tuxfamily.org/seq-A073057-append-morphism/index.html](http://user42.tuxfamily.org/seq-A073057-append-morphism/index.html)|
+|[27375](https://oeis.org/A027375)|[http://www.math.jussieu.fr/~allouche/bibliorecente.html](http://www.math.jussieu.fr/~allouche/bibliorecente.html)|
 |[73121](https://oeis.org/A073121)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
-|[73194](https://oeis.org/A073194)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[209615](https://oeis.org/A209615)|[http://user42.tuxfamily.org/alternate/index.html](http://user42.tuxfamily.org/alternate/index.html)|
+|[27468](https://oeis.org/A027468)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
+|[27471](https://oeis.org/A027471)|[http://ecs.inria.fr/services/structure?nbr=715](http://ecs.inria.fr/services/structure?nbr=715)|
+|[300729](https://oeis.org/A300729)|[http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html](http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html)|
 |[73195](https://oeis.org/A073195)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[73196](https://oeis.org/A073196)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[73197](https://oeis.org/A073197)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2109,7 +2941,6 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[73200](https://oeis.org/A073200)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[73201](https://oeis.org/A073201)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[73202](https://oeis.org/A073202)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[73203](https://oeis.org/A073203)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[73204](https://oeis.org/A073204)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[73205](https://oeis.org/A073205)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[73206](https://oeis.org/A073206)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2117,6 +2948,8 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[73208](https://oeis.org/A073208)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[73209](https://oeis.org/A073209)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[73210](https://oeis.org/A073210)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[73252](https://oeis.org/A073252)|[http://www-irma.u-strasbg.fr/~foata/paper/pub81.html](http://www-irma.u-strasbg.fr/~foata/paper/pub81.html)|
+|[255347](https://oeis.org/A255347)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
 |[73280](https://oeis.org/A073280)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[73281](https://oeis.org/A073281)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[73282](https://oeis.org/A073282)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2127,18 +2960,125 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[73287](https://oeis.org/A073287)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[73288](https://oeis.org/A073288)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[73289](https://oeis.org/A073289)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[255368](https://oeis.org/A255368)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
 |[73334](https://oeis.org/A073334)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
-|[73473](https://oeis.org/A073473)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
+|[164355](https://oeis.org/A164355)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[164356](https://oeis.org/A164356)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[164357](https://oeis.org/A164357)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[27675](https://oeis.org/A027675)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
+|[27676](https://oeis.org/A027676)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
+|[27677](https://oeis.org/A027677)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
+|[27678](https://oeis.org/A027678)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
+|[27679](https://oeis.org/A027679)|[http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits](http://einstein.et.tudelft.nl/~arlet/puzzles/sol.cgi/arithmetic/digits/squares/three.digits)|
+|[27687](https://oeis.org/A027687)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
+|[27692](https://oeis.org/A027692)|[https://doi:10.2969/jmsj/02630447](https://doi:10.2969/jmsj/02630447)|
+|[255492](https://oeis.org/A255492)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
+|[27710](https://oeis.org/A027710)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
+|[255494](https://oeis.org/A255494)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
+|[255495](https://oeis.org/A255495)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
+|[255496](https://oeis.org/A255496)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
+|[255497](https://oeis.org/A255497)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
+|[255498](https://oeis.org/A255498)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
+|[27760](https://oeis.org/A027760)|[http://www.jstor.org/stable/2321762](http://www.jstor.org/stable/2321762), [http://articles.adsabs.harvard.edu/full/1840AN.....17R.351.](http://articles.adsabs.harvard.edu/full/1840AN.....17R.351.)|
+|[255563](https://oeis.org/A255563)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
 |[73517](https://oeis.org/A073517)|[http://ourworld.compuserve.com/homepages/hlifchitz/Henri/us/ParPius.htm](http://ourworld.compuserve.com/homepages/hlifchitz/Henri/us/ParPius.htm)|
-|[73519](https://oeis.org/A073519)|[http://www.magic-squares.net/primesqr.htm#Minimum](http://www.magic-squares.net/primesqr.htm#Minimum)|
-|[73520](https://oeis.org/A073520)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
-|[73521](https://oeis.org/A073521)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
-|[73522](https://oeis.org/A073522)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
-|[73523](https://oeis.org/A073523)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
-|[73639](https://oeis.org/A073639)|[http://wwwmaths.anu.edu.au/~brent/trinom-old.html](http://wwwmaths.anu.edu.au/~brent/trinom-old.html), [http://wwwmaths.anu.edu.au/~brent/pd/rpb199.pdf](http://wwwmaths.anu.edu.au/~brent/pd/rpb199.pdf)|
+|[27881](https://oeis.org/A027881)|[http://dipmza.physik.uni-mainz.de/~kreimer/homepage.html](http://dipmza.physik.uni-mainz.de/~kreimer/homepage.html)|
+|[73592](https://oeis.org/A073592)|[http://adsabs.harvard.edu/abs/1966QJMat..17...39W](http://adsabs.harvard.edu/abs/1966QJMat..17...39W)|
+|[346673](https://oeis.org/A346673)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
+|[119256](https://oeis.org/A119256)|[http://www.karlscalculus.org/l6_3-2.html](http://www.karlscalculus.org/l6_3-2.html)|
+|[119271](https://oeis.org/A119271)|[http://www.physics.iitm.ac.in/~suresh/partitions.html](http://www.physics.iitm.ac.in/~suresh/partitions.html)|
+|[255841](https://oeis.org/A255841)|[http://forum.projecteuler.net/viewtopic.php?f=16&amp](http://forum.projecteuler.net/viewtopic.php?f=16&amp)|
+|[164829](https://oeis.org/A164829)|[http://www.ma.noda.tus.ac.jp/u/tg/files/list4](http://www.ma.noda.tus.ac.jp/u/tg/files/list4)|
 |[73849](https://oeis.org/A073849)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[73850](https://oeis.org/A073850)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[74664](https://oeis.org/A074664)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[164870](https://oeis.org/A164870)|[http://www-groups.mcs.st-and.ac.uk/~vince/publications/popstacks/pop-stacks.pdf](http://www-groups.mcs.st-and.ac.uk/~vince/publications/popstacks/pop-stacks.pdf)|
+|[164935](https://oeis.org/A164935)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html)|
+|[119467](https://oeis.org/A119467)|[https://www.dcce.ibilce.unesp.br/~dimitrov/ProfRusev/EJA_Paper_24_02_11/Dim_Rus_main.pdf](https://www.dcce.ibilce.unesp.br/~dimitrov/ProfRusev/EJA_Paper_24_02_11/Dim_Rus_main.pdf)|
+|[119478](https://oeis.org/A119478)|[http://amicable.adsl.dk/aliquot/cx/c6.txt](http://amicable.adsl.dk/aliquot/cx/c6.txt), [http://amicable.adsl.dk/aliquot/knwncx.htm](http://amicable.adsl.dk/aliquot/knwncx.htm)|
+|[164950](https://oeis.org/A164950)|[http://sprouts.tuxfamily.org/wiki/doku.php?id=records#misere_sprouts](http://sprouts.tuxfamily.org/wiki/doku.php?id=records#misere_sprouts)|
+|[28243](https://oeis.org/A028243)|[http://user42.tuxfamily.org/terdragon/index.html](http://user42.tuxfamily.org/terdragon/index.html)|
+|[210493](https://oeis.org/A210493)|[http://aa.usno.navy.mil/data/docs/JulianDate.php](http://aa.usno.navy.mil/data/docs/JulianDate.php)|
+|[28310](https://oeis.org/A028310)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
+|[256101](https://oeis.org/A256101)|[http://www-math.ucdenver.edu/~wcherowi/courses/m5410/crt.pdf](http://www-math.ucdenver.edu/~wcherowi/courses/m5410/crt.pdf)|
+|[256108](https://oeis.org/A256108)|[http://oldweb.cecm.sfu.ca/projects/pihex/](http://oldweb.cecm.sfu.ca/projects/pihex/)|
+|[210588](https://oeis.org/A210588)|[http://itee.uq.edu.au/~havas/TR0234.pdf](http://itee.uq.edu.au/~havas/TR0234.pdf)|
+|[28381](https://oeis.org/A028381)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[28382](https://oeis.org/A028382)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[28384](https://oeis.org/A028384)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[119630](https://oeis.org/A119630)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
+|[119631](https://oeis.org/A119631)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
+|[119648](https://oeis.org/A119648)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
+|[28444](https://oeis.org/A028444)|[http://www.logique.jussieu.fr/~michel/bbc.html](http://www.logique.jussieu.fr/~michel/bbc.html), [http://www.logique.jussieu.fr/~michel/ha.html](http://www.logique.jussieu.fr/~michel/ha.html), [http://www.logique.jussieu.fr/~michel/beh.html](http://www.logique.jussieu.fr/~michel/beh.html)|
+|[28446](https://oeis.org/A028446)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28447](https://oeis.org/A028447)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[256234](https://oeis.org/A256234)|[http://stop.inferia.ru/](http://stop.inferia.ru/)|
+|[28448](https://oeis.org/A028448)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28449](https://oeis.org/A028449)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28450](https://oeis.org/A028450)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28451](https://oeis.org/A028451)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28452](https://oeis.org/A028452)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28453](https://oeis.org/A028453)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[210662](https://oeis.org/A210662)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[28454](https://oeis.org/A028454)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[28455](https://oeis.org/A028455)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28456](https://oeis.org/A028456)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28457](https://oeis.org/A028457)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28458](https://oeis.org/A028458)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28459](https://oeis.org/A028459)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28460](https://oeis.org/A028460)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28461](https://oeis.org/A028461)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28462](https://oeis.org/A028462)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28463](https://oeis.org/A028463)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28464](https://oeis.org/A028464)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28465](https://oeis.org/A028465)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28466](https://oeis.org/A028466)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28467](https://oeis.org/A028467)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28468](https://oeis.org/A028468)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[28469](https://oeis.org/A028469)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[28470](https://oeis.org/A028470)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[28471](https://oeis.org/A028471)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[119710](https://oeis.org/A119710)|[http://www.numq.com/pwn/](http://www.numq.com/pwn/), [http://www.numq.com/pwn/](http://www.numq.com/pwn/)|
+|[28472](https://oeis.org/A028472)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28473](https://oeis.org/A028473)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[28474](https://oeis.org/A028474)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[28477](https://oeis.org/A028477)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28478](https://oeis.org/A028478)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28479](https://oeis.org/A028479)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28480](https://oeis.org/A028480)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28481](https://oeis.org/A028481)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28482](https://oeis.org/A028482)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28483](https://oeis.org/A028483)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28484](https://oeis.org/A028484)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28485](https://oeis.org/A028485)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28486](https://oeis.org/A028486)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[28487](https://oeis.org/A028487)|[http://www.theophys.kth.se/~phl/Text/1factors2.pdf](http://www.theophys.kth.se/~phl/Text/1factors2.pdf), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[28495](https://oeis.org/A028495)|[http://ecs.inria.fr/services/structure?nbr=1057](http://ecs.inria.fr/services/structure?nbr=1057), [http://ecs.inria.fr/services/structure?nbr=1056](http://ecs.inria.fr/services/structure?nbr=1056)|
+|[119912](https://oeis.org/A119912)|[http://groups.msn.com/First300billionprimes/primecounts.msnw](http://groups.msn.com/First300billionprimes/primecounts.msnw)|
+|[256494](https://oeis.org/A256494)|[http://www.zime.lv/book/?oeis](http://www.zime.lv/book/?oeis)|
+|[119953](https://oeis.org/A119953)|[http://musicalgorithms.ewu.edu/algorithms/import.html](http://musicalgorithms.ewu.edu/algorithms/import.html)|
+|[120072](https://oeis.org/A120072)|[http://adsabs.harvard.edu/full/1906ApJ....23..181L](http://adsabs.harvard.edu/full/1906ApJ....23..181L)|
+|[28847](https://oeis.org/A028847)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
+|[28848](https://oeis.org/A028848)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
+|[28849](https://oeis.org/A028849)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
+|[28850](https://oeis.org/A028850)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
+|[28851](https://oeis.org/A028851)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
+|[28852](https://oeis.org/A028852)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
+|[28853](https://oeis.org/A028853)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
+|[28854](https://oeis.org/A028854)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
+|[28855](https://oeis.org/A028855)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
+|[28856](https://oeis.org/A028856)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
+|[28857](https://oeis.org/A028857)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
+|[28858](https://oeis.org/A028858)|[http://www.math-cs.ucmo.edu/~mjms/mjms.html](http://www.math-cs.ucmo.edu/~mjms/mjms.html)|
+|[28860](https://oeis.org/A028860)|[http://ecs.inria.fr/services/structure?nbr=924](http://ecs.inria.fr/services/structure?nbr=924)|
+|[256672](https://oeis.org/A256672)|[http://www.liafa.jussieu.fr/fpsac13/pdfAbstracts/dmAS0180.pdf](http://www.liafa.jussieu.fr/fpsac13/pdfAbstracts/dmAS0180.pdf)|
+|[120127](https://oeis.org/A120127)|[http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp](http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp), [http://grail.eecs.csuohio.edu/~somos/tritab.html](http://grail.eecs.csuohio.edu/~somos/tritab.html)|
+|[120128](https://oeis.org/A120128)|[http://grail.eecs.csuohio.edu/~somos/tritab.html](http://grail.eecs.csuohio.edu/~somos/tritab.html)|
+|[120129](https://oeis.org/A120129)|[http://grail.eecs.csuohio.edu/~somos/tritab.html](http://grail.eecs.csuohio.edu/~somos/tritab.html)|
+|[120132](https://oeis.org/A120132)|[http://grail.eecs.csuohio.edu/~somos/tritab.html](http://grail.eecs.csuohio.edu/~somos/tritab.html)|
+|[120133](https://oeis.org/A120133)|[http://grail.eecs.csuohio.edu/~somos/tritab.html](http://grail.eecs.csuohio.edu/~somos/tritab.html)|
+|[256719](https://oeis.org/A256719)|[http://lagrange.physics.drexel.edu/flash/zcm/](http://lagrange.physics.drexel.edu/flash/zcm/)|
+|[256720](https://oeis.org/A256720)|[http://lagrange.physics.drexel.edu/flash/zcm/](http://lagrange.physics.drexel.edu/flash/zcm/)|
+|[211174](https://oeis.org/A211174)|[http://davidf.faricy.net/polyhedra/platonic_solids.html](http://davidf.faricy.net/polyhedra/platonic_solids.html)|
 |[74681](https://oeis.org/A074681)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[74682](https://oeis.org/A074682)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[74685](https://oeis.org/A074685)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2148,15 +3088,42 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[74689](https://oeis.org/A074689)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[74690](https://oeis.org/A074690)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[74788](https://oeis.org/A074788)|[http://www.mathforum.org/discuss/sci.math/](http://www.mathforum.org/discuss/sci.math/)|
+|[120373](https://oeis.org/A120373)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[74877](https://oeis.org/A074877)|[http://hosting.xi-alles.nl/GertBultman/CS/recursion_ackermann.html](http://hosting.xi-alles.nl/GertBultman/CS/recursion_ackermann.html)|
+|[120488](https://oeis.org/A120488)|[http://www.emba.uvm.edu/~jdinitz/preprints/per14.pdf](http://www.emba.uvm.edu/~jdinitz/preprints/per14.pdf)|
 |[74962](https://oeis.org/A074962)|[https://www.webcitation.org/6BoWvFMX1?url=http://mpmath.googlecode.com/svn/data/glaisher.txt](https://www.webcitation.org/6BoWvFMX1?url=http://mpmath.googlecode.com/svn/data/glaisher.txt)|
+|[257075](https://oeis.org/A257075)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[302573](https://oeis.org/A302573)|[http://www.insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005a58_40.pdf](http://www.insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005a58_40.pdf)|
+|[166079](https://oeis.org/A166079)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[75130](https://oeis.org/A075130)|[http://disc.server.com/Indices/187886.html](http://disc.server.com/Indices/187886.html)|
 |[75131](https://oeis.org/A075131)|[http://disc.server.com/Indices/187886.html](http://disc.server.com/Indices/187886.html)|
 |[75161](https://oeis.org/A075161)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
 |[75162](https://oeis.org/A075162)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
 |[75166](https://oeis.org/A075166)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
 |[75171](https://oeis.org/A075171)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
+|[120705](https://oeis.org/A120705)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[120706](https://oeis.org/A120706)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[120734](https://oeis.org/A120734)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
 |[75259](https://oeis.org/A075259)|[http://compgeom.cs.uiuc.edu/~jeffe/wagon/s848.html](http://compgeom.cs.uiuc.edu/~jeffe/wagon/s848.html)|
+|[120892](https://oeis.org/A120892)|[http://jpm-chabert.club.fr/maths/Triangle_rect.htm](http://jpm-chabert.club.fr/maths/Triangle_rect.htm)|
+|[120940](https://oeis.org/A120940)|[http://marcello.gotdns.com/~m/uncount.1.2.pdf](http://marcello.gotdns.com/~m/uncount.1.2.pdf)|
+|[29725](https://oeis.org/A029725)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
+|[29726](https://oeis.org/A029726)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
 |[75462](https://oeis.org/A075462)|[http://www.millstone.demon.co.uk/games/lightsout/start.htm](http://www.millstone.demon.co.uk/games/lightsout/start.htm)|
+|[29767](https://oeis.org/A029767)|[http://ecs.inria.fr/services/structure?nbr=498](http://ecs.inria.fr/services/structure?nbr=498), [http://ecs.inria.fr/services/structure?nbr=777](http://ecs.inria.fr/services/structure?nbr=777)|
+|[166486](https://oeis.org/A166486)|[http://cis.csuohio.edu/~somos/rfmc.html](http://cis.csuohio.edu/~somos/rfmc.html)|
+|[348563](https://oeis.org/A348563)|[https://www.indianmathsociety.org.in/mathstudent-part-1-2019.pdf#page=131](https://www.indianmathsociety.org.in/mathstudent-part-1-2019.pdf#page=131)|
+|[29837](https://oeis.org/A029837)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp)|
+|[29856](https://oeis.org/A029856)|[http://ecs.inria.fr/services/structure?nbr=768](http://ecs.inria.fr/services/structure?nbr=768)|
+|[121153](https://oeis.org/A121153)|[http://newton.math.psu.edu/mass/reu/2003/DaRi/proj1.pdf](http://newton.math.psu.edu/mass/reu/2003/DaRi/proj1.pdf)|
+|[121207](https://oeis.org/A121207)|[http://www.doiserbia.nb.rs/img/doi/1452-8630/2007/1452-86300702371G.pdf](http://www.doiserbia.nb.rs/img/doi/1452-8630/2007/1452-86300702371G.pdf)|
+|[212197](https://oeis.org/A212197)|[http://adsabs.harvard.edu/abs/1840AN.....17R.351](http://adsabs.harvard.edu/abs/1840AN.....17R.351)|
+|[30019](https://oeis.org/A030019)|[http://ecs.inria.fr/services/structure?nbr=810](http://ecs.inria.fr/services/structure?nbr=810)|
+|[30030](https://oeis.org/A030030)|[http://sis.univ-tln.fr/~bonnecaze/biblio.html](http://sis.univ-tln.fr/~bonnecaze/biblio.html)|
+|[121285](https://oeis.org/A121285)|[http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf](http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf)|
+|[30050](https://oeis.org/A030050)|[http://hofprints.hofstra.edu/24/01/Bhargava](http://hofprints.hofstra.edu/24/01/Bhargava)|
+|[30051](https://oeis.org/A030051)|[http://blog.sciencenews.org/2006/03/all_square.html](http://blog.sciencenews.org/2006/03/all_square.html)|
+|[212324](https://oeis.org/A212324)|[http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory](http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory)|
 |[75835](https://oeis.org/A075835)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
 |[75836](https://oeis.org/A075836)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
 |[75839](https://oeis.org/A075839)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
@@ -2164,41 +3131,165 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[75843](https://oeis.org/A075843)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
 |[75844](https://oeis.org/A075844)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
 |[75848](https://oeis.org/A075848)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
+|[303401](https://oeis.org/A303401)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[257931](https://oeis.org/A257931)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
 |[75870](https://oeis.org/A075870)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
 |[75873](https://oeis.org/A075873)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
-|[75926](https://oeis.org/A075926)|[https://signallake.com/innovation/hamming.pdf](https://signallake.com/innovation/hamming.pdf)|
-|[75927](https://oeis.org/A075927)|[https://signallake.com/innovation/hamming.pdf](https://signallake.com/innovation/hamming.pdf)|
-|[75928](https://oeis.org/A075928)|[https://signallake.com/innovation/hamming.pdf](https://signallake.com/innovation/hamming.pdf)|
-|[75929](https://oeis.org/A075929)|[https://signallake.com/innovation/hamming.pdf](https://signallake.com/innovation/hamming.pdf)|
-|[75930](https://oeis.org/A075930)|[https://signallake.com/innovation/hamming.pdf](https://signallake.com/innovation/hamming.pdf)|
+|[121406](https://oeis.org/A121406)|[http://www.primenace.com/papers/math/TwinPrimeEliminationSeries.htm](http://www.primenace.com/papers/math/TwinPrimeEliminationSeries.htm)|
+|[30169](https://oeis.org/A030169)|[http://www.gutenberg.org/etext/634](http://www.gutenberg.org/etext/634)|
+|[303432](https://oeis.org/A303432)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[303434](https://oeis.org/A303434)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[30186](https://oeis.org/A030186)|[http://ecs.inria.fr/services/structure?nbr=473](http://ecs.inria.fr/services/structure?nbr=473), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[121448](https://oeis.org/A121448)|[https://www.math.rochester.edu/people/faculty/doug/mypapers/lrs.pdf](https://www.math.rochester.edu/people/faculty/doug/mypapers/lrs.pdf)|
+|[75932](https://oeis.org/A075932)|[http://burtleburtle.net/bob/math/lexicode.html](http://burtleburtle.net/bob/math/lexicode.html)|
+|[212429](https://oeis.org/A212429)|[http://icm.uaeu.ac.ae/pdf/TomeI.pdf](http://icm.uaeu.ac.ae/pdf/TomeI.pdf)|
+|[75938](https://oeis.org/A075938)|[http://burtleburtle.net/bob/math/lexicode.html](http://burtleburtle.net/bob/math/lexicode.html)|
+|[75943](https://oeis.org/A075943)|[http://burtleburtle.net/bob/math/lexicode.html](http://burtleburtle.net/bob/math/lexicode.html)|
+|[75944](https://oeis.org/A075944)|[http://burtleburtle.net/bob/math/lexicode.html](http://burtleburtle.net/bob/math/lexicode.html)|
+|[75949](https://oeis.org/A075949)|[http://burtleburtle.net/bob/math/lexicode.html](http://burtleburtle.net/bob/math/lexicode.html)|
+|[75957](https://oeis.org/A075957)|[http://burtleburtle.net/bob/math/lexicode.html](http://burtleburtle.net/bob/math/lexicode.html)|
+|[349008](https://oeis.org/A349008)|[http://user42.tuxfamily.org/r5dragon/index.html](http://user42.tuxfamily.org/r5dragon/index.html)|
+|[349009](https://oeis.org/A349009)|[http://user42.tuxfamily.org/r5dragon/index.html](http://user42.tuxfamily.org/r5dragon/index.html)|
+|[349010](https://oeis.org/A349010)|[http://user42.tuxfamily.org/r5dragon/index.html](http://user42.tuxfamily.org/r5dragon/index.html)|
+|[258055](https://oeis.org/A258055)|[http://www.zime.lv/book/?oeis](http://www.zime.lv/book/?oeis)|
+|[30267](https://oeis.org/A030267)|[https://www.insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005b15_1421.pdf](https://www.insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005b15_1421.pdf)|
+|[349040](https://oeis.org/A349040)|[http://user42.tuxfamily.org/terdragon/index.html](http://user42.tuxfamily.org/terdragon/index.html)|
+|[166984](https://oeis.org/A166984)|[http://www.ejpam.com/index.php/ejpam/article/view/1609](http://www.ejpam.com/index.php/ejpam/article/view/1609)|
+|[303601](https://oeis.org/A303601)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[167050](https://oeis.org/A167050)|[http://andfog.altervista.org/math/Cesenatico/Cesenatico%201999.pdf](http://andfog.altervista.org/math/Cesenatico/Cesenatico%201999.pdf)|
+|[212583](https://oeis.org/A212583)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[212591](https://oeis.org/A212591)|[http://user42.tuxfamily.org/alternate/index.html](http://user42.tuxfamily.org/alternate/index.html)|
+|[212595](https://oeis.org/A212595)|[http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory](http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory)|
+|[167132](https://oeis.org/A167132)|[http://primes.virtual-library.biz/](http://primes.virtual-library.biz/)|
+|[349195](https://oeis.org/A349195)|[http://user42.tuxfamily.org/r5dragon/index.html](http://user42.tuxfamily.org/r5dragon/index.html)|
+|[349196](https://oeis.org/A349196)|[http://user42.tuxfamily.org/r5dragon/index.html](http://user42.tuxfamily.org/r5dragon/index.html)|
+|[349197](https://oeis.org/A349197)|[http://user42.tuxfamily.org/terdragon/index.html](http://user42.tuxfamily.org/terdragon/index.html)|
 |[76178](https://oeis.org/A076178)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[30504](https://oeis.org/A030504)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
+|[30505](https://oeis.org/A030505)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
+|[30506](https://oeis.org/A030506)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
+|[30508](https://oeis.org/A030508)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
+|[30509](https://oeis.org/A030509)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
+|[30510](https://oeis.org/A030510)|[http://www.dtr.isy.liu.se/dtr/staff/mattias](http://www.dtr.isy.liu.se/dtr/staff/mattias)|
+|[167232](https://oeis.org/A167232)|[http://www.spoj.pl/problems/KPSUM/](http://www.spoj.pl/problems/KPSUM/)|
+|[212738](https://oeis.org/A212738)|[http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory](http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory)|
 |[76336](https://oeis.org/A076336)|[http://sierpinski.insider.com/4787](http://sierpinski.insider.com/4787), [http://sierpinski.insider.com/dual](http://sierpinski.insider.com/dual)|
-|[76337](https://oeis.org/A076337)|[http://www.glasgowg43.freeserve.co.uk/brier2.htm](http://www.glasgowg43.freeserve.co.uk/brier2.htm)|
+|[76337](https://oeis.org/A076337)|[http://www.glasgowg43.freeserve.co.uk/brier2.htm](http://www.glasgowg43.freeserve.co.uk/brier2.htm), [http://www.tanyakhovanova.com/RecursiveSequences/NonRecursions.html](http://www.tanyakhovanova.com/RecursiveSequences/NonRecursions.html)|
+|[76338](https://oeis.org/A076338)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[349414](https://oeis.org/A349414)|[http://nini-software.fr/site/uploads/arithmetics/collatz/Intrinsic%203x+1%20V2.01.pdf](http://nini-software.fr/site/uploads/arithmetics/collatz/Intrinsic%203x+1%20V2.01.pdf)|
+|[303933](https://oeis.org/A303933)|[http://www.math.uakron.edu/~sf34/opans0_6.html](http://www.math.uakron.edu/~sf34/opans0_6.html)|
+|[167389](https://oeis.org/A167389)|[http://kong.apmaths.uwo.ca/~rcorless/frames/PAPERS/LambertW/](http://kong.apmaths.uwo.ca/~rcorless/frames/PAPERS/LambertW/)|
+|[30797](https://oeis.org/A030797)|[http://www.gutenberg.org/etext/634](http://www.gutenberg.org/etext/634)|
+|[122043](https://oeis.org/A122043)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
 |[76523](https://oeis.org/A076523)|[http://compgeom.cs.uiuc.edu/~jeffe/open/ksets.html](http://compgeom.cs.uiuc.edu/~jeffe/open/ksets.html)|
 |[76549](https://oeis.org/A076549)|[http://members.fortunecity.com/aands/page_260.jpg](http://members.fortunecity.com/aands/page_260.jpg), [http://members.fortunecity.com/aands/page_260.jpg](http://members.fortunecity.com/aands/page_260.jpg)|
+|[122122](https://oeis.org/A122122)|[http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf](http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf), [http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf)|
+|[122133](https://oeis.org/A122133)|[http://www.wm-archive.uni-bayreuth.de/fileadmin/Sascha/Publikationen2/thesis.pdf](http://www.wm-archive.uni-bayreuth.de/fileadmin/Sascha/Publikationen2/thesis.pdf)|
+|[122193](https://oeis.org/A122193)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf), [http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html](http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html)|
+|[167660](https://oeis.org/A167660)|[http://www.math.uakron.edu/~norfolk/sara.pdf](http://www.math.uakron.edu/~norfolk/sara.pdf)|
 |[76710](https://oeis.org/A076710)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[122248](https://oeis.org/A122248)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[76741](https://oeis.org/A076741)|[http://roland.zumkeller.googlepages.com/thesis.html](http://roland.zumkeller.googlepages.com/thesis.html)|
 |[76765](https://oeis.org/A076765)|[http://lita.sciences.univ-metz.fr/~margens/](http://lita.sciences.univ-metz.fr/~margens/)|
+|[76766](https://oeis.org/A076766)|[http://www.math.lsu.edu/~preprint/2002/jgo2002e.pdf](http://www.math.lsu.edu/~preprint/2002/jgo2002e.pdf)|
+|[213270](https://oeis.org/A213270)|[http://costasarrays.org/](http://costasarrays.org/)|
+|[213271](https://oeis.org/A213271)|[http://costasarrays.org/](http://costasarrays.org/)|
+|[213272](https://oeis.org/A213272)|[http://costasarrays.org/](http://costasarrays.org/)|
+|[304376](https://oeis.org/A304376)|[http://nopr.niscair.res.in/handle/123456789/2215](http://nopr.niscair.res.in/handle/123456789/2215)|
+|[304377](https://oeis.org/A304377)|[http://nopr.niscair.res.in/handle/123456789/2215](http://nopr.niscair.res.in/handle/123456789/2215)|
+|[31131](https://oeis.org/A031131)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
+|[213338](https://oeis.org/A213338)|[http://costasarrays.org/](http://costasarrays.org/)|
+|[213339](https://oeis.org/A213339)|[http://costasarrays.org/](http://costasarrays.org/)|
+|[259042](https://oeis.org/A259042)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
 |[76965](https://oeis.org/A076965)|[http://forums.xkcd.com/viewtopic.php?f=17&amp](http://forums.xkcd.com/viewtopic.php?f=17&amp)|
+|[259044](https://oeis.org/A259044)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[213508](https://oeis.org/A213508)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[213509](https://oeis.org/A213509)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[122555](https://oeis.org/A122555)|[http://www.msp.warwick.ac.uk/agt/2005/05/p019.xhtml](http://www.msp.warwick.ac.uk/agt/2005/05/p019.xhtml)|
+|[168022](https://oeis.org/A168022)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
+|[168023](https://oeis.org/A168023)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
 |[77028](https://oeis.org/A077028)|[http://digital.ipcprintservices.com/display_article.php?id=647987](http://digital.ipcprintservices.com/display_article.php?id=647987)|
+|[168024](https://oeis.org/A168024)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
+|[168025](https://oeis.org/A168025)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
+|[168026](https://oeis.org/A168026)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
+|[168027](https://oeis.org/A168027)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
 |[77071](https://oeis.org/A077071)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[259180](https://oeis.org/A259180)|[http://oai.cwi.nl/oai/asset/4143/04143D.pdf](http://oai.cwi.nl/oai/asset/4143/04143D.pdf), [http://oai.cwi.nl/oai/asset/2246/2246A.pdf](http://oai.cwi.nl/oai/asset/2246/2246A.pdf), [http://www-maths.swan.ac.uk/pgrads/bb/project/node16.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node16.html), [http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://britton.disted.camosun.bc.ca/amicable.html](http://britton.disted.camosun.bc.ca/amicable.html), [http://nautilus.fis.uc.pt/mn/i_amigos/amigos.swf](http://nautilus.fis.uc.pt/mn/i_amigos/amigos.swf)|
+|[213611](https://oeis.org/A213611)|[http://home.anadolu.edu.tr/~mcavcar/common/ISAweb.pdf](http://home.anadolu.edu.tr/~mcavcar/common/ISAweb.pdf), [http://www.srh.noaa.gov/jetstream/atmos/pressure.htm](http://www.srh.noaa.gov/jetstream/atmos/pressure.htm)|
+|[213629](https://oeis.org/A213629)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
+|[168182](https://oeis.org/A168182)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
+|[122776](https://oeis.org/A122776)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
+|[122797](https://oeis.org/A122797)|[http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf](http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf)|
 |[77287](https://oeis.org/A077287)|[http://pages.prodigy.net/chris_nash/primeform.html](http://pages.prodigy.net/chris_nash/primeform.html)|
-|[77436](https://oeis.org/A077436)|[http://melfi.150m.com/presentazione.pdf](http://melfi.150m.com/presentazione.pdf)|
+|[304938](https://oeis.org/A304938)|[https://icpc.baylor.edu/download/worldfinals/problems/icpc2013.pdf](https://icpc.baylor.edu/download/worldfinals/problems/icpc2013.pdf)|
+|[213880](https://oeis.org/A213880)|[http://www.gutenberg.org/files/16713/16713-h/16713-h.htm](http://www.gutenberg.org/files/16713/16713-h/16713-h.htm)|
 |[77439](https://oeis.org/A077439)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
 |[77442](https://oeis.org/A077442)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
 |[77443](https://oeis.org/A077443)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
 |[77445](https://oeis.org/A077445)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
 |[77447](https://oeis.org/A077447)|[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html](http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Pell.html)|
 |[77462](https://oeis.org/A077462)|[https://washingtonart.net/whealton/PFCN.html](https://washingtonart.net/whealton/PFCN.html)|
-|[78391](https://oeis.org/A078391)|[http://www-math.mit.edu/~rstan/ec/catadd.pdf](http://www-math.mit.edu/~rstan/ec/catadd.pdf)|
-|[78588](https://oeis.org/A078588)|[http://www-math.mit.edu/~tchow/cv.html](http://www-math.mit.edu/~tchow/cv.html)|
+|[123101](https://oeis.org/A123101)|[http://www.math.wfu.edu/publications/saidak/hamburg.pdf](http://www.math.wfu.edu/publications/saidak/hamburg.pdf)|
+|[31869](https://oeis.org/A031869)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
+|[31870](https://oeis.org/A031870)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
+|[31871](https://oeis.org/A031871)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
+|[31872](https://oeis.org/A031872)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
+|[31874](https://oeis.org/A031874)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
+|[31875](https://oeis.org/A031875)|[http://www3.telus.net/millerlf/g3-records.html](http://www3.telus.net/millerlf/g3-records.html)|
+|[123129](https://oeis.org/A123129)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
+|[123171](https://oeis.org/A123171)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
+|[123213](https://oeis.org/A123213)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
+|[214214](https://oeis.org/A214214)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[32031](https://oeis.org/A032031)|[http://ecs.inria.fr/services/structure?nbr=491](http://ecs.inria.fr/services/structure?nbr=491)|
+|[32037](https://oeis.org/A032037)|[http://ecs.inria.fr/services/structure?nbr=92](http://ecs.inria.fr/services/structure?nbr=92)|
+|[32085](https://oeis.org/A032085)|[http://ecs.inria.fr/services/structure?nbr=1022](http://ecs.inria.fr/services/structure?nbr=1022)|
+|[32182](https://oeis.org/A032182)|[http://ecs.inria.fr/services/structure?nbr=837](http://ecs.inria.fr/services/structure?nbr=837)|
+|[32184](https://oeis.org/A032184)|[http://ecs.inria.fr/services/structure?nbr=565](http://ecs.inria.fr/services/structure?nbr=565)|
+|[32188](https://oeis.org/A032188)|[http://ecs.inria.fr/services/structure?nbr=89](http://ecs.inria.fr/services/structure?nbr=89)|
+|[32190](https://oeis.org/A032190)|[http://ecs.inria.fr/services/structure?nbr=764](http://ecs.inria.fr/services/structure?nbr=764)|
+|[32198](https://oeis.org/A032198)|[https://www.insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005b15_1421.pdf](https://www.insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005b15_1421.pdf)|
+|[32203](https://oeis.org/A032203)|[http://ecs.inria.fr/services/structure?nbr=79](http://ecs.inria.fr/services/structure?nbr=79)|
+|[32260](https://oeis.org/A032260)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html)|
+|[123513](https://oeis.org/A123513)|[http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf](http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf)|
+|[32279](https://oeis.org/A032279)|[https://liforce.usthb.dz/sites/default/files/2020-11/article1.pdf](https://liforce.usthb.dz/sites/default/files/2020-11/article1.pdf)|
+|[32287](https://oeis.org/A032287)|[https://www.insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005b15_1421.pdf](https://www.insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005b15_1421.pdf)|
+|[32355](https://oeis.org/A032355)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubtrans/index.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cubtrans/index.html)|
+|[305616](https://oeis.org/A305616)|[https://ijntindia.puzl.com/files/1638778/download/1_das_1-12.pdf](https://ijntindia.puzl.com/files/1638778/download/1_das_1-12.pdf)|
+|[305617](https://oeis.org/A305617)|[https://ijntindia.puzl.com/files/1638778/download/1_das_1-12.pdf](https://ijntindia.puzl.com/files/1638778/download/1_das_1-12.pdf)|
+|[214609](https://oeis.org/A214609)|[http://naosite.lb.nagasaki-u.ac.jp/dspace/bitstream/10069/7251/1/KJ00004438116.pdf](http://naosite.lb.nagasaki-u.ac.jp/dspace/bitstream/10069/7251/1/KJ00004438116.pdf)|
+|[32435](https://oeis.org/A032435)|[http://www.gutenberg.org/files/26839/26839-pdf.pdf](http://www.gutenberg.org/files/26839/26839-pdf.pdf)|
+|[32436](https://oeis.org/A032436)|[http://www.gutenberg.org/files/26839/26839-pdf.pdf](http://www.gutenberg.org/files/26839/26839-pdf.pdf)|
+|[32447](https://oeis.org/A032447)|[http://www.insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005a81_22.pdf](http://www.insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20005a81_22.pdf)|
+|[123693](https://oeis.org/A123693)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[260261](https://oeis.org/A260261)|[http://list.seqfan.eu/oldermail/seqfan/2015-July/015112.html](http://list.seqfan.eu/oldermail/seqfan/2015-July/015112.html)|
+|[260263](https://oeis.org/A260263)|[http://list.seqfan.eu/oldermail/seqfan/2015-July/015110.html](http://list.seqfan.eu/oldermail/seqfan/2015-July/015110.html)|
+|[260264](https://oeis.org/A260264)|[http://list.seqfan.eu/oldermail/seqfan/2015-July/015110.html](http://list.seqfan.eu/oldermail/seqfan/2015-July/015110.html)|
+|[32510](https://oeis.org/A032510)|[http://bellard.org/pi/pi2700e9/pidigits.html](http://bellard.org/pi/pi2700e9/pidigits.html)|
+|[123753](https://oeis.org/A123753)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[260351](https://oeis.org/A260351)|[http://list.seqfan.eu/oldermail/seqfan/2015-July/015118.html](http://list.seqfan.eu/oldermail/seqfan/2015-July/015118.html)|
+|[32615](https://oeis.org/A032615)|[http://list.seqfan.eu/oldermail/seqfan/2016-October/016857.html](http://list.seqfan.eu/oldermail/seqfan/2016-October/016857.html)|
+|[260418](https://oeis.org/A260418)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[214832](https://oeis.org/A214832)|[http://www.bgfl.org/custom/resources_ftp/client_ftp/ks2/music/piano/index.htm](http://www.bgfl.org/custom/resources_ftp/client_ftp/ks2/music/piano/index.htm)|
+|[78371](https://oeis.org/A078371)|[http://www.insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20006851_577.pdf](http://www.insa.nic.in/writereaddata/UpLoadedFiles/IJPAM/20006851_577.pdf)|
+|[32766](https://oeis.org/A032766)|[http://www.mathdb.org/resource_sharing/prelim/se_00-01_sol.pdf](http://www.mathdb.org/resource_sharing/prelim/se_00-01_sol.pdf), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[124015](https://oeis.org/A124015)|[http://www2.scrabble-assoc.com/subitems.asp?id=36&amp](http://www2.scrabble-assoc.com/subitems.asp?id=36&amp)|
+|[306071](https://oeis.org/A306071)|[http://emis.ams.org/journals/JIS/VOL12/Toth2/toth5.html](http://emis.ams.org/journals/JIS/VOL12/Toth2/toth5.html)|
+|[32908](https://oeis.org/A032908)|[http://ecs.inria.fr/services/structure?nbr=919](http://ecs.inria.fr/services/structure?nbr=919)|
+|[33113](https://oeis.org/A033113)|[http://ecs.inria.fr/services/structure?nbr=906](http://ecs.inria.fr/services/structure?nbr=906)|
+|[33138](https://oeis.org/A033138)|[http://ecs.inria.fr/services/structure?nbr=926](http://ecs.inria.fr/services/structure?nbr=926)|
+|[33156](https://oeis.org/A033156)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[78881](https://oeis.org/A078881)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[33184](https://oeis.org/A033184)|[http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf](http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf)|
+|[33200](https://oeis.org/A033200)|[http://dongthapvietnam.informe.com/blog/uploads/2012/10/cruxv25_1999.pdf](http://dongthapvietnam.informe.com/blog/uploads/2012/10/cruxv25_1999.pdf)|
 |[78903](https://oeis.org/A078903)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[78920](https://oeis.org/A078920)|[http://grail.cba.csuohio.edu/~somos/nwic.html](http://grail.cba.csuohio.edu/~somos/nwic.html)|
-|[78993](https://oeis.org/A078993)|[http://www-math.mit.edu/~rstan/transparencies/iap.pdf](http://www-math.mit.edu/~rstan/transparencies/iap.pdf)|
+|[215406](https://oeis.org/A215406)|[http://www.iki.fi/~kartturi/matikka/tab9766.htm](http://www.iki.fi/~kartturi/matikka/tab9766.htm)|
+|[261013](https://oeis.org/A261013)|[http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_2/20005ad0_181.pdf](http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_2/20005ad0_181.pdf)|
+|[124496](https://oeis.org/A124496)|[http://www.doiserbia.nb.rs/img/doi/1452-8630/2007/1452-86300702371G.pdf](http://www.doiserbia.nb.rs/img/doi/1452-8630/2007/1452-86300702371G.pdf)|
+|[215491](https://oeis.org/A215491)|[http://amicable.homepage.dk/apstat.htm#typesys](http://amicable.homepage.dk/apstat.htm#typesys), [http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
 |[79000](https://oeis.org/A079000)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[306634](https://oeis.org/A306634)|[http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Problems.html](http://www-groups.mcs.st-andrews.ac.uk/~john/Zagier/Problems.html)|
 |[79101](https://oeis.org/A079101)|[http://comunidad.ciudad.com.ar/argentina/buenos_aires/avd/subsub.html](http://comunidad.ciudad.com.ar/argentina/buenos_aires/avd/subsub.html)|
-|[79124](https://oeis.org/A079124)|[http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf](http://www.math-cs.ucmo.edu/~mjms/2004.1/azar6.pdf)|
+|[124663](https://oeis.org/A124663)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
 |[79171](https://oeis.org/A079171)|[http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml](http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml)|
 |[79172](https://oeis.org/A079172)|[http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml](http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml)|
 |[79173](https://oeis.org/A079173)|[http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml](http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml)|
@@ -2229,36 +3320,136 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[79204](https://oeis.org/A079204)|[http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml](http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml)|
 |[79205](https://oeis.org/A079205)|[http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml](http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml)|
 |[79206](https://oeis.org/A079206)|[http://www.contestcen.edu/digits.htm](http://www.contestcen.edu/digits.htm)|
+|[33506](https://oeis.org/A033506)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33507](https://oeis.org/A033507)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
 |[79209](https://oeis.org/A079209)|[http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml](http://cosmos.ucc.ie/~cjvdb1/html/binops.shtml)|
+|[33508](https://oeis.org/A033508)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[33509](https://oeis.org/A033509)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33510](https://oeis.org/A033510)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[33511](https://oeis.org/A033511)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33512](https://oeis.org/A033512)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33513](https://oeis.org/A033513)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33514](https://oeis.org/A033514)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33515](https://oeis.org/A033515)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.pdf](http://www.theophys.kth.se/~phl/Text/1factors2.pdf)|
+|[33516](https://oeis.org/A033516)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33517](https://oeis.org/A033517)|[http://www.theophys.kth.se/~phl/Text/1factors2.pdf](http://www.theophys.kth.se/~phl/Text/1factors2.pdf), [http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
+|[33518](https://oeis.org/A033518)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33519](https://oeis.org/A033519)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33520](https://oeis.org/A033520)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33521](https://oeis.org/A033521)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33522](https://oeis.org/A033522)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33523](https://oeis.org/A033523)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33524](https://oeis.org/A033524)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33525](https://oeis.org/A033525)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33526](https://oeis.org/A033526)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33527](https://oeis.org/A033527)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33528](https://oeis.org/A033528)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33529](https://oeis.org/A033529)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33530](https://oeis.org/A033530)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33531](https://oeis.org/A033531)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33532](https://oeis.org/A033532)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33533](https://oeis.org/A033533)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33534](https://oeis.org/A033534)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33535](https://oeis.org/A033535)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[33538](https://oeis.org/A033538)|[http://www.iki.fi/~kartturi/software/stacks.lsp](http://www.iki.fi/~kartturi/software/stacks.lsp)|
+|[33539](https://oeis.org/A033539)|[http://www.iki.fi/~kartturi/software/stacks.lsp](http://www.iki.fi/~kartturi/software/stacks.lsp)|
+|[124779](https://oeis.org/A124779)|[http://home.earthlink.net/~jsondow/PrimesAndE.pdf](http://home.earthlink.net/~jsondow/PrimesAndE.pdf)|
 |[79253](https://oeis.org/A079253)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[79265](https://oeis.org/A079265)|[http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html](http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html)|
-|[79438](https://oeis.org/A079438)|[http://www-cs-staff.Stanford.EDU/~knuth/fasc4a.ps.gz](http://www-cs-staff.Stanford.EDU/~knuth/fasc4a.ps.gz)|
+|[33565](https://oeis.org/A033565)|[http://dept-info.labri.u-bordeaux.fr/~bousquet/](http://dept-info.labri.u-bordeaux.fr/~bousquet/)|
+|[33622](https://oeis.org/A033622)|[http://www.xyzzy.claranet.de/rexxsort.htm#TESTS](http://www.xyzzy.claranet.de/rexxsort.htm#TESTS)|
+|[124865](https://oeis.org/A124865)|[http://www.math-cs.ucmo.edu/~mjms/2003.3/Norman-Richner.pdf](http://www.math-cs.ucmo.edu/~mjms/2003.3/Norman-Richner.pdf)|
+|[33638](https://oeis.org/A033638)|[http://dx.doi.org/10.1364/OE.22.004499](http://dx.doi.org/10.1364/OE.22.004499)|
+|[33670](https://oeis.org/A033670)|[http://www.floot.demon.co.uk/palindromes.html](http://www.floot.demon.co.uk/palindromes.html)|
+|[33687](https://oeis.org/A033687)|[http://www-irma.u-strasbg.fr/~guoniu/hook/hh3core](http://www-irma.u-strasbg.fr/~guoniu/hook/hh3core)|
+|[306963](https://oeis.org/A306963)|[http://neweb.fis.unical.it/files/fl178/2835feigenbaum1.pdf](http://neweb.fis.unical.it/files/fl178/2835feigenbaum1.pdf)|
+|[261545](https://oeis.org/A261545)|[http://www.bckelk.ukfsn.org/words/etaoin.html](http://www.bckelk.ukfsn.org/words/etaoin.html)|
+|[79484](https://oeis.org/A079484)|[http://dx.doi.org/10.3311/PPee.7894](http://dx.doi.org/10.3311/PPee.7894)|
+|[125053](https://oeis.org/A125053)|[http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf](http://www-irma.u-strasbg.fr/~foata/paper/pub123Seidel.pdf)|
+|[33869](https://oeis.org/A033869)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
 |[79583](https://oeis.org/A079583)|[http://www.inf.kcl.ac.uk/pg/pississo/approx_covers.pdf](http://www.inf.kcl.ac.uk/pg/pississo/approx_covers.pdf)|
-|[79708](https://oeis.org/A079708)|[http://willnicholes.com/metaprimes.htm](http://willnicholes.com/metaprimes.htm)|
+|[125123](https://oeis.org/A125123)|[http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/](http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/)|
+|[125124](https://oeis.org/A125124)|[http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/](http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/)|
+|[125125](https://oeis.org/A125125)|[http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/](http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/)|
+|[125126](https://oeis.org/A125126)|[http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/](http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/)|
+|[33889](https://oeis.org/A033889)|[http://demmath.mini.pw.edu.pl/archive/dm46_1/2.pdf](http://demmath.mini.pw.edu.pl/archive/dm46_1/2.pdf)|
+|[307159](https://oeis.org/A307159)|[http://emis.ams.org/journals/JIS/VOL20/Toth/toth25.html](http://emis.ams.org/journals/JIS/VOL20/Toth/toth25.html)|
+|[216122](https://oeis.org/A216122)|[http://nopr.niscair.res.in/handle/123456789/2084](http://nopr.niscair.res.in/handle/123456789/2084)|
+|[216123](https://oeis.org/A216123)|[http://nopr.niscair.res.in/handle/123456789/2084](http://nopr.niscair.res.in/handle/123456789/2084)|
+|[33948](https://oeis.org/A033948)|[http://ihome.cuhk.edu.hk/~s005636/number/primitive.pdf](http://ihome.cuhk.edu.hk/~s005636/number/primitive.pdf)|
+|[216144](https://oeis.org/A216144)|[http://www.parabola.unsw.edu.au/vol45_no1/vol45_no1_1.pdf](http://www.parabola.unsw.edu.au/vol45_no1/vol45_no1_1.pdf)|
+|[261780](https://oeis.org/A261780)|[http://www.mat.unisi.it/newsito/puma/public_html/17_1_2/grazzini.pdf](http://www.mat.unisi.it/newsito/puma/public_html/17_1_2/grazzini.pdf)|
+|[33999](https://oeis.org/A033999)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
+|[34001](https://oeis.org/A034001)|[http://ecs.inria.fr/services/structure?nbr=495](http://ecs.inria.fr/services/structure?nbr=495)|
 |[79731](https://oeis.org/A079731)|[http://www.izzy.net/~jc/PSTInfo/Temper.html](http://www.izzy.net/~jc/PSTInfo/Temper.html)|
 |[79734](https://oeis.org/A079734)|[https://kylejfox.com/publications/fibsum.pdf](https://kylejfox.com/publications/fibsum.pdf)|
+|[125305](https://oeis.org/A125305)|[http://www.math.ru.is/anders](http://www.math.ru.is/anders)|
+|[216328](https://oeis.org/A216328)|[http://www.math.unicaen.fr/~nitaj/abc.html#Ten%20abc](http://www.math.unicaen.fr/~nitaj/abc.html#Ten%20abc)|
+|[34177](https://oeis.org/A034177)|[http://ecs.inria.fr/services/structure?nbr=513](http://ecs.inria.fr/services/structure?nbr=513)|
 |[79905](https://oeis.org/A079905)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[79945](https://oeis.org/A079945)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[262041](https://oeis.org/A262041)|[http://mathfaculty.fullerton.edu/sbehseta/portnoy94.pdf](http://mathfaculty.fullerton.edu/sbehseta/portnoy94.pdf)|
+|[262080](https://oeis.org/A262080)|[http://mathfaculty.fullerton.edu/sbehseta/portnoy94.pdf](http://mathfaculty.fullerton.edu/sbehseta/portnoy94.pdf)|
+|[34325](https://oeis.org/A034325)|[http://ecs.inria.fr/services/structure?nbr=594](http://ecs.inria.fr/services/structure?nbr=594)|
+|[125601](https://oeis.org/A125601)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[125610](https://oeis.org/A125610)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[125611](https://oeis.org/A125611)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[125612](https://oeis.org/A125612)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[125632](https://oeis.org/A125632)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[125633](https://oeis.org/A125633)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[125634](https://oeis.org/A125634)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[125635](https://oeis.org/A125635)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[171093](https://oeis.org/A171093)|[http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf](http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf)|
+|[125637](https://oeis.org/A125637)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[171094](https://oeis.org/A171094)|[http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf](http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf)|
+|[125645](https://oeis.org/A125645)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[125646](https://oeis.org/A125646)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[125647](https://oeis.org/A125647)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[125649](https://oeis.org/A125649)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[216639](https://oeis.org/A216639)|[http://campmath.uqam.ca/deJoyal/bernoulli.pdf](http://campmath.uqam.ca/deJoyal/bernoulli.pdf)|
+|[262229](https://oeis.org/A262229)|[http://www.nymphomath.ch/turing/probleme.php?id=131](http://www.nymphomath.ch/turing/probleme.php?id=131)|
+|[34472](https://oeis.org/A034472)|[http://ecs.inria.fr/services/structure?nbr=454](http://ecs.inria.fr/services/structure?nbr=454)|
+|[125751](https://oeis.org/A125751)|[https://www.zobodat.at/pdf/Sitz-Ber-Akad-Muenchen-math-Kl_1951_0031-0034.pdf](https://www.zobodat.at/pdf/Sitz-Ber-Akad-Muenchen-math-Kl_1951_0031-0034.pdf)|
+|[216714](https://oeis.org/A216714)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
+|[125762](https://oeis.org/A125762)|[https://eprint.panzan.me/articles/langford.pdf](https://eprint.panzan.me/articles/langford.pdf)|
+|[307869](https://oeis.org/A307869)|[http://www.gibbs.if.usp.br/~marchett/estocastica/MarkKac-Statistical-Independence.pdf](http://www.gibbs.if.usp.br/~marchett/estocastica/MarkKac-Statistical-Independence.pdf)|
+|[171381](https://oeis.org/A171381)|[http://ijcalvo.galeon.com/pubs.htm](http://ijcalvo.galeon.com/pubs.htm)|
 |[80477](https://oeis.org/A080477)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[126020](https://oeis.org/A126020)|[http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf), [http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf](http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf), [http://homes.dsi.unimi.it/~radicion/Lavori/RI31207.pdf](http://homes.dsi.unimi.it/~radicion/Lavori/RI31207.pdf), [http://santini.dsi.unimi.it/FTP/papers/ridsi-311-06.pdf](http://santini.dsi.unimi.it/FTP/papers/ridsi-311-06.pdf)|
+|[308041](https://oeis.org/A308041)|[http://emis.ams.org/journals/JIS/VOL20/Toth/toth25.html](http://emis.ams.org/journals/JIS/VOL20/Toth/toth25.html)|
 |[80529](https://oeis.org/A080529)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80530](https://oeis.org/A080530)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80531](https://oeis.org/A080531)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80532](https://oeis.org/A080532)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80533](https://oeis.org/A080533)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80534](https://oeis.org/A080534)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
+|[126074](https://oeis.org/A126074)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/December2006.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/December2006.html)|
 |[80535](https://oeis.org/A080535)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80536](https://oeis.org/A080536)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80537](https://oeis.org/A080537)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80538](https://oeis.org/A080538)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80539](https://oeis.org/A080539)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80540](https://oeis.org/A080540)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
+|[126086](https://oeis.org/A126086)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
+|[34856](https://oeis.org/A034856)|[http://ecs.inria.fr/services/structure?nbr=471](http://ecs.inria.fr/services/structure?nbr=471)|
 |[80596](https://oeis.org/A080596)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[80611](https://oeis.org/A080611)|[http://www.timehorse.com/](http://www.timehorse.com/)|
-|[80635](https://oeis.org/A080635)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf), [http://puma.dimai.unifi.it/22_2/jones_remmel.pdf](http://puma.dimai.unifi.it/22_2/jones_remmel.pdf)|
+|[126160](https://oeis.org/A126160)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[262701](https://oeis.org/A262701)|[http://eprints.maths.ox.ac.uk/1196/1/NA-03-12.pdf](http://eprints.maths.ox.ac.uk/1196/1/NA-03-12.pdf)|
+|[126161](https://oeis.org/A126161)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
+|[126162](https://oeis.org/A126162)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
+|[308182](https://oeis.org/A308182)|[http://puma.dimai.unifi.it/19_2_3/4.pdf](http://puma.dimai.unifi.it/19_2_3/4.pdf)|
+|[126165](https://oeis.org/A126165)|[http://amicable.homepage.dk/knwne2.htm](http://amicable.homepage.dk/knwne2.htm)|
+|[126166](https://oeis.org/A126166)|[http://amicable.homepage.dk/knwne2.htm](http://amicable.homepage.dk/knwne2.htm)|
+|[126167](https://oeis.org/A126167)|[http://amicable.homepage.dk/knwne2.htm](http://amicable.homepage.dk/knwne2.htm)|
+|[126171](https://oeis.org/A126171)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
+|[80635](https://oeis.org/A080635)|[http://puma.dimai.unifi.it/22_2/jones_remmel.pdf](http://puma.dimai.unifi.it/22_2/jones_remmel.pdf)|
+|[126176](https://oeis.org/A126176)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
 |[80637](https://oeis.org/A080637)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[80639](https://oeis.org/A080639)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[80645](https://oeis.org/A080645)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[34943](https://oeis.org/A034943)|[http://ecs.inria.fr/services/structure?nbr=904](http://ecs.inria.fr/services/structure?nbr=904)|
 |[80653](https://oeis.org/A080653)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[217156](https://oeis.org/A217156)|[http://ebookbrowse.com/brooks-smith-stone-tutte-the-dissection-of-rectangles-into-squares-1940-pdf-d37213504](http://ebookbrowse.com/brooks-smith-stone-tutte-the-dissection-of-rectangles-into-squares-1940-pdf-d37213504)|
 |[80678](https://oeis.org/A080678)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[80702](https://oeis.org/A080702)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[80722](https://oeis.org/A080722)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
@@ -2266,23 +3457,90 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[80724](https://oeis.org/A080724)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[80726](https://oeis.org/A080726)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
 |[80727](https://oeis.org/A080727)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[262809](https://oeis.org/A262809)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
+|[262815](https://oeis.org/A262815)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[262816](https://oeis.org/A262816)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[35051](https://oeis.org/A035051)|[http://ecs.inria.fr/services/structure?nbr=864](http://ecs.inria.fr/services/structure?nbr=864)|
+|[35052](https://oeis.org/A035052)|[http://ecs.inria.fr/services/structure?nbr=862](http://ecs.inria.fr/services/structure?nbr=862)|
+|[80761](https://oeis.org/A080761)|[http://groups.msn.com/BC2LCC/n37ltk2.msnw](http://groups.msn.com/BC2LCC/n37ltk2.msnw)|
 |[80762](https://oeis.org/A080762)|[http://tnt.math.se.tmu.ac.jp/simath/MORDELL/](http://tnt.math.se.tmu.ac.jp/simath/MORDELL/)|
 |[80776](https://oeis.org/A080776)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[80795](https://oeis.org/A080795)|[http://www-irma.u-strasbg.fr/~foata/paper/pub86minimax.html](http://www-irma.u-strasbg.fr/~foata/paper/pub86minimax.html)|
+|[35095](https://oeis.org/A035095)|[http://acta.fyx.hu/acta/showCustomerArticle.action?id=5970&amp](http://acta.fyx.hu/acta/showCustomerArticle.action?id=5970&amp)|
+|[80799](https://oeis.org/A080799)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp)|
+|[80800](https://oeis.org/A080800)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp)|
+|[80801](https://oeis.org/A080801)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp)|
+|[80816](https://oeis.org/A080816)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2Fkx%2Bp%20problems&amp)|
+|[35120](https://oeis.org/A035120)|[http://euler.univ-lyon1.fr/home/roblot/tables.html#1](http://euler.univ-lyon1.fr/home/roblot/tables.html#1)|
 |[80827](https://oeis.org/A080827)|[http://pareonline.net/getvn.asp?v=18&amp](http://pareonline.net/getvn.asp?v=18&amp)|
+|[262944](https://oeis.org/A262944)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[262945](https://oeis.org/A262945)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[262955](https://oeis.org/A262955)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[80915](https://oeis.org/A080915)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
 |[80916](https://oeis.org/A080916)|[http://chemlab.pc.maricopa.edu/periodic/periodic.html](http://chemlab.pc.maricopa.edu/periodic/periodic.html)|
-|[80937](https://oeis.org/A080937)|[http://dx.doi.org/10.1364/OE.22.004499](http://dx.doi.org/10.1364/OE.22.004499)|
 |[80953](https://oeis.org/A080953)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[35263](https://oeis.org/A035263)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[80979](https://oeis.org/A080979)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[263064](https://oeis.org/A263064)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
+|[263065](https://oeis.org/A263065)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
+|[217525](https://oeis.org/A217525)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf)|
+|[217526](https://oeis.org/A217526)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf)|
+|[217527](https://oeis.org/A217527)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf)|
+|[217528](https://oeis.org/A217528)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf)|
+|[217529](https://oeis.org/A217529)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf)|
+|[217530](https://oeis.org/A217530)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf)|
+|[172060](https://oeis.org/A172060)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/bona.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/bona.pdf)|
+|[308640](https://oeis.org/A308640)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[308641](https://oeis.org/A308641)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[308662](https://oeis.org/A308662)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[81134](https://oeis.org/A081134)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[81225](https://oeis.org/A081225)|[http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf](http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf)|
 |[81226](https://oeis.org/A081226)|[http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf](http://carmaweb.newcastle.edu.au/mahler/docs/167.pdf)|
+|[172243](https://oeis.org/A172243)|[http://mathworld.wolfram.co/ProthPrime.html](http://mathworld.wolfram.co/ProthPrime.html)|
+|[172259](https://oeis.org/A172259)|[http://www-maths.swan.ac.uk/staff/fwc/Gregynog-slides.pdf](http://www-maths.swan.ac.uk/staff/fwc/Gregynog-slides.pdf)|
+|[35610](https://oeis.org/A035610)|[http://student.plattsburgh.edu/quenelgt/pubpdf/freeprod.pdf](http://student.plattsburgh.edu/quenelgt/pubpdf/freeprod.pdf)|
+|[172426](https://oeis.org/A172426)|[https://t5k.org/glossary/page.php?sort=FermatsLastTheorem](https://t5k.org/glossary/page.php?sort=FermatsLastTheorem)|
+|[354500](https://oeis.org/A354500)|[http://www.tm.uka.de/software/pktanon/documentation/sourcedoc/html/rijndael_8cpp.html](http://www.tm.uka.de/software/pktanon/documentation/sourcedoc/html/rijndael_8cpp.html)|
+|[309245](https://oeis.org/A309245)|[http://emis.ams.org/journals/JIS/VOL14/DeKoninck/dek.html](http://emis.ams.org/journals/JIS/VOL14/DeKoninck/dek.html)|
+|[309246](https://oeis.org/A309246)|[http://emis.ams.org/journals/JIS/VOL14/DeKoninck/dek.html](http://emis.ams.org/journals/JIS/VOL14/DeKoninck/dek.html)|
+|[263861](https://oeis.org/A263861)|[http://dedekind.mit.edu/~rstan/pubs/pubfiles/66.pdf](http://dedekind.mit.edu/~rstan/pubs/pubfiles/66.pdf)|
+|[263867](https://oeis.org/A263867)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/bona.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/bona.pdf)|
 |[81876](https://oeis.org/A081876)|[http://harry-j-smith-memorial.com/Pi/](http://harry-j-smith-memorial.com/Pi/)|
+|[263985](https://oeis.org/A263985)|[http://puma.dimai.unifi.it/19_2_3/11.pdf](http://puma.dimai.unifi.it/19_2_3/11.pdf)|
+|[36214](https://oeis.org/A036214)|[http://www.iki.fi/%7Ekarttu/matikka/revpow.htm](http://www.iki.fi/%7Ekarttu/matikka/revpow.htm)|
+|[36215](https://oeis.org/A036215)|[http://www.iki.fi/%7Ekarttu/matikka/revpow.htm](http://www.iki.fi/%7Ekarttu/matikka/revpow.htm)|
+|[264027](https://oeis.org/A264027)|[http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf](http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf)|
+|[264028](https://oeis.org/A264028)|[http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf](http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf)|
+|[309514](https://oeis.org/A309514)|[https://cheapass.com/wp-content/uploads/2018/04/UniversityRulesSM.pdf](https://cheapass.com/wp-content/uploads/2018/04/UniversityRulesSM.pdf)|
+|[36249](https://oeis.org/A036249)|[http://ecs.inria.fr/services/structure?nbr=768](http://ecs.inria.fr/services/structure?nbr=768)|
+|[36287](https://oeis.org/A036287)|[http://www.iki.fi/%7Ekarttu/matikka/vertfibo.htm](http://www.iki.fi/%7Ekarttu/matikka/vertfibo.htm)|
+|[172992](https://oeis.org/A172992)|[http://infinitesearchspace.dyndns.org/content/orchard-mini-contest)](http://infinitesearchspace.dyndns.org/content/orchard-mini-contest)), [http://infinitesearchspace.dyndns.org/orchardplanting)](http://infinitesearchspace.dyndns.org/orchardplanting))|
 |[82007](https://oeis.org/A082007)|[http://www.tiac.net/~sw/2009/10/Clumpy_heapsort/](http://www.tiac.net/~sw/2009/10/Clumpy_heapsort/)|
-|[82008](https://oeis.org/A082008)|[http://www.tiac.net/~sw/2009/10/Clumpy_heapsort](http://www.tiac.net/~sw/2009/10/Clumpy_heapsort), [http://www.tiac.net/~sw/2009/10/Clumpy_heapsort/](http://www.tiac.net/~sw/2009/10/Clumpy_heapsort/)|
-|[82298](https://oeis.org/A082298)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
+|[82008](https://oeis.org/A082008)|[http://www.tiac.net/~sw/2009/10/Clumpy_heapsort/](http://www.tiac.net/~sw/2009/10/Clumpy_heapsort/), [http://www.tiac.net/~sw/2009/10/Clumpy_heapsort](http://www.tiac.net/~sw/2009/10/Clumpy_heapsort)|
+|[127567](https://oeis.org/A127567)|[http://h.xerol.org/f/1primecheck.txt](http://h.xerol.org/f/1primecheck.txt), [http://h.xerol.org/f/1primecheck.txt](http://h.xerol.org/f/1primecheck.txt)|
+|[218553](https://oeis.org/A218553)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html), [http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
+|[218554](https://oeis.org/A218554)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html), [http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
+|[218555](https://oeis.org/A218555)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html), [http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
+|[127655](https://oeis.org/A127655)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[127656](https://oeis.org/A127656)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[127657](https://oeis.org/A127657)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[127658](https://oeis.org/A127658)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[127659](https://oeis.org/A127659)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[127660](https://oeis.org/A127660)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[127661](https://oeis.org/A127661)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[127662](https://oeis.org/A127662)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[127663](https://oeis.org/A127663)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[127664](https://oeis.org/A127664)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[127665](https://oeis.org/A127665)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[127666](https://oeis.org/A127666)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[127667](https://oeis.org/A127667)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[36469](https://oeis.org/A036469)|[http://ecs.inria.fr/services/structure?nbr=774](http://ecs.inria.fr/services/structure?nbr=774)|
+|[309779](https://oeis.org/A309779)|[http://smallsystems.isn-oldenburg.de/publications/metadocs/ebs.quadratsummen.html](http://smallsystems.isn-oldenburg.de/publications/metadocs/ebs.quadratsummen.html)|
+|[36544](https://oeis.org/A036544)|[http://www.iki.fi/%7ekarttu/software/extrapolator.cl](http://www.iki.fi/%7ekarttu/software/extrapolator.cl)|
+|[82296](https://oeis.org/A082296)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FSicurv%20%2D%20Simul%20Equ%20and%20Curve%20Fitting&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FSicurv%20%2D%20Simul%20Equ%20and%20Curve%20Fitting&amp)|
 |[82315](https://oeis.org/A082315)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[82316](https://oeis.org/A082316)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[173318](https://oeis.org/A173318)|[http://user42.tuxfamily.org/dragon/index.html](http://user42.tuxfamily.org/dragon/index.html)|
 |[82327](https://oeis.org/A082327)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[82328](https://oeis.org/A082328)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[82335](https://oeis.org/A082335)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2305,37 +3563,159 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[82362](https://oeis.org/A082362)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[82363](https://oeis.org/A082363)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[82364](https://oeis.org/A082364)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[82647](https://oeis.org/A082647)|[http://kskedlaya.org/putnam-archive/2015.pdf](http://kskedlaya.org/putnam-archive/2015.pdf)|
-|[82654](https://oeis.org/A082654)|[http://dspace.opu.ua/jspui/bitstream/123456789/7943/1/240-247.pdf](http://dspace.opu.ua/jspui/bitstream/123456789/7943/1/240-247.pdf)|
-|[82844](https://oeis.org/A082844)|[https://kskedlaya.org/putnam-archive/2020s.pdf](https://kskedlaya.org/putnam-archive/2020s.pdf)|
+|[173380](https://oeis.org/A173380)|[http://adsabs.harvard.edu/abs/1961JChPh..34.1253F](http://adsabs.harvard.edu/abs/1961JChPh..34.1253F)|
+|[127938](https://oeis.org/A127938)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
+|[218909](https://oeis.org/A218909)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218910](https://oeis.org/A218910)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218911](https://oeis.org/A218911)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218912](https://oeis.org/A218912)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218913](https://oeis.org/A218913)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218914](https://oeis.org/A218914)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218915](https://oeis.org/A218915)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218916](https://oeis.org/A218916)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218917](https://oeis.org/A218917)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218918](https://oeis.org/A218918)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218919](https://oeis.org/A218919)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218920](https://oeis.org/A218920)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[36718](https://oeis.org/A036718)|[http://www.theory.cs.uvic.ca/~cos/inf/tree/RootedTree.html](http://www.theory.cs.uvic.ca/~cos/inf/tree/RootedTree.html)|
+|[218921](https://oeis.org/A218921)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218922](https://oeis.org/A218922)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218923](https://oeis.org/A218923)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218924](https://oeis.org/A218924)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218925](https://oeis.org/A218925)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218926](https://oeis.org/A218926)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218927](https://oeis.org/A218927)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218928](https://oeis.org/A218928)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218929](https://oeis.org/A218929)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218930](https://oeis.org/A218930)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218931](https://oeis.org/A218931)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218932](https://oeis.org/A218932)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218933](https://oeis.org/A218933)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218934](https://oeis.org/A218934)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218935](https://oeis.org/A218935)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218936](https://oeis.org/A218936)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218937](https://oeis.org/A218937)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218938](https://oeis.org/A218938)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218939](https://oeis.org/A218939)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218940](https://oeis.org/A218940)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218941](https://oeis.org/A218941)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218942](https://oeis.org/A218942)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218943](https://oeis.org/A218943)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218944](https://oeis.org/A218944)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218945](https://oeis.org/A218945)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218946](https://oeis.org/A218946)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218947](https://oeis.org/A218947)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218948](https://oeis.org/A218948)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218949](https://oeis.org/A218949)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218950](https://oeis.org/A218950)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218951](https://oeis.org/A218951)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218952](https://oeis.org/A218952)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218953](https://oeis.org/A218953)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218954](https://oeis.org/A218954)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218955](https://oeis.org/A218955)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218956](https://oeis.org/A218956)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218958](https://oeis.org/A218958)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218959](https://oeis.org/A218959)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218960](https://oeis.org/A218960)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218961](https://oeis.org/A218961)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218962](https://oeis.org/A218962)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218963](https://oeis.org/A218963)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218964](https://oeis.org/A218964)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218965](https://oeis.org/A218965)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218966](https://oeis.org/A218966)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218967](https://oeis.org/A218967)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218968](https://oeis.org/A218968)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218969](https://oeis.org/A218969)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218970](https://oeis.org/A218970)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218971](https://oeis.org/A218971)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218972](https://oeis.org/A218972)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[218973](https://oeis.org/A218973)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[36770](https://oeis.org/A036770)|[http://ecs.inria.fr/services/structure?nbr=46](http://ecs.inria.fr/services/structure?nbr=46)|
+|[218974](https://oeis.org/A218974)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[36771](https://oeis.org/A036771)|[http://ecs.inria.fr/services/structure?nbr=47](http://ecs.inria.fr/services/structure?nbr=47)|
+|[218975](https://oeis.org/A218975)|[http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g](http://www.maths.nuigalway.ie/~liam/CountingSubgroups.g), [http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
+|[82594](https://oeis.org/A082594)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FSicurv%20%2D%20Simul%20Equ%20and%20Curve%20Fitting&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FSicurv%20%2D%20Simul%20Equ%20and%20Curve%20Fitting&amp)|
+|[82674](https://oeis.org/A082674)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FSicurv%20%2D%20Simul%20Equ%20and%20Curve%20Fitting&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FSicurv%20%2D%20Simul%20Equ%20and%20Curve%20Fitting&amp)|
+|[82675](https://oeis.org/A082675)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FSicurv%20%2D%20Simul%20Equ%20and%20Curve%20Fitting&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FSicurv%20%2D%20Simul%20Equ%20and%20Curve%20Fitting&amp)|
+|[37123](https://oeis.org/A037123)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
 |[82856](https://oeis.org/A082856)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
 |[82857](https://oeis.org/A082857)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
 |[82858](https://oeis.org/A082858)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
 |[82859](https://oeis.org/A082859)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
 |[82860](https://oeis.org/A082860)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
 |[82861](https://oeis.org/A082861)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/ACO1.htm)|
+|[219363](https://oeis.org/A219363)|[http://jipam.vu.edu.au/v4n2/021_03.html](http://jipam.vu.edu.au/v4n2/021_03.html)|
+|[37232](https://oeis.org/A037232)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[37233](https://oeis.org/A037233)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html](http://staffhome.ecm.uwa.edu.au/~00013890/remote/cages/allcages.html), [http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
+|[82964](https://oeis.org/A082964)|[http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FPi%20and%20Trig%20stuff&amp](http://groups.msn.com/BC2LCC/page.msnw?fc_p=%2FPi%20and%20Trig%20stuff&amp)|
 |[82976](https://oeis.org/A082976)|[http://highway55.library.yale.edu/PHOTONEGIMG/zoom/Z362/z3624231.jpg](http://highway55.library.yale.edu/PHOTONEGIMG/zoom/Z362/z3624231.jpg)|
 |[82977](https://oeis.org/A082977)|[http://highway55.library.yale.edu/PHOTONEGIMG/zoom/Z362/z3624231.jpg](http://highway55.library.yale.edu/PHOTONEGIMG/zoom/Z362/z3624231.jpg)|
+|[37306](https://oeis.org/A037306)|[http://home.earthlink.net/~dwasserm/A037306.html](http://home.earthlink.net/~dwasserm/A037306.html)|
 |[83038](https://oeis.org/A083038)|[http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt2fractal.jpg](http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt2fractal.jpg)|
+|[219546](https://oeis.org/A219546)|[http://dauns.math.tulane.edu/~vhm/papers_html/schenker.pdf](http://dauns.math.tulane.edu/~vhm/papers_html/schenker.pdf)|
+|[128588](https://oeis.org/A128588)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
 |[83054](https://oeis.org/A083054)|[http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt3fractal.jpg](http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt3fractal.jpg)|
 |[83055](https://oeis.org/A083055)|[http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt3fractal.jpg](http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt3fractal.jpg)|
 |[83056](https://oeis.org/A083056)|[http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt3fractal.jpg](http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt3fractal.jpg)|
 |[83057](https://oeis.org/A083057)|[http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt3fractal.jpg](http://membres.lycos.fr/bgourevitch/temporaires/benoit/sqrt3fractal.jpg)|
+|[219554](https://oeis.org/A219554)|[http://www.insa.nic.in/writereaddata/UpLoadedFiles/PINSA/Vol23A_1957_5_Art04.pdf](http://www.insa.nic.in/writereaddata/UpLoadedFiles/PINSA/Vol23A_1957_5_Art04.pdf)|
+|[174061](https://oeis.org/A174061)|[http://pumj.org/docs/Issue2/Article4.pdf](http://pumj.org/docs/Issue2/Article4.pdf)|
+|[174094](https://oeis.org/A174094)|[http://parsec2.unina2.it/ojs/index.php/periodico/article/view/285](http://parsec2.unina2.it/ojs/index.php/periodico/article/view/285)|
+|[37445](https://oeis.org/A037445)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[265384](https://oeis.org/A265384)|[http://tube.geogebra.org/student/mr4Tpnl0A](http://tube.geogebra.org/student/mr4Tpnl0A)|
+|[128852](https://oeis.org/A128852)|[http://www.primenace.com/papers/math/Anti-ElitePrimes.htm](http://www.primenace.com/papers/math/Anti-ElitePrimes.htm)|
 |[83340](https://oeis.org/A083340)|[http://cado-nfs.gforge.inria.fr/](http://cado-nfs.gforge.inria.fr/)|
-|[83343](https://oeis.org/A083343)|[https://doi.org/10.1112/jlms/s1-2.4.210](https://doi.org/10.1112/jlms/s1-2.4.210)|
 |[83386](https://oeis.org/A083386)|[http://mathematik.htwm.de/software/gedit/index.html.en](http://mathematik.htwm.de/software/gedit/index.html.en)|
+|[220000](https://oeis.org/A220000)|[http://www.moam-inc.com/DECIMAL_EQ_CHART.pdf](http://www.moam-inc.com/DECIMAL_EQ_CHART.pdf)|
+|[220001](https://oeis.org/A220001)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[129080](https://oeis.org/A129080)|[http://math.tsukuba.ac.jp/~akiyama/papers/cargese_note.pdf](http://math.tsukuba.ac.jp/~akiyama/papers/cargese_note.pdf)|
+|[174590](https://oeis.org/A174590)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#76](http://www.chalcedon.demon.co.uk/rgep/publish.html#76)|
 |[83652](https://oeis.org/A083652)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[83737](https://oeis.org/A083737)|[http://www.mathe-schule.de/download/pdf/Primzahl/PSP.pdf](http://www.mathe-schule.de/download/pdf/Primzahl/PSP.pdf)|
+|[129206](https://oeis.org/A129206)|[http://grail.eecs.csuohio.edu~/somos/wxyz.wl](http://grail.eecs.csuohio.edu~/somos/wxyz.wl), [http://grail.eecs.csuohio.edu/~somos/wxyz.gp](http://grail.eecs.csuohio.edu/~somos/wxyz.gp)|
+|[174734](https://oeis.org/A174734)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#76](http://www.chalcedon.demon.co.uk/rgep/publish.html#76)|
+|[38148](https://oeis.org/A038148)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[38156](https://oeis.org/A038156)|[http://ecs.inria.fr/services/structure?nbr=836](http://ecs.inria.fr/services/structure?nbr=836)|
 |[83886](https://oeis.org/A083886)|[http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf](http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf)|
 |[83927](https://oeis.org/A083927)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[83928](https://oeis.org/A083928)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[174973](https://oeis.org/A174973)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
+|[220500](https://oeis.org/A220500)|[http://ioccc.org/1995/leo.hint](http://ioccc.org/1995/leo.hint), [http://ioccc.org/1995/leo.c](http://ioccc.org/1995/leo.c)|
+|[38360](https://oeis.org/A038360)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
+|[129598](https://oeis.org/A129598)|[http://stefan.guninski.com/cgi/oeis-quad.cgi?q=A129598&amp](http://stefan.guninski.com/cgi/oeis-quad.cgi?q=A129598&amp)|
+|[38507](https://oeis.org/A038507)|[http://ecs.inria.fr/services/structure?nbr=763](http://ecs.inria.fr/services/structure?nbr=763), [http://ecs.inria.fr/services/structure?nbr=834](http://ecs.inria.fr/services/structure?nbr=834)|
+|[129775](https://oeis.org/A129775)|[http://myweb.cwpost.liu.edu/jlosoncz/man13.pdf](http://myweb.cwpost.liu.edu/jlosoncz/man13.pdf)|
+|[38554](https://oeis.org/A038554)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
+|[38560](https://oeis.org/A038560)|[http://www.doiserbia.nb.rs/img/doi/1452-8630/2007/1452-86300702371G.pdf](http://www.doiserbia.nb.rs/img/doi/1452-8630/2007/1452-86300702371G.pdf)|
+|[129810](https://oeis.org/A129810)|[http://www.mathforum.org/library/drmath/view/63676.html](http://www.mathforum.org/library/drmath/view/63676.html), [http://www.mathforum.org/library/drmath/view/59172.html](http://www.mathforum.org/library/drmath/view/59172.html)|
+|[175309](https://oeis.org/A175309)|[http://stop.inferia.ru/](http://stop.inferia.ru/)|
+|[129856](https://oeis.org/A129856)|[http://groups.msn.com/First300billionprimes/primecounts.msnw](http://groups.msn.com/First300billionprimes/primecounts.msnw)|
+|[129870](https://oeis.org/A129870)|[http://groups.msn.com/NthprimeAlgorithms/nthprimeapproximation.msnw](http://groups.msn.com/NthprimeAlgorithms/nthprimeapproximation.msnw)|
+|[175342](https://oeis.org/A175342)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
+|[220855](https://oeis.org/A220855)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
+|[220856](https://oeis.org/A220856)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
+|[220857](https://oeis.org/A220857)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
+|[129890](https://oeis.org/A129890)|[http://infoshako.sk.tsukuba.ac.jp/~hachi/COS/cos2011/abst/ochiumi.pdf](http://infoshako.sk.tsukuba.ac.jp/~hachi/COS/cos2011/abst/ochiumi.pdf)|
+|[129924](https://oeis.org/A129924)|[http://home.earthlink.net/~jsondow/PrimesAndE.pdf](http://home.earthlink.net/~jsondow/PrimesAndE.pdf)|
+|[129956](https://oeis.org/A129956)|[http://www.gutenberg.org/etext/50](http://www.gutenberg.org/etext/50)|
+|[38721](https://oeis.org/A038721)|[http://www.exp-math.uni-essen.de/~immink/pdf/jsac13.pdf](http://www.exp-math.uni-essen.de/~immink/pdf/jsac13.pdf)|
+|[38764](https://oeis.org/A038764)|[https://hrcak.srce.hr/177109](https://hrcak.srce.hr/177109)|
+|[38776](https://oeis.org/A038776)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[84554](https://oeis.org/A084554)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[130131](https://oeis.org/A130131)|[http://theory.cs.uvic.ca/dis/distribute.pl.cgi?package=FreeTree.c](http://theory.cs.uvic.ca/dis/distribute.pl.cgi?package=FreeTree.c)|
+|[130151](https://oeis.org/A130151)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
+|[266734](https://oeis.org/A266734)|[http://www.math.rutgers.edu/~zeilberg/mamarim/mamarimhtml/sloane75.html](http://www.math.rutgers.edu/~zeilberg/mamarim/mamarimhtml/sloane75.html)|
 |[84825](https://oeis.org/A084825)|[https://home.comcast.net/~davejanelle/packing.html](https://home.comcast.net/~davejanelle/packing.html)|
 |[84828](https://oeis.org/A084828)|[https://home.comcast.net/~davejanelle/packing.html](https://home.comcast.net/~davejanelle/packing.html)|
-|[84849](https://oeis.org/A084849)|[http://repository.wit.ie/1693](http://repository.wit.ie/1693)|
+|[221363](https://oeis.org/A221363)|[http://www.midicode.com/tunings/temperament.shtml](http://www.midicode.com/tunings/temperament.shtml)|
+|[266968](https://oeis.org/A266968)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[130444](https://oeis.org/A130444)|[http://lists.distributed.net/pipermail/announce/2004/000077.html](http://lists.distributed.net/pipermail/announce/2004/000077.html)|
 |[84975](https://oeis.org/A084975)|[http://harry-j-smith-memorial.com/PrimeSR/](http://harry-j-smith-memorial.com/PrimeSR/)|
 |[84976](https://oeis.org/A084976)|[http://harry-j-smith-memorial.com/PrimeSR/](http://harry-j-smith-memorial.com/PrimeSR/)|
 |[84977](https://oeis.org/A084977)|[http://harry-j-smith-memorial.com/PrimeSR/](http://harry-j-smith-memorial.com/PrimeSR/)|
+|[221557](https://oeis.org/A221557)|[http://saluc.engr.uconn.edu/refs/crypto/rng/matsumoto98mersenne.pdf](http://saluc.engr.uconn.edu/refs/crypto/rng/matsumoto98mersenne.pdf)|
+|[221558](https://oeis.org/A221558)|[http://saluc.engr.uconn.edu/refs/crypto/rng/matsumoto98mersenne.pdf](http://saluc.engr.uconn.edu/refs/crypto/rng/matsumoto98mersenne.pdf)|
+|[221617](https://oeis.org/A221617)|[https://icpc.baylor.edu/ICPCWiki/attach/Problem%20Resources/1995WorldFinalProblemSet.pdf](https://icpc.baylor.edu/ICPCWiki/attach/Problem%20Resources/1995WorldFinalProblemSet.pdf)|
+|[176142](https://oeis.org/A176142)|[http://www.springerlink.com/content/ln41r0602m036u27/](http://www.springerlink.com/content/ln41r0602m036u27/)|
 |[85159](https://oeis.org/A085159)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[85160](https://oeis.org/A085160)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[85163](https://oeis.org/A085163)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2351,17 +3731,47 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[85173](https://oeis.org/A085173)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[85174](https://oeis.org/A085174)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[85175](https://oeis.org/A085175)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[39508](https://oeis.org/A039508)|[http://home.earthlink.net/~dwasserm/EISfile](http://home.earthlink.net/~dwasserm/EISfile)|
+|[221740](https://oeis.org/A221740)|[http://old.nabble.com/Number-of-specific-permutations-pairs-relates-to-Euler-Phi-totient-function---to34951281.html](http://old.nabble.com/Number-of-specific-permutations-pairs-relates-to-Euler-Phi-totient-function---to34951281.html)|
+|[221741](https://oeis.org/A221741)|[http://old.nabble.com/Number-of-specific-permutations-pairs-relates-to-Euler-Phi-totient-function---to34951281.html](http://old.nabble.com/Number-of-specific-permutations-pairs-relates-to-Euler-Phi-totient-function---to34951281.html)|
+|[130764](https://oeis.org/A130764)|[http://www.en.wikipedia.org/wiki/ASCII](http://www.en.wikipedia.org/wiki/ASCII)|
+|[130765](https://oeis.org/A130765)|[http://www.en.wikipedia.org/wiki/ASCII](http://www.en.wikipedia.org/wiki/ASCII)|
+|[130782](https://oeis.org/A130782)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[358292](https://oeis.org/A358292)|[http://www.doiserbia.nb.rs/img/doi/1452-8630/2015/1452-86301500008K.pdf](http://www.doiserbia.nb.rs/img/doi/1452-8630/2015/1452-86301500008K.pdf)|
+|[358293](https://oeis.org/A358293)|[http://www.doiserbia.nb.rs/img/doi/1452-8630/2015/1452-86301500008K.pdf](http://www.doiserbia.nb.rs/img/doi/1452-8630/2015/1452-86301500008K.pdf)|
+|[358294](https://oeis.org/A358294)|[http://www.doiserbia.nb.rs/img/doi/1452-8630/2015/1452-86301500008K.pdf](http://www.doiserbia.nb.rs/img/doi/1452-8630/2015/1452-86301500008K.pdf)|
+|[358295](https://oeis.org/A358295)|[http://www.doiserbia.nb.rs/img/doi/1452-8630/2015/1452-86301500008K.pdf](http://www.doiserbia.nb.rs/img/doi/1452-8630/2015/1452-86301500008K.pdf)|
+|[358298](https://oeis.org/A358298)|[http://www.doiserbia.nb.rs/img/doi/1452-8630/2015/1452-86301500008K.pdf](http://www.doiserbia.nb.rs/img/doi/1452-8630/2015/1452-86301500008K.pdf)|
+|[358299](https://oeis.org/A358299)|[http://www.doiserbia.nb.rs/img/doi/1452-8630/2015/1452-86301500008K.pdf](http://www.doiserbia.nb.rs/img/doi/1452-8630/2015/1452-86301500008K.pdf)|
+|[358305](https://oeis.org/A358305)|[http://www.doiserbia.nb.rs/img/doi/1452-8630/2015/1452-86301500008K.pdf](http://www.doiserbia.nb.rs/img/doi/1452-8630/2015/1452-86301500008K.pdf)|
 |[85283](https://oeis.org/A085283)|[http://206.21.170.2/csci180/99f/projects/project1.html](http://206.21.170.2/csci180/99f/projects/project1.html)|
+|[39598](https://oeis.org/A039598)|[http://sci-prew.inf.ua/v113/2/S0305004100075964.pdf](http://sci-prew.inf.ua/v113/2/S0305004100075964.pdf)|
+|[176341](https://oeis.org/A176341)|[http://oldweb.cecm.sfu.ca/projects/ISC/data/pi.html](http://oldweb.cecm.sfu.ca/projects/ISC/data/pi.html)|
+|[130883](https://oeis.org/A130883)|[http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf](http://www-irma.u-strasbg.fr/~guoniu/papers/p77puzzle.pdf)|
+|[85550](https://oeis.org/A085550)|[http://groups.msn.com/BC2LCC/nreciprocalrecursion.msnw](http://groups.msn.com/BC2LCC/nreciprocalrecursion.msnw)|
+|[39921](https://oeis.org/A039921)|[http://www.maths.leeds.ac.uk/~alastair/](http://www.maths.leeds.ac.uk/~alastair/)|
+|[222185](https://oeis.org/A222185)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[39951](https://oeis.org/A039951)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
 |[85628](https://oeis.org/A085628)|[http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html](http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html)|
-|[85639](https://oeis.org/A085639)|[http://www.bdim.eu/item?id=BUMI_1953_3_8_3_269_0](http://www.bdim.eu/item?id=BUMI_1953_3_8_3_269_0)|
-|[85906](https://oeis.org/A085906)|[http://www.bdim.eu/item?id=BUMI_1953_3_8_3_269_0](http://www.bdim.eu/item?id=BUMI_1953_3_8_3_269_0)|
+|[222206](https://oeis.org/A222206)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[40001](https://oeis.org/A040001)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
+|[40098](https://oeis.org/A040098)|[http://www.rzuser.uni-heidelberg.de/~hb3/recbib.html](http://www.rzuser.uni-heidelberg.de/~hb3/recbib.html)|
+|[131353](https://oeis.org/A131353)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[176988](https://oeis.org/A176988)|[http://www.weblearn.hs-bremen.de/risse/papers/SiP27/Zernike.pdf](http://www.weblearn.hs-bremen.de/risse/papers/SiP27/Zernike.pdf)|
+|[268163](https://oeis.org/A268163)|[http://www.lupm.univ-montp2.fr/users/qcd/qcd14/qcd14_talks/tuesday/kampf.pdf](http://www.lupm.univ-montp2.fr/users/qcd/qcd14/qcd14_talks/tuesday/kampf.pdf)|
 |[86113](https://oeis.org/A086113)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html)|
 |[86114](https://oeis.org/A086114)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html)|
 |[86115](https://oeis.org/A086115)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/March2004.html)|
-|[86180](https://oeis.org/A086180)|[http://theory2.phys.cwru.edu/~pete/java_chaos/CyclesApplet.html](http://theory2.phys.cwru.edu/~pete/java_chaos/CyclesApplet.html), [http://theory2.phys.cwru.edu/~pete/java_chaos/LogisticApplet.html](http://theory2.phys.cwru.edu/~pete/java_chaos/LogisticApplet.html), [http://learn.sdstate.edu/cogswelk/homepage/WebDiagram/WebDiagram.html](http://learn.sdstate.edu/cogswelk/homepage/WebDiagram/WebDiagram.html)|
+|[268289](https://oeis.org/A268289)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[131689](https://oeis.org/A131689)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
+|[86180](https://oeis.org/A086180)|[http://theory2.phys.cwru.edu/~pete/java_chaos/LogisticApplet.html](http://theory2.phys.cwru.edu/~pete/java_chaos/LogisticApplet.html), [http://theory2.phys.cwru.edu/~pete/java_chaos/CyclesApplet.html](http://theory2.phys.cwru.edu/~pete/java_chaos/CyclesApplet.html), [http://learn.sdstate.edu/cogswelk/homepage/WebDiagram/WebDiagram.html](http://learn.sdstate.edu/cogswelk/homepage/WebDiagram/WebDiagram.html)|
 |[86181](https://oeis.org/A086181)|[http://eprints.cecm.sfu.ca/archive/00000270/](http://eprints.cecm.sfu.ca/archive/00000270/)|
+|[131729](https://oeis.org/A131729)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
+|[131747](https://oeis.org/A131747)|[http://www-staff.lboro.ac.uk/~codr2/](http://www-staff.lboro.ac.uk/~codr2/)|
+|[131842](https://oeis.org/A131842)|[https://www.longeri.org/prime/nature.html](https://www.longeri.org/prime/nature.html)|
 |[86371](https://oeis.org/A086371)|[http://citeseer.nj.nec.com/bomze99maximum.html](http://citeseer.nj.nec.com/bomze99maximum.html)|
 |[86376](https://oeis.org/A086376)|[http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf](http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf)|
+|[177439](https://oeis.org/A177439)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/graphs/)|
 |[86425](https://oeis.org/A086425)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[86426](https://oeis.org/A086426)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[86427](https://oeis.org/A086427)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
@@ -2371,30 +3781,129 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[86431](https://oeis.org/A086431)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[86433](https://oeis.org/A086433)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
 |[86434](https://oeis.org/A086434)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
+|[222975](https://oeis.org/A222975)|[http://amicable.homepage.dk/knwnc4.htm](http://amicable.homepage.dk/knwnc4.htm)|
+|[222976](https://oeis.org/A222976)|[http://amicable.homepage.dk/knwnc4.htm](http://amicable.homepage.dk/knwnc4.htm)|
+|[222977](https://oeis.org/A222977)|[http://amicable.homepage.dk/knwnc4.htm](http://amicable.homepage.dk/knwnc4.htm)|
+|[222978](https://oeis.org/A222978)|[http://amicable.homepage.dk/knwnc4.htm](http://amicable.homepage.dk/knwnc4.htm)|
+|[268754](https://oeis.org/A268754)|[http://play.starmaninnovations.com/static/d3applets/renders/WeNmxtzjTi.gif](http://play.starmaninnovations.com/static/d3applets/renders/WeNmxtzjTi.gif)|
 |[86747](https://oeis.org/A086747)|[http://oai.cwi.nl/oai/asset/21313/21313A.pdf](http://oai.cwi.nl/oai/asset/21313/21313A.pdf)|
-|[86792](https://oeis.org/A086792)|[http://java.ugent.be/~tdemedts/leinster/](http://java.ugent.be/~tdemedts/leinster/)|
-|[86811](https://oeis.org/A086811)|[http://www.bdim.eu/item?id=BUMI_1953_3_8_3_269_0](http://www.bdim.eu/item?id=BUMI_1953_3_8_3_269_0)|
+|[132235](https://oeis.org/A132235)|[http://primes.utm.com](http://primes.utm.com)|
+|[41078](https://oeis.org/A041078)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
+|[41079](https://oeis.org/A041079)|[http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a075.pdf)|
+|[86785](https://oeis.org/A086785)|[http://groups.msn.com/BC2LCC/continuedfractions.msnw](http://groups.msn.com/BC2LCC/continuedfractions.msnw)|
+|[86788](https://oeis.org/A086788)|[http://groups.msn.com/BC2LCC/continuedfractions.msnw](http://groups.msn.com/BC2LCC/continuedfractions.msnw)|
+|[86792](https://oeis.org/A086792)|[http://cage.ugent.be/~tdemedts/preprints/leinster.pdf](http://cage.ugent.be/~tdemedts/preprints/leinster.pdf), [http://java.ugent.be/~tdemedts/leinster/](http://java.ugent.be/~tdemedts/leinster/)|
+|[86805](https://oeis.org/A086805)|[http://groups.msn.com/BC2LCC/continuedfractions.msnw](http://groups.msn.com/BC2LCC/continuedfractions.msnw)|
+|[177854](https://oeis.org/A177854)|[http://bitc.bme.emory.edu/~lzhou/blogs/?p=117](http://bitc.bme.emory.edu/~lzhou/blogs/?p=117)|
 |[86839](https://oeis.org/A086839)|[http://web.syr.edu/~rsholmes/games/cellaut/r90.html](http://web.syr.edu/~rsholmes/games/cellaut/r90.html)|
+|[132388](https://oeis.org/A132388)|[http://nces.ed.gov/nceskids/index.asp](http://nces.ed.gov/nceskids/index.asp)|
+|[132394](https://oeis.org/A132394)|[http://harry-j-smith-memorial.com/download.html#Left-Tru](http://harry-j-smith-memorial.com/download.html#Left-Tru)|
+|[132967](https://oeis.org/A132967)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
+|[132968](https://oeis.org/A132968)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
+|[360513](https://oeis.org/A360513)|[https://www.kehminglu.com/books/.](https://www.kehminglu.com/books/.)|
+|[133024](https://oeis.org/A133024)|[http://www.polrpimos.com](http://www.polrpimos.com)|
+|[133025](https://oeis.org/A133025)|[http://www.polrpimos.com](http://www.polrpimos.com)|
+|[133031](https://oeis.org/A133031)|[http://www.polrpimos.com](http://www.polrpimos.com)|
+|[133046](https://oeis.org/A133046)|[http://checker-board.blogspot.com/](http://checker-board.blogspot.com/)|
+|[178683](https://oeis.org/A178683)|[http://userweb.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1044.html](http://userweb.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1044.html)|
 |[87613](https://oeis.org/A087613)|[http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf](http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf)|
 |[87614](https://oeis.org/A087614)|[http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf](http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf)|
 |[87615](https://oeis.org/A087615)|[http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf](http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf)|
 |[87616](https://oeis.org/A087616)|[http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf](http://www-ifm.math.uni-hannover.de/preprints/pr304.pdf)|
+|[224179](https://oeis.org/A224179)|[http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
+|[224180](https://oeis.org/A224180)|[http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
+|[224181](https://oeis.org/A224181)|[http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
+|[224182](https://oeis.org/A224182)|[http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
 |[87733](https://oeis.org/A087733)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[87735](https://oeis.org/A087735)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp](http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp), [http://134.76.163.65/servlet/digbib?template=view.html&amp](http://134.76.163.65/servlet/digbib?template=view.html&amp)|
+|[87735](https://oeis.org/A087735)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps), [http://134.76.163.65/servlet/digbib?template=view.html&amp](http://134.76.163.65/servlet/digbib?template=view.html&amp), [http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp](http://134.76.176.141/cgi-bin/letgifsfly.cgi&amp)|
+|[224301](https://oeis.org/A224301)|[http://grail.eecs.csuohio.edu/~somos/tritab.html](http://grail.eecs.csuohio.edu/~somos/tritab.html)|
+|[224302](https://oeis.org/A224302)|[http://grail.eecs.csuohio.edu/tritab.html](http://grail.eecs.csuohio.edu/tritab.html)|
 |[87788](https://oeis.org/A087788)|[http://eprints.maths.ox.ac.uk/680/1/carmichael.pdf](http://eprints.maths.ox.ac.uk/680/1/carmichael.pdf)|
+|[178866](https://oeis.org/A178866)|[https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf](https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf)|
+|[178867](https://oeis.org/A178867)|[https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf](https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf)|
+|[178940](https://oeis.org/A178940)|[http://www.cems.uvm.edu/~gwarring/research/kinv9.pdf](http://www.cems.uvm.edu/~gwarring/research/kinv9.pdf)|
+|[178941](https://oeis.org/A178941)|[http://www.cems.uvm.edu/~gwarring/research/kinv9.pdf](http://www.cems.uvm.edu/~gwarring/research/kinv9.pdf)|
 |[87911](https://oeis.org/A087911)|[http://free.pages.at/neuenkirchen/palindrom/](http://free.pages.at/neuenkirchen/palindrom/)|
+|[133437](https://oeis.org/A133437)|[http://www.math.uakron.edu/~sf34/hedra.htm#index](http://www.math.uakron.edu/~sf34/hedra.htm#index)|
+|[179071](https://oeis.org/A179071)|[http://secamlocal.ex.ac.uk/people/staff/rjchapma/etc/evildet.pdf](http://secamlocal.ex.ac.uk/people/staff/rjchapma/etc/evildet.pdf)|
+|[179072](https://oeis.org/A179072)|[http://secamlocal.ex.ac.uk/people/staff/rjchapma/etc/evildet.pdf](http://secamlocal.ex.ac.uk/people/staff/rjchapma/etc/evildet.pdf)|
 |[88164](https://oeis.org/A088164)|[http://imperator.usc.edu/~bruck/research/stirling/](http://imperator.usc.edu/~bruck/research/stirling/)|
+|[224784](https://oeis.org/A224784)|[http://87.119.183.129/perl/gridsplode.pl](http://87.119.183.129/perl/gridsplode.pl)|
+|[224886](https://oeis.org/A224886)|[http://www.gutenberg.org/ebooks/42833](http://www.gutenberg.org/ebooks/42833)|
+|[270533](https://oeis.org/A270533)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[179476](https://oeis.org/A179476)|[http://knuth07.labri.fr/talks/lefebvre_kmparrays_knuth07.pdf](http://knuth07.labri.fr/talks/lefebvre_kmparrays_knuth07.pdf)|
+|[270566](https://oeis.org/A270566)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[270594](https://oeis.org/A270594)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[88465](https://oeis.org/A088465)|[http://primepyramids.by.ru/](http://primepyramids.by.ru/)|
+|[270616](https://oeis.org/A270616)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[88532](https://oeis.org/A088532)|[http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf](http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf)|
+|[270705](https://oeis.org/A270705)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[270706](https://oeis.org/A270706)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[361620](https://oeis.org/A361620)|[http://www.jstor.org/stable/2333253](http://www.jstor.org/stable/2333253), [http://www.jstor.org/stable/2333059](http://www.jstor.org/stable/2333059)|
+|[270776](https://oeis.org/A270776)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
+|[134164](https://oeis.org/A134164)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
+|[134171](https://oeis.org/A134171)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
+|[134175](https://oeis.org/A134175)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
+|[134176](https://oeis.org/A134176)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
+|[88665](https://oeis.org/A088665)|[http://cr.yp.to/sortedsums/two4.1000000](http://cr.yp.to/sortedsums/two4.1000000)|
+|[270833](https://oeis.org/A270833)|[http://prpnet.primegrid.com:13000/](http://prpnet.primegrid.com:13000/)|
+|[88705](https://oeis.org/A088705)|[http://user42.tuxfamily.org/c-curve/index.html](http://user42.tuxfamily.org/c-curve/index.html)|
 |[88720](https://oeis.org/A088720)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[88848](https://oeis.org/A088848)|[http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt), [http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt)|
-|[88849](https://oeis.org/A088849)|[http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt), [http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt)|
+|[88728](https://oeis.org/A088728)|[http://cr.yp.to/sortedsums/two4.1000000](http://cr.yp.to/sortedsums/two4.1000000)|
+|[134241](https://oeis.org/A134241)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
+|[134242](https://oeis.org/A134242)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
+|[134243](https://oeis.org/A134243)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
+|[270920](https://oeis.org/A270920)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[270921](https://oeis.org/A270921)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[179850](https://oeis.org/A179850)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
+|[270928](https://oeis.org/A270928)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[270966](https://oeis.org/A270966)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[88848](https://oeis.org/A088848)|[http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt), [http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt), [http://cr.yp.to/sortedsums/two4.1000000](http://cr.yp.to/sortedsums/two4.1000000)|
+|[88849](https://oeis.org/A088849)|[http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4data.txt), [http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt](http://www.msnusers.com/BC2LCC/Documents/x4%2By4%2Fx4py4data.txt), [http://cr.yp.to/sortedsums/two4.1000000](http://cr.yp.to/sortedsums/two4.1000000)|
+|[88867](https://oeis.org/A088867)|[http://cr.yp.to/sortedsums/two4.1000000](http://cr.yp.to/sortedsums/two4.1000000)|
+|[271026](https://oeis.org/A271026)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[88896](https://oeis.org/A088896)|[http://issc.rau.ac.za/appliedmaths/tgw3a/png/tgw3a6s.html](http://issc.rau.ac.za/appliedmaths/tgw3a/png/tgw3a6s.html)|
+|[271106](https://oeis.org/A271106)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
 |[88972](https://oeis.org/A088972)|[http://home.earthlink.net/~dwasserm/Polyforms/ColoredPolyominoes.html](http://home.earthlink.net/~dwasserm/Polyforms/ColoredPolyominoes.html)|
-|[89162](https://oeis.org/A089162)|[http://wwwmaths.anu.edu.au/~brent/pub/pub067.html](http://wwwmaths.anu.edu.au/~brent/pub/pub067.html)|
+|[316603](https://oeis.org/A316603)|[http://forums.xkcd.com/viewtopic.php?f=7&amp](http://forums.xkcd.com/viewtopic.php?f=7&amp)|
+|[271219](https://oeis.org/A271219)|[http://semanticsarchive.net/Archive/GQzYTM4N/Chemla-Egre-Spector-LCrelations.pdf](http://semanticsarchive.net/Archive/GQzYTM4N/Chemla-Egre-Spector-LCrelations.pdf)|
+|[316699](https://oeis.org/A316699)|[https://www.fq.math.ca/Scanned/35-3/burstein.pdf](https://www.fq.math.ca/Scanned/35-3/burstein.pdf)|
+|[225694](https://oeis.org/A225694)|[http://dauns01.math.tulane.edu/~vhm/papers_html/ordering1.pdf](http://dauns01.math.tulane.edu/~vhm/papers_html/ordering1.pdf)|
+|[225695](https://oeis.org/A225695)|[http://dauns01.math.tulane.edu/~vhm/papers_html/ordering1.pdf](http://dauns01.math.tulane.edu/~vhm/papers_html/ordering1.pdf)|
+|[180240](https://oeis.org/A180240)|[http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/](http://staffhome.ecm.uwa.edu.au/~00013890/remote/trans/)|
+|[271325](https://oeis.org/A271325)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[316774](https://oeis.org/A316774)|[https://peterillig.xyz/problems.html](https://peterillig.xyz/problems.html)|
+|[225772](https://oeis.org/A225772)|[http://www-groups.mcs.st-andrews.ac.uk/~jamesm/data.php](http://www-groups.mcs.st-andrews.ac.uk/~jamesm/data.php)|
+|[180330](https://oeis.org/A180330)|[http://amicable.adsl.dk/aliquot/apstat/apreg22.txt](http://amicable.adsl.dk/aliquot/apstat/apreg22.txt)|
+|[180335](https://oeis.org/A180335)|[http://amicable.adsl.dk/aliquot/apstat/apreg22.txt](http://amicable.adsl.dk/aliquot/apstat/apreg22.txt)|
+|[134799](https://oeis.org/A134799)|[http://image.myany.jp/org/6c511f3698cf6db33d63d6450f331344.jpg](http://image.myany.jp/org/6c511f3698cf6db33d63d6450f331344.jpg)|
+|[134975](https://oeis.org/A134975)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
+|[271608](https://oeis.org/A271608)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[180571](https://oeis.org/A180571)|[http://nopr.niscair.res.in/handle/123456789/40955](http://nopr.niscair.res.in/handle/123456789/40955)|
+|[135021](https://oeis.org/A135021)|[http://166.111.121.20:9218/fedora/get/mathjourpaper:YISY200202003/fedora-system:3/getItem?itemID=DS1](http://166.111.121.20:9218/fedora/get/mathjourpaper:YISY200202003/fedora-system:3/getItem?itemID=DS1)|
+|[180620](https://oeis.org/A180620)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
+|[135073](https://oeis.org/A135073)|[http://www36.tok2.com/home/kamada/math/](http://www36.tok2.com/home/kamada/math/)|
+|[271775](https://oeis.org/A271775)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
+|[89723](https://oeis.org/A089723)|[http://adsabs.harvard.edu/abs/1973JNT.....5..218G](http://adsabs.harvard.edu/abs/1973JNT.....5..218G)|
+|[135244](https://oeis.org/A135244)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[135245](https://oeis.org/A135245)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
+|[89826](https://oeis.org/A089826)|[http://research.haifa.ac.il/~raphy/papers/seymconj.pdf](http://research.haifa.ac.il/~raphy/papers/seymconj.pdf)|
+|[180962](https://oeis.org/A180962)|[http://theory.cs.uvic.ca/inf/pose/LinearExt.html](http://theory.cs.uvic.ca/inf/pose/LinearExt.html)|
+|[180971](https://oeis.org/A180971)|[http://www.scribd.com/doc/38461010/Solutions-to-N-N-1-X-2-Y-2](http://www.scribd.com/doc/38461010/Solutions-to-N-N-1-X-2-Y-2)|
 |[89955](https://oeis.org/A089955)|[http://home.mindspring.com/~kikiriki/id0.html](http://home.mindspring.com/~kikiriki/id0.html)|
-|[90181](https://oeis.org/A090181)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[90245](https://oeis.org/A090245)|[http://www.math.yorku.ca/~zabrocki/set/joyofset.pdf](http://www.math.yorku.ca/~zabrocki/set/joyofset.pdf)|
+|[181073](https://oeis.org/A181073)|[http://www.rudimatematici.com/Bookshelf/divisibilitaper3.pdf](http://www.rudimatematici.com/Bookshelf/divisibilitaper3.pdf), [http://www.scribd.com/doc/47337392/On-prime-factors-in-old-and-new-sequences-of-integers](http://www.scribd.com/doc/47337392/On-prime-factors-in-old-and-new-sequences-of-integers)|
+|[135531](https://oeis.org/A135531)|[http://db.worldscinet.com/worldscientific/Files/20080221051222484143%5BJ1000219(AT)131.215.226.97%5D(AT)page.pdf](http://db.worldscinet.com/worldscientific/Files/20080221051222484143%5BJ1000219(AT)131.215.226.97%5D(AT)page.pdf)|
+|[181132](https://oeis.org/A181132)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
+|[181162](https://oeis.org/A181162)|[http://archive.maths.nuim.ie/staff/sbuckley/Papers/semigp_cp.pdf](http://archive.maths.nuim.ie/staff/sbuckley/Papers/semigp_cp.pdf)|
+|[317681](https://oeis.org/A317681)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
+|[135733](https://oeis.org/A135733)|[http://harry-j-smith-memorial.com/Goldbach/](http://harry-j-smith-memorial.com/Goldbach/)|
+|[44567](https://oeis.org/A044567)|[http://www.tanyakhovanova.com/RecursiveSequences/NonRecursions.html](http://www.tanyakhovanova.com/RecursiveSequences/NonRecursions.html)|
+|[90245](https://oeis.org/A090245)|[http://www.math.yorku.ca/~zabrocki/set/joyofset.pdf](http://www.math.yorku.ca/~zabrocki/set/joyofset.pdf), [http://www.mathopt.org/Optima-Issues/optima63.pdf](http://www.mathopt.org/Optima-Issues/optima63.pdf)|
 |[90246](https://oeis.org/A090246)|[http://galileo.stmarys-ca.edu/bdavis/set.pdf](http://galileo.stmarys-ca.edu/bdavis/set.pdf)|
+|[90247](https://oeis.org/A090247)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[90248](https://oeis.org/A090248)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[90249](https://oeis.org/A090249)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[90251](https://oeis.org/A090251)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
 |[90277](https://oeis.org/A090277)|[http://www.usna.edu/Users/math/wdj/book/node158.html](http://www.usna.edu/Users/math/wdj/book/node158.html)|
 |[90278](https://oeis.org/A090278)|[http://www.usna.edu/Users/math/wdj/book/node158.html](http://www.usna.edu/Users/math/wdj/book/node158.html)|
 |[90279](https://oeis.org/A090279)|[http://www.usna.edu/Users/math/wdj/book/node158.html](http://www.usna.edu/Users/math/wdj/book/node158.html)|
@@ -2403,1616 +3912,41 @@ There are 4009 sequences in the table. Last update is 30/11/2022 14:46:58
 |[90282](https://oeis.org/A090282)|[http://www.usna.edu/Users/math/wdj/book/node158.html](http://www.usna.edu/Users/math/wdj/book/node158.html)|
 |[90283](https://oeis.org/A090283)|[http://www.usna.edu/Users/math/wdj/book/node158.html](http://www.usna.edu/Users/math/wdj/book/node158.html)|
 |[90284](https://oeis.org/A090284)|[http://www.usna.edu/Users/math/wdj/book/node158.html](http://www.usna.edu/Users/math/wdj/book/node158.html)|
+|[44631](https://oeis.org/A044631)|[http://www.tanyakhovanova.com/RecursiveSequences/NonRecursions.html](http://www.tanyakhovanova.com/RecursiveSequences/NonRecursions.html)|
+|[90300](https://oeis.org/A090300)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[90301](https://oeis.org/A090301)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[90305](https://oeis.org/A090305)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[90306](https://oeis.org/A090306)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[90307](https://oeis.org/A090307)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[90308](https://oeis.org/A090308)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[90309](https://oeis.org/A090309)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[90310](https://oeis.org/A090310)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[90313](https://oeis.org/A090313)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[90314](https://oeis.org/A090314)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[90316](https://oeis.org/A090316)|[http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html](http://www.tanyakhovanova.com/RecursiveSequences/RecursiveSequences.html)|
+|[226918](https://oeis.org/A226918)|[http://aict.itf.llu.lv/files/rakstkraj/2013/Cernenoks_AICT2013.pdf](http://aict.itf.llu.lv/files/rakstkraj/2013/Cernenoks_AICT2013.pdf)|
+|[135998](https://oeis.org/A135998)|[http://cr.yp.to/threecubes.html](http://cr.yp.to/threecubes.html)|
+|[90503](https://oeis.org/A090503)|[http://www-math.ucdenver.edu/~wcherowi/courses/m6221/pglc1d.html](http://www-math.ucdenver.edu/~wcherowi/courses/m6221/pglc1d.html)|
+|[227036](https://oeis.org/A227036)|[http://user42.tuxfamily.org/dragon/index.html](http://user42.tuxfamily.org/dragon/index.html)|
+|[227083](https://oeis.org/A227083)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
+|[90577](https://oeis.org/A090577)|[http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=6513808](http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=6513808), [http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=3845959](http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=3845959)|
 |[90615](https://oeis.org/A090615)|[http://amicable.homepage.dk/knwnc4.htm).201](http://amicable.homepage.dk/knwnc4.htm).201)|
-|[90805](https://oeis.org/A090805)|[http://users.skynet.be/lch/mquiz/mquiz%202003/vragen/mquiz_2003_tafelronde_2.htm](http://users.skynet.be/lch/mquiz/mquiz%202003/vragen/mquiz_2003_tafelronde_2.htm)|
-|[90899](https://oeis.org/A090899)|[http://homepage.mac.com/dglynn/](http://homepage.mac.com/dglynn/)|
-|[90968](https://oeis.org/A090968)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[91070](https://oeis.org/A091070)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
-|[91071](https://oeis.org/A091071)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
-|[91073](https://oeis.org/A091073)|[http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html](http://schmidt.nuigalway.ie/~goetz/pub/posetseq.html)|
-|[91337](https://oeis.org/A091337)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[91340](https://oeis.org/A091340)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[91473](https://oeis.org/A091473)|[http://eprints.cecm.sfu.ca/archive/00000270/](http://eprints.cecm.sfu.ca/archive/00000270/)|
-|[91536](https://oeis.org/A091536)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[91672](https://oeis.org/A091672)|[http://eprints.cecm.sfu.ca/archive/00000270/](http://eprints.cecm.sfu.ca/archive/00000270/)|
-|[91996](https://oeis.org/A091996)|[http://www.15k.org/riesellist.html](http://www.15k.org/riesellist.html)|
-|[92175](https://oeis.org/A092175)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/solutions/April2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/solutions/April2004.html), [http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html)|
-|[92220](https://oeis.org/A092220)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[92430](https://oeis.org/A092430)|[http://www.springerlink.com/content/e1m13421h2873t62/](http://www.springerlink.com/content/e1m13421h2873t62/)|
-|[92955](https://oeis.org/A092955)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html)|
-|[93507](https://oeis.org/A093507)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
-|[93613](https://oeis.org/A093613)|[http://www.scipress.org/journals/forma/pdf/1904/19040335.pdf](http://www.scipress.org/journals/forma/pdf/1904/19040335.pdf)|
-|[93691](https://oeis.org/A093691)|[http://comunidad.ciudad.com.ar/argentina/buenos_aires/avd/subsub.html](http://comunidad.ciudad.com.ar/argentina/buenos_aires/avd/subsub.html)|
-|[94225](https://oeis.org/A094225)|[http://math2.eku.edu/greenwell/mat303/triangles/](http://math2.eku.edu/greenwell/mat303/triangles/)|
-|[94345](https://oeis.org/A094345)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[94348](https://oeis.org/A094348)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
-|[94454](https://oeis.org/A094454)|[http://www.magic-squares.net/anti-ms.htm](http://www.magic-squares.net/anti-ms.htm)|
-|[94455](https://oeis.org/A094455)|[http://www.magic-squares.net/anti-ms.htm](http://www.magic-squares.net/anti-ms.htm)|
-|[94685](https://oeis.org/A094685)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
-|[94692](https://oeis.org/A094692)|[http://people.math.jussieu.fr/~miw/articles/pdf/SurveyTrdceEllipt2006.pdf](http://people.math.jussieu.fr/~miw/articles/pdf/SurveyTrdceEllipt2006.pdf)|
-|[94706](https://oeis.org/A094706)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
-|[94783](https://oeis.org/A094783)|[http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm](http://britton.disted.camosun.bc.ca/perfect/jbperfect.htm)|
-|[94864](https://oeis.org/A094864)|[http://norcom.math.aau.dk/stacks.pdf](http://norcom.math.aau.dk/stacks.pdf)|
-|[95149](https://oeis.org/A095149)|[http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf](http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf)|
-|[95370](https://oeis.org/A095370)|[http://www.h4.dion.ne.jp/~rep](http://www.h4.dion.ne.jp/~rep)|
-|[95424](https://oeis.org/A095424)|[http://ion.uwinnipeg.ca/~lmol/GraphData.html](http://ion.uwinnipeg.ca/~lmol/GraphData.html)|
-|[95899](https://oeis.org/A095899)|[http://www.cenius.net/refer/display.php?ArticleID=hofstadterconwaysequence](http://www.cenius.net/refer/display.php?ArticleID=hofstadterconwaysequence)|
-|[95926](https://oeis.org/A095926)|[http://7427466391.com](http://7427466391.com)|
-|[95937](https://oeis.org/A095937)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
-|[95968](https://oeis.org/A095968)|[http://www.izzycat.org/math/index.php?p=51](http://www.izzycat.org/math/index.php?p=51)|
-|[96082](https://oeis.org/A096082)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[96151](https://oeis.org/A096151)|[http://www-gap.dcs.st-and.ac.uk/~history/Diagrams/ArchimedesCPSoln.gif](http://www-gap.dcs.st-and.ac.uk/~history/Diagrams/ArchimedesCPSoln.gif), [http://www.mcs.drexel.edu/~crorres/Archimedes/Cattle/Statement.html](http://www.mcs.drexel.edu/~crorres/Archimedes/Cattle/Statement.html)|
-|[96339](https://oeis.org/A096339)|[http://www.magic-squares.net/magic_squares_index.htm](http://www.magic-squares.net/magic_squares_index.htm)|
-|[96444](https://oeis.org/A096444)|[http://braise.univ-rennes1.fr/donnees/ParamHTML/S%E9ries%20num%E9riques/con/S%E9ries%20semi-convergentes/cst.pdf](http://braise.univ-rennes1.fr/donnees/ParamHTML/S%E9ries%20num%E9riques/con/S%E9ries%20semi-convergentes/cst.pdf)|
-|[96556](https://oeis.org/A096556)|[http://www.openwatcom.org/](http://www.openwatcom.org/)|
-|[96595](https://oeis.org/A096595)|[http://home.mindspring.com/~kikiriki/id15.html](http://home.mindspring.com/~kikiriki/id15.html)|
-|[96660](https://oeis.org/A096660)|[http://www.magic-squares.net/magic_squares_index.htm](http://www.magic-squares.net/magic_squares_index.htm)|
-|[97130](https://oeis.org/A097130)|[http://dsns.csie.nctu.edu.tw/research/crypto/HTML/PDF/E88/267.PDF](http://dsns.csie.nctu.edu.tw/research/crypto/HTML/PDF/E88/267.PDF)|
-|[97323](https://oeis.org/A097323)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[97383](https://oeis.org/A097383)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[97384](https://oeis.org/A097384)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[97404](https://oeis.org/A097404)|[http://www.metoffice.com/education/historic/beaufort.html](http://www.metoffice.com/education/historic/beaufort.html), [http://www.crh.noaa.gov/lot/webpage/beaufort/](http://www.crh.noaa.gov/lot/webpage/beaufort/)|
-|[97486](https://oeis.org/A097486)|[https://home.comcast.net/~davejanelle/mandel.html](https://home.comcast.net/~davejanelle/mandel.html), [https://home.comcast.net/~davejanelle/mandel.pdf](https://home.comcast.net/~davejanelle/mandel.pdf)|
-|[97610](https://oeis.org/A097610)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf), [https://www.math.rochester.edu/people/faculty/doug/mypapers/lrs.pdf](https://www.math.rochester.edu/people/faculty/doug/mypapers/lrs.pdf)|
-|[97707](https://oeis.org/A097707)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
-|[97937](https://oeis.org/A097937)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[98041](https://oeis.org/A098041)|[http://cadigweb.ew.usna.edu/%7ewdj/mcmath/shanks_squfof.pdf](http://cadigweb.ew.usna.edu/%7ewdj/mcmath/shanks_squfof.pdf)|
-|[98108](https://oeis.org/A098108)|[http://home.iiserbhopal.ac.in/~kashyap/tau.pdf](http://home.iiserbhopal.ac.in/~kashyap/tau.pdf)|
-|[98235](https://oeis.org/A098235)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
-|[98238](https://oeis.org/A098238)|[http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf](http://alpha01.dm.unito.it/personalpages/cerruti/ac/notes.pdf)|
-|[98427](https://oeis.org/A098427)|[http://www.ocf.berleley.edu/~wwu/papers/platonicsolids.pdf](http://www.ocf.berleley.edu/~wwu/papers/platonicsolids.pdf)|
-|[98485](https://oeis.org/A098485)|[http://www.csit.fsu.edu/~burkardt/f_src/grafpack/grafpack.html](http://www.csit.fsu.edu/~burkardt/f_src/grafpack/grafpack.html)|
-|[98786](https://oeis.org/A098786)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[98979](https://oeis.org/A098979)|[http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf](http://puma.dimai.unifi.it/18_3_4/BerniniBouvelFerrari.pdf)|
-|[99179](https://oeis.org/A099179)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[99186](https://oeis.org/A099186)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[99187](https://oeis.org/A099187)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[99195](https://oeis.org/A099195)|[http://www.magicdragon.com/math.html](http://www.magicdragon.com/math.html), [http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[99196](https://oeis.org/A099196)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[99197](https://oeis.org/A099197)|[http://www.magicdragon.com/math.html](http://www.magicdragon.com/math.html), [http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[99206](https://oeis.org/A099206)|[http://www.meden.demon.co.uk/Fractals/cubic8.html](http://www.meden.demon.co.uk/Fractals/cubic8.html)|
-|[99333](https://oeis.org/A099333)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99334](https://oeis.org/A099334)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99335](https://oeis.org/A099335)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99336](https://oeis.org/A099336)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99337](https://oeis.org/A099337)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99338](https://oeis.org/A099338)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99339](https://oeis.org/A099339)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99340](https://oeis.org/A099340)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99341](https://oeis.org/A099341)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99342](https://oeis.org/A099342)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99343](https://oeis.org/A099343)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99344](https://oeis.org/A099344)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99345](https://oeis.org/A099345)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99346](https://oeis.org/A099346)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99347](https://oeis.org/A099347)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99348](https://oeis.org/A099348)|[http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html), [http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html](http://pi2.cc.u-tokyo.ac.jp/pi-hexa_current.html)|
-|[99436](https://oeis.org/A099436)|[http://people.csse.uwa.edu.au/gordon/graphs/#class2](http://people.csse.uwa.edu.au/gordon/graphs/#class2)|
-|[99438](https://oeis.org/A099438)|[http://people.csse.uwa.edu.au/gordon/graphs/#class2](http://people.csse.uwa.edu.au/gordon/graphs/#class2)|
-|[99589](https://oeis.org/A099589)|[http://repository.tue.nl/776745](http://repository.tue.nl/776745)|
-|[99679](https://oeis.org/A099679)|[http://www.h4.dion.ne.jp/~rep](http://www.h4.dion.ne.jp/~rep)|
-|[99837](https://oeis.org/A099837)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[99927](https://oeis.org/A099927)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
-|[99947](https://oeis.org/A099947)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[99999](https://oeis.org/A099999)|[http://www.ijp.si/Configurations2004/papers.html](http://www.ijp.si/Configurations2004/papers.html)|
-|[100000](https://oeis.org/A100000)|[http://etopia.sintlucas.be/~dhuylebrouck/Ishango_web/Ishango_web.htm](http://etopia.sintlucas.be/~dhuylebrouck/Ishango_web/Ishango_web.htm)|
-|[100009](https://oeis.org/A100009)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[100011](https://oeis.org/A100011)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[100012](https://oeis.org/A100012)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[100015](https://oeis.org/A100015)|[http://webdb.uni-graz.at/~fripert/fga/k1recontre.html](http://webdb.uni-graz.at/~fripert/fga/k1recontre.html)|
-|[100050](https://oeis.org/A100050)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
-|[100051](https://oeis.org/A100051)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[100261](https://oeis.org/A100261)|[http://www-centre.mpce.mq.edu.au/alfpapers/a117.pdf](http://www-centre.mpce.mq.edu.au/alfpapers/a117.pdf)|
-|[100508](https://oeis.org/A100508)|[http://www.mta.nyc.ny.us/nyct/service/fourline.htm](http://www.mta.nyc.ny.us/nyct/service/fourline.htm)|
-|[100603](https://oeis.org/A100603)|[http://magicdragon.com/math.html](http://magicdragon.com/math.html)|
-|[100682](https://oeis.org/A100682)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[100831](https://oeis.org/A100831)|[http://theory2.phys.cwru.edu/~pete/java_chaos/KochApplet.html](http://theory2.phys.cwru.edu/~pete/java_chaos/KochApplet.html)|
-|[100982](https://oeis.org/A100982)|[http://www.math.grin.edu/~chamberl/papers/3x_survey_cat.pdf](http://www.math.grin.edu/~chamberl/papers/3x_survey_cat.pdf), [http://www.math.grin.edu/~chamberl/3x.html](http://www.math.grin.edu/~chamberl/3x.html)|
-|[101089](https://oeis.org/A101089)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101090](https://oeis.org/A101090)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101091](https://oeis.org/A101091)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101092](https://oeis.org/A101092)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101093](https://oeis.org/A101093)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101094](https://oeis.org/A101094)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101095](https://oeis.org/A101095)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm), [http://www.math.nmsu.edu/~davidp/bridge.pdf](http://www.math.nmsu.edu/~davidp/bridge.pdf)|
-|[101096](https://oeis.org/A101096)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101097](https://oeis.org/A101097)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101098](https://oeis.org/A101098)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101099](https://oeis.org/A101099)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101100](https://oeis.org/A101100)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm), [http://www.math.nmsu.edu/~davidp/bridge.pdf](http://www.math.nmsu.edu/~davidp/bridge.pdf)|
-|[101101](https://oeis.org/A101101)|[http://www.math.nmsu.edu/~davidp/bridge.pdf](http://www.math.nmsu.edu/~davidp/bridge.pdf), [http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101102](https://oeis.org/A101102)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101104](https://oeis.org/A101104)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm), [http://www.math.nmsu.edu/~davidp/bridge.pdf](http://www.math.nmsu.edu/~davidp/bridge.pdf)|
-|[101453](https://oeis.org/A101453)|[http://turing.csie.ntu.edu.tw/~arping/cm](http://turing.csie.ntu.edu.tw/~arping/cm)|
-|[101454](https://oeis.org/A101454)|[http://turing.csie.ntu.edu.tw/~arping/cm](http://turing.csie.ntu.edu.tw/~arping/cm)|
-|[101511](https://oeis.org/A101511)|[http://www.robertmrozek.org/appletprime20.html](http://www.robertmrozek.org/appletprime20.html)|
-|[101785](https://oeis.org/A101785)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[101853](https://oeis.org/A101853)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101854](https://oeis.org/A101854)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101855](https://oeis.org/A101855)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101860](https://oeis.org/A101860)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101861](https://oeis.org/A101861)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101862](https://oeis.org/A101862)|[http://noticingnumbers.net/300SeriesCube.htm](http://noticingnumbers.net/300SeriesCube.htm)|
-|[101950](https://oeis.org/A101950)|[http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf](http://www.stkpula.hr/ccacaa/CCA-PDF/cca2004/v77-n1_n2/CCA_77_2004_325-330_dias.pdf)|
-|[102026](https://oeis.org/A102026)|[http://www.raphaelreischuk.de/pub/nubfals.pdf](http://www.raphaelreischuk.de/pub/nubfals.pdf)|
-|[102241](https://oeis.org/A102241)|[http://pacificcoast.net/~wh/Index.html](http://pacificcoast.net/~wh/Index.html)|
-|[102250](https://oeis.org/A102250)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[102283](https://oeis.org/A102283)|[http://dergipark.ulakbim.gov.tr/hujms/article/view/5000017451](http://dergipark.ulakbim.gov.tr/hujms/article/view/5000017451)|
-|[102380](https://oeis.org/A102380)|[http://www.h4.dion.ne.jp/~rep/](http://www.h4.dion.ne.jp/~rep/)|
-|[102742](https://oeis.org/A102742)|[http://www.primenace.com/papers/math/ElitePrimes.htm](http://www.primenace.com/papers/math/ElitePrimes.htm)|
-|[102778](https://oeis.org/A102778)|[http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm](http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm)|
-|[102779](https://oeis.org/A102779)|[http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm](http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm)|
-|[102809](https://oeis.org/A102809)|[http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm](http://maths.paisley.ac.uk/allanm/ecrnt/knight/knintro.htm)|
-|[103211](https://oeis.org/A103211)|[https://cs.uwaterloo.ca/journals/JIS/VOL13/Whitt/whitt2.html](https://cs.uwaterloo.ca/journals/JIS/VOL13/Whitt/whitt2.html)|
-|[103217](https://oeis.org/A103217)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[103290](https://oeis.org/A103290)|[http://plms.oxfordjournals.org/content/s2-23/1/290.extract](http://plms.oxfordjournals.org/content/s2-23/1/290.extract)|
-|[103372](https://oeis.org/A103372)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
-|[103373](https://oeis.org/A103373)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
-|[103374](https://oeis.org/A103374)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
-|[103375](https://oeis.org/A103375)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
-|[103376](https://oeis.org/A103376)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
-|[103377](https://oeis.org/A103377)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
-|[103378](https://oeis.org/A103378)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
-|[103379](https://oeis.org/A103379)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
-|[103380](https://oeis.org/A103380)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
-|[103389](https://oeis.org/A103389)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
-|[103399](https://oeis.org/A103399)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
-|[103400](https://oeis.org/A103400)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
-|[103710](https://oeis.org/A103710)|[http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov](http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov)|
-|[103711](https://oeis.org/A103711)|[http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov](http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov)|
-|[103712](https://oeis.org/A103712)|[http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov](http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov)|
-|[103713](https://oeis.org/A103713)|[http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov](http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov)|
-|[103714](https://oeis.org/A103714)|[http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov](http://gaia.adelphi.edu/cgi-bin/makehtmlmov-css.pl?rtsp://gaia.adelphi.edu:554/General_Lectures/Pohle_Colloquiums/pohle200502.mov)|
-|[103743](https://oeis.org/A103743)|[http://pweb.nju.edu.cn/zwsun/](http://pweb.nju.edu.cn/zwsun/), [http://pweb.nju.edu.cn/zwsun/Cover.pdf](http://pweb.nju.edu.cn/zwsun/Cover.pdf), [http://pweb.nju.edu.cn/zwsun/43l.pdf](http://pweb.nju.edu.cn/zwsun/43l.pdf)|
-|[103752](https://oeis.org/A103752)|[http://www.gutenberg.org/etext/633](http://www.gutenberg.org/etext/633)|
-|[103773](https://oeis.org/A103773)|[http://www.gutenberg.org/etext/633](http://www.gutenberg.org/etext/633)|
-|[103789](https://oeis.org/A103789)|[http://www.gutenberg.org/etext/633](http://www.gutenberg.org/etext/633)|
-|[103793](https://oeis.org/A103793)|[http://www.gutenberg.org/etext/633](http://www.gutenberg.org/etext/633)|
-|[103808](https://oeis.org/A103808)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634), [http://www.math-cs.ucmo.edu/~mjms/2000.1/soln.ps](http://www.math-cs.ucmo.edu/~mjms/2000.1/soln.ps), [http://www.math-cs.ucmo.edu/~mjms/1998.3/prob.ps](http://www.math-cs.ucmo.edu/~mjms/1998.3/prob.ps)|
-|[103809](https://oeis.org/A103809)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[103810](https://oeis.org/A103810)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[103811](https://oeis.org/A103811)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[103812](https://oeis.org/A103812)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[103946](https://oeis.org/A103946)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[103982](https://oeis.org/A103982)|[http://magicdragon.com/poly.html](http://magicdragon.com/poly.html)|
-|[104003](https://oeis.org/A104003)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
-|[104019](https://oeis.org/A104019)|[http://www.smart.net/~mmontes/freq1.html](http://www.smart.net/~mmontes/freq1.html)|
-|[104101](https://oeis.org/A104101)|[http://www.d.kth.se/~dicander/lost.html](http://www.d.kth.se/~dicander/lost.html)|
-|[104155](https://oeis.org/A104155)|[http://psyche.uthct.edu/shaun/SBlack/geneticd.html](http://psyche.uthct.edu/shaun/SBlack/geneticd.html)|
-|[104157](https://oeis.org/A104157)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
-|[104158](https://oeis.org/A104158)|[http://web.ukonline.co.uk/patrick.chaplin/Darts_History/why_are_the_numbers_on_a_dartboa.htm](http://web.ukonline.co.uk/patrick.chaplin/Darts_History/why_are_the_numbers_on_a_dartboa.htm), [http://www.thedartmart.com/dart_faq/Sect1/14.htm](http://www.thedartmart.com/dart_faq/Sect1/14.htm)|
-|[104159](https://oeis.org/A104159)|[http://www.thedartmart.com/dart_faq/Sect1/14.htm](http://www.thedartmart.com/dart_faq/Sect1/14.htm)|
-|[104203](https://oeis.org/A104203)|[http://www.de.dau.lv/matematika/lemniscatic/S3F3v1.pdf](http://www.de.dau.lv/matematika/lemniscatic/S3F3v1.pdf)|
-|[104392](https://oeis.org/A104392)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[104393](https://oeis.org/A104393)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[104394](https://oeis.org/A104394)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[104395](https://oeis.org/A104395)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[104396](https://oeis.org/A104396)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[104397](https://oeis.org/A104397)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[104398](https://oeis.org/A104398)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[104399](https://oeis.org/A104399)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[104400](https://oeis.org/A104400)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[104745](https://oeis.org/A104745)|[http://www.factorization.ath.cx/index.php?query=5%5E7954+%2B+7954](http://www.factorization.ath.cx/index.php?query=5%5E7954+%2B+7954)|
-|[104916](https://oeis.org/A104916)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104917](https://oeis.org/A104917)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104918](https://oeis.org/A104918)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104919](https://oeis.org/A104919)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104920](https://oeis.org/A104920)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104921](https://oeis.org/A104921)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104922](https://oeis.org/A104922)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104923](https://oeis.org/A104923)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104924](https://oeis.org/A104924)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104925](https://oeis.org/A104925)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104926](https://oeis.org/A104926)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104927](https://oeis.org/A104927)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104928](https://oeis.org/A104928)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104929](https://oeis.org/A104929)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104930](https://oeis.org/A104930)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104931](https://oeis.org/A104931)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104932](https://oeis.org/A104932)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[104933](https://oeis.org/A104933)|[http://www.gutenberg.org/ebooks/634](http://www.gutenberg.org/ebooks/634)|
-|[105321](https://oeis.org/A105321)|[http://www.imfm.si/preprinti/PDF/00696.pdf](http://www.imfm.si/preprinti/PDF/00696.pdf), [http://www.imfm.si/preprinti/PDF/00696.pdf](http://www.imfm.si/preprinti/PDF/00696.pdf)|
-|[105368](https://oeis.org/A105368)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[105393](https://oeis.org/A105393)|[http://www.math.jussieu.fr/~miw/articles/pdf/SurveyTrdceEllipt2006.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/SurveyTrdceEllipt2006.pdf)|
-|[105547](https://oeis.org/A105547)|[http://sis.univ-tln.fr/~bonnecaze/biblio.html](http://sis.univ-tln.fr/~bonnecaze/biblio.html), [http://sis.univ-tln.fr/~bonnecaze/biblio.html](http://sis.univ-tln.fr/~bonnecaze/biblio.html)|
-|[105681](https://oeis.org/A105681)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
-|[105682](https://oeis.org/A105682)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
-|[105688](https://oeis.org/A105688)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
-|[105689](https://oeis.org/A105689)|[http://academic.uofs.edu/faculty/Doughertys1/publ.htm](http://academic.uofs.edu/faculty/Doughertys1/publ.htm)|
-|[106007](https://oeis.org/A106007)|[http://www.pythagoras.nu).](http://www.pythagoras.nu).)|
-|[106182](https://oeis.org/A106182)|[http://www.hpl.hp.com/techreports/2004/HPL-2004-153.html](http://www.hpl.hp.com/techreports/2004/HPL-2004-153.html)|
-|[106433](https://oeis.org/A106433)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[106482](https://oeis.org/A106482)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[106483](https://oeis.org/A106483)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[106484](https://oeis.org/A106484)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[106739](https://oeis.org/A106739)|[http://www.csr.uvic.ca/~wendym/torus/embedding.html](http://www.csr.uvic.ca/~wendym/torus/embedding.html)|
-|[107232](https://oeis.org/A107232)|[http://puma.dimai.unifi.it/22_2/manara_perelli-cippo.pdf](http://puma.dimai.unifi.it/22_2/manara_perelli-cippo.pdf)|
-|[107264](https://oeis.org/A107264)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[107373](https://oeis.org/A107373)|[http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf)|
-|[107427](https://oeis.org/A107427)|[http://www.jimloy.com/puzz/cole.htm](http://www.jimloy.com/puzz/cole.htm)|
-|[107452](https://oeis.org/A107452)|[http://preprinti.imfm.si/PDF/00939.pdf](http://preprinti.imfm.si/PDF/00939.pdf)|
-|[107453](https://oeis.org/A107453)|[http://preprinti.imfm.si/PDF/00939.pdf](http://preprinti.imfm.si/PDF/00939.pdf)|
-|[107454](https://oeis.org/A107454)|[http://preprinti.imfm.si/PDF/00939.pdf](http://preprinti.imfm.si/PDF/00939.pdf)|
-|[107455](https://oeis.org/A107455)|[http://preprinti.imfm.si/PDF/00939.pdf](http://preprinti.imfm.si/PDF/00939.pdf)|
-|[107456](https://oeis.org/A107456)|[http://preprinti.imfm.si/PDF/00939.pdf](http://preprinti.imfm.si/PDF/00939.pdf)|
-|[107457](https://oeis.org/A107457)|[http://preprinti.imfm.si/PDF/00939.pdf](http://preprinti.imfm.si/PDF/00939.pdf)|
-|[107459](https://oeis.org/A107459)|[http://preprinti.imfm.si/PDF/00939.pdf](http://preprinti.imfm.si/PDF/00939.pdf)|
-|[107460](https://oeis.org/A107460)|[http://preprinti.imfm.si/PDF/00939.pdf](http://preprinti.imfm.si/PDF/00939.pdf)|
-|[107769](https://oeis.org/A107769)|[https://dx.doi/10.1023/A:1019163812482](https://dx.doi/10.1023/A:1019163812482)|
-|[107784](https://oeis.org/A107784)|[http://library.thinkquest.org/3471/mass_binding_body.html](http://library.thinkquest.org/3471/mass_binding_body.html)|
-|[108045](https://oeis.org/A108045)|[http://repository.wit.ie/1693](http://repository.wit.ie/1693)|
-|[108520](https://oeis.org/A108520)|[http://repository.tue.nl/776745](http://repository.tue.nl/776745)|
-|[109032](https://oeis.org/A109032)|[http://beta.mapleprimes.com/blog/alec/ponder_this](http://beta.mapleprimes.com/blog/alec/ponder_this)|
-|[109379](https://oeis.org/A109379)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
-|[109783](https://oeis.org/A109783)|[http://beta.mapleprimes.com/blog/alec/ponder_this](http://beta.mapleprimes.com/blog/alec/ponder_this)|
-|[109952](https://oeis.org/A109952)|[http://www.scorpiosite69.freeserve.co.uk/temperature.htm](http://www.scorpiosite69.freeserve.co.uk/temperature.htm)|
-|[110148](https://oeis.org/A110148)|[http://ilib.mirror1.mccme.ru/djvu/yaglom/square.htm](http://ilib.mirror1.mccme.ru/djvu/yaglom/square.htm)|
-|[110186](https://oeis.org/A110186)|[http://www.tech.plymouth.ac.uk/sme/desnotes/prefsize.htm](http://www.tech.plymouth.ac.uk/sme/desnotes/prefsize.htm)|
-|[110316](https://oeis.org/A110316)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[110501](https://oeis.org/A110501)|[http://puma.dimai.unifi.it/21_2/5_Burstein_Josuat-Verges_Stromquist.pdf](http://puma.dimai.unifi.it/21_2/5_Burstein_Josuat-Verges_Stromquist.pdf)|
-|[110507](https://oeis.org/A110507)|[http://ginger.indstate.edu/ge/Graphs/RECTILINEAR/index.html](http://ginger.indstate.edu/ge/Graphs/RECTILINEAR/index.html)|
-|[111004](https://oeis.org/A111004)|[http://puma.dimai.unifi.it/22_2/jones_remmel.pdf](http://puma.dimai.unifi.it/22_2/jones_remmel.pdf)|
-|[111044](https://oeis.org/A111044)|[http://les-mathematiques.u-strasbg.fr/phorum/read.php?f=2&amp](http://les-mathematiques.u-strasbg.fr/phorum/read.php?f=2&amp)|
-|[111078](https://oeis.org/A111078)|[http://maddogcarter.com/phil/runescape/xpformula.html](http://maddogcarter.com/phil/runescape/xpformula.html)|
-|[111113](https://oeis.org/A111113)|[http://acta.fyx.hu/acta/showCustomerArticle.action?id=5859&amp](http://acta.fyx.hu/acta/showCustomerArticle.action?id=5859&amp)|
-|[111237](https://oeis.org/A111237)|[http://www.jsoftware.com):H=:](http://www.jsoftware.com):H=:)|
-|[111904](https://oeis.org/A111904)|[http://amicable.homepage.dk/knwnunap.htm](http://amicable.homepage.dk/knwnunap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[111944](https://oeis.org/A111944)|[http://www.csam.montclair.edu/~thomasd/john.pdf](http://www.csam.montclair.edu/~thomasd/john.pdf)|
-|[112236](https://oeis.org/A112236)|[http://wvlc.uwaterloo.ca/biology447/modules/module5/pcbdegradation.htm](http://wvlc.uwaterloo.ca/biology447/modules/module5/pcbdegradation.htm), [http://wvlc.uwaterloo.ca/biology447/modules/intro/assignments/pcb_pjpa.htm](http://wvlc.uwaterloo.ca/biology447/modules/intro/assignments/pcb_pjpa.htm)|
-|[112262](https://oeis.org/A112262)|[http://www.cybertiggyr.com/gene/htdocs/shiva-0/shiva-0.html](http://www.cybertiggyr.com/gene/htdocs/shiva-0/shiva-0.html)|
-|[112263](https://oeis.org/A112263)|[http://www.cybertiggyr.com/gene/htdocs/shiva-0/shiva-0.html](http://www.cybertiggyr.com/gene/htdocs/shiva-0/shiva-0.html)|
-|[112299](https://oeis.org/A112299)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[113515](https://oeis.org/A113515)|[http://www.magicdragon.com/UltimateSF/timeline11.html](http://www.magicdragon.com/UltimateSF/timeline11.html)|
-|[113619](https://oeis.org/A113619)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[113626](https://oeis.org/A113626)|[http://www.magicdragon.com/poly.html](http://www.magicdragon.com/poly.html)|
-|[113788](https://oeis.org/A113788)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
-|[113882](https://oeis.org/A113882)|[http://www.ps.uni-sb.de/Papers/abstracts/bodirsky2005wellnested.html](http://www.ps.uni-sb.de/Papers/abstracts/bodirsky2005wellnested.html)|
-|[114037](https://oeis.org/A114037)|[http://s13.invisionfree.com/Gothic_Chess_Forum/index.php?showtopic=205](http://s13.invisionfree.com/Gothic_Chess_Forum/index.php?showtopic=205)|
-|[114139](https://oeis.org/A114139)|[http://www.akdart.com/postrate.html](http://www.akdart.com/postrate.html)|
-|[114595](https://oeis.org/A114595)|[http://cane.roxr.com/Nauka/UVS/A114595.TXT](http://cane.roxr.com/Nauka/UVS/A114595.TXT)|
-|[114986](https://oeis.org/A114986)|[http://materials.iisc.ernet.in/~lord/webfiles/vop.pdf](http://materials.iisc.ernet.in/~lord/webfiles/vop.pdf)|
-|[115380](https://oeis.org/A115380)|[http://www.rikk-cowsys.com/lofiversion/index.php/t328.html](http://www.rikk-cowsys.com/lofiversion/index.php/t328.html), [http://www.baseballhalloffame.org/exhibits/online_exhibits/ss_home_run/index.htm](http://www.baseballhalloffame.org/exhibits/online_exhibits/ss_home_run/index.htm)|
-|[115836](https://oeis.org/A115836)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[116369](https://oeis.org/A116369)|[http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/](http://emr.cs.iit.edu/home/reingold/calendar-book/first-edition/)|
-|[116474](https://oeis.org/A116474)|[http://library.wustl.edu/~manynote/music.html](http://library.wustl.edu/~manynote/music.html)|
-|[117140](https://oeis.org/A117140)|[http://www.eng.um.edu.mt/~andebo/numbers/numcom27.htm](http://www.eng.um.edu.mt/~andebo/numbers/numcom27.htm)|
-|[119256](https://oeis.org/A119256)|[http://www.karlscalculus.org/l6_3-2.html](http://www.karlscalculus.org/l6_3-2.html)|
-|[119271](https://oeis.org/A119271)|[http://www.physics.iitm.ac.in/~suresh/partitions.html](http://www.physics.iitm.ac.in/~suresh/partitions.html)|
-|[119478](https://oeis.org/A119478)|[http://amicable.adsl.dk/aliquot/cx/c6.txt](http://amicable.adsl.dk/aliquot/cx/c6.txt), [http://amicable.adsl.dk/aliquot/knwncx.htm](http://amicable.adsl.dk/aliquot/knwncx.htm)|
-|[119630](https://oeis.org/A119630)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
-|[119631](https://oeis.org/A119631)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
-|[119648](https://oeis.org/A119648)|[http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html](http://www.eleves.ens.fr:8080/home/madore/math/simplegroups.html)|
-|[119710](https://oeis.org/A119710)|[http://www.numq.com/pwn/](http://www.numq.com/pwn/), [http://www.numq.com/pwn/](http://www.numq.com/pwn/)|
-|[119953](https://oeis.org/A119953)|[http://musicalgorithms.ewu.edu/algorithms/import.html](http://musicalgorithms.ewu.edu/algorithms/import.html)|
-|[120127](https://oeis.org/A120127)|[http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp](http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp), [http://grail.eecs.csuohio.edu/~somos/tritab.html](http://grail.eecs.csuohio.edu/~somos/tritab.html)|
-|[120128](https://oeis.org/A120128)|[http://grail.eecs.csuohio.edu/~somos/tritab.html](http://grail.eecs.csuohio.edu/~somos/tritab.html)|
-|[120129](https://oeis.org/A120129)|[http://grail.eecs.csuohio.edu/~somos/tritab.html](http://grail.eecs.csuohio.edu/~somos/tritab.html)|
-|[120130](https://oeis.org/A120130)|[http://grail.cba.csuohio.edu/~somos/tritab.html](http://grail.cba.csuohio.edu/~somos/tritab.html)|
-|[120131](https://oeis.org/A120131)|[http://grail.cba.csuohio.edu/~somos/tritab.html](http://grail.cba.csuohio.edu/~somos/tritab.html)|
-|[120132](https://oeis.org/A120132)|[http://grail.eecs.csuohio.edu/~somos/tritab.html](http://grail.eecs.csuohio.edu/~somos/tritab.html)|
-|[120133](https://oeis.org/A120133)|[http://grail.eecs.csuohio.edu/~somos/tritab.html](http://grail.eecs.csuohio.edu/~somos/tritab.html)|
-|[120373](https://oeis.org/A120373)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[120469](https://oeis.org/A120469)|[http://cst-www.nrl.navy.mil/lattice/struk/a1.html](http://cst-www.nrl.navy.mil/lattice/struk/a1.html)|
-|[120488](https://oeis.org/A120488)|[http://www.emba.uvm.edu/~jdinitz/preprints/per14.pdf](http://www.emba.uvm.edu/~jdinitz/preprints/per14.pdf)|
-|[120705](https://oeis.org/A120705)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[120706](https://oeis.org/A120706)|[http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm](http://www.iki.fi/~kartturi/matikka/Nekomorphisms/gatomorf.htm)|
-|[120734](https://oeis.org/A120734)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
-|[120892](https://oeis.org/A120892)|[http://jpm-chabert.club.fr/maths/Triangle_rect.htm](http://jpm-chabert.club.fr/maths/Triangle_rect.htm)|
-|[120940](https://oeis.org/A120940)|[http://marcello.gotdns.com/~m/uncount.1.2.pdf](http://marcello.gotdns.com/~m/uncount.1.2.pdf)|
-|[121069](https://oeis.org/A121069)|[http://wwwmaths.anu.edu.au/~brent/pub/pub057.html](http://wwwmaths.anu.edu.au/~brent/pub/pub057.html), [http://wwwmaths.anu.edu.au/~brent/pub/pub019.html](http://wwwmaths.anu.edu.au/~brent/pub/pub019.html), [http://wwwmaths.anu.edu.au/~brent/pub/pub021.html](http://wwwmaths.anu.edu.au/~brent/pub/pub021.html)|
-|[121153](https://oeis.org/A121153)|[http://newton.math.psu.edu/mass/reu/2003/DaRi/proj1.pdf](http://newton.math.psu.edu/mass/reu/2003/DaRi/proj1.pdf)|
-|[121225](https://oeis.org/A121225)|[http://braise.univ-rennes1.fr/donnees/ParamHTML/S%E9ries%20num%E9riques/con/S%E9ries%20semi-convergentes/cst.pdf](http://braise.univ-rennes1.fr/donnees/ParamHTML/S%E9ries%20num%E9riques/con/S%E9ries%20semi-convergentes/cst.pdf)|
-|[121285](https://oeis.org/A121285)|[http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf](http://puma.dimai.unifi.it/22_1/2-disanto_rinaldi.pdf)|
-|[121406](https://oeis.org/A121406)|[http://www.primenace.com/papers/math/TwinPrimeEliminationSeries.htm](http://www.primenace.com/papers/math/TwinPrimeEliminationSeries.htm)|
-|[121448](https://oeis.org/A121448)|[https://www.math.rochester.edu/people/faculty/doug/mypapers/lrs.pdf](https://www.math.rochester.edu/people/faculty/doug/mypapers/lrs.pdf)|
-|[122043](https://oeis.org/A122043)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
-|[122088](https://oeis.org/A122088)|[http://mathcentral.uregina.ca/QQ/database/QQ.09.03/megan1.html](http://mathcentral.uregina.ca/QQ/database/QQ.09.03/megan1.html)|
-|[122122](https://oeis.org/A122122)|[http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf), [http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf](http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf)|
-|[122133](https://oeis.org/A122133)|[http://www.wm-archive.uni-bayreuth.de/fileadmin/Sascha/Publikationen2/thesis.pdf](http://www.wm-archive.uni-bayreuth.de/fileadmin/Sascha/Publikationen2/thesis.pdf)|
-|[122193](https://oeis.org/A122193)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf), [http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html](http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html)|
-|[122248](https://oeis.org/A122248)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[122555](https://oeis.org/A122555)|[http://www.msp.warwick.ac.uk/agt/2005/05/p019.xhtml](http://www.msp.warwick.ac.uk/agt/2005/05/p019.xhtml)|
-|[122776](https://oeis.org/A122776)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[122797](https://oeis.org/A122797)|[http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf](http://www.ucbcba.edu.bo/Publicaciones/revistas/actanova/documentos/v4n1/v4.n1.Meijer.pdf)|
-|[122871](https://oeis.org/A122871)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[123050](https://oeis.org/A123050)|[http://www-cs-staff.Stanford.EDU/~knuth/fasc4a.ps.gz](http://www-cs-staff.Stanford.EDU/~knuth/fasc4a.ps.gz)|
-|[123101](https://oeis.org/A123101)|[http://www.math.wfu.edu/publications/saidak/hamburg.pdf](http://www.math.wfu.edu/publications/saidak/hamburg.pdf)|
-|[123125](https://oeis.org/A123125)|[http://repository.tue.nl/651203](http://repository.tue.nl/651203)|
-|[123129](https://oeis.org/A123129)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
-|[123171](https://oeis.org/A123171)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
-|[123213](https://oeis.org/A123213)|[http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm](http://ginasiomental.no.sapo.pt/materialc/mteste/teste.htm)|
-|[123513](https://oeis.org/A123513)|[http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf](http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf)|
-|[123693](https://oeis.org/A123693)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[123753](https://oeis.org/A123753)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[124015](https://oeis.org/A124015)|[http://www2.scrabble-assoc.com/subitems.asp?id=36&amp](http://www2.scrabble-assoc.com/subitems.asp?id=36&amp)|
-|[124254](https://oeis.org/A124254)|[http://acm.uva.es/p/v1/149.html](http://acm.uva.es/p/v1/149.html)|
-|[124663](https://oeis.org/A124663)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
-|[124779](https://oeis.org/A124779)|[http://home.earthlink.net/~jsondow/PrimesAndE.pdf](http://home.earthlink.net/~jsondow/PrimesAndE.pdf)|
-|[124865](https://oeis.org/A124865)|[http://www.math-cs.ucmo.edu/~mjms/2003.3/Norman-Richner.pdf](http://www.math-cs.ucmo.edu/~mjms/2003.3/Norman-Richner.pdf)|
-|[125123](https://oeis.org/A125123)|[http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/](http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/)|
-|[125124](https://oeis.org/A125124)|[http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/](http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/)|
-|[125125](https://oeis.org/A125125)|[http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/](http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/)|
-|[125126](https://oeis.org/A125126)|[http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/](http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/633cd6cd012d5336862569e7006daa1a/)|
-|[125305](https://oeis.org/A125305)|[http://www.math.ru.is/anders](http://www.math.ru.is/anders)|
-|[125601](https://oeis.org/A125601)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[125610](https://oeis.org/A125610)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[125611](https://oeis.org/A125611)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[125612](https://oeis.org/A125612)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[125632](https://oeis.org/A125632)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[125633](https://oeis.org/A125633)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[125634](https://oeis.org/A125634)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[125635](https://oeis.org/A125635)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[125637](https://oeis.org/A125637)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[125645](https://oeis.org/A125645)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[125646](https://oeis.org/A125646)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[125647](https://oeis.org/A125647)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[125648](https://oeis.org/A125648)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[125649](https://oeis.org/A125649)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[125750](https://oeis.org/A125750)|[https://www.zobodat.at/pdf/Sitz-Ber-Akad-Muenchen-math-Kl_1952_0001-0005.pdf](https://www.zobodat.at/pdf/Sitz-Ber-Akad-Muenchen-math-Kl_1952_0001-0005.pdf), [https://www.zobodat.at/pdf/Sitz-Ber-Akad-Muenchen-math-Kl_1951_0029.pdf](https://www.zobodat.at/pdf/Sitz-Ber-Akad-Muenchen-math-Kl_1951_0029.pdf)|
-|[125762](https://oeis.org/A125762)|[https://eprint.panzan.me/articles/langford.pdf](https://eprint.panzan.me/articles/langford.pdf)|
-|[126020](https://oeis.org/A126020)|[http://homes.dsi.unimi.it/~radicion/Lavori/RI31207.pdf](http://homes.dsi.unimi.it/~radicion/Lavori/RI31207.pdf), [http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf), [http://santini.dsi.unimi.it/FTP/papers/ridsi-311-06.pdf](http://santini.dsi.unimi.it/FTP/papers/ridsi-311-06.pdf), [http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf](http://puma.dimai.unifi.it/18_3_4/FantiFrosiniGrazziniPinzaniRinaldi.pdf)|
-|[126074](https://oeis.org/A126074)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/December2006.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/December2006.html)|
-|[126086](https://oeis.org/A126086)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
-|[126120](https://oeis.org/A126120)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[126160](https://oeis.org/A126160)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[126161](https://oeis.org/A126161)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
-|[126162](https://oeis.org/A126162)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
-|[126165](https://oeis.org/A126165)|[http://amicable.homepage.dk/knwne2.htm](http://amicable.homepage.dk/knwne2.htm)|
-|[126166](https://oeis.org/A126166)|[http://amicable.homepage.dk/knwne2.htm](http://amicable.homepage.dk/knwne2.htm)|
-|[126167](https://oeis.org/A126167)|[http://amicable.homepage.dk/knwne2.htm](http://amicable.homepage.dk/knwne2.htm)|
-|[126171](https://oeis.org/A126171)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
-|[126176](https://oeis.org/A126176)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm)|
-|[127193](https://oeis.org/A127193)|[http://www.math.northwestern.edu/~mlerma/problem_solving/results/recurrences.pdf](http://www.math.northwestern.edu/~mlerma/problem_solving/results/recurrences.pdf)|
-|[127567](https://oeis.org/A127567)|[http://h.xerol.org/f/1primecheck.txt](http://h.xerol.org/f/1primecheck.txt), [http://h.xerol.org/f/1primecheck.txt](http://h.xerol.org/f/1primecheck.txt)|
-|[127655](https://oeis.org/A127655)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[127656](https://oeis.org/A127656)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[127657](https://oeis.org/A127657)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[127658](https://oeis.org/A127658)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[127659](https://oeis.org/A127659)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[127660](https://oeis.org/A127660)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[127661](https://oeis.org/A127661)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[127662](https://oeis.org/A127662)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[127663](https://oeis.org/A127663)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[127664](https://oeis.org/A127664)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[127665](https://oeis.org/A127665)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[127666](https://oeis.org/A127666)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[127667](https://oeis.org/A127667)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[127938](https://oeis.org/A127938)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
-|[128588](https://oeis.org/A128588)|[http://www.math.jussieu.fr/~allouche/johnson2.pdf](http://www.math.jussieu.fr/~allouche/johnson2.pdf)|
-|[128852](https://oeis.org/A128852)|[http://www.primenace.com/papers/math/Anti-ElitePrimes.htm](http://www.primenace.com/papers/math/Anti-ElitePrimes.htm)|
-|[129206](https://oeis.org/A129206)|[http://grail.eecs.csuohio.edu~/somos/wxyz.wl](http://grail.eecs.csuohio.edu~/somos/wxyz.wl), [http://grail.eecs.csuohio.edu/~somos/wxyz.gp](http://grail.eecs.csuohio.edu/~somos/wxyz.gp)|
-|[129598](https://oeis.org/A129598)|[http://stefan.guninski.com/cgi/oeis-quad.cgi?q=A129598&amp](http://stefan.guninski.com/cgi/oeis-quad.cgi?q=A129598&amp)|
-|[129775](https://oeis.org/A129775)|[http://myweb.cwpost.liu.edu/jlosoncz/man13.pdf](http://myweb.cwpost.liu.edu/jlosoncz/man13.pdf)|
-|[129810](https://oeis.org/A129810)|[http://www.mathforum.org/library/drmath/view/59172.html](http://www.mathforum.org/library/drmath/view/59172.html), [http://www.mathforum.org/library/drmath/view/63676.html](http://www.mathforum.org/library/drmath/view/63676.html)|
-|[129818](https://oeis.org/A129818)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[129924](https://oeis.org/A129924)|[http://home.earthlink.net/~jsondow/PrimesAndE.pdf](http://home.earthlink.net/~jsondow/PrimesAndE.pdf)|
-|[129956](https://oeis.org/A129956)|[http://www.gutenberg.org/etext/50](http://www.gutenberg.org/etext/50)|
-|[130131](https://oeis.org/A130131)|[http://theory.cs.uvic.ca/dis/distribute.pl.cgi?package=FreeTree.c](http://theory.cs.uvic.ca/dis/distribute.pl.cgi?package=FreeTree.c)|
-|[130151](https://oeis.org/A130151)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[130444](https://oeis.org/A130444)|[http://lists.distributed.net/pipermail/announce/2004/000077.html](http://lists.distributed.net/pipermail/announce/2004/000077.html)|
-|[130764](https://oeis.org/A130764)|[http://www.en.wikipedia.org/wiki/ASCII](http://www.en.wikipedia.org/wiki/ASCII)|
-|[130765](https://oeis.org/A130765)|[http://www.en.wikipedia.org/wiki/ASCII](http://www.en.wikipedia.org/wiki/ASCII)|
-|[130782](https://oeis.org/A130782)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[130795](https://oeis.org/A130795)|[http://local.wasp.uwa.edu.au/~pbourke/surfaces_curves/tritorus/index.html](http://local.wasp.uwa.edu.au/~pbourke/surfaces_curves/tritorus/index.html)|
-|[131198](https://oeis.org/A131198)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[131353](https://oeis.org/A131353)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[131689](https://oeis.org/A131689)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
-|[131729](https://oeis.org/A131729)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
-|[131747](https://oeis.org/A131747)|[http://www-staff.lboro.ac.uk/~codr2/](http://www-staff.lboro.ac.uk/~codr2/)|
-|[131842](https://oeis.org/A131842)|[https://www.longeri.org/prime/nature.html](https://www.longeri.org/prime/nature.html)|
-|[132235](https://oeis.org/A132235)|[http://primes.utm.com](http://primes.utm.com)|
-|[132394](https://oeis.org/A132394)|[http://harry-j-smith-memorial.com/download.html#Left-Tru](http://harry-j-smith-memorial.com/download.html#Left-Tru)|
-|[132574](https://oeis.org/A132574)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[132967](https://oeis.org/A132967)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[132968](https://oeis.org/A132968)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[133024](https://oeis.org/A133024)|[http://www.polrpimos.com](http://www.polrpimos.com)|
-|[133025](https://oeis.org/A133025)|[http://www.polrpimos.com](http://www.polrpimos.com)|
-|[133031](https://oeis.org/A133031)|[http://www.polrpimos.com](http://www.polrpimos.com)|
-|[133314](https://oeis.org/A133314)|[http://www.math.uakron.edu/~sf34/hedra.htm#index](http://www.math.uakron.edu/~sf34/hedra.htm#index)|
-|[133437](https://oeis.org/A133437)|[http://www.math.uakron.edu/~sf34/hedra.htm#index](http://www.math.uakron.edu/~sf34/hedra.htm#index)|
-|[133487](https://oeis.org/A133487)|[http://willnicholes.com/metaprimes.htm](http://willnicholes.com/metaprimes.htm)|
-|[133492](https://oeis.org/A133492)|[http://willnicholes.com/primesig.htm](http://willnicholes.com/primesig.htm)|
-|[134164](https://oeis.org/A134164)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
-|[134171](https://oeis.org/A134171)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
-|[134175](https://oeis.org/A134175)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
-|[134176](https://oeis.org/A134176)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
-|[134241](https://oeis.org/A134241)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
-|[134242](https://oeis.org/A134242)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
-|[134243](https://oeis.org/A134243)|[http://www.math.jussieu.fr/~zvonkine/](http://www.math.jussieu.fr/~zvonkine/)|
-|[134975](https://oeis.org/A134975)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[135021](https://oeis.org/A135021)|[http://166.111.121.20:9218/fedora/get/mathjourpaper:YISY200202003/fedora-system:3/getItem?itemID=DS1](http://166.111.121.20:9218/fedora/get/mathjourpaper:YISY200202003/fedora-system:3/getItem?itemID=DS1)|
-|[135073](https://oeis.org/A135073)|[http://www36.tok2.com/home/kamada/math/](http://www36.tok2.com/home/kamada/math/)|
-|[135244](https://oeis.org/A135244)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[135245](https://oeis.org/A135245)|[http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm)|
-|[135531](https://oeis.org/A135531)|[http://db.worldscinet.com/worldscientific/Files/20080221051222484143%5BJ1000219(AT)131.215.226.97%5D(AT)page.pdf](http://db.worldscinet.com/worldscientific/Files/20080221051222484143%5BJ1000219(AT)131.215.226.97%5D(AT)page.pdf)|
-|[135733](https://oeis.org/A135733)|[http://harry-j-smith-memorial.com/Goldbach/](http://harry-j-smith-memorial.com/Goldbach/)|
-|[136409](https://oeis.org/A136409)|[http://reflections.awesomemath.org/2006_3/2006_3_ceilingsums.pdf](http://reflections.awesomemath.org/2006_3/2006_3_ceilingsums.pdf)|
-|[136433](https://oeis.org/A136433)|[http://www.greatitcareer.com/btarchieve.asp?pgno=23](http://www.greatitcareer.com/btarchieve.asp?pgno=23), [http://www.randpersonnel.co.za/mailerfeb08.htm](http://www.randpersonnel.co.za/mailerfeb08.htm)|
-|[136808](https://oeis.org/A136808)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136810](https://oeis.org/A136810)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136811](https://oeis.org/A136811)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136812](https://oeis.org/A136812)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136813](https://oeis.org/A136813)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136814](https://oeis.org/A136814)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136815](https://oeis.org/A136815)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136816](https://oeis.org/A136816)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136817](https://oeis.org/A136817)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136818](https://oeis.org/A136818)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136820](https://oeis.org/A136820)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136821](https://oeis.org/A136821)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136822](https://oeis.org/A136822)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136824](https://oeis.org/A136824)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136825](https://oeis.org/A136825)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136826](https://oeis.org/A136826)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136827](https://oeis.org/A136827)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136828](https://oeis.org/A136828)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136829](https://oeis.org/A136829)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136830](https://oeis.org/A136830)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136831](https://oeis.org/A136831)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136832](https://oeis.org/A136832)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136833](https://oeis.org/A136833)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136835](https://oeis.org/A136835)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136836](https://oeis.org/A136836)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136837](https://oeis.org/A136837)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136838](https://oeis.org/A136838)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136839](https://oeis.org/A136839)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136840](https://oeis.org/A136840)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136841](https://oeis.org/A136841)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136842](https://oeis.org/A136842)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136843](https://oeis.org/A136843)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136844](https://oeis.org/A136844)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136845](https://oeis.org/A136845)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136846](https://oeis.org/A136846)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136847](https://oeis.org/A136847)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136848](https://oeis.org/A136848)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136849](https://oeis.org/A136849)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136850](https://oeis.org/A136850)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136852](https://oeis.org/A136852)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136853](https://oeis.org/A136853)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136861](https://oeis.org/A136861)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136862](https://oeis.org/A136862)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136863](https://oeis.org/A136863)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136864](https://oeis.org/A136864)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136865](https://oeis.org/A136865)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136866](https://oeis.org/A136866)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136867](https://oeis.org/A136867)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136869](https://oeis.org/A136869)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136870](https://oeis.org/A136870)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136871](https://oeis.org/A136871)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136872](https://oeis.org/A136872)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136873](https://oeis.org/A136873)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136874](https://oeis.org/A136874)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136875](https://oeis.org/A136875)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136876](https://oeis.org/A136876)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136877](https://oeis.org/A136877)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136878](https://oeis.org/A136878)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136879](https://oeis.org/A136879)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136880](https://oeis.org/A136880)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136881](https://oeis.org/A136881)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136882](https://oeis.org/A136882)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136883](https://oeis.org/A136883)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136884](https://oeis.org/A136884)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136885](https://oeis.org/A136885)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136886](https://oeis.org/A136886)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136887](https://oeis.org/A136887)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136888](https://oeis.org/A136888)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136889](https://oeis.org/A136889)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136890](https://oeis.org/A136890)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136891](https://oeis.org/A136891)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136892](https://oeis.org/A136892)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136893](https://oeis.org/A136893)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136894](https://oeis.org/A136894)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136895](https://oeis.org/A136895)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136896](https://oeis.org/A136896)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136897](https://oeis.org/A136897)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136898](https://oeis.org/A136898)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136899](https://oeis.org/A136899)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136900](https://oeis.org/A136900)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136901](https://oeis.org/A136901)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136902](https://oeis.org/A136902)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136903](https://oeis.org/A136903)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136904](https://oeis.org/A136904)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136905](https://oeis.org/A136905)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136906](https://oeis.org/A136906)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136907](https://oeis.org/A136907)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136908](https://oeis.org/A136908)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136909](https://oeis.org/A136909)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136910](https://oeis.org/A136910)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136911](https://oeis.org/A136911)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136912](https://oeis.org/A136912)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136913](https://oeis.org/A136913)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136914](https://oeis.org/A136914)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136915](https://oeis.org/A136915)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136916](https://oeis.org/A136916)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136917](https://oeis.org/A136917)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136918](https://oeis.org/A136918)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136919](https://oeis.org/A136919)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136920](https://oeis.org/A136920)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136921](https://oeis.org/A136921)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136922](https://oeis.org/A136922)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136923](https://oeis.org/A136923)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136924](https://oeis.org/A136924)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136925](https://oeis.org/A136925)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136926](https://oeis.org/A136926)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136927](https://oeis.org/A136927)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136928](https://oeis.org/A136928)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136929](https://oeis.org/A136929)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136930](https://oeis.org/A136930)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136931](https://oeis.org/A136931)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136932](https://oeis.org/A136932)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136933](https://oeis.org/A136933)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136934](https://oeis.org/A136934)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136935](https://oeis.org/A136935)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136936](https://oeis.org/A136936)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136937](https://oeis.org/A136937)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136938](https://oeis.org/A136938)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136939](https://oeis.org/A136939)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136940](https://oeis.org/A136940)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136941](https://oeis.org/A136941)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136942](https://oeis.org/A136942)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136943](https://oeis.org/A136943)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136944](https://oeis.org/A136944)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136945](https://oeis.org/A136945)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136946](https://oeis.org/A136946)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136947](https://oeis.org/A136947)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136948](https://oeis.org/A136948)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136949](https://oeis.org/A136949)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136950](https://oeis.org/A136950)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136951](https://oeis.org/A136951)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136952](https://oeis.org/A136952)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136953](https://oeis.org/A136953)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136954](https://oeis.org/A136954)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136955](https://oeis.org/A136955)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136956](https://oeis.org/A136956)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136957](https://oeis.org/A136957)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136958](https://oeis.org/A136958)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136959](https://oeis.org/A136959)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136960](https://oeis.org/A136960)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136961](https://oeis.org/A136961)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136962](https://oeis.org/A136962)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136963](https://oeis.org/A136963)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136964](https://oeis.org/A136964)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136965](https://oeis.org/A136965)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136966](https://oeis.org/A136966)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136968](https://oeis.org/A136968)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136969](https://oeis.org/A136969)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136970](https://oeis.org/A136970)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136971](https://oeis.org/A136971)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136972](https://oeis.org/A136972)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136973](https://oeis.org/A136973)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136974](https://oeis.org/A136974)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136975](https://oeis.org/A136975)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136976](https://oeis.org/A136976)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136977](https://oeis.org/A136977)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136978](https://oeis.org/A136978)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136979](https://oeis.org/A136979)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136980](https://oeis.org/A136980)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136981](https://oeis.org/A136981)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136982](https://oeis.org/A136982)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136983](https://oeis.org/A136983)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136984](https://oeis.org/A136984)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136985](https://oeis.org/A136985)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136986](https://oeis.org/A136986)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136987](https://oeis.org/A136987)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136988](https://oeis.org/A136988)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136989](https://oeis.org/A136989)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136990](https://oeis.org/A136990)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136991](https://oeis.org/A136991)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136992](https://oeis.org/A136992)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136993](https://oeis.org/A136993)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136994](https://oeis.org/A136994)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136995](https://oeis.org/A136995)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136996](https://oeis.org/A136996)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136997](https://oeis.org/A136997)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136998](https://oeis.org/A136998)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[136999](https://oeis.org/A136999)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137000](https://oeis.org/A137000)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137001](https://oeis.org/A137001)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137002](https://oeis.org/A137002)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137003](https://oeis.org/A137003)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137004](https://oeis.org/A137004)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137005](https://oeis.org/A137005)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137006](https://oeis.org/A137006)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137007](https://oeis.org/A137007)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137008](https://oeis.org/A137008)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137009](https://oeis.org/A137009)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137010](https://oeis.org/A137010)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137011](https://oeis.org/A137011)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137012](https://oeis.org/A137012)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137013](https://oeis.org/A137013)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137014](https://oeis.org/A137014)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137015](https://oeis.org/A137015)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137016](https://oeis.org/A137016)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137017](https://oeis.org/A137017)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137018](https://oeis.org/A137018)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137019](https://oeis.org/A137019)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137020](https://oeis.org/A137020)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137021](https://oeis.org/A137021)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137022](https://oeis.org/A137022)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137023](https://oeis.org/A137023)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137024](https://oeis.org/A137024)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137025](https://oeis.org/A137025)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137026](https://oeis.org/A137026)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137027](https://oeis.org/A137027)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137028](https://oeis.org/A137028)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137029](https://oeis.org/A137029)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137030](https://oeis.org/A137030)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137031](https://oeis.org/A137031)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137032](https://oeis.org/A137032)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137033](https://oeis.org/A137033)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137034](https://oeis.org/A137034)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137035](https://oeis.org/A137035)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137036](https://oeis.org/A137036)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137037](https://oeis.org/A137037)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137038](https://oeis.org/A137038)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137039](https://oeis.org/A137039)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137040](https://oeis.org/A137040)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137041](https://oeis.org/A137041)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137042](https://oeis.org/A137042)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137043](https://oeis.org/A137043)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137044](https://oeis.org/A137044)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137045](https://oeis.org/A137045)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137046](https://oeis.org/A137046)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137047](https://oeis.org/A137047)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137048](https://oeis.org/A137048)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137049](https://oeis.org/A137049)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137050](https://oeis.org/A137050)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137051](https://oeis.org/A137051)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137052](https://oeis.org/A137052)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137053](https://oeis.org/A137053)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137054](https://oeis.org/A137054)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137055](https://oeis.org/A137055)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137056](https://oeis.org/A137056)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137057](https://oeis.org/A137057)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137058](https://oeis.org/A137058)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137059](https://oeis.org/A137059)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137060](https://oeis.org/A137060)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137061](https://oeis.org/A137061)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137062](https://oeis.org/A137062)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137063](https://oeis.org/A137063)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137064](https://oeis.org/A137064)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137065](https://oeis.org/A137065)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137066](https://oeis.org/A137066)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137067](https://oeis.org/A137067)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137068](https://oeis.org/A137068)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137069](https://oeis.org/A137069)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137070](https://oeis.org/A137070)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137071](https://oeis.org/A137071)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137072](https://oeis.org/A137072)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137073](https://oeis.org/A137073)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137074](https://oeis.org/A137074)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137075](https://oeis.org/A137075)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137076](https://oeis.org/A137076)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137077](https://oeis.org/A137077)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137078](https://oeis.org/A137078)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137079](https://oeis.org/A137079)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137080](https://oeis.org/A137080)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137081](https://oeis.org/A137081)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137082](https://oeis.org/A137082)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137083](https://oeis.org/A137083)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137084](https://oeis.org/A137084)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137085](https://oeis.org/A137085)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137086](https://oeis.org/A137086)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137087](https://oeis.org/A137087)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137088](https://oeis.org/A137088)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137089](https://oeis.org/A137089)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137090](https://oeis.org/A137090)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137091](https://oeis.org/A137091)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137092](https://oeis.org/A137092)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137093](https://oeis.org/A137093)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137094](https://oeis.org/A137094)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137095](https://oeis.org/A137095)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137096](https://oeis.org/A137096)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137097](https://oeis.org/A137097)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137098](https://oeis.org/A137098)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137099](https://oeis.org/A137099)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137100](https://oeis.org/A137100)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137101](https://oeis.org/A137101)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137102](https://oeis.org/A137102)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137104](https://oeis.org/A137104)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137105](https://oeis.org/A137105)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137106](https://oeis.org/A137106)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137107](https://oeis.org/A137107)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137108](https://oeis.org/A137108)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137109](https://oeis.org/A137109)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137110](https://oeis.org/A137110)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137111](https://oeis.org/A137111)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137112](https://oeis.org/A137112)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137114](https://oeis.org/A137114)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137115](https://oeis.org/A137115)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137116](https://oeis.org/A137116)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137117](https://oeis.org/A137117)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137118](https://oeis.org/A137118)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137120](https://oeis.org/A137120)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137121](https://oeis.org/A137121)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137122](https://oeis.org/A137122)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137123](https://oeis.org/A137123)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137124](https://oeis.org/A137124)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137125](https://oeis.org/A137125)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137126](https://oeis.org/A137126)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137127](https://oeis.org/A137127)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137128](https://oeis.org/A137128)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137129](https://oeis.org/A137129)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137130](https://oeis.org/A137130)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137131](https://oeis.org/A137131)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137132](https://oeis.org/A137132)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137133](https://oeis.org/A137133)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137134](https://oeis.org/A137134)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137135](https://oeis.org/A137135)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137136](https://oeis.org/A137136)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137137](https://oeis.org/A137137)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137138](https://oeis.org/A137138)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137139](https://oeis.org/A137139)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137140](https://oeis.org/A137140)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137141](https://oeis.org/A137141)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137142](https://oeis.org/A137142)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137143](https://oeis.org/A137143)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137144](https://oeis.org/A137144)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137145](https://oeis.org/A137145)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137146](https://oeis.org/A137146)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137147](https://oeis.org/A137147)|[http://jonathanwellons.com/shared-digits/](http://jonathanwellons.com/shared-digits/)|
-|[137294](https://oeis.org/A137294)|[http://compgeom.cs.uiuc.edu/~jeffe/pubs/sowing.html](http://compgeom.cs.uiuc.edu/~jeffe/pubs/sowing.html)|
-|[137295](https://oeis.org/A137295)|[http://compgeom.cs.uiuc.edu/~jeffe/pubs/sowing.html](http://compgeom.cs.uiuc.edu/~jeffe/pubs/sowing.html)|
-|[137348](https://oeis.org/A137348)|[http://www.ct.tkk.fi/~vesa/](http://www.ct.tkk.fi/~vesa/)|
-|[137385](https://oeis.org/A137385)|[http://les-mathematiques.u-strasbg.fr/phorum5/read.php?2](http://les-mathematiques.u-strasbg.fr/phorum5/read.php?2)|
-|[137432](https://oeis.org/A137432)|[http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html](http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html)|
-|[137613](https://oeis.org/A137613)|[http://www2.lifl.fr/~delahaye/IAGL/Conjectures.pdf](http://www2.lifl.fr/~delahaye/IAGL/Conjectures.pdf)|
-|[137726](https://oeis.org/A137726)|[https://www.spoj.pl/problems/JZPCIR/](https://www.spoj.pl/problems/JZPCIR/)|
-|[137864](https://oeis.org/A137864)|[http://www.teachers.ash.org.au/mikemath/numseqfindiff/note2.pdf](http://www.teachers.ash.org.au/mikemath/numseqfindiff/note2.pdf)|
-|[138163](https://oeis.org/A138163)|[http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
-|[138329](https://oeis.org/A138329)|[http://free.pages.at/neuenkirchen/palindrom/](http://free.pages.at/neuenkirchen/palindrom/), [http://free.pages.at/neuenkirchen/palindrom/bilder/prime/snp-twins.txt](http://free.pages.at/neuenkirchen/palindrom/bilder/prime/snp-twins.txt)|
-|[138358](https://oeis.org/A138358)|[http://free.pages.at/neuenkirchen/palindrom/](http://free.pages.at/neuenkirchen/palindrom/), [http://free.pages.at/neuenkirchen/palindrom/bilder/prime/tupelx.txt](http://free.pages.at/neuenkirchen/palindrom/bilder/prime/tupelx.txt)|
-|[138359](https://oeis.org/A138359)|[http://free.pages.at/neuenkirchen/palindrom/bilder/prime/tupelx.txt](http://free.pages.at/neuenkirchen/palindrom/bilder/prime/tupelx.txt), [http://free.pages.at/neuenkirchen/palindrom/](http://free.pages.at/neuenkirchen/palindrom/)|
-|[138728](https://oeis.org/A138728)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
-|[138769](https://oeis.org/A138769)|[http://www.matematikolimpiyatokulu.com/images/Mag_Abr_2009.pdf](http://www.matematikolimpiyatokulu.com/images/Mag_Abr_2009.pdf)|
-|[138818](https://oeis.org/A138818)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
-|[138819](https://oeis.org/A138819)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
-|[138873](https://oeis.org/A138873)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
-|[138875](https://oeis.org/A138875)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
-|[138877](https://oeis.org/A138877)|[http://amicable.homepage.dk/perfect.htm](http://amicable.homepage.dk/perfect.htm)|
-|[139250](https://oeis.org/A139250)|[http://boisemathcircles.org/bmc-sessions/toothpicks](http://boisemathcircles.org/bmc-sessions/toothpicks)|
-|[140118](https://oeis.org/A140118)|[http://jonathanwellons.com/](http://jonathanwellons.com/)|
-|[140259](https://oeis.org/A140259)|[http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace](http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace)|
-|[140260](https://oeis.org/A140260)|[http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace](http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace)|
-|[140261](https://oeis.org/A140261)|[http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace](http://network.nature.com/blogs/user/nwerneck/2008/01/18/the-black-pearl-necklace)|
-|[140395](https://oeis.org/A140395)|[http://bama.ua.edu/~clc/hindi/numbers_hindi.html](http://bama.ua.edu/~clc/hindi/numbers_hindi.html)|
-|[140456](https://oeis.org/A140456)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[140662](https://oeis.org/A140662)|[http://www.math.yorku.ca/Who/Faculty/Rensburg/Preprints/slits.pdf](http://www.math.yorku.ca/Who/Faculty/Rensburg/Preprints/slits.pdf)|
-|[140688](https://oeis.org/A140688)|[http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm)|
-|[141199](https://oeis.org/A141199)|[http://ago.inria.fr/libraries/libraries.html).](http://ago.inria.fr/libraries/libraries.html).)|
-|[141618](https://oeis.org/A141618)|[https://mathfiles.kfupm.edu.sa/data/files/mathonly/TechnicalReportsData/305.pdf](https://mathfiles.kfupm.edu.sa/data/files/mathonly/TechnicalReportsData/305.pdf)|
-|[142708](https://oeis.org/A142708)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[143300](https://oeis.org/A143300)|[http://www.pages.drexel.edu/~schmutze/PAPERS/musn.pdf](http://www.pages.drexel.edu/~schmutze/PAPERS/musn.pdf), [http://ftp.bolyai.hu/~p_erdos/1965-08.pdf](http://ftp.bolyai.hu/~p_erdos/1965-08.pdf)|
-|[143484](https://oeis.org/A143484)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
-|[143485](https://oeis.org/A143485)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
-|[143486](https://oeis.org/A143486)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
-|[143487](https://oeis.org/A143487)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
-|[143488](https://oeis.org/A143488)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
-|[143489](https://oeis.org/A143489)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
-|[143490](https://oeis.org/A143490)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
-|[143497](https://oeis.org/A143497)|[http://preprinti.imfm.si/PDF/00837.pdf](http://preprinti.imfm.si/PDF/00837.pdf)|
-|[143667](https://oeis.org/A143667)|[http://alexis.monnerot-dumaine.neuf.fr/articles/fibonacci%20fractal.pdf](http://alexis.monnerot-dumaine.neuf.fr/articles/fibonacci%20fractal.pdf)|
-|[143699](https://oeis.org/A143699)|[http://www.theophys.kth.se/~phl/Text/1factors2.pdf](http://www.theophys.kth.se/~phl/Text/1factors2.pdf)|
-|[143742](https://oeis.org/A143742)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
-|[143743](https://oeis.org/A143743)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
-|[143744](https://oeis.org/A143744)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
-|[143745](https://oeis.org/A143745)|[http://harry-j-smith-memorial.com/Juggler/JuggWhat.html](http://harry-j-smith-memorial.com/Juggler/JuggWhat.html)|
-|[143751](https://oeis.org/A143751)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[143752](https://oeis.org/A143752)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[144618](https://oeis.org/A144618)|[http://dip.sun.ac.za/~laurie/papers/computing_gamma.pdf](http://dip.sun.ac.za/~laurie/papers/computing_gamma.pdf)|
-|[144685](https://oeis.org/A144685)|[https://www.kellogg.northwestern.edu/research/math/seminars/200405/Galambos06205.pdf](https://www.kellogg.northwestern.edu/research/math/seminars/200405/Galambos06205.pdf)|
-|[144714](https://oeis.org/A144714)|[http://harry-j-smith-memorial.com/download.html#Left-Tru](http://harry-j-smith-memorial.com/download.html#Left-Tru)|
-|[144738](https://oeis.org/A144738)|[http://barrybrent.9f.com/storage/my%20math/zeta.pdf](http://barrybrent.9f.com/storage/my%20math/zeta.pdf)|
-|[144828](https://oeis.org/A144828)|[http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf](http://www.mat.unisi.it/newsito/puma/public_html/23_3/hardt_troyka.pdf)|
-|[145388](https://oeis.org/A145388)|[http://www.collectanea.ub.edu/index.php/Collectanea/article/view/3699/4377](http://www.collectanea.ub.edu/index.php/Collectanea/article/view/3699/4377)|
-|[145438](https://oeis.org/A145438)|[http://locutus.cs.dal.ca:8088/archive/00000131/](http://locutus.cs.dal.ca:8088/archive/00000131/)|
-|[145549](https://oeis.org/A145549)|[http://magicdragon.com/EmeraldCity/Nonfiction/four9s.html](http://magicdragon.com/EmeraldCity/Nonfiction/four9s.html)|
-|[145578](https://oeis.org/A145578)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[145648](https://oeis.org/A145648)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[145657](https://oeis.org/A145657)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[145659](https://oeis.org/A145659)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[145665](https://oeis.org/A145665)|[http://for.mat.bham.ac.uk/atlas/v2.0/spor/M11/](http://for.mat.bham.ac.uk/atlas/v2.0/spor/M11/)|
-|[145683](https://oeis.org/A145683)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[145685](https://oeis.org/A145685)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[145686](https://oeis.org/A145686)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[145687](https://oeis.org/A145687)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[145922](https://oeis.org/A145922)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[145933](https://oeis.org/A145933)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[145981](https://oeis.org/A145981)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[145982](https://oeis.org/A145982)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[146075](https://oeis.org/A146075)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[146888](https://oeis.org/A146888)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[146889](https://oeis.org/A146889)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[146893](https://oeis.org/A146893)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[146894](https://oeis.org/A146894)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[146895](https://oeis.org/A146895)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[146896](https://oeis.org/A146896)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[146897](https://oeis.org/A146897)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[146946](https://oeis.org/A146946)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[146947](https://oeis.org/A146947)|[http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm](http://www.tech.plym.ac.uk/Research/fixed_and_mobile_communications/links/weightdistributions.htm)|
-|[146961](https://oeis.org/A146961)|[http://os.osdd.net/index.php/record/view/150854](http://os.osdd.net/index.php/record/view/150854)|
-|[151937](https://oeis.org/A151937)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html)|
-|[151938](https://oeis.org/A151938)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html)|
-|[151939](https://oeis.org/A151939)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html)|
-|[151940](https://oeis.org/A151940)|[http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html](http://www.infsys.cne.okayama-u.ac.jp/~kusaka/wd/index.html)|
-|[152089](https://oeis.org/A152089)|[http://stefan.guninski.com/seq/guyres2.txt](http://stefan.guninski.com/seq/guyres2.txt)|
-|[152217](https://oeis.org/A152217)|[http://staff.spd.dcu.ie/johnbcos/jacobi.htm](http://staff.spd.dcu.ie/johnbcos/jacobi.htm)|
-|[152532](https://oeis.org/A152532)|[http://math.crg4.com/uninteresting.html](http://math.crg4.com/uninteresting.html)|
-|[152673](https://oeis.org/A152673)|[http://www.magic-squares.net/Image_object/cube-prime.gif](http://www.magic-squares.net/Image_object/cube-prime.gif), [http://www.magic-squares.net/perimeter-3.htm](http://www.magic-squares.net/perimeter-3.htm)|
-|[153195](https://oeis.org/A153195)|[http://harry-j-smith-memorial.com/download.html#XICalc](http://harry-j-smith-memorial.com/download.html#XICalc)|
-|[153197](https://oeis.org/A153197)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[153385](https://oeis.org/A153385)|[http://harry-j-smith-memorial.com/download.html#XICalc](http://harry-j-smith-memorial.com/download.html#XICalc)|
-|[153450](https://oeis.org/A153450)|[http://harry-j-smith-memorial.com/download.html#XICalc](http://harry-j-smith-memorial.com/download.html#XICalc)|
-|[153810](https://oeis.org/A153810)|[http://www.dmg.tuwien.ac.at/nfn/gamma.pdf](http://www.dmg.tuwien.ac.at/nfn/gamma.pdf)|
-|[156209](https://oeis.org/A156209)|[http://mars.wnec.edu/~thull/papers/flatsurvey.pdf](http://mars.wnec.edu/~thull/papers/flatsurvey.pdf), [http://mars.wnec.edu/~thull/papers/countingfolds.pdf](http://mars.wnec.edu/~thull/papers/countingfolds.pdf)|
-|[156596](https://oeis.org/A156596)|[http://alexis.monnerot-dumaine.neuf.fr/articles/fibonacci%20fractal.pdf](http://alexis.monnerot-dumaine.neuf.fr/articles/fibonacci%20fractal.pdf)|
-|[156989](https://oeis.org/A156989)|[http://michaelnielsen.org/polymath1/index.php?title=Main_Page](http://michaelnielsen.org/polymath1/index.php?title=Main_Page)|
-|[157795](https://oeis.org/A157795)|[http://michaelnielsen.org/polymath1/index.php?title=Fujimura%27s_problem](http://michaelnielsen.org/polymath1/index.php?title=Fujimura%27s_problem)|
-|[157810](https://oeis.org/A157810)|[http://www.thehcmr.org/issue1_2/problems_and_solutions.pdf](http://www.thehcmr.org/issue1_2/problems_and_solutions.pdf)|
-|[158239](https://oeis.org/A158239)|[http://blade100.math.scu.edu.tw/~u9217/hw3.nb](http://blade100.math.scu.edu.tw/~u9217/hw3.nb)|
-|[159328](https://oeis.org/A159328)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
-|[159329](https://oeis.org/A159329)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
-|[159330](https://oeis.org/A159330)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
-|[159334](https://oeis.org/A159334)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
-|[159338](https://oeis.org/A159338)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
-|[159340](https://oeis.org/A159340)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
-|[159342](https://oeis.org/A159342)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
-|[159343](https://oeis.org/A159343)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
-|[159347](https://oeis.org/A159347)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
-|[159348](https://oeis.org/A159348)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
-|[159349](https://oeis.org/A159349)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
-|[159350](https://oeis.org/A159350)|[http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf](http://www.apmep.asso.fr/IMG/pdf/curtz1.pdf)|
-|[159619](https://oeis.org/A159619)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[159782](https://oeis.org/A159782)|[http://puma.dimai.unifi.it/19_2_3/4.pdf](http://puma.dimai.unifi.it/19_2_3/4.pdf)|
-|[159919](https://oeis.org/A159919)|[http://banach.millersville.edu/~bob/math478/History/Sundaram.html](http://banach.millersville.edu/~bob/math478/History/Sundaram.html)|
-|[159920](https://oeis.org/A159920)|[http://banach.millersville.edu/~bob/math478/History/Sundaram.html](http://banach.millersville.edu/~bob/math478/History/Sundaram.html)|
-|[160590](https://oeis.org/A160590)|[http://sfnet.fi/group.php?newsgroup=sfnet.tiede.matematiikka&amp](http://sfnet.fi/group.php?newsgroup=sfnet.tiede.matematiikka&amp)|
-|[160753](https://oeis.org/A160753)|[http://hdl.handle.net/2292/3800](http://hdl.handle.net/2292/3800), [http://hdl.handle.net/2292/3784](http://hdl.handle.net/2292/3784)|
-|[161328](https://oeis.org/A161328)|[http://blog.barabel.net/index.php?post/2012/01/epiphanie](http://blog.barabel.net/index.php?post/2012/01/epiphanie)|
-|[161434](https://oeis.org/A161434)|[http://www.mat.unisi.it/newsito/puma/public_html/17_1_2/grazzini.pdf](http://www.mat.unisi.it/newsito/puma/public_html/17_1_2/grazzini.pdf)|
-|[161664](https://oeis.org/A161664)|[http://wiki.wildforests.co/topic/Cicada](http://wiki.wildforests.co/topic/Cicada), [http://philoscience.unibe.ch/lehre/winter06/wtwg_bio/webb01.pdf](http://philoscience.unibe.ch/lehre/winter06/wtwg_bio/webb01.pdf)|
-|[161680](https://oeis.org/A161680)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[161752](https://oeis.org/A161752)|[http://www.magic-squares.net/narciss.htm#PDIs](http://www.magic-squares.net/narciss.htm#PDIs)|
-|[161810](https://oeis.org/A161810)|[http://ace.delos.com/HOL09)](http://ace.delos.com/HOL09))|
-|[161948](https://oeis.org/A161948)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
-|[161949](https://oeis.org/A161949)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
-|[161950](https://oeis.org/A161950)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
-|[161952](https://oeis.org/A161952)|[http://ftp.cwi.nl/dik/Armstrong](http://ftp.cwi.nl/dik/Armstrong)|
-|[162395](https://oeis.org/A162395)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[162607](https://oeis.org/A162607)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
-|[163095](https://oeis.org/A163095)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[163279](https://oeis.org/A163279)|[http://math.crg4.com/uninteresting.html](http://math.crg4.com/uninteresting.html)|
-|[164355](https://oeis.org/A164355)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[164356](https://oeis.org/A164356)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[164357](https://oeis.org/A164357)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[164843](https://oeis.org/A164843)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
-|[164935](https://oeis.org/A164935)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/challenges/April2004.html)|
-|[166079](https://oeis.org/A166079)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[166486](https://oeis.org/A166486)|[http://cis.csuohio.edu/~somos/rfmc.html](http://cis.csuohio.edu/~somos/rfmc.html)|
-|[167050](https://oeis.org/A167050)|[http://andfog.altervista.org/math/Cesenatico/Cesenatico%201999.pdf](http://andfog.altervista.org/math/Cesenatico/Cesenatico%201999.pdf)|
-|[167132](https://oeis.org/A167132)|[http://primes.virtual-library.biz/](http://primes.virtual-library.biz/)|
-|[167232](https://oeis.org/A167232)|[http://www.spoj.pl/problems/KPSUM/](http://www.spoj.pl/problems/KPSUM/)|
-|[167289](https://oeis.org/A167289)|[http://oldweb.cecm.sfu.ca/~mjm/Lehmer/](http://oldweb.cecm.sfu.ca/~mjm/Lehmer/)|
-|[167389](https://oeis.org/A167389)|[http://kong.apmaths.uwo.ca/~rcorless/frames/PAPERS/LambertW/](http://kong.apmaths.uwo.ca/~rcorless/frames/PAPERS/LambertW/)|
-|[167660](https://oeis.org/A167660)|[http://www.math.uakron.edu/~norfolk/sara.pdf](http://www.math.uakron.edu/~norfolk/sara.pdf)|
-|[168022](https://oeis.org/A168022)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
-|[168023](https://oeis.org/A168023)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
-|[168024](https://oeis.org/A168024)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
-|[168025](https://oeis.org/A168025)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
-|[168026](https://oeis.org/A168026)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
-|[168027](https://oeis.org/A168027)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
-|[168182](https://oeis.org/A168182)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[169858](https://oeis.org/A169858)|[http://crypt.org/hv/puzzle/A169858-0.03.tar.bz2](http://crypt.org/hv/puzzle/A169858-0.03.tar.bz2)|
-|[171093](https://oeis.org/A171093)|[http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf](http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf)|
-|[171094](https://oeis.org/A171094)|[http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf](http://etd.fcla.edu/UF/UFE0022066/coleman_m.pdf)|
-|[171150](https://oeis.org/A171150)|[http://puma.dimai.unifi.it/21_2/1_Barnabei_Bonetti_Silimbani.pdf](http://puma.dimai.unifi.it/21_2/1_Barnabei_Bonetti_Silimbani.pdf)|
-|[171381](https://oeis.org/A171381)|[http://ijcalvo.galeon.com/pubs.htm](http://ijcalvo.galeon.com/pubs.htm)|
-|[172060](https://oeis.org/A172060)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/bona.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/bona.pdf)|
-|[172243](https://oeis.org/A172243)|[http://mathworld.wolfram.co/ProthPrime.html](http://mathworld.wolfram.co/ProthPrime.html)|
-|[172259](https://oeis.org/A172259)|[http://www-maths.swan.ac.uk/staff/fwc/Gregynog-slides.pdf](http://www-maths.swan.ac.uk/staff/fwc/Gregynog-slides.pdf)|
-|[172395](https://oeis.org/A172395)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[172992](https://oeis.org/A172992)|[http://infinitesearchspace.dyndns.org/content/orchard-mini-contest)](http://infinitesearchspace.dyndns.org/content/orchard-mini-contest)), [http://infinitesearchspace.dyndns.org/orchardplanting)](http://infinitesearchspace.dyndns.org/orchardplanting))|
-|[173522](https://oeis.org/A173522)|[http://www.imfm.si/preprinti/PDF/00696.pdf](http://www.imfm.si/preprinti/PDF/00696.pdf)|
-|[173561](https://oeis.org/A173561)|[https://www.sunsite.ubc.ca/~gerg/papers/downloads/SVP.pdf](https://www.sunsite.ubc.ca/~gerg/papers/downloads/SVP.pdf)|
-|[174094](https://oeis.org/A174094)|[http://parsec2.unina2.it/ojs/index.php/periodico/article/view/285](http://parsec2.unina2.it/ojs/index.php/periodico/article/view/285)|
-|[174347](https://oeis.org/A174347)|[http://repository.wit.ie/1693/1/AoifeThesis.pdf](http://repository.wit.ie/1693/1/AoifeThesis.pdf)|
-|[174590](https://oeis.org/A174590)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#76](http://www.chalcedon.demon.co.uk/rgep/publish.html#76)|
-|[174734](https://oeis.org/A174734)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#76](http://www.chalcedon.demon.co.uk/rgep/publish.html#76)|
-|[174973](https://oeis.org/A174973)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
-|[175309](https://oeis.org/A175309)|[http://stop.inferia.ru/](http://stop.inferia.ru/)|
-|[175342](https://oeis.org/A175342)|[http://www.bdigital.unal.edu.co/7753/](http://www.bdigital.unal.edu.co/7753/)|
-|[175516](https://oeis.org/A175516)|[http://crypt.org/hv/puzzle/A169858-0.03.tar.bz2](http://crypt.org/hv/puzzle/A169858-0.03.tar.bz2)|
-|[176142](https://oeis.org/A176142)|[http://www.springerlink.com/content/ln41r0602m036u27/](http://www.springerlink.com/content/ln41r0602m036u27/)|
-|[176186](https://oeis.org/A176186)|[http://zealint.ru/sixqueens-results.html](http://zealint.ru/sixqueens-results.html)|
-|[176341](https://oeis.org/A176341)|[http://oldweb.cecm.sfu.ca/projects/ISC/data/pi.html](http://oldweb.cecm.sfu.ca/projects/ISC/data/pi.html)|
-|[176988](https://oeis.org/A176988)|[http://www.weblearn.hs-bremen.de/risse/papers/SiP27/Zernike.pdf](http://www.weblearn.hs-bremen.de/risse/papers/SiP27/Zernike.pdf)|
-|[177854](https://oeis.org/A177854)|[http://bitc.bme.emory.edu/~lzhou/blogs/?p=117](http://bitc.bme.emory.edu/~lzhou/blogs/?p=117)|
-|[178683](https://oeis.org/A178683)|[http://userweb.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1044.html](http://userweb.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1044.html)|
-|[178718](https://oeis.org/A178718)|[http://www.cems.uvm.edu/~gwarring/research/kinv9.pdf](http://www.cems.uvm.edu/~gwarring/research/kinv9.pdf)|
-|[178722](https://oeis.org/A178722)|[http://zealint.ru/sixqueens-torus-results.html](http://zealint.ru/sixqueens-torus-results.html)|
-|[178866](https://oeis.org/A178866)|[https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf](https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf)|
-|[178867](https://oeis.org/A178867)|[https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf](https://www.ucbcba.edu.bo/wp-content/uploads/PDF/Acta-Nova/v4.n1.Meijer.pdf)|
-|[178940](https://oeis.org/A178940)|[http://www.cems.uvm.edu/~gwarring/research/kinv9.pdf](http://www.cems.uvm.edu/~gwarring/research/kinv9.pdf)|
-|[178941](https://oeis.org/A178941)|[http://www.cems.uvm.edu/~gwarring/research/kinv9.pdf](http://www.cems.uvm.edu/~gwarring/research/kinv9.pdf)|
-|[179071](https://oeis.org/A179071)|[http://secamlocal.ex.ac.uk/people/staff/rjchapma/etc/evildet.pdf](http://secamlocal.ex.ac.uk/people/staff/rjchapma/etc/evildet.pdf)|
-|[179072](https://oeis.org/A179072)|[http://secamlocal.ex.ac.uk/people/staff/rjchapma/etc/evildet.pdf](http://secamlocal.ex.ac.uk/people/staff/rjchapma/etc/evildet.pdf)|
-|[179216](https://oeis.org/A179216)|[http://willnicholes.com/math/primesigmap.htm](http://willnicholes.com/math/primesigmap.htm)|
-|[179217](https://oeis.org/A179217)|[http://willnicholes.com/math/primesigmap.htm](http://willnicholes.com/math/primesigmap.htm)|
-|[179218](https://oeis.org/A179218)|[http://willnicholes.com/math/primesigmap.htm](http://willnicholes.com/math/primesigmap.htm)|
-|[179219](https://oeis.org/A179219)|[http://willnicholes.com/math/primesigmap.htm](http://willnicholes.com/math/primesigmap.htm)|
-|[179220](https://oeis.org/A179220)|[http://willnicholes.com/math/primesigmap.htm](http://willnicholes.com/math/primesigmap.htm)|
-|[179221](https://oeis.org/A179221)|[http://willnicholes.com/math/primesigmap.htm](http://willnicholes.com/math/primesigmap.htm)|
-|[179222](https://oeis.org/A179222)|[http://willnicholes.com/math/primesigmap.htm](http://willnicholes.com/math/primesigmap.htm)|
-|[179223](https://oeis.org/A179223)|[http://willnicholes.com/math/primesigmap.htm](http://willnicholes.com/math/primesigmap.htm)|
-|[179224](https://oeis.org/A179224)|[http://willnicholes.com/math/primesigmap.htm](http://willnicholes.com/math/primesigmap.htm)|
-|[179225](https://oeis.org/A179225)|[http://willnicholes.com/math/primesigmap.htm](http://willnicholes.com/math/primesigmap.htm)|
-|[179226](https://oeis.org/A179226)|[http://willnicholes.com/math/primesigmap.htm](http://willnicholes.com/math/primesigmap.htm)|
-|[179227](https://oeis.org/A179227)|[http://willnicholes.com/math/primesigmap.htm](http://willnicholes.com/math/primesigmap.htm)|
-|[179228](https://oeis.org/A179228)|[http://willnicholes.com/math/primesigmap.htm](http://willnicholes.com/math/primesigmap.htm)|
-|[179390](https://oeis.org/A179390)|[http://willnicholes.com/math/pisano.htm](http://willnicholes.com/math/pisano.htm)|
-|[179391](https://oeis.org/A179391)|[http://willnicholes.com/math/pisano.htm](http://willnicholes.com/math/pisano.htm)|
-|[179392](https://oeis.org/A179392)|[http://willnicholes.com/math/pisano.htm](http://willnicholes.com/math/pisano.htm)|
-|[179393](https://oeis.org/A179393)|[http://willnicholes.com/math/pisano.htm](http://willnicholes.com/math/pisano.htm)|
-|[179476](https://oeis.org/A179476)|[http://knuth07.labri.fr/talks/lefebvre_kmparrays_knuth07.pdf](http://knuth07.labri.fr/talks/lefebvre_kmparrays_knuth07.pdf)|
-|[179642](https://oeis.org/A179642)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179643](https://oeis.org/A179643)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179644](https://oeis.org/A179644)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179645](https://oeis.org/A179645)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179646](https://oeis.org/A179646)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179664](https://oeis.org/A179664)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179665](https://oeis.org/A179665)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179666](https://oeis.org/A179666)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179667](https://oeis.org/A179667)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179668](https://oeis.org/A179668)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179669](https://oeis.org/A179669)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179670](https://oeis.org/A179670)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179672](https://oeis.org/A179672)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179688](https://oeis.org/A179688)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179689](https://oeis.org/A179689)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179690](https://oeis.org/A179690)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179691](https://oeis.org/A179691)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179692](https://oeis.org/A179692)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179693](https://oeis.org/A179693)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179694](https://oeis.org/A179694)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179695](https://oeis.org/A179695)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179696](https://oeis.org/A179696)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179698](https://oeis.org/A179698)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179699](https://oeis.org/A179699)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179700](https://oeis.org/A179700)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179702](https://oeis.org/A179702)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179703](https://oeis.org/A179703)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179704](https://oeis.org/A179704)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179705](https://oeis.org/A179705)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179746](https://oeis.org/A179746)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179747](https://oeis.org/A179747)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[179850](https://oeis.org/A179850)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[180330](https://oeis.org/A180330)|[http://amicable.adsl.dk/aliquot/apstat/apreg22.txt](http://amicable.adsl.dk/aliquot/apstat/apreg22.txt)|
-|[180335](https://oeis.org/A180335)|[http://amicable.adsl.dk/aliquot/apstat/apreg22.txt](http://amicable.adsl.dk/aliquot/apstat/apreg22.txt)|
-|[180362](https://oeis.org/A180362)|[http://eprints.maths.ox.ac.uk/166/](http://eprints.maths.ox.ac.uk/166/)|
-|[180620](https://oeis.org/A180620)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
-|[180907](https://oeis.org/A180907)|[http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf](http://dmg.tuwien.ac.at/drmota/Thesis_Wallner.pdf)|
-|[180962](https://oeis.org/A180962)|[http://theory.cs.uvic.ca/inf/pose/LinearExt.html](http://theory.cs.uvic.ca/inf/pose/LinearExt.html)|
-|[180971](https://oeis.org/A180971)|[http://www.scribd.com/doc/38461010/Solutions-to-N-N-1-X-2-Y-2](http://www.scribd.com/doc/38461010/Solutions-to-N-N-1-X-2-Y-2)|
-|[181073](https://oeis.org/A181073)|[http://www.rudimatematici.com/Bookshelf/divisibilitaper3.pdf](http://www.rudimatematici.com/Bookshelf/divisibilitaper3.pdf), [http://www.scribd.com/doc/47337392/On-prime-factors-in-old-and-new-sequences-of-integers](http://www.scribd.com/doc/47337392/On-prime-factors-in-old-and-new-sequences-of-integers)|
-|[181132](https://oeis.org/A181132)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[181584](https://oeis.org/A181584)|[http://zealint.ru/prehamilton-cycles-lattice-results.html](http://zealint.ru/prehamilton-cycles-lattice-results.html)|
+|[227156](https://oeis.org/A227156)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
 |[181740](https://oeis.org/A181740)|[http://michaelnielsen.org/polymath1/index.php?title=The_Erd%C5%91s_discrepancy_problem](http://michaelnielsen.org/polymath1/index.php?title=The_Erd%C5%91s_discrepancy_problem)|
 |[181875](https://oeis.org/A181875)|[http://www.math-cs.ucmo.edu/~mjms/2003.1/Surow.pdf](http://www.math-cs.ucmo.edu/~mjms/2003.1/Surow.pdf)|
+|[90805](https://oeis.org/A090805)|[http://users.skynet.be/lch/mquiz/mquiz%202003/vragen/mquiz_2003_tafelronde_2.htm](http://users.skynet.be/lch/mquiz/mquiz%202003/vragen/mquiz_2003_tafelronde_2.htm)|
+|[136328](https://oeis.org/A136328)|[http://journal.iisc.ernet.in/index.php/iisc/article/view/2323](http://journal.iisc.ernet.in/index.php/iisc/article/view/2323)|
+|[227358](https://oeis.org/A227358)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/July2013.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/July2013.html)|
 |[181925](https://oeis.org/A181925)|[http://www.scribd.com/doc/78239615/39/Two-Median-Heron-Triangles](http://www.scribd.com/doc/78239615/39/Two-Median-Heron-Triangles)|
 |[181928](https://oeis.org/A181928)|[http://www.scribd.com/doc/78239615/39/Two-Median-Heron-Triangles](http://www.scribd.com/doc/78239615/39/Two-Median-Heron-Triangles)|
 |[181963](https://oeis.org/A181963)|[http://www.factorization.ath.cx/index.php?query=25](http://www.factorization.ath.cx/index.php?query=25)|
+|[136409](https://oeis.org/A136409)|[http://reflections.awesomemath.org/2006_3/2006_3_ceilingsums.pdf](http://reflections.awesomemath.org/2006_3/2006_3_ceilingsums.pdf)|
+|[90899](https://oeis.org/A090899)|[http://homepage.mac.com/dglynn/](http://homepage.mac.com/dglynn/)|
 |[181969](https://oeis.org/A181969)|[http://www.factorization.ath.cx/index.php?query=16](http://www.factorization.ath.cx/index.php?query=16)|
 |[181973](https://oeis.org/A181973)|[http://www.factorization.ath.cx/index.php?query=16](http://www.factorization.ath.cx/index.php?query=16)|
-|[181980](https://oeis.org/A181980)|[http://bitc.bme.emory.edu/~lzhou/blogs/?p=263](http://bitc.bme.emory.edu/~lzhou/blogs/?p=263)|
 |[181982](https://oeis.org/A181982)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[182216](https://oeis.org/A182216)|[http://www.springerlink.com/content/h273247258k76101/](http://www.springerlink.com/content/h273247258k76101/)|
-|[182290](https://oeis.org/A182290)|[http://www.imfm.si/preprinti/PDF/01178.pdf](http://www.imfm.si/preprinti/PDF/01178.pdf)|
-|[182484](https://oeis.org/A182484)|[http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory](http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory)|
-|[182490](https://oeis.org/A182490)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#82](http://www.chalcedon.demon.co.uk/rgep/publish.html#82)|
-|[182555](https://oeis.org/A182555)|[http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf)|
-|[182935](https://oeis.org/A182935)|[http://dip.sun.ac.za/~laurie/papers/computing_gamma.pdf](http://dip.sun.ac.za/~laurie/papers/computing_gamma.pdf)|
-|[184334](https://oeis.org/A184334)|[http://grail.eecs.csuohio.edu/rfmc.txt](http://grail.eecs.csuohio.edu/rfmc.txt)|
-|[184418](https://oeis.org/A184418)|[http://somos.crgr4.com/rfmc.txt](http://somos.crgr4.com/rfmc.txt)|
-|[185103](https://oeis.org/A185103)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
-|[185276](https://oeis.org/A185276)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
-|[185312](https://oeis.org/A185312)|[http://south.rotol.ramk.fi/keranen/ias2002/NewAbelianSquare-FreeDT0L-LanguagesOver4Letters.nb](http://south.rotol.ramk.fi/keranen/ias2002/NewAbelianSquare-FreeDT0L-LanguagesOver4Letters.nb)|
-|[185641](https://oeis.org/A185641)|[http://sci.tech-archive.net/Archive/sci.math/2004-09/4405.html](http://sci.tech-archive.net/Archive/sci.math/2004-09/4405.html)|
-|[186080](https://oeis.org/A186080)|[http://users.skynet.be/worldofnumbers/cube.htm](http://users.skynet.be/worldofnumbers/cube.htm)|
-|[186101](https://oeis.org/A186101)|[http://cis.csuohio.edu/~somos/rfmc.pdf](http://cis.csuohio.edu/~somos/rfmc.pdf)|
-|[186111](https://oeis.org/A186111)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[186181](https://oeis.org/A186181)|[http://cis.csuohio.edu/~somos/rfmc.pdf](http://cis.csuohio.edu/~somos/rfmc.pdf)|
-|[186187](https://oeis.org/A186187)|[http://cis.csuohio.edu/~somos/rfmc.txt](http://cis.csuohio.edu/~somos/rfmc.txt)|
-|[186506](https://oeis.org/A186506)|[http://ms.appliedprobability.org/data/files/Abstracts%2043/43-2-5.pdf](http://ms.appliedprobability.org/data/files/Abstracts%2043/43-2-5.pdf)|
-|[186809](https://oeis.org/A186809)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[186813](https://oeis.org/A186813)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[187074](https://oeis.org/A187074)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[187595](https://oeis.org/A187595)|[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD273464&amp](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD273464&amp)|
-|[187717](https://oeis.org/A187717)|[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD273464&amp](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD273464&amp)|
-|[187737](https://oeis.org/A187737)|[http://oai.cwi.nl/oai/asset/6942/6942A.pdf](http://oai.cwi.nl/oai/asset/6942/6942A.pdf)|
-|[187843](https://oeis.org/A187843)|[http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi](http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi)|
-|[187871](https://oeis.org/A187871)|[http://www.misacertijos.com.ar/2011/03/lineas-con-numeros-de-1-n.html](http://www.misacertijos.com.ar/2011/03/lineas-con-numeros-de-1-n.html)|
-|[188052](https://oeis.org/A188052)|[http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi](http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi)|
-|[188053](https://oeis.org/A188053)|[http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi](http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi)|
-|[188054](https://oeis.org/A188054)|[http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi](http://www.math.haifa.ac.il/~seva/Papers/greeda.dvi)|
-|[188510](https://oeis.org/A188510)|[http://cis.csuohio.edu/~somos/rfmc.html](http://cis.csuohio.edu/~somos/rfmc.html)|
-|[188528](https://oeis.org/A188528)|[http://www.merlyn.demon.co.uk/zel-86px.htm](http://www.merlyn.demon.co.uk/zel-86px.htm)|
-|[188578](https://oeis.org/A188578)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[189344](https://oeis.org/A189344)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[189391](https://oeis.org/A189391)|[http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_1/2-disanto_rinaldi.pdf)|
-|[189722](https://oeis.org/A189722)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/April2011.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/April2011.html), [http://vihart.com/blog/how-to-snakes/](http://vihart.com/blog/how-to-snakes/)|
-|[189888](https://oeis.org/A189888)|[http://bitc.bme.emory.edu/~lzhou/blogs/?p=206](http://bitc.bme.emory.edu/~lzhou/blogs/?p=206)|
-|[189975](https://oeis.org/A189975)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[189982](https://oeis.org/A189982)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[189983](https://oeis.org/A189983)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[189984](https://oeis.org/A189984)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[189985](https://oeis.org/A189985)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[189987](https://oeis.org/A189987)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[189988](https://oeis.org/A189988)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[189989](https://oeis.org/A189989)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[189990](https://oeis.org/A189990)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[189991](https://oeis.org/A189991)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190011](https://oeis.org/A190011)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190012](https://oeis.org/A190012)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190106](https://oeis.org/A190106)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190107](https://oeis.org/A190107)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190108](https://oeis.org/A190108)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190109](https://oeis.org/A190109)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190110](https://oeis.org/A190110)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190111](https://oeis.org/A190111)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190114](https://oeis.org/A190114)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190115](https://oeis.org/A190115)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190292](https://oeis.org/A190292)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190293](https://oeis.org/A190293)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190294](https://oeis.org/A190294)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190316](https://oeis.org/A190316)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190319](https://oeis.org/A190319)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190320](https://oeis.org/A190320)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190377](https://oeis.org/A190377)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190378](https://oeis.org/A190378)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190379](https://oeis.org/A190379)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190380](https://oeis.org/A190380)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190381](https://oeis.org/A190381)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190382](https://oeis.org/A190382)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190383](https://oeis.org/A190383)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190384](https://oeis.org/A190384)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190385](https://oeis.org/A190385)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190386](https://oeis.org/A190386)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190387](https://oeis.org/A190387)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190388](https://oeis.org/A190388)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190390](https://oeis.org/A190390)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190391](https://oeis.org/A190391)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190462](https://oeis.org/A190462)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190464](https://oeis.org/A190464)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190465](https://oeis.org/A190465)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190466](https://oeis.org/A190466)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190467](https://oeis.org/A190467)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190468](https://oeis.org/A190468)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190469](https://oeis.org/A190469)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190470](https://oeis.org/A190470)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190471](https://oeis.org/A190471)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190472](https://oeis.org/A190472)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190473](https://oeis.org/A190473)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190474](https://oeis.org/A190474)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[190475](https://oeis.org/A190475)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[191106](https://oeis.org/A191106)|[https://math.psu.edu/mass/sites/default/files/reu2003/6.pdf](https://math.psu.edu/mass/sites/default/files/reu2003/6.pdf)|
-|[191372](https://oeis.org/A191372)|[http://faculty.plattsburgh.edu/sam.northshield/08-0412.pdf](http://faculty.plattsburgh.edu/sam.northshield/08-0412.pdf)|
-|[191426](https://oeis.org/A191426)|[http://www.math-cs.ucmo.edu/~mjms/1998.3/prob.ps](http://www.math-cs.ucmo.edu/~mjms/1998.3/prob.ps), [http://www.math-cs.ucmo.edu/~mjms/2000.1/soln.ps](http://www.math-cs.ucmo.edu/~mjms/2000.1/soln.ps)|
-|[191590](https://oeis.org/A191590)|[http://www.jens.putzka.net/download/diplomarbeit.pdf](http://www.jens.putzka.net/download/diplomarbeit.pdf)|
-|[191595](https://oeis.org/A191595)|[http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
-|[191619](https://oeis.org/A191619)|[http://eprints.maths.ox.ac.uk/166/](http://eprints.maths.ox.ac.uk/166/)|
-|[191620](https://oeis.org/A191620)|[http://eprints.maths.ox.ac.uk/166/](http://eprints.maths.ox.ac.uk/166/)|
-|[192062](https://oeis.org/A192062)|[http://tech.groups.com/group/Triangular_and_Fibonacci_Numbers/messages](http://tech.groups.com/group/Triangular_and_Fibonacci_Numbers/messages)|
-|[192432](https://oeis.org/A192432)|[http://www.liafa.jussieu.fr/~lovejoy/WRTmock5.pdf](http://www.liafa.jussieu.fr/~lovejoy/WRTmock5.pdf)|
-|[192433](https://oeis.org/A192433)|[http://www.liafa.jussieu.fr/~lovejoy/WRTmock5.pdf](http://www.liafa.jussieu.fr/~lovejoy/WRTmock5.pdf)|
-|[192437](https://oeis.org/A192437)|[http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
-|[193069](https://oeis.org/A193069)|[http://www.numq.com/pwn/](http://www.numq.com/pwn/)|
-|[193256](https://oeis.org/A193256)|[http://mathinfo06.iecn.u-nancy.fr/papers/dmAG411-414.pdf](http://mathinfo06.iecn.u-nancy.fr/papers/dmAG411-414.pdf)|
-|[193623](https://oeis.org/A193623)|[http://www.resnet.wm.edu/~cklixx/reu02.pdf](http://www.resnet.wm.edu/~cklixx/reu02.pdf)|
-|[193690](https://oeis.org/A193690)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[193778](https://oeis.org/A193778)|[http://puma.dimai.unifi.it/23_3/hardt_troyka.pdf](http://puma.dimai.unifi.it/23_3/hardt_troyka.pdf)|
-|[194181](https://oeis.org/A194181)|[http://eprints.maths.ox.ac.uk/1106/1/NA-06-17.pdf](http://eprints.maths.ox.ac.uk/1106/1/NA-06-17.pdf)|
-|[194541](https://oeis.org/A194541)|[http://imperator.usc.edu/~bruck/classes/fall2003/math126/exams/finalsolns.pdf](http://imperator.usc.edu/~bruck/classes/fall2003/math126/exams/finalsolns.pdf)|
-|[194687](https://oeis.org/A194687)|[http://wiki.l-functions.org/LfunctionsAndModularFormsII/CentralValues/Rank4](http://wiki.l-functions.org/LfunctionsAndModularFormsII/CentralValues/Rank4), [http://emis.mi.ras.ru/journals/JIS/VOL12/Janfada/janfada3.html](http://emis.mi.ras.ru/journals/JIS/VOL12/Janfada/janfada3.html)|
-|[194923](https://oeis.org/A194923)|[http://south.rotol.ramk.fi/keranen/ias2002/NewAbelianSquare-FreeDT0L-LanguagesOver4Letters.nb](http://south.rotol.ramk.fi/keranen/ias2002/NewAbelianSquare-FreeDT0L-LanguagesOver4Letters.nb)|
-|[194942](https://oeis.org/A194942)|[http://south.rotol.ramk.fi/keranen/ias2002/NewAbelianSquare-FreeDT0L-LanguagesOver4Letters.nb](http://south.rotol.ramk.fi/keranen/ias2002/NewAbelianSquare-FreeDT0L-LanguagesOver4Letters.nb)|
-|[194943](https://oeis.org/A194943)|[http://eprints.maths.ox.ac.uk/166/](http://eprints.maths.ox.ac.uk/166/)|
-|[195269](https://oeis.org/A195269)|[http://zealint.ru/three-dimer-and-statistics-comp.html](http://zealint.ru/three-dimer-and-statistics-comp.html)|
-|[195284](https://oeis.org/A195284)|[http://spikedmath.com/524.html](http://spikedmath.com/524.html)|
-|[195652](https://oeis.org/A195652)|[http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html](http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html)|
-|[195653](https://oeis.org/A195653)|[http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html](http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html)|
-|[195654](https://oeis.org/A195654)|[http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html](http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html)|
-|[195655](https://oeis.org/A195655)|[http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html](http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html)|
-|[195656](https://oeis.org/A195656)|[http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html](http://zealint.ru/koroli-na-cilindricheskoj-doske-predlozhenie.html)|
-|[196149](https://oeis.org/A196149)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
-|[197424](https://oeis.org/A197424)|[http://www.mathramz.com/mrpsg/Sol/MathMag1854.pdf](http://www.mathramz.com/mrpsg/Sol/MathMag1854.pdf)|
-|[198322](https://oeis.org/A198322)|[http://www.jstor.org/stable/2027327](http://www.jstor.org/stable/2027327)|
-|[199476](https://oeis.org/A199476)|[http://www.springerlink.com/content/24g51u87527017u7/](http://www.springerlink.com/content/24g51u87527017u7/)|
-|[199477](https://oeis.org/A199477)|[http://www.springerlink.com/content/24g51u87527017u7/](http://www.springerlink.com/content/24g51u87527017u7/)|
-|[199478](https://oeis.org/A199478)|[http://www.springerlink.com/content/980453w252uvn23j/](http://www.springerlink.com/content/980453w252uvn23j/)|
-|[199676](https://oeis.org/A199676)|[https://www3.tuhh.de/e11/schmidt/CombinatorialData/GraphData.html](https://www3.tuhh.de/e11/schmidt/CombinatorialData/GraphData.html)|
-|[201126](https://oeis.org/A201126)|[http://www.magic-squares.net/square-update-2.htm#Knecht%20Topographical%20squares](http://www.magic-squares.net/square-update-2.htm#Knecht%20Topographical%20squares)|
-|[201559](https://oeis.org/A201559)|[http://oai.cwi.nl/oai/asset/6554/6554A.pdf](http://oai.cwi.nl/oai/asset/6554/6554A.pdf)|
-|[202155](https://oeis.org/A202155)|[http://www.dli.gov.in/rawdataupload/upload/insa/INSA_1/20006851_577.pdf](http://www.dli.gov.in/rawdataupload/upload/insa/INSA_1/20006851_577.pdf)|
-|[202156](https://oeis.org/A202156)|[http://www.dli.gov.in/rawdataupload/upload/insa/INSA_1/20006851_577.pdf](http://www.dli.gov.in/rawdataupload/upload/insa/INSA_1/20006851_577.pdf)|
-|[202679](https://oeis.org/A202679)|[http://carmaweb.newcastle.edu.au/mahler/docs/047.pdf](http://carmaweb.newcastle.edu.au/mahler/docs/047.pdf)|
-|[206370](https://oeis.org/A206370)|[http://www.infres.enst.fr/~flori/thesis/thesis.pdf](http://www.infres.enst.fr/~flori/thesis/thesis.pdf)|
-|[208359](https://oeis.org/A208359)|[http://www.mta.nyc.ny.us/nyct/service/oneline.htm](http://www.mta.nyc.ny.us/nyct/service/oneline.htm)|
-|[208360](https://oeis.org/A208360)|[http://www.mta.nyc.ny.us/nyct/service/oneline.htm](http://www.mta.nyc.ny.us/nyct/service/oneline.htm)|
-|[208571](https://oeis.org/A208571)|[http://www.collectanea.ub.edu/index.php/Collectanea/article/view/3814/4518](http://www.collectanea.ub.edu/index.php/Collectanea/article/view/3814/4518)|
-|[208853](https://oeis.org/A208853)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
-|[209257](https://oeis.org/A209257)|[http://astronomia.udea.edu.co/sitios/astronomia-2.0/pages/metcomp.rs/files/Tareas/Tarea5/71755174/2001JRASC..95..189C.pdf](http://astronomia.udea.edu.co/sitios/astronomia-2.0/pages/metcomp.rs/files/Tareas/Tarea5/71755174/2001JRASC..95..189C.pdf)|
-|[210493](https://oeis.org/A210493)|[http://aa.usno.navy.mil/data/docs/JulianDate.php](http://aa.usno.navy.mil/data/docs/JulianDate.php)|
-|[210635](https://oeis.org/A210635)|[http://www.lukiller.net/post/C-method-to-mirror-horizontally-an-image-stored-in-byte-array.aspx](http://www.lukiller.net/post/C-method-to-mirror-horizontally-an-image-stored-in-byte-array.aspx)|
-|[210662](https://oeis.org/A210662)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf)|
-|[211174](https://oeis.org/A211174)|[http://davidf.faricy.net/polyhedra/platonic_solids.html](http://davidf.faricy.net/polyhedra/platonic_solids.html)|
-|[212175](https://oeis.org/A212175)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[212176](https://oeis.org/A212176)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[212178](https://oeis.org/A212178)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[212179](https://oeis.org/A212179)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[212324](https://oeis.org/A212324)|[http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory](http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory)|
-|[212429](https://oeis.org/A212429)|[http://icm.uaeu.ac.ae/pdf/TomeI.pdf](http://icm.uaeu.ac.ae/pdf/TomeI.pdf)|
-|[212583](https://oeis.org/A212583)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[212595](https://oeis.org/A212595)|[http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory](http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory)|
-|[212639](https://oeis.org/A212639)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[212738](https://oeis.org/A212738)|[http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory](http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory)|
-|[213270](https://oeis.org/A213270)|[http://costasarrays.org/](http://costasarrays.org/)|
-|[213271](https://oeis.org/A213271)|[http://costasarrays.org/](http://costasarrays.org/)|
-|[213272](https://oeis.org/A213272)|[http://costasarrays.org/](http://costasarrays.org/)|
-|[213338](https://oeis.org/A213338)|[http://costasarrays.org/](http://costasarrays.org/)|
-|[213339](https://oeis.org/A213339)|[http://costasarrays.org/](http://costasarrays.org/)|
-|[213508](https://oeis.org/A213508)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[213509](https://oeis.org/A213509)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[213611](https://oeis.org/A213611)|[http://www.srh.noaa.gov/jetstream/atmos/pressure.htm](http://www.srh.noaa.gov/jetstream/atmos/pressure.htm), [http://home.anadolu.edu.tr/~mcavcar/common/ISAweb.pdf](http://home.anadolu.edu.tr/~mcavcar/common/ISAweb.pdf)|
-|[213629](https://oeis.org/A213629)|[http://www.math.jussieu.fr/~allouche/kreg2.ps](http://www.math.jussieu.fr/~allouche/kreg2.ps)|
-|[213880](https://oeis.org/A213880)|[http://www.gutenberg.org/files/16713/16713-h/16713-h.htm](http://www.gutenberg.org/files/16713/16713-h/16713-h.htm)|
-|[214214](https://oeis.org/A214214)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[214609](https://oeis.org/A214609)|[http://naosite.lb.nagasaki-u.ac.jp/dspace/bitstream/10069/7251/1/KJ00004438116.pdf](http://naosite.lb.nagasaki-u.ac.jp/dspace/bitstream/10069/7251/1/KJ00004438116.pdf)|
-|[214758](https://oeis.org/A214758)|[http://www.chalcedon.demon.co.uk/rgep/cartable.html](http://www.chalcedon.demon.co.uk/rgep/cartable.html)|
-|[214832](https://oeis.org/A214832)|[http://www.bgfl.org/custom/resources_ftp/client_ftp/ks2/music/piano/index.htm](http://www.bgfl.org/custom/resources_ftp/client_ftp/ks2/music/piano/index.htm)|
-|[215406](https://oeis.org/A215406)|[http://www.iki.fi/~kartturi/matikka/tab9766.htm](http://www.iki.fi/~kartturi/matikka/tab9766.htm)|
-|[215491](https://oeis.org/A215491)|[http://amicable.homepage.dk/knwnc2.htm](http://amicable.homepage.dk/knwnc2.htm), [http://amicable.homepage.dk/apstat.htm#typesys](http://amicable.homepage.dk/apstat.htm#typesys)|
-|[215644](https://oeis.org/A215644)|[http://wwwmaths.anu.edu.au/~brent/maxdet/](http://wwwmaths.anu.edu.au/~brent/maxdet/)|
-|[215645](https://oeis.org/A215645)|[http://wwwmaths.anu.edu.au/~brent/maxdet/](http://wwwmaths.anu.edu.au/~brent/maxdet/)|
-|[216144](https://oeis.org/A216144)|[http://www.parabola.unsw.edu.au/vol45_no1/vol45_no1_1.pdf](http://www.parabola.unsw.edu.au/vol45_no1/vol45_no1_1.pdf)|
-|[216328](https://oeis.org/A216328)|[http://www.math.unicaen.fr/~nitaj/abc.html#Ten%20abc](http://www.math.unicaen.fr/~nitaj/abc.html#Ten%20abc)|
-|[216639](https://oeis.org/A216639)|[http://campmath.uqam.ca/deJoyal/bernoulli.pdf](http://campmath.uqam.ca/deJoyal/bernoulli.pdf)|
-|[216714](https://oeis.org/A216714)|[http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf](http://www.math.jussieu.fr/~miw/articles/pdf/MZV2011IMSc.pdf)|
-|[217156](https://oeis.org/A217156)|[http://ebookbrowse.com/brooks-smith-stone-tutte-the-dissection-of-rectangles-into-squares-1940-pdf-d37213504](http://ebookbrowse.com/brooks-smith-stone-tutte-the-dissection-of-rectangles-into-squares-1940-pdf-d37213504)|
-|[217525](https://oeis.org/A217525)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf)|
-|[217526](https://oeis.org/A217526)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/manara_perelli-cippo.pdf)|
-|[217527](https://oeis.org/A217527)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf)|
-|[217528](https://oeis.org/A217528)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf)|
-|[217529](https://oeis.org/A217529)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf)|
-|[217530](https://oeis.org/A217530)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/griffiths_smith_warren.pdf)|
-|[218553](https://oeis.org/A218553)|[http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
-|[218554](https://oeis.org/A218554)|[http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
-|[218555](https://oeis.org/A218555)|[http://ginger.indstate.edu/ge/CAGES](http://ginger.indstate.edu/ge/CAGES)|
-|[218909](https://oeis.org/A218909)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218910](https://oeis.org/A218910)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218911](https://oeis.org/A218911)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218912](https://oeis.org/A218912)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218913](https://oeis.org/A218913)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218914](https://oeis.org/A218914)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218915](https://oeis.org/A218915)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218916](https://oeis.org/A218916)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218917](https://oeis.org/A218917)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218918](https://oeis.org/A218918)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218919](https://oeis.org/A218919)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218920](https://oeis.org/A218920)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218921](https://oeis.org/A218921)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218922](https://oeis.org/A218922)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218923](https://oeis.org/A218923)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218924](https://oeis.org/A218924)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218925](https://oeis.org/A218925)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218926](https://oeis.org/A218926)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218927](https://oeis.org/A218927)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218928](https://oeis.org/A218928)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218929](https://oeis.org/A218929)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218930](https://oeis.org/A218930)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218931](https://oeis.org/A218931)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218932](https://oeis.org/A218932)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218933](https://oeis.org/A218933)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218934](https://oeis.org/A218934)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218935](https://oeis.org/A218935)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218936](https://oeis.org/A218936)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218937](https://oeis.org/A218937)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218938](https://oeis.org/A218938)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218939](https://oeis.org/A218939)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218940](https://oeis.org/A218940)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218941](https://oeis.org/A218941)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218942](https://oeis.org/A218942)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218943](https://oeis.org/A218943)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218944](https://oeis.org/A218944)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218945](https://oeis.org/A218945)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218946](https://oeis.org/A218946)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218947](https://oeis.org/A218947)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218948](https://oeis.org/A218948)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218949](https://oeis.org/A218949)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218950](https://oeis.org/A218950)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218951](https://oeis.org/A218951)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218952](https://oeis.org/A218952)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218953](https://oeis.org/A218953)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218954](https://oeis.org/A218954)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218955](https://oeis.org/A218955)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218956](https://oeis.org/A218956)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218957](https://oeis.org/A218957)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218958](https://oeis.org/A218958)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218959](https://oeis.org/A218959)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218960](https://oeis.org/A218960)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218961](https://oeis.org/A218961)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218962](https://oeis.org/A218962)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218963](https://oeis.org/A218963)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218964](https://oeis.org/A218964)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218965](https://oeis.org/A218965)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218966](https://oeis.org/A218966)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218967](https://oeis.org/A218967)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218968](https://oeis.org/A218968)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218969](https://oeis.org/A218969)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218970](https://oeis.org/A218970)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218971](https://oeis.org/A218971)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218972](https://oeis.org/A218972)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218973](https://oeis.org/A218973)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218974](https://oeis.org/A218974)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[218975](https://oeis.org/A218975)|[http://schmidt.nuigalway.ie/tomlib/](http://schmidt.nuigalway.ie/tomlib/)|
-|[219312](https://oeis.org/A219312)|[http://repository.wit.ie/201/1/CatalanTrans.pdf](http://repository.wit.ie/201/1/CatalanTrans.pdf)|
-|[219314](https://oeis.org/A219314)|[http://repository.wit.ie/201/1/CatalanTrans.pdf](http://repository.wit.ie/201/1/CatalanTrans.pdf)|
-|[219363](https://oeis.org/A219363)|[http://jipam.vu.edu.au/v4n2/021_03.html](http://jipam.vu.edu.au/v4n2/021_03.html)|
-|[219546](https://oeis.org/A219546)|[http://dauns.math.tulane.edu/~vhm/papers_html/schenker.pdf](http://dauns.math.tulane.edu/~vhm/papers_html/schenker.pdf)|
-|[219765](https://oeis.org/A219765)|[http://www-math.mit.edu/~rstan/pubs/pubfiles/37.pdf](http://www-math.mit.edu/~rstan/pubs/pubfiles/37.pdf)|
-|[220000](https://oeis.org/A220000)|[http://www.moam-inc.com/DECIMAL_EQ_CHART.pdf](http://www.moam-inc.com/DECIMAL_EQ_CHART.pdf)|
-|[220001](https://oeis.org/A220001)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf.)|
-|[220500](https://oeis.org/A220500)|[http://ioccc.org/1995/leo.hint](http://ioccc.org/1995/leo.hint), [http://ioccc.org/1995/leo.c](http://ioccc.org/1995/leo.c)|
-|[220855](https://oeis.org/A220855)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
-|[220856](https://oeis.org/A220856)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
-|[220857](https://oeis.org/A220857)|[http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf](http://www.ece.nus.edu.sg/stfpage/eleak/pdf/akumar_todaes_2012.pdf)|
-|[221363](https://oeis.org/A221363)|[http://www.midicode.com/tunings/temperament.shtml](http://www.midicode.com/tunings/temperament.shtml)|
-|[221557](https://oeis.org/A221557)|[http://saluc.engr.uconn.edu/refs/crypto/rng/matsumoto98mersenne.pdf](http://saluc.engr.uconn.edu/refs/crypto/rng/matsumoto98mersenne.pdf)|
-|[221558](https://oeis.org/A221558)|[http://saluc.engr.uconn.edu/refs/crypto/rng/matsumoto98mersenne.pdf](http://saluc.engr.uconn.edu/refs/crypto/rng/matsumoto98mersenne.pdf)|
-|[221617](https://oeis.org/A221617)|[https://icpc.baylor.edu/ICPCWiki/attach/Problem%20Resources/1995WorldFinalProblemSet.pdf](https://icpc.baylor.edu/ICPCWiki/attach/Problem%20Resources/1995WorldFinalProblemSet.pdf)|
-|[221740](https://oeis.org/A221740)|[http://old.nabble.com/Number-of-specific-permutations-pairs-relates-to-Euler-Phi-totient-function---to34951281.html](http://old.nabble.com/Number-of-specific-permutations-pairs-relates-to-Euler-Phi-totient-function---to34951281.html)|
-|[221741](https://oeis.org/A221741)|[http://old.nabble.com/Number-of-specific-permutations-pairs-relates-to-Euler-Phi-totient-function---to34951281.html](http://old.nabble.com/Number-of-specific-permutations-pairs-relates-to-Euler-Phi-totient-function---to34951281.html)|
-|[222031](https://oeis.org/A222031)|[http://math.mit.edu/~drew/Pfiles/](http://math.mit.edu/~drew/Pfiles/)|
-|[222032](https://oeis.org/A222032)|[http://math.mit.edu/~drew/Pfiles/](http://math.mit.edu/~drew/Pfiles/)|
-|[222185](https://oeis.org/A222185)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[222206](https://oeis.org/A222206)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
-|[222975](https://oeis.org/A222975)|[http://amicable.homepage.dk/knwnc4.htm](http://amicable.homepage.dk/knwnc4.htm)|
-|[222976](https://oeis.org/A222976)|[http://amicable.homepage.dk/knwnc4.htm](http://amicable.homepage.dk/knwnc4.htm)|
-|[222977](https://oeis.org/A222977)|[http://amicable.homepage.dk/knwnc4.htm](http://amicable.homepage.dk/knwnc4.htm)|
-|[222978](https://oeis.org/A222978)|[http://amicable.homepage.dk/knwnc4.htm](http://amicable.homepage.dk/knwnc4.htm)|
-|[223887](https://oeis.org/A223887)|[http://www-math.mit.edu/~rstan/pubs/pubfiles/18.pdf](http://www-math.mit.edu/~rstan/pubs/pubfiles/18.pdf)|
-|[224071](https://oeis.org/A224071)|[http://repository.wit.ie/id/eprint/1379](http://repository.wit.ie/id/eprint/1379)|
-|[224179](https://oeis.org/A224179)|[http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
-|[224180](https://oeis.org/A224180)|[http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
-|[224181](https://oeis.org/A224181)|[http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
-|[224182](https://oeis.org/A224182)|[http://puma.dimai.unifi.it/24_2/nakamura.pdf](http://puma.dimai.unifi.it/24_2/nakamura.pdf)|
-|[224301](https://oeis.org/A224301)|[http://grail.eecs.csuohio.edu/~somos/tritab.html](http://grail.eecs.csuohio.edu/~somos/tritab.html)|
-|[224302](https://oeis.org/A224302)|[http://grail.eecs.csuohio.edu/tritab.html](http://grail.eecs.csuohio.edu/tritab.html)|
-|[224784](https://oeis.org/A224784)|[http://87.119.183.129/perl/gridsplode.pl](http://87.119.183.129/perl/gridsplode.pl)|
-|[224886](https://oeis.org/A224886)|[http://www.gutenberg.org/ebooks/42833](http://www.gutenberg.org/ebooks/42833)|
-|[225467](https://oeis.org/A225467)|[http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html](http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html), [http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html](http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html)|
-|[225468](https://oeis.org/A225468)|[http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html](http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html), [http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html](http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html)|
-|[225469](https://oeis.org/A225469)|[http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html](http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html), [http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html](http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html)|
-|[225470](https://oeis.org/A225470)|[http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html](http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html), [http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html](http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html)|
-|[225471](https://oeis.org/A225471)|[http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html](http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html), [http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html](http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html)|
-|[225472](https://oeis.org/A225472)|[http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html](http://www.luschny.de/math/euler/GeneralizedEulerianPolynomials.html), [http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html](http://www.luschny.de/math/euler/StirlingFrobeniusNumbers.html)|
-|[225616](https://oeis.org/A225616)|[http://www-math.mit.edu/~rstan/transparencies/whouse.pdf](http://www-math.mit.edu/~rstan/transparencies/whouse.pdf)|
-|[225693](https://oeis.org/A225693)|[http://ms.appliedprobability.org/data/files/Abstracts%2045/45-2-4.pdf](http://ms.appliedprobability.org/data/files/Abstracts%2045/45-2-4.pdf), [http://www.jimloy.com/number/divis.htm](http://www.jimloy.com/number/divis.htm)|
-|[225694](https://oeis.org/A225694)|[http://dauns01.math.tulane.edu/~vhm/papers_html/ordering1.pdf](http://dauns01.math.tulane.edu/~vhm/papers_html/ordering1.pdf)|
-|[225695](https://oeis.org/A225695)|[http://dauns01.math.tulane.edu/~vhm/papers_html/ordering1.pdf](http://dauns01.math.tulane.edu/~vhm/papers_html/ordering1.pdf)|
-|[226646](https://oeis.org/A226646)|[http://www.ics.uci.edu/~eppstein/numth/egypt/intro.html](http://www.ics.uci.edu/~eppstein/numth/egypt/intro.html)|
-|[226918](https://oeis.org/A226918)|[http://aict.itf.llu.lv/files/rakstkraj/2013/Cernenoks_AICT2013.pdf](http://aict.itf.llu.lv/files/rakstkraj/2013/Cernenoks_AICT2013.pdf)|
-|[227083](https://oeis.org/A227083)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes), [http://math.mit.edu/~primegaps](http://math.mit.edu/~primegaps)|
-|[227156](https://oeis.org/A227156)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes), [http://math.mit.edu/~primegaps](http://math.mit.edu/~primegaps)|
-|[227358](https://oeis.org/A227358)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/July2013.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/July2013.html)|
-|[227588](https://oeis.org/A227588)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/July2013.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/July2013.html)|
-|[227782](https://oeis.org/A227782)|[http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_1/20005b92_725.pdf](http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_1/20005b92_725.pdf)|
-|[227784](https://oeis.org/A227784)|[http://seminariomatematico.dm.unito.it/rendiconti/cartaceo/44-1/141.pdf](http://seminariomatematico.dm.unito.it/rendiconti/cartaceo/44-1/141.pdf)|
-|[227956](https://oeis.org/A227956)|[http://bach.istc.kobe-u.ac.jp/lect/ProLang/org/pnr.pdf](http://bach.istc.kobe-u.ac.jp/lect/ProLang/org/pnr.pdf)|
-|[228039](https://oeis.org/A228039)|[https://math-oemg-dmv-2013.uibk.ac.at/cms/images/Public_Relations/oemg_dmv_2013.pdf](https://math-oemg-dmv-2013.uibk.ac.at/cms/images/Public_Relations/oemg_dmv_2013.pdf)|
-|[229941](https://oeis.org/A229941)|[http://www.math.ucr.edu/home/baez/42.html](http://www.math.ucr.edu/home/baez/42.html)|
-|[230148](https://oeis.org/A230148)|[http://oai.cwi.nl/oai/asset/4143/04143D.pdf](http://oai.cwi.nl/oai/asset/4143/04143D.pdf)|
-|[230214](https://oeis.org/A230214)|[http://www.personalweb.unito.it/umberto.cerruti/pdfblog/numeri-armonici.pdf](http://www.personalweb.unito.it/umberto.cerruti/pdfblog/numeri-armonici.pdf), [http://www.personalweb.unito.it/umberto.cerruti/mathblog.html](http://www.personalweb.unito.it/umberto.cerruti/mathblog.html)|
-|[231100](https://oeis.org/A231100)|[http://grail.eecs.csuohio.edu/~somos/rtritab.txt](http://grail.eecs.csuohio.edu/~somos/rtritab.txt)|
-|[231664](https://oeis.org/A231664)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[231668](https://oeis.org/A231668)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[231672](https://oeis.org/A231672)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[231676](https://oeis.org/A231676)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[231680](https://oeis.org/A231680)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[231684](https://oeis.org/A231684)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[231846](https://oeis.org/A231846)|[http://sophia.dtp.fmph.uniba.sk/~fecko/referaty/regensburg_2011.pdf](http://sophia.dtp.fmph.uniba.sk/~fecko/referaty/regensburg_2011.pdf)|
-|[233538](https://oeis.org/A233538)|[http://amicable.homepage.dk/apstat.htm#typesys](http://amicable.homepage.dk/apstat.htm#typesys)|
-|[233779](https://oeis.org/A233779)|[http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf](http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf)|
-|[233819](https://oeis.org/A233819)|[http://willnicholes.com/math/primesiglist.htm](http://willnicholes.com/math/primesiglist.htm)|
-|[233824](https://oeis.org/A233824)|[http://www.nlaa8.ir/EN-Final.pdf#page=147](http://www.nlaa8.ir/EN-Final.pdf#page=147)|
-|[234373](https://oeis.org/A234373)|[http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf](http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf)|
-|[234589](https://oeis.org/A234589)|[http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf](http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf)|
-|[234590](https://oeis.org/A234590)|[http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf](http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf)|
-|[234591](https://oeis.org/A234591)|[http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf](http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf)|
-|[234592](https://oeis.org/A234592)|[http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf](http://puma.dimai.unifi.it/23_3/miceli_remmel.pdf)|
-|[234810](https://oeis.org/A234810)|[http://download2.polytechnic.edu.na/pub4/sourceforge/w/wi/wieferich/results/table.txt](http://download2.polytechnic.edu.na/pub4/sourceforge/w/wi/wieferich/results/table.txt)|
-|[234951](https://oeis.org/A234951)|[http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf](http://ajbertagnolli.com/wp-content/uploads/2013/10/sticks2.pdf)|
-|[236681](https://oeis.org/A236681)|[http://www.math.ucr.edu/home/baez/42.html](http://www.math.ucr.edu/home/baez/42.html)|
-|[236684](https://oeis.org/A236684)|[http://www.math.ucr.edu/home/baez/42.html](http://www.math.ucr.edu/home/baez/42.html)|
-|[236686](https://oeis.org/A236686)|[http://www.math.ucr.edu/home/baez/42.html](http://www.math.ucr.edu/home/baez/42.html)|
-|[236928](https://oeis.org/A236928)|[https://doi:10.3390/sym9120314](https://doi:10.3390/sym9120314)|
-|[237362](https://oeis.org/A237362)|[http://jones.math.unibas.ch/~kraft/Papers/KP-Primer.pdf](http://jones.math.unibas.ch/~kraft/Papers/KP-Primer.pdf)|
-|[237695](https://oeis.org/A237695)|[http://michaelnielsen.org/polymath1/index.php?title=The_Erd%C5%91s_discrepancy_problem](http://michaelnielsen.org/polymath1/index.php?title=The_Erd%C5%91s_discrepancy_problem)|
-|[238370](https://oeis.org/A238370)|[http://www.usna.edu/Users/math/traves/presentations/MAAC2004print.pdf](http://www.usna.edu/Users/math/traves/presentations/MAAC2004print.pdf)|
-|[238644](https://oeis.org/A238644)|[http://bact.mathcircles.org/files/2009/files/Summer2010/PenneyAnte.pdf](http://bact.mathcircles.org/files/2009/files/Summer2010/PenneyAnte.pdf)|
-|[238736](https://oeis.org/A238736)|[http://www.hytc.cn/xsjl/szh/coms3.pdf](http://www.hytc.cn/xsjl/szh/coms3.pdf)|
-|[239064](https://oeis.org/A239064)|[http://www.itp.kit.edu/~wl/BinQuadForm.html](http://www.itp.kit.edu/~wl/BinQuadForm.html)|
-|[239671](https://oeis.org/A239671)|[http://www.magic-squares.net/c-t-htm/c_prime.htm](http://www.magic-squares.net/c-t-htm/c_prime.htm)|
-|[239797](https://oeis.org/A239797)|[http://sage.math.washington.edu/home/wstein/www/books/ant/](http://sage.math.washington.edu/home/wstein/www/books/ant/), [http://sage.math.washington.edu/home/wstein/www/books/ant/ant/node40.html](http://sage.math.washington.edu/home/wstein/www/books/ant/ant/node40.html)|
-|[239890](https://oeis.org/A239890)|[http://dx.doi.org/10.1364/OE.22.004499](http://dx.doi.org/10.1364/OE.22.004499)|
-|[240438](https://oeis.org/A240438)|[http://homepage.hispeed.ch/FSJM/documents/22_Quarts_ind.pdf](http://homepage.hispeed.ch/FSJM/documents/22_Quarts_ind.pdf)|
-|[240719](https://oeis.org/A240719)|[http://library.uwinnipeg.ca/people/dobson/mathematics/Wieferich_primes.html](http://library.uwinnipeg.ca/people/dobson/mathematics/Wieferich_primes.html)|
-|[240922](https://oeis.org/A240922)|[http://www.magic-squares.net/c-t-htm/c_prime.htm](http://www.magic-squares.net/c-t-htm/c_prime.htm)|
-|[240976](https://oeis.org/A240976)|[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA048791](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA048791)|
-|[241598](https://oeis.org/A241598)|[http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf](http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf)|
-|[241599](https://oeis.org/A241599)|[http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf](http://www.dmg.tuwien.ac.at/drmota/noncrossingFinal4.pdf)|
-|[241600](https://oeis.org/A241600)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[241703](https://oeis.org/A241703)|[https://www3.tuhh.de/e11/schmidt/CombinatorialData/GraphData.html](https://www3.tuhh.de/e11/schmidt/CombinatorialData/GraphData.html)|
-|[242403](https://oeis.org/A242403)|[http://www.bdim.eu/item?id=BUMI_1999_8_2B_2_397_0](http://www.bdim.eu/item?id=BUMI_1999_8_2B_2_397_0)|
-|[242435](https://oeis.org/A242435)|[http://www.chalcedon.demon.co.uk/rgep/publish.html#82](http://www.chalcedon.demon.co.uk/rgep/publish.html#82)|
-|[242465](https://oeis.org/A242465)|[http://magicdragon.com/EmeraldCity/Nonfiction/four9s.html](http://magicdragon.com/EmeraldCity/Nonfiction/four9s.html)|
-|[243508](https://oeis.org/A243508)|[http://www.math-cs.ucmo.edu/~mjms/2003.1/pyiu.pdf](http://www.math-cs.ucmo.edu/~mjms/2003.1/pyiu.pdf)|
-|[244281](https://oeis.org/A244281)|[http://www.mathblog.dk/project-euler-116-coloured-tiles/](http://www.mathblog.dk/project-euler-116-coloured-tiles/)|
-|[244644](https://oeis.org/A244644)|[http://www2.washjeff.edu/users/mwoltermann/Dorrie/38.pdf](http://www2.washjeff.edu/users/mwoltermann/Dorrie/38.pdf)|
-|[244801](https://oeis.org/A244801)|[http://prpnet.primegrid.com:13001/](http://prpnet.primegrid.com:13001/)|
-|[244839](https://oeis.org/A244839)|[http://moodle.thecarma.net/jon/ontology.pdf](http://moodle.thecarma.net/jon/ontology.pdf)|
-|[244843](https://oeis.org/A244843)|[http://moodle.thecarma.net/jon/ontology.pdf](http://moodle.thecarma.net/jon/ontology.pdf)|
-|[244847](https://oeis.org/A244847)|[http://yaroslavvb.com/papers/baxter-hard.pdf](http://yaroslavvb.com/papers/baxter-hard.pdf)|
-|[244850](https://oeis.org/A244850)|[http://moodle.thecarma.net/jon/ontology.pdf](http://moodle.thecarma.net/jon/ontology.pdf)|
-|[244858](https://oeis.org/A244858)|[http://moodle.thecarma.net/jon/ontology.pdf](http://moodle.thecarma.net/jon/ontology.pdf)|
-|[245176](https://oeis.org/A245176)|[http://129.81.170.14/~vhm/papers_html/invo-may12.pdf](http://129.81.170.14/~vhm/papers_html/invo-may12.pdf)|
-|[245177](https://oeis.org/A245177)|[http://dauns.math.tulane.edu/~vhm/papers_html/invo-may12.pdf](http://dauns.math.tulane.edu/~vhm/papers_html/invo-may12.pdf)|
-|[245837](https://oeis.org/A245837)|[http://polpix.sueddeutsche.com/bild/1.2053721.1405695752/860x860/die-weltsprache-algorithmen.jpg](http://polpix.sueddeutsche.com/bild/1.2053721.1405695752/860x860/die-weltsprache-algorithmen.jpg)|
-|[246054](https://oeis.org/A246054)|[http://www.math.grin.edu/~chamberl/papers/mean_median.pdf](http://www.math.grin.edu/~chamberl/papers/mean_median.pdf)|
-|[246055](https://oeis.org/A246055)|[http://www.math.grin.edu/~chamberl/papers/mean_median.pdf](http://www.math.grin.edu/~chamberl/papers/mean_median.pdf)|
-|[246532](https://oeis.org/A246532)|[http://domino.watson.ibm.com/library/CyberDig.nsf/papers/F24675F6E614358F85257E38004D39F0/](http://domino.watson.ibm.com/library/CyberDig.nsf/papers/F24675F6E614358F85257E38004D39F0/)|
-|[246988](https://oeis.org/A246988)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[246989](https://oeis.org/A246989)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[246990](https://oeis.org/A246990)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[246991](https://oeis.org/A246991)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[246992](https://oeis.org/A246992)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[246993](https://oeis.org/A246993)|[http://www.om.math.ethz.ch](http://www.om.math.ethz.ch)|
-|[247158](https://oeis.org/A247158)|[http://www.hpl.hp.com/techreports/2011/HPL-2011-239.pdf](http://www.hpl.hp.com/techreports/2011/HPL-2011-239.pdf)|
-|[247306](https://oeis.org/A247306)|[http://www-old.newton.ac.uk/preprints/NI04015.pdf](http://www-old.newton.ac.uk/preprints/NI04015.pdf)|
-|[248646](https://oeis.org/A248646)|[http://www.zime.lv/book/?oeis](http://www.zime.lv/book/?oeis)|
-|[248727](https://oeis.org/A248727)|[http://www.math.uakron.edu/~sf34/hedra.htm#index](http://www.math.uakron.edu/~sf34/hedra.htm#index)|
-|[249020](https://oeis.org/A249020)|[http://grail.eecs.csuohio.edu/~somos/somospol.html](http://grail.eecs.csuohio.edu/~somos/somospol.html)|
-|[249389](https://oeis.org/A249389)|[http://www.dli.gov.in/data_copy/upload/INSA/INSA_2/20005a88_147.pdf](http://www.dli.gov.in/data_copy/upload/INSA/INSA_2/20005a88_147.pdf)|
-|[249836](https://oeis.org/A249836)|[http://math.udel.edu/~lazebnik/papers/tan_n.pdf](http://math.udel.edu/~lazebnik/papers/tan_n.pdf)|
-|[250000](https://oeis.org/A250000)|[http://zeynep.web.cs.unibo.it/SymCon04/proceedings.htmlN.](http://zeynep.web.cs.unibo.it/SymCon04/proceedings.htmlN.)|
-|[250005](https://oeis.org/A250005)|[http://www.cs.uwaterloo.ca/journals/JIS/VOL13/Fici/fici.html](http://www.cs.uwaterloo.ca/journals/JIS/VOL13/Fici/fici.html)|
-|[250109](https://oeis.org/A250109)|[http://repository.tue.nl/776745](http://repository.tue.nl/776745)|
-|[253013](https://oeis.org/A253013)|[http://users.aims.ac.za/~stephan/GraphicalEnumeration.pdf](http://users.aims.ac.za/~stephan/GraphicalEnumeration.pdf)|
-|[253014](https://oeis.org/A253014)|[http://users.aims.ac.za/~stephan/GraphicalEnumeration.pdf](http://users.aims.ac.za/~stephan/GraphicalEnumeration.pdf)|
-|[253426](https://oeis.org/A253426)|[http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/March2015.html](http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/March2015.html)|
-|[253474](https://oeis.org/A253474)|[http://www.math-cs.ucmo.edu/~mjms/2004.1/Francis-Squares.pdf](http://www.math-cs.ucmo.edu/~mjms/2004.1/Francis-Squares.pdf)|
-|[253942](https://oeis.org/A253942)|[http://www.matematikproje.com/dosyalar/05cb6Subset_smallest_elements_Sum.pdf](http://www.matematikproje.com/dosyalar/05cb6Subset_smallest_elements_Sum.pdf)|
-|[253944](https://oeis.org/A253944)|[http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf](http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf)|
-|[253945](https://oeis.org/A253945)|[http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf](http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf)|
-|[253947](https://oeis.org/A253947)|[http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf](http://matematikproje.com/dosyalar/7e1cdSubset_smallest_elements_Sum.pdf)|
-|[254029](https://oeis.org/A254029)|[http://share.dschola.it/helpmat/Divertimenti/divertiamoci1.html#sol3.3](http://share.dschola.it/helpmat/Divertimenti/divertiamoci1.html#sol3.3)|
-|[254757](https://oeis.org/A254757)|[http://www.itp.kit.edu/~wl/BinQuadForm.html](http://www.itp.kit.edu/~wl/BinQuadForm.html)|
-|[254758](https://oeis.org/A254758)|[http://www.itp.kit.edu/~wl/BinQuadForm.html](http://www.itp.kit.edu/~wl/BinQuadForm.html)|
-|[254759](https://oeis.org/A254759)|[http://www.itp.kit.edu/~wl/BinQuadForm.html](http://www.itp.kit.edu/~wl/BinQuadForm.html)|
-|[254789](https://oeis.org/A254789)|[http://dmg.tuwien.ac.at/mwallner/files/Dissertation_Wallner.pdf](http://dmg.tuwien.ac.at/mwallner/files/Dissertation_Wallner.pdf)|
-|[255347](https://oeis.org/A255347)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[255368](https://oeis.org/A255368)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[255492](https://oeis.org/A255492)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
-|[255494](https://oeis.org/A255494)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
-|[255495](https://oeis.org/A255495)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
-|[255496](https://oeis.org/A255496)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
-|[255497](https://oeis.org/A255497)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
-|[255498](https://oeis.org/A255498)|[http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf](http://saspublisher.com/wp-content/uploads/2014/06/SJET24C669-675.pdf)|
-|[255563](https://oeis.org/A255563)|[http://grail.eecs.csuohio.edu/~somos/rfmc.txt](http://grail.eecs.csuohio.edu/~somos/rfmc.txt)|
-|[255841](https://oeis.org/A255841)|[http://forum.projecteuler.net/viewtopic.php?f=16&amp](http://forum.projecteuler.net/viewtopic.php?f=16&amp)|
-|[256108](https://oeis.org/A256108)|[http://oldweb.cecm.sfu.ca/projects/pihex/](http://oldweb.cecm.sfu.ca/projects/pihex/)|
-|[256234](https://oeis.org/A256234)|[http://stop.inferia.ru/](http://stop.inferia.ru/)|
-|[256413](https://oeis.org/A256413)|[http://www.crystallography.fr/mathcryst/pdf/havana/Souvignier_syllabus.pdf](http://www.crystallography.fr/mathcryst/pdf/havana/Souvignier_syllabus.pdf)|
-|[256494](https://oeis.org/A256494)|[http://www.zime.lv/book/?oeis](http://www.zime.lv/book/?oeis)|
-|[256672](https://oeis.org/A256672)|[http://www.liafa.jussieu.fr/fpsac13/pdfAbstracts/dmAS0180.pdf](http://www.liafa.jussieu.fr/fpsac13/pdfAbstracts/dmAS0180.pdf)|
-|[256719](https://oeis.org/A256719)|[http://lagrange.physics.drexel.edu/flash/zcm/](http://lagrange.physics.drexel.edu/flash/zcm/)|
-|[256720](https://oeis.org/A256720)|[http://lagrange.physics.drexel.edu/flash/zcm/](http://lagrange.physics.drexel.edu/flash/zcm/)|
-|[256891](https://oeis.org/A256891)|[http://www.magic-squares.net/primesqr.htm#Minimum](http://www.magic-squares.net/primesqr.htm#Minimum)|
-|[257075](https://oeis.org/A257075)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[257931](https://oeis.org/A257931)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[258024](https://oeis.org/A258024)|[http://sci.tech-archive.net/Archive/sci.math/2009-03/msg01170.html](http://sci.tech-archive.net/Archive/sci.math/2009-03/msg01170.html), [http://sci.tech-archive.net/Archive/sci.math/2007-03/msg00666.html](http://sci.tech-archive.net/Archive/sci.math/2007-03/msg00666.html)|
-|[258055](https://oeis.org/A258055)|[http://www.zime.lv/book/?oeis](http://www.zime.lv/book/?oeis)|
-|[259042](https://oeis.org/A259042)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[259044](https://oeis.org/A259044)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[259180](https://oeis.org/A259180)|[http://www-maths.swan.ac.uk/pgrads/bb/project/node16.html](http://www-maths.swan.ac.uk/pgrads/bb/project/node16.html), [http://amicable.homepage.dk/knwnap.htm](http://amicable.homepage.dk/knwnap.htm), [http://amicable.homepage.dk/tables.htm](http://amicable.homepage.dk/tables.htm), [http://oai.cwi.nl/oai/asset/2246/2246A.pdf](http://oai.cwi.nl/oai/asset/2246/2246A.pdf), [http://oai.cwi.nl/oai/asset/4143/04143D.pdf](http://oai.cwi.nl/oai/asset/4143/04143D.pdf), [http://britton.disted.camosun.bc.ca/amicable.html](http://britton.disted.camosun.bc.ca/amicable.html), [http://nautilus.fis.uc.pt/mn/i_amigos/amigos.swf](http://nautilus.fis.uc.pt/mn/i_amigos/amigos.swf)|
-|[259554](https://oeis.org/A259554)|[https://cs.uwaterloo.ca/journals/JIS/VOL18/Kruchinin/kruch9.html](https://cs.uwaterloo.ca/journals/JIS/VOL18/Kruchinin/kruch9.html)|
-|[260418](https://oeis.org/A260418)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[260673](https://oeis.org/A260673)|[http://www.magic-squares.net/primesqr.htm#Minimum](http://www.magic-squares.net/primesqr.htm#Minimum)|
-|[261013](https://oeis.org/A261013)|[http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_2/20005ad0_181.pdf](http://www.new.dli.ernet.in/rawdataupload/upload/insa/INSA_2/20005ad0_181.pdf)|
-|[261545](https://oeis.org/A261545)|[http://www.bckelk.ukfsn.org/words/etaoin.html](http://www.bckelk.ukfsn.org/words/etaoin.html)|
-|[261780](https://oeis.org/A261780)|[http://www.mat.unisi.it/newsito/puma/public_html/17_1_2/grazzini.pdf](http://www.mat.unisi.it/newsito/puma/public_html/17_1_2/grazzini.pdf)|
-|[262041](https://oeis.org/A262041)|[http://mathfaculty.fullerton.edu/sbehseta/portnoy94.pdf](http://mathfaculty.fullerton.edu/sbehseta/portnoy94.pdf)|
-|[262080](https://oeis.org/A262080)|[http://mathfaculty.fullerton.edu/sbehseta/portnoy94.pdf](http://mathfaculty.fullerton.edu/sbehseta/portnoy94.pdf)|
-|[262229](https://oeis.org/A262229)|[http://www.nymphomath.ch/turing/probleme.php?id=131](http://www.nymphomath.ch/turing/probleme.php?id=131)|
-|[262701](https://oeis.org/A262701)|[http://eprints.maths.ox.ac.uk/1196/1/NA-03-12.pdf](http://eprints.maths.ox.ac.uk/1196/1/NA-03-12.pdf)|
-|[262809](https://oeis.org/A262809)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
-|[262815](https://oeis.org/A262815)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[262816](https://oeis.org/A262816)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[262944](https://oeis.org/A262944)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[262945](https://oeis.org/A262945)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[262955](https://oeis.org/A262955)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[263064](https://oeis.org/A263064)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
-|[263065](https://oeis.org/A263065)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
-|[263867](https://oeis.org/A263867)|[http://www.mat.unisi.it/newsito/puma/public_html/22_2/bona.pdf](http://www.mat.unisi.it/newsito/puma/public_html/22_2/bona.pdf)|
-|[263985](https://oeis.org/A263985)|[http://puma.dimai.unifi.it/19_2_3/11.pdf](http://puma.dimai.unifi.it/19_2_3/11.pdf)|
-|[264027](https://oeis.org/A264027)|[http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf](http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf)|
-|[264028](https://oeis.org/A264028)|[http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf](http://puma.dimai.unifi.it/21_2/10_Liese_Remmel.pdf)|
-|[265384](https://oeis.org/A265384)|[http://tube.geogebra.org/student/mr4Tpnl0A](http://tube.geogebra.org/student/mr4Tpnl0A)|
-|[266968](https://oeis.org/A266968)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[268163](https://oeis.org/A268163)|[http://www.lupm.univ-montp2.fr/users/qcd/qcd14/qcd14_talks/tuesday/kampf.pdf](http://www.lupm.univ-montp2.fr/users/qcd/qcd14/qcd14_talks/tuesday/kampf.pdf)|
-|[268289](https://oeis.org/A268289)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[268754](https://oeis.org/A268754)|[http://play.starmaninnovations.com/static/d3applets/renders/WeNmxtzjTi.gif](http://play.starmaninnovations.com/static/d3applets/renders/WeNmxtzjTi.gif)|
-|[270533](https://oeis.org/A270533)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[270566](https://oeis.org/A270566)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[270594](https://oeis.org/A270594)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[270616](https://oeis.org/A270616)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[270705](https://oeis.org/A270705)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[270706](https://oeis.org/A270706)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[270776](https://oeis.org/A270776)|[http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf](http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k%27th_roots.pdf)|
-|[270833](https://oeis.org/A270833)|[http://prpnet.primegrid.com:13000/](http://prpnet.primegrid.com:13000/)|
-|[270920](https://oeis.org/A270920)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[270921](https://oeis.org/A270921)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[270928](https://oeis.org/A270928)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[270966](https://oeis.org/A270966)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[271026](https://oeis.org/A271026)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[271106](https://oeis.org/A271106)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[271325](https://oeis.org/A271325)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[271608](https://oeis.org/A271608)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[271775](https://oeis.org/A271775)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[271781](https://oeis.org/A271781)|[http://hdl.handle.net/10019.1/95850](http://hdl.handle.net/10019.1/95850)|
-|[273042](https://oeis.org/A273042)|[https://stdkmd.net/nrr/prime/primedifficulty.txt](https://stdkmd.net/nrr/prime/primedifficulty.txt), [https://stdkmd.net/nrr](https://stdkmd.net/nrr)|
-|[274108](https://oeis.org/A274108)|[https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf](https://liforce.usthb.dz/sites/default/files/2020-11/article3.pdf)|
-|[274121](https://oeis.org/A274121)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
-|[274122](https://oeis.org/A274122)|[http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes](http://michaelnielsen.org/polymath1/index.php?title=Bounded_gaps_between_primes)|
-|[275202](https://oeis.org/A275202)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[275390](https://oeis.org/A275390)|[http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005abb_196.pdf](http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005abb_196.pdf)|
-|[275974](https://oeis.org/A275974)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[277566](https://oeis.org/A277566)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
-|[277632](https://oeis.org/A277632)|[http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp](http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp)|
-|[277988](https://oeis.org/A277988)|[http://bcc.bas.bg/BCC_Volumes/Volume_44_Number_4_2012/Volume_44_Number_4_2012_PDF/BCC-44-4-2012-4.pdf](http://bcc.bas.bg/BCC_Volumes/Volume_44_Number_4_2012/Volume_44_Number_4_2012_PDF/BCC-44-4-2012-4.pdf)|
-|[277989](https://oeis.org/A277989)|[http://bcc.bas.bg/BCC_Volumes/Volume_44_Number_4_2012/Volume_44_Number_4_2012_PDF/BCC-44-4-2012-4.pdf](http://bcc.bas.bg/BCC_Volumes/Volume_44_Number_4_2012/Volume_44_Number_4_2012_PDF/BCC-44-4-2012-4.pdf)|
-|[278313](https://oeis.org/A278313)|[http://www.printable-math-worksheets.com/support-files/chart-rules-roman-numerals.pdf](http://www.printable-math-worksheets.com/support-files/chart-rules-roman-numerals.pdf)|
-|[278707](https://oeis.org/A278707)|[https://stdkmd.net/nrr](https://stdkmd.net/nrr)|
-|[279619](https://oeis.org/A279619)|[http://www.francescosica.org/Francesco_Sica/Publications_files/chancoopersica.pdf](http://www.francescosica.org/Francesco_Sica/Publications_files/chancoopersica.pdf)|
-|[280617](https://oeis.org/A280617)|[http://www.sympy.orgimport](http://www.sympy.orgimport)|
-|[280735](https://oeis.org/A280735)|[http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory](http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory)|
-|[280736](https://oeis.org/A280736)|[http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory](http://www.scribd.com/doc/24487088/Hojoo-Lee-Peter-Vandendriessche-Problems-in-Elementary-Number-Theory)|
-|[280945](https://oeis.org/A280945)|[https://imo-official.org/problems/IMO2015SL.pdf](https://imo-official.org/problems/IMO2015SL.pdf)|
-|[280974](https://oeis.org/A280974)|[https://oeis.org/wiki/Index_to_Elementary_Cellular_Automata](https://oeis.org/wiki/Index_to_Elementary_Cellular_Automata)|
-|[281069](https://oeis.org/A281069)|[https://faculty.missouri.edu/~bankswd/papers/2011_power_totients_almost_primes_published_version.pdf](https://faculty.missouri.edu/~bankswd/papers/2011_power_totients_almost_primes_published_version.pdf)|
-|[283239](https://oeis.org/A283239)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[283321](https://oeis.org/A283321)|[http://kwsman.com/articles/Revised%20Bakare.pdf](http://kwsman.com/articles/Revised%20Bakare.pdf)|
-|[283322](https://oeis.org/A283322)|[http://kwsman.com/articles/Revised%20Bakare.pdf](http://kwsman.com/articles/Revised%20Bakare.pdf)|
-|[283627](https://oeis.org/A283627)|[http://www.resnet.wm.edu/~cklixx/reu02.pdf](http://www.resnet.wm.edu/~cklixx/reu02.pdf)|
-|[284442](https://oeis.org/A284442)|[https://orbi.ulg.ac.be/bitstream/2268/205077/1/postprint%20auteur.pdf](https://orbi.ulg.ac.be/bitstream/2268/205077/1/postprint%20auteur.pdf)|
-|[284842](https://oeis.org/A284842)|[http://for.mat.bham.ac.uk/atlas/v2.0/spor/M12/](http://for.mat.bham.ac.uk/atlas/v2.0/spor/M12/)|
-|[285579](https://oeis.org/A285579)|[http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp](http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp)|
-|[285832](https://oeis.org/A285832)|[http://www.dtic.mil/dtic/tr/fulltext/u2/a392002.pdf](http://www.dtic.mil/dtic/tr/fulltext/u2/a392002.pdf)|
-|[286128](https://oeis.org/A286128)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[286129](https://oeis.org/A286129)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[286131](https://oeis.org/A286131)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[286132](https://oeis.org/A286132)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[286133](https://oeis.org/A286133)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[286134](https://oeis.org/A286134)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[286135](https://oeis.org/A286135)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[286137](https://oeis.org/A286137)|[http://grail.eecs.csuohio.edu/~somos/retaprod.html](http://grail.eecs.csuohio.edu/~somos/retaprod.html)|
-|[286762](https://oeis.org/A286762)|[https://www.integers-ejcnt.org/vol18.html](https://www.integers-ejcnt.org/vol18.html)|
-|[286763](https://oeis.org/A286763)|[https://www.integers-ejcnt.org/vol18.html](https://www.integers-ejcnt.org/vol18.html)|
-|[286870](https://oeis.org/A286870)|[http://hdl.handle.net/2292/3642](http://hdl.handle.net/2292/3642)|
-|[286885](https://oeis.org/A286885)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[286944](https://oeis.org/A286944)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[287591](https://oeis.org/A287591)|[http://www.chalcedon.demon.co.uk/rgep/cartable.html](http://www.chalcedon.demon.co.uk/rgep/cartable.html)|
-|[287616](https://oeis.org/A287616)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[287683](https://oeis.org/A287683)|[http://www.bdim.eu/item?id=BUMI_1999_8_2B_3_723_0](http://www.bdim.eu/item?id=BUMI_1999_8_2B_3_723_0)|
-|[287921](https://oeis.org/A287921)|[http://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.pdf](http://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.pdf)|
-|[289632](https://oeis.org/A289632)|[http://blog.greaterthanzero.com/post/159874910652/some-mathematics-algorithms-and-probabilities](http://blog.greaterthanzero.com/post/159874910652/some-mathematics-algorithms-and-probabilities)|
-|[290188](https://oeis.org/A290188)|[http://web.araachive.org/web/20091027034731/http://uk.geocities.com/nassarawa%40btinternet.com/probprim2.htm](http://web.araachive.org/web/20091027034731/http://uk.geocities.com/nassarawa%40btinternet.com/probprim2.htm)|
-|[290189](https://oeis.org/A290189)|[http://web.araachive.org/web/20091027034731/http://uk.geocities.com/nassarawa%40btinternet.com/probprim2.htm](http://web.araachive.org/web/20091027034731/http://uk.geocities.com/nassarawa%40btinternet.com/probprim2.htm)|
-|[290472](https://oeis.org/A290472)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[290491](https://oeis.org/A290491)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[290711](https://oeis.org/A290711)|[http://hdl.handle.net/2292/3642](http://hdl.handle.net/2292/3642)|
-|[290945](https://oeis.org/A290945)|[http://magicdragon.com/fig.html](http://magicdragon.com/fig.html)|
-|[291154](https://oeis.org/A291154)|[https://www.casinoz.club/content/everything-about-roulette-wheel-construction-588.html](https://www.casinoz.club/content/everything-about-roulette-wheel-construction-588.html)|
-|[291171](https://oeis.org/A291171)|[https://www.casinoz.club/content/everything-about-roulette-wheel-construction-588.html](https://www.casinoz.club/content/everything-about-roulette-wheel-construction-588.html)|
-|[291187](https://oeis.org/A291187)|[http://homepages.vub.ac.be/~jvpoucke/MasterThesisMOLS.pdf](http://homepages.vub.ac.be/~jvpoucke/MasterThesisMOLS.pdf)|
-|[291188](https://oeis.org/A291188)|[http://homepages.vub.ac.be/~jvpoucke/MasterThesisMOLS.pdf](http://homepages.vub.ac.be/~jvpoucke/MasterThesisMOLS.pdf)|
-|[291600](https://oeis.org/A291600)|[http://echochamber.me/viewtopic.php?t=74216](http://echochamber.me/viewtopic.php?t=74216)|
-|[292185](https://oeis.org/A292185)|[http://www.jsoftware.com(PARI)](http://www.jsoftware.com(PARI))|
-|[293710](https://oeis.org/A293710)|[http://marathwadamathsociety.org/vol17-1/June16-Arolkar.pdf](http://marathwadamathsociety.org/vol17-1/June16-Arolkar.pdf)|
-|[295513](https://oeis.org/A295513)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[295556](https://oeis.org/A295556)|[http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf](http://140.109.74.92/hk/wp-content/files/2016/12/aat-hhrr-1.pdf)|
-|[295637](https://oeis.org/A295637)|[http://wesscholar.wesleyan.edu/etd_hon_theses/1807](http://wesscholar.wesleyan.edu/etd_hon_theses/1807)|
-|[296030](https://oeis.org/A296030)|[http://backissues.com/issue/Scientific-American-March-1964](http://backissues.com/issue/Scientific-American-March-1964)|
-|[298614](https://oeis.org/A298614)|[http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp](http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp)|
-|[299041](https://oeis.org/A299041)|[http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf](http://www.neurociencias.org.ve/cont-cursos-laboratorio-de-neurociencias-luz/Slowinski1998%20phylogenetics.pdf)|
-|[299710](https://oeis.org/A299710)|[http://www.chalcedon.demon.co.uk/rgep/cartable.html](http://www.chalcedon.demon.co.uk/rgep/cartable.html)|
-|[299711](https://oeis.org/A299711)|[http://www.chalcedon.demon.co.uk/rgep/cartable.html](http://www.chalcedon.demon.co.uk/rgep/cartable.html)|
-|[300729](https://oeis.org/A300729)|[http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html](http://domino.watson.ibm.com/Comm/wwwr_ponder.nsf/challenges/January2001.html)|
-|[300949](https://oeis.org/A300949)|[http://www.chalcedon.demon.co.uk/rgep/cartable.html](http://www.chalcedon.demon.co.uk/rgep/cartable.html)|
-|[303401](https://oeis.org/A303401)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[303432](https://oeis.org/A303432)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[303434](https://oeis.org/A303434)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[303601](https://oeis.org/A303601)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[303933](https://oeis.org/A303933)|[http://www.math.uakron.edu/~sf34/opans0_6.html](http://www.math.uakron.edu/~sf34/opans0_6.html)|
-|[304616](https://oeis.org/A304616)|[http://www.conference.bonfring.org/papers/xavier_icamtcs2013/tt2_dm_0214.pdf](http://www.conference.bonfring.org/papers/xavier_icamtcs2013/tt2_dm_0214.pdf)|
-|[304617](https://oeis.org/A304617)|[http://www.conference.bonfring.org/papers/xavier_icamtcs2013/tt2_dm_0214.pdf](http://www.conference.bonfring.org/papers/xavier_icamtcs2013/tt2_dm_0214.pdf)|
-|[304938](https://oeis.org/A304938)|[https://icpc.baylor.edu/download/worldfinals/problems/icpc2013.pdf](https://icpc.baylor.edu/download/worldfinals/problems/icpc2013.pdf)|
-|[305616](https://oeis.org/A305616)|[https://ijntindia.puzl.com/files/1638778/download/1_das_1-12.pdf](https://ijntindia.puzl.com/files/1638778/download/1_das_1-12.pdf)|
-|[305617](https://oeis.org/A305617)|[https://ijntindia.puzl.com/files/1638778/download/1_das_1-12.pdf](https://ijntindia.puzl.com/files/1638778/download/1_das_1-12.pdf)|
-|[306071](https://oeis.org/A306071)|[http://emis.ams.org/journals/JIS/VOL12/Toth2/toth5.html](http://emis.ams.org/journals/JIS/VOL12/Toth2/toth5.html)|
-|[307159](https://oeis.org/A307159)|[http://emis.ams.org/journals/JIS/VOL20/Toth/toth25.html](http://emis.ams.org/journals/JIS/VOL20/Toth/toth25.html)|
-|[308041](https://oeis.org/A308041)|[http://emis.ams.org/journals/JIS/VOL20/Toth/toth25.html](http://emis.ams.org/journals/JIS/VOL20/Toth/toth25.html)|
-|[308182](https://oeis.org/A308182)|[http://puma.dimai.unifi.it/19_2_3/4.pdf](http://puma.dimai.unifi.it/19_2_3/4.pdf)|
-|[308640](https://oeis.org/A308640)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[308641](https://oeis.org/A308641)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[308662](https://oeis.org/A308662)|[http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml](http://math.scichina.com:8081/sciAe/EN/abstract/abstract517007.shtml)|
-|[309245](https://oeis.org/A309245)|[http://emis.ams.org/journals/JIS/VOL14/DeKoninck/dek.html](http://emis.ams.org/journals/JIS/VOL14/DeKoninck/dek.html)|
-|[309246](https://oeis.org/A309246)|[http://emis.ams.org/journals/JIS/VOL14/DeKoninck/dek.html](http://emis.ams.org/journals/JIS/VOL14/DeKoninck/dek.html)|
-|[309514](https://oeis.org/A309514)|[https://cheapass.com/wp-content/uploads/2018/04/UniversityRulesSM.pdf](https://cheapass.com/wp-content/uploads/2018/04/UniversityRulesSM.pdf)|
-|[309779](https://oeis.org/A309779)|[http://smallsystems.isn-oldenburg.de/publications/metadocs/ebs.quadratsummen.html](http://smallsystems.isn-oldenburg.de/publications/metadocs/ebs.quadratsummen.html)|
-|[316603](https://oeis.org/A316603)|[http://forums.xkcd.com/viewtopic.php?f=7&amp](http://forums.xkcd.com/viewtopic.php?f=7&amp)|
-|[316774](https://oeis.org/A316774)|[https://peterillig.xyz/problems.html](https://peterillig.xyz/problems.html)|
-|[317681](https://oeis.org/A317681)|[http://pw1.netcom.com/~fredh/index.html](http://pw1.netcom.com/~fredh/index.html)|
-|[318274](https://oeis.org/A318274)|[http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/bitonic/bitonicen.htm](http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/bitonic/bitonicen.htm)|
-|[319524](https://oeis.org/A319524)|[http://users.skynet.be/albert.frank/fourth_international_contest3.html](http://users.skynet.be/albert.frank/fourth_international_contest3.html)|
-|[320457](https://oeis.org/A320457)|[http://www.dtic.mil/docs/citations/ADA222857](http://www.dtic.mil/docs/citations/ADA222857)|
-|[320873](https://oeis.org/A320873)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
-|[320874](https://oeis.org/A320874)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
-|[320876](https://oeis.org/A320876)|[http://www.magic-squares.net/primesqr.htm](http://www.magic-squares.net/primesqr.htm)|
-|[321125](https://oeis.org/A321125)|[https://www.math.csusb.edu/reu/OverduinPaper.pdf](https://www.math.csusb.edu/reu/OverduinPaper.pdf)|
-|[321126](https://oeis.org/A321126)|[https://www.math.csusb.edu/reu/OverduinPaper.pdf](https://www.math.csusb.edu/reu/OverduinPaper.pdf)|
-|[321127](https://oeis.org/A321127)|[https://www.math.csusb.edu/reu/OverduinPaper.pdf](https://www.math.csusb.edu/reu/OverduinPaper.pdf)|
-|[322254](https://oeis.org/A322254)|[http://www.dtic.mil/docs/citations/ADA222857](http://www.dtic.mil/docs/citations/ADA222857)|
-|[322256](https://oeis.org/A322256)|[http://www.dtic.mil/docs/citations/ADA222857](http://www.dtic.mil/docs/citations/ADA222857)|
-|[322791](https://oeis.org/A322791)|[http://emis.ams.org/journals/JIS/VOL13/Cao/cao4.html](http://emis.ams.org/journals/JIS/VOL13/Cao/cao4.html)|
-|[323191](https://oeis.org/A323191)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[323202](https://oeis.org/A323202)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[325449](https://oeis.org/A325449)|[http://oai.cwi.nl/oai/asset/13093/13093A.pdf](http://oai.cwi.nl/oai/asset/13093/13093A.pdf)|
-|[327767](https://oeis.org/A327767)|[http://grail.eecs.csuohio.edu/~somos/rfmc.html](http://grail.eecs.csuohio.edu/~somos/rfmc.html)|
-|[329148](https://oeis.org/A329148)|[http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp](http://www.wm-archive.uni-bayreuth.de/index.php?id=554&amp)|
-|[330206](https://oeis.org/A330206)|[http://icm.mcs.kent.edu/reports/1999/chebpol.pdf](http://icm.mcs.kent.edu/reports/1999/chebpol.pdf)|
-|[330207](https://oeis.org/A330207)|[http://icm.mcs.kent.edu/reports/1999/chebpol.pdf](http://icm.mcs.kent.edu/reports/1999/chebpol.pdf)|
-|[330208](https://oeis.org/A330208)|[http://icm.mcs.kent.edu/reports/1999/chebpol.pdf](http://icm.mcs.kent.edu/reports/1999/chebpol.pdf)|
-|[330315](https://oeis.org/A330315)|[https://10.2969/jmsj/05110237](https://10.2969/jmsj/05110237)|
-|[330316](https://oeis.org/A330316)|[https://10.2969/jmsj/05110237](https://10.2969/jmsj/05110237)|
-|[330317](https://oeis.org/A330317)|[https://10.2969/jmsj/05110237](https://10.2969/jmsj/05110237)|
-|[330318](https://oeis.org/A330318)|[https://10.2969/jmsj/05110237](https://10.2969/jmsj/05110237)|
-|[330612](https://oeis.org/A330612)|[http://www.gutenberg.org/files/18567/18567-h/18567-h.htm](http://www.gutenberg.org/files/18567/18567-h/18567-h.htm)|
-|[332077](https://oeis.org/A332077)|[https://asone.ai/polymath/index.php?title=The_Erdos-Rado_sunflower_lemma](https://asone.ai/polymath/index.php?title=The_Erdos-Rado_sunflower_lemma)|
-|[333909](https://oeis.org/A333909)|[https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf](https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf)|
-|[333910](https://oeis.org/A333910)|[https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf](https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf)|
-|[333911](https://oeis.org/A333911)|[https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf](https://faculty.missouri.edu/~bankswd/papers/2005_arith_functs_sum_two_squares.pdf)|
-|[334472](https://oeis.org/A334472)|[https://www.math.uchicago.edu/~lawler/srwbook.pdf](https://www.math.uchicago.edu/~lawler/srwbook.pdf)|
-|[335050](https://oeis.org/A335050)|[http://bayer.faculty.ku.edu/pub/preprints/pill.pdf](http://bayer.faculty.ku.edu/pub/preprints/pill.pdf)|
-|[335862](https://oeis.org/A335862)|[https://www.itp.kit.edu/~wl/EISpub/A333852.pdf](https://www.itp.kit.edu/~wl/EISpub/A333852.pdf)|
-|[335863](https://oeis.org/A335863)|[https://www.itp.kit.edu/~wl/EISpub/A333852.pdf](https://www.itp.kit.edu/~wl/EISpub/A333852.pdf)|
-|[335864](https://oeis.org/A335864)|[https://www.itp.kit.edu/~wl/EISpub/A333852.pdf](https://www.itp.kit.edu/~wl/EISpub/A333852.pdf)|
-|[336657](https://oeis.org/A336657)|[https://faculty.missouri.edu/~bankswd/papers/2007_sum_prime_divs_Mersenne_HJM.pdf](https://faculty.missouri.edu/~bankswd/papers/2007_sum_prime_divs_Mersenne_HJM.pdf)|
-|[336700](https://oeis.org/A336700)|[http://www.bdim.eu/item?fmt=pdf&amp](http://www.bdim.eu/item?fmt=pdf&amp)|
-|[336701](https://oeis.org/A336701)|[http://www.bdim.eu/item?fmt=pdf&amp](http://www.bdim.eu/item?fmt=pdf&amp)|
-|[338218](https://oeis.org/A338218)|[http://grail.eecs.csuohio.edu/~somos/somospol.html](http://grail.eecs.csuohio.edu/~somos/somospol.html)|
-|[338442](https://oeis.org/A338442)|[http://www.chalcedon.demon.co.uk/rgep/cartable.html](http://www.chalcedon.demon.co.uk/rgep/cartable.html)|
-|[338443](https://oeis.org/A338443)|[http://www.chalcedon.demon.co.uk/rgep/cartable.html](http://www.chalcedon.demon.co.uk/rgep/cartable.html)|
-|[338866](https://oeis.org/A338866)|[http://ymmij.de/Nerd/p4/p4-2.pdf](http://ymmij.de/Nerd/p4/p4-2.pdf), [http://ymmij.de/Nerd/p4/calculation.pdf](http://ymmij.de/Nerd/p4/calculation.pdf)|
-|[338868](https://oeis.org/A338868)|[http://ymmij.de/Nerd/p4/calculation.pdf](http://ymmij.de/Nerd/p4/calculation.pdf), [http://ymmij.de/Nerd/p4/p4-3.pdf](http://ymmij.de/Nerd/p4/p4-3.pdf)|
-|[339189](https://oeis.org/A339189)|[http://ymmij.de/Nerd/p4/calculation.pdf](http://ymmij.de/Nerd/p4/calculation.pdf), [http://ymmij.de/Nerd/p4/p4-3.pdf](http://ymmij.de/Nerd/p4/p4-3.pdf)|
-|[343194](https://oeis.org/A343194)|[http://www.magic-squares.net/primesqr.htm#Minimum](http://www.magic-squares.net/primesqr.htm#Minimum)|
-|[343195](https://oeis.org/A343195)|[http://www.magic-squares.net/primesqr.htm#Minimum](http://www.magic-squares.net/primesqr.htm#Minimum)|
-|[343592](https://oeis.org/A343592)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
-|[343795](https://oeis.org/A343795)|[http://puma.dimai.unifi.it/21_2/5_Burstein_Josuat-Verges_Stromquist.pdf](http://puma.dimai.unifi.it/21_2/5_Burstein_Josuat-Verges_Stromquist.pdf)|
-|[344122](https://oeis.org/A344122)|[https://doi.org/10.14418/wes01.1.1360](https://doi.org/10.14418/wes01.1.1360)|
-|[344229](https://oeis.org/A344229)|[http://users.skynet.be/lch/mquiz/mquiz%202003/vragen/mquiz_2003_tafelronde_2.htm](http://users.skynet.be/lch/mquiz/mquiz%202003/vragen/mquiz_2003_tafelronde_2.htm)|
-|[345202](https://oeis.org/A345202)|[http://www.bdim.eu/item?id=BUMI_1953_3_8_4_448_0](http://www.bdim.eu/item?id=BUMI_1953_3_8_4_448_0)|
-|[346673](https://oeis.org/A346673)|[http://schmidt.nuigalway.ie/subgroups](http://schmidt.nuigalway.ie/subgroups)|
-|[348563](https://oeis.org/A348563)|[https://indianmathsociety.org.in/mathstudent-part-1-2019.pdf#page=131](https://indianmathsociety.org.in/mathstudent-part-1-2019.pdf#page=131)|
-|[354474](https://oeis.org/A354474)|[https://www.tiktok.com/@mathandcobb/video/7110667721133690158](https://www.tiktok.com/@mathandcobb/video/7110667721133690158)|
-|[355313](https://oeis.org/A355313)|[https://www.tiktok.com/@mathandcobb/video/7110667721133690158](https://www.tiktok.com/@mathandcobb/video/7110667721133690158)|
+|[136433](https://oeis.org/A136433)|[http://www.greatitcareer.com/btarchieve.asp?pgno=23](http://www.greatitcareer.com/btarchieve.asp?pgno=23), [http://www.randpersonnel.co.za/mailerfeb08.htm](http://www.randpersonnel.co.za/mailerfeb08.htm)|
+|[90968](https://oeis.org/A090968)|[http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html](http://www1.uni-hamburg.de/RRZ/W.Keller/FermatQuotient.html)|
+|[45310](https://oeis.org/A045310)|[http://www.theophys.kth.se/~phl/Text/1factors.pdf](http://www.theophys.kth.se/~phl/Text/1factors.pdf), [http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz](http://www.theophys.kth.se/~phl/Text/1factors2.ps.gz)|
+|[45315](https://oeis.org/A045315)|[http://www.rzuser.uni-heidelberg.de/~hb3/recbib.html](http://www.rzuser.uni-heidelberg.de/~hb3/recbib.html)|
+|[45412](https://oeis.org/A045412)|[https://cs.uwaterloo.ca/journals/JIS/VOL12/Ruskey/ruskey6.html](https://cs.uwaterloo.ca/journals/JIS/VOL12/Ruskey/ruskey6.html)|
