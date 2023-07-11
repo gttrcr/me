@@ -11,10 +11,13 @@ I am still working of the [broken](oeis_mds/broken_links.md) list because it is 
 
 The code for this OEIS sanitization can be found [here](https://github.com/gttrcr/oeis_sanitization).
 
-## Future works
+## My suggestions
 
-* improved broken link search algorithm (the algorithm will improve and the list will become more complete, now the search includes the sequences from 1 to 500)
-* search for incorrect mathematica codes
+|Task|Description|OEIS request|Sequence list|
+|:-:|:-:|:-:|:-:|
+|Remove more keyword|Sequences with more data that the average but with more keyword||[maybe_not_more](oeis_mds/maybe_not_more.md)|
+
+## Standard analysis
 
 |Task|Description|OEIS request|Sequence list|
 |:-:|:-:|:-:|:-:|
@@ -33,3 +36,8 @@ The code for this OEIS sanitization can be found [here](https://github.com/gttrc
 |Make the sequence more understandable|obsc is keyword used by OEIS to identity an obscure sequence, indicates that a description is known, but it may be difficult to understand or not very enlightening. (If no description at all is known for the sequence, keyword:unkn should be used.)||[obscure](oeis_mds/obsc_sequences.md)|
 ||||[part](oeis_mds/part_keywords.md)|
 ||||[uned](oeis_mds/uned_sequences.md)|
+
+## Future works
+
+* improved broken link search algorithm (the algorithm will improve and the list will become more complete, now the search includes the sequences from 1 to 500)
+* search for incorrect mathematica codes
