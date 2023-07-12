@@ -15,7 +15,7 @@ This sentence from Kant was my starting point from which I discovered the greatn
 
 ## By account
 
-* [Wolfram resource system](https://resources.wolframcloud.com/publishers/resources?PublisherID=riccardogatti)
+* [Wolfram Function Repository](https://resources.wolframcloud.com/publishers/resources?PublisherID=riccardogatti)
 * [OEIS](https://oeis.org/search?q=author:_riccardo+gatti_)
 * [ORCID](https://orcid.org/0000-0002-3554-4126)
 * [SciProfiles](https://sciprofiles.com/profile/974059)
