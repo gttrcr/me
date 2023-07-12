@@ -15,7 +15,8 @@ The code for this OEIS sanitization can be found [here](https://github.com/gttrc
 
 |Task|Description|OEIS request|Sequence list|
 |:-:|:-:|:-:|:-:|
-|Remove more keyword|Sequences with more data that the average but with more keyword||[maybe_not_more](oeis_mds/maybe_not_more.md)|
+|Remove _more_ keyword|Sequences with more data than the average but with 'more' keyword||[maybe_not_more](oeis_mds/suggestions/maybe_not_more.md)|
+|Add _more_ keyword|Sequences with less data than the average but without 'more' keyword||[maybe_more](oeis_mds/suggestions/maybe_more.md)|
 
 ## Standard analysis
 
