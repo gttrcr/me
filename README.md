@@ -1,4 +1,3 @@
-
 * As a senior researcher
   * my research activity in mathematics ranges from number theory to Riemannian manifolds. I have a great passion for physics and computer science but I have always thought that mathematics is the art of ideas, the study of the logic of thought under which it was possible to describe what the human intellect knows and communicates.
 * As a co-founder

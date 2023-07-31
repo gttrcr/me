@@ -5,6 +5,7 @@ google_analytics: G-YT63QQMRMS
 header_pages:
   - blog.md
   - oeis.md
+  - mylibrary.md
 minima:
   skin: dark
   social_links:
