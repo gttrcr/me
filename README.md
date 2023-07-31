@@ -16,6 +16,7 @@ This sentence from Kant was my starting point from which I discovered the greatn
 
 * [Wolfram Function Repository](https://resources.wolframcloud.com/publishers/resources?PublisherID=riccardogatti)
 * [OEIS](https://oeis.org/search?q=author:_riccardo+gatti_)
+* [ScienceOpen](https://www.scienceopen.com/search#author/281f0b5f-5c02-4ec3-97c3-81c8a8a3be57)
 * [ORCID](https://orcid.org/0000-0002-3554-4126)
 * [SciProfiles](https://sciprofiles.com/profile/974059)
 
@@ -37,7 +38,8 @@ This sentence from Kant was my starting point from which I discovered the greatn
 
 <!--### Knowledge theory-->
 
-<!--### Other issues-->
+### Other issues
+* [Riccardo Gatti. DIY Time Machine. ScienceOpen Preprints. 2023. DOI: 10.14293/PR2199.000233.v1](https://www.scienceopen.com/hosted-document?doi=10.14293/PR2199.000233.v1)
 
 ### Public conferences
 
