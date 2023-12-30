@@ -32,7 +32,7 @@ This sentence from Kant was my starting point from which I discovered the greatn
 
 ### Number theory and discrete mathematics
 
-* [Gatti, R. Gilbreath Equation, Gilbreath Polynomials, Upper and Lower Bound for Gilbreath Conjecture. Preprints.org 2020, 2020030145. https://doi.org/10.20944/preprints202003.0145.v4](https://doi.org/10.20944/preprints202003.0145.v4)
+* [Gatti, R. Gilbreath Equation, Gilbreath Polynomials, and Upper and Lower Bounds for Gilbreath Conjecture. Mathematics 2023, 11, 4006. https://doi.org/10.3390/math11184006](https://doi.org/10.3390/math11184006)
 * [OEIS Foundation Inc. (2022), Triangle read by rows where row m is the m-th Gilbreath polynomial and column n is the numerator of the coefficient of the n-th degree term., Entry A347924 in The On-Line Encyclopedia of Integer Sequences, http://oeis.org/A347924.](http://oeis.org/A347924)
 * [OEIS Foundation Inc. (2022), a(n) is the lowest common denominator of n-th Gilbreath polynomial., Entry A347925 in The On-Line Encyclopedia of Integer Sequences, http://oeis.org/A347925.](http://oeis.org/A347925)
 
