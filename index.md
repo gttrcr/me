@@ -2,7 +2,7 @@
 title: gttrcr
 feature_text: |
   ## gttrcr
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  my experience, my business, my life
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "gttrcr and some text"
 ---
