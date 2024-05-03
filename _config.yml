@@ -97,7 +97,7 @@ title: "gttrcr" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 # description: "gttrcr and some description" # Site description and default description, also used in jekyll-seo-tag
 url: "https://gttrcr.github.io/me" # Site url, also used in jekyll-seo-tag
-baseurl: "/me"
+baseurl: ""
 repo: "https://github.com/gttrcr/me"
 # email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
