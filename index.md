@@ -27,11 +27,11 @@ This sentence from Kant was my starting point from which I discovered the greatn
 * [SciProfiles](https://sciprofiles.com/profile/974059)
 
 #### Entropy and information theory
- * De Bruijn-Newman H function [Gatti, R. "DeBruijnNewmanH." From MathWorld--A Wolfram Web Resource. https://resources.wolframcloud.com/FunctionRepository/resources/DeBruijnNewmanH/](https://resources.wolframcloud.com/FunctionRepository/resources/DeBruijnNewmanH/)
- * Hyperdeterminant [Gatti, R. "HyperDet." From MathWorld--A Wolfram Web Resource. https://resources.wolframcloud.com/FunctionRepository/resources/HyperDet/](https://resources.wolframcloud.com/FunctionRepository/resources/HyperDet/)
- * Hypertrace [Gatti, R. "HyperTr." From MathWorld--A Wolfram Web Resource. https://resources.wolframcloud.com/FunctionRepository/resources/HyperTr/](https://resources.wolframcloud.com/FunctionRepository/resources/HyperTr/)
- * Identity hypermatrix [Gatti, R. "IdentityHypermatrix." From MathWorld--A Wolfram Web Resource. https://resources.wolframcloud.com/FunctionRepository/resources/IdentityHypermatrix/](https://resources.wolframcloud.com/FunctionRepository/resources/IdentityHypermatrix/)
- * [All Wolfram Researh contributions](https://resources.wolframcloud.com/publishers/resources?PublisherID=riccardogatti)
+ * [Gatti, R. Structure and Constraints for a Knowledge Architecture. Preprints 2024, 2024031719. https://doi.org/10.20944/preprints202403.1719.v1](https://doi.org/10.20944/preprints202403.1719.v1)
+ * [Gatti, R. "DeBruijnNewmanH." From MathWorld--A Wolfram Web Resource. https://resources.wolframcloud.com/FunctionRepository/resources/DeBruijnNewmanH/](https://resources.wolframcloud.com/FunctionRepository/resources/DeBruijnNewmanH/)
+ * [Gatti, R. "HyperDet." From MathWorld--A Wolfram Web Resource. https://resources.wolframcloud.com/FunctionRepository/resources/HyperDet/](https://resources.wolframcloud.com/FunctionRepository/resources/HyperDet/)
+ * [Gatti, R. "HyperTr." From MathWorld--A Wolfram Web Resource. https://resources.wolframcloud.com/FunctionRepository/resources/HyperTr/](https://resources.wolframcloud.com/FunctionRepository/resources/HyperTr/)
+ * [Gatti, R. "IdentityHypermatrix." From MathWorld--A Wolfram Web Resource. https://resources.wolframcloud.com/FunctionRepository/resources/IdentityHypermatrix/](https://resources.wolframcloud.com/FunctionRepository/resources/IdentityHypermatrix/)
 
 #### Number theory and discrete mathematics
 * [Gatti, R. Gilbreath Equation, Gilbreath Polynomials, and Upper and Lower Bounds for Gilbreath Conjecture. Mathematics 2023, 11, 4006. https://doi.org/10.3390/math11184006](https://doi.org/10.3390/math11184006)
