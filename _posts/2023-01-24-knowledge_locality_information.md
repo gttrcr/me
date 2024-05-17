@@ -9,36 +9,39 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 
 ## Table of content
 
-* [Introduction and motivation](#introduction-and-motivation)
-* [Information](#information)
-* [Research line](#research-line)
-* [Team](#team)
-* [Videos, docs, links](#videos-docs-links)
-* [Bibliograpy](#bibliograpy)
+- [Table of content](#table-of-content)
+- [Introduction and motivation](#introduction-and-motivation)
+- [Information](#information)
+- [Research line](#research-line)
+- [Videos, docs, links](#videos-docs-links)
+  - [Google meet permalink](#google-meet-permalink)
+  - [Dirac equation video](#dirac-equation-video)
+  - [QFT playlist](#qft-playlist)
+- [Bibliograpy](#bibliograpy)
 
 ## Introduction and motivation
 
 The universe is characterized by a multitude of connections between its parts and this property can be observed at all levels and in all sectors of knowledge. It seems that there are very few elements whose connections with the rest of reality are not known, that is, elements completely disconnected. Artists and scientists in every era have grasped new connections and better understood the already known ones. Also, it rarely happens that elements considered connected then turn out to be completely independent: the entire Western and Eastern thought (the thought of all humanity) has searched and is constantly searching for new connections. For the first time in human history one begins to perceive a sort of unity, perhaps already present in ancient thought, which was then lost with the progressive specialization of knowledge in recent centuries.
 
 Arguments not very different from this one have slowly led us to think that some of the principles on which human thought and knowledge are built are in fact principles with which nature operates and manifests itself. Speaking in informal terms (the formal treatment will be proposed later) it is possible to identify a fundamental opposition that can be found both in the arts and in science. In physical terms it declines in the problem of locality/non-locality of phenomena and theories.
-In the context of quantum mechanics (QM), non-locality has taken on a particular meaning that we will analyze later. However it is interesting to note that the theories of classical mechanics, assuming the speed of light as an infinite speed, represent a type of non-local theory since the time elapsed between a cause and its effect is exactly 0. Let consider Newton theory of gravity: if the Sun disappeared at this very moment, at exactly the same instant the Earth would stop rotating around its star and will move in a straight line thus moving away from the solar system which would instantly begin to disintegrate. More recent experimental results and more precise theoretical descriptions motivated by new discoveries starting from Maxwell electromagnetic theory, have shown that any information can only travel at the speed of light in vacuum $$c$$. In the previous example, if the Sun disappeared at this very moment, Earth would begin to abandon its orbit only when the information "the Sun has disappeared" had reached it and since the information can only travel at $$c$$ and since $$c$$ is not infinite then the lapse of time between the disappearance of the Sun and the modification of the trajectory of the Earth will be greather than 0. In these terms, in modern physics, we speak of local theory only when the time elapses between a cause and an effect is such thatn at least a beam of light starting from the cause can reach the effect. Hence, we speak of non-local theory when there are systems connected in such a way that the modification of one of the two elements instantly causes the modification of the element connected to it.
+In the context of quantum mechanics (QM), non-locality has taken on a particular meaning that we will analyze later. However it is interesting to note that the theories of classical mechanics, assuming the speed of light as an infinite speed, represent a type of non-local theory since the time elapsed between a cause and its effect is exactly 0. Let consider Newton theory of gravity: if the Sun disappeared at this very moment, at exactly the same instant the Earth would stop rotating around its star and will move in a straight line thus moving away from the solar system which would instantly begin to disintegrate. More recent experimental results and more precise theoretical descriptions motivated by new discoveries starting from Maxwell electromagnetic theory, have shown that any information can only travel at the speed of light in vacuum $c$. In the previous example, if the Sun disappeared at this very moment, Earth would begin to abandon its orbit only when the information "the Sun has disappeared" had reached it and since the information can only travel at $c$ and since $c$ is not infinite then the lapse of time between the disappearance of the Sun and the modification of the trajectory of the Earth will be greather than 0. In these terms, in modern physics, we speak of local theory only when the time elapses between a cause and an effect is such thatn at least a beam of light starting from the cause can reach the effect. Hence, we speak of non-local theory when there are systems connected in such a way that the modification of one of the two elements instantly causes the modification of the element connected to it.
 
-QM is a non-local theory [[berkovitz](#berkovitz-joseph-action-at-a-distance-in-quantum-mechanics-the-stanford-encyclopedia-of-philosophy-spring-2016-edition-edward-n-zalta-ed-httpsplatostanfordeduarchivesspr2016entriesqm-action-distance)]. BUT this in no way violates the fundamental principles of physics since when non-local phenomena occur, no information has traveled from one element to another: a non-local connection is not-informational. Since there is no information involved in the connection, its speed is not required to be less or equal that $$c$$. Since there is no information involved in the connection, it is not required that the principle of locality be respected and therefore the constraint that the signal must travel at the maximum speed of light is dropped. At this point the locality/non-locality problem has become an informational/non-informational type problem on which we will dwell at length.
+QM is a non-local theory [[berkovitz](#berkovitz-joseph-action-at-a-distance-in-quantum-mechanics-the-stanford-encyclopedia-of-philosophy-spring-2016-edition-edward-n-zalta-ed-httpsplatostanfordeduarchivesspr2016entriesqm-action-distance)]. BUT this in no way violates the fundamental principles of physics since when non-local phenomena occur, no information has traveled from one element to another: a non-local connection is not-informational. Since there is no information involved in the connection, its speed is not required to be less or equal that $c$. Since there is no information involved in the connection, it is not required that the principle of locality be respected and therefore the constraint that the signal must travel at the maximum speed of light is dropped. At this point the locality/non-locality problem has become an informational/non-informational type problem on which we will dwell at length.
 Consider the following table:
 
 |    Principle    |  Property   |           Justification            |
 | :-------------: | :---------: | :--------------------------------: |
-|    Locality     | $$v\leq c$$ |       Definition of locality       |
-|   Information   | $$v\leq c$$ |                 GR                 |
-|  Non-locality   |   $$v>c$$   | Negation of definition of locality |
-| Non-information |   $$v>c$$   |           Negation of GR           |
+|    Locality     | $v\leq c$ |       Definition of locality       |
+|   Information   | $v\leq c$ |                 GR                 |
+|  Non-locality   |   $v>c$   | Negation of definition of locality |
+| Non-information |   $v>c$   |           Negation of GR           |
 
 Hence,
 
 | Locality status |  Property   | Informative status |
 | :-------------: | :---------: | :----------------: |
-|    Locality     | $$v\leq c$$ |    Information     |
-|  Non-locality   |   $$v>c$$   |  Non-information   |
+|    Locality     | $v\leq c$ |    Information     |
+|  Non-locality   |   $v>c$   |  Non-information   |
 
 Or,
 
@@ -80,28 +83,17 @@ The following table (updated at 24 january 2023) can be found, always updated, a
 |   8   |             Eigenvalues and eigenvectors for a GO (or LO according to 4)             |   Open    | Calculus, Algebra, Computer algebra |                 |
 |   9   |                FIM (or FIT according to 5) of pdf in the general case                |  Running  |          Calculus, Algebra          |                 |
 |  10   |                 FIM (or FIT according to 5) of allowed wave function                 |  Running  |   Calculus, QM, Computer algebra    |                 |
-|  11   |                      Loss of information in measuring processes                      |   Open    |        Computer Algebra, CS         |                 |
-|  12   |          Relationship between FIM (or FIT according to 5) and entropy in CS          |   Open    |        Computer Algebra, CS         |                 |
+|  11   |                      Loss of information in measuring processes                      |   Open    |        Computer algebra, CS         |                 |
+|  12   |          Relationship between FIM (or FIT according to 5) and entropy in CS          |   Open    |        Computer algebra, CS         |                 |
 |  13   |            Relation between FIM (or FIT according to 5) and entropy in QM            |   Open    |                 QM                  |                 |
 
 CS: computer science
-
-## Team
-
-* Riccardo Gatti - School of Mathematics and Statistics, senior researcher in differential equation theory and number theory
-* Marco Rocchetto - PhD in CS, R&D for cybersecurity engineering
 
 ## Videos, docs, links
 
 ### Google meet permalink
 
 [https://meet.google.com/jau-dhck-aeo](https://meet.google.com/jau-dhck-aeo)
-
-### Meeting places and dates
-
-| Places |   Dates    |     Topic      |
-| :----: | :--------: | :------------: |
-| Modena | 08/01/2023 | Meet and greet |
 
 ### Dirac equation video
 
@@ -115,12 +107,12 @@ CS: computer science
 
 ## Bibliograpy
 
-#### Nagy, Á. Int J Quantum Chem 2022, 122( 8), e26679. [https://doi.org/10.1002/qua.26679](https://doi.org/10.1002/qua.26679)
-#### Berkovitz, Joseph, "Action at a Distance in Quantum Mechanics", The Stanford Encyclopedia of Philosophy (Spring 2016 Edition), Edward N. Zalta (ed.), [https://plato.stanford.edu/archives/spr2016/entries/qm-action-distance/](https://plato.stanford.edu/archives/spr2016/entries/qm-action-distance/)
-#### Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/](https://sciencemap.eto.tech/)
-#### Gentle, James E. "Theory of statistics." George Mason University (2013).
-#### Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/cluster/?cluster_id=86103](https://sciencemap.eto.tech/cluster/?cluster_id=86103)
-#### Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/cluster/?cluster_id=60834](https://sciencemap.eto.tech/cluster/?cluster_id=60834)
-#### Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/cluster/?cluster_id=57652](https://sciencemap.eto.tech/cluster/?cluster_id=57652)
-#### Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/cluster/?cluster_id=35006](https://sciencemap.eto.tech/cluster/?cluster_id=35006)
-#### Frieden, B. Roy. Physics from Fisher Information: A Unification. Cambridge University Press, 1998, [https://www.cambridge.org/core/books/physics-from-fisher-information/EAD061980A31B012779A6BC5D7F93822](https://www.cambridge.org/core/books/physics-from-fisher-information/EAD061980A31B012779A6BC5D7F93822)
+1. Nagy, Á. Int J Quantum Chem 2022, 122( 8), e26679. [https://doi.org/10.1002/qua.26679](https://doi.org/10.1002/qua.26679)
+2. Berkovitz, Joseph, "Action at a Distance in Quantum Mechanics", The Stanford Encyclopedia of Philosophy (Spring 2016 Edition), Edward N. Zalta (ed.), [https://plato.stanford.edu/archives/spr2016/entries/qm-action-distance/](https://plato.stanford.edu/archives/spr2016/entries/qm-action-distance/)
+3. Frieden, B. Roy. Physics from Fisher Information: A Unification. Cambridge University Press, 1998, [https://www.cambridge.org/core/books/physics-from-fisher-information/EAD061980A31B012779A6BC5D7F93822](https://www.cambridge.org/core/books/physics-from-fisher-information/EAD061980A31B012779A6BC5D7F93822)
+4. Gentle, James E. "Theory of statistics." George Mason University (2013).
+5. Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/](https://sciencemap.eto.tech/)
+   1. Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/cluster/?cluster_id=86103](https://sciencemap.eto.tech/cluster/?cluster_id=86103)
+   2. Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/cluster/?cluster_id=60834](https://sciencemap.eto.tech/cluster/?cluster_id=60834)
+   3. Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/cluster/?cluster_id=57652](https://sciencemap.eto.tech/cluster/?cluster_id=57652)
+   4. Sciencemap.eto.tech, "ETO Map of Science.", [https://sciencemap.eto.tech/cluster/?cluster_id=35006](https://sciencemap.eto.tech/cluster/?cluster_id=35006)
