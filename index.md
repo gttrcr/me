@@ -19,27 +19,27 @@ Immanuel Kant.
 
 This sentence from Kant was my starting point from which I discovered the greatness of the human region and the existence of what transcends it: the spirit that tends to the supersensible to which man can approach through awareness: the intimate and deep knowledge of the whole. These are not the object of interest of mathematics, but perhaps in the future they will become. The research continues...
 
-### Research
+### Research sites
 * [Wolfram Function Repository](https://resources.wolframcloud.com/publishers/resources?PublisherID=riccardogatti)
 * [OEIS](https://oeis.org/search?q=author:_riccardo+gatti_)
 * [ScienceOpen](https://www.scienceopen.com/search#author/281f0b5f-5c02-4ec3-97c3-81c8a8a3be57)
 * [ORCID](https://orcid.org/0000-0002-3554-4126)
 * [SciProfiles](https://sciprofiles.com/profile/974059)
 
-#### Entropy and information theory
- * [Gatti, R. Structure and Constraints for a Knowledge Architecture. Preprints 2024, 2024031719. https://doi.org/10.20944/preprints202403.1719.v1](https://doi.org/10.20944/preprints202403.1719.v1)
+#### Number theory and discrete mathematics
+* [Gatti, R. Gilbreath Equation, Gilbreath Polynomials, and Upper and Lower Bounds for Gilbreath Conjecture. Mathematics 2023, 11, 4006. https://doi.org/10.3390/math11184006](https://doi.org/10.3390/math11184006)
+* [Gatti, R. and OEIS Foundation Inc. (2022), Triangle read by rows where row m is the m-th Gilbreath polynomial and column n is the numerator of the coefficient of the n-th degree term., Entry A347924 in The On-Line Encyclopedia of Integer Sequences, 2021, http://oeis.org/A347924.](http://oeis.org/A347924)
+* [Gatti, R. and OEIS Foundation Inc. (2022), a(n) is the lowest common denominator of n-th Gilbreath polynomial., Entry A347925 in The On-Line Encyclopedia of Integer Sequences, 2021, http://oeis.org/A347925.](http://oeis.org/A347925)
+* [Gatti, R. and OEIS Foundation Inc. (2022), Number of distinct solutions for the maximum value of the Gilbreath equation of an ordered sequence of n integers., Entry A346270 in The On-Line Encyclopedia of Integer Sequences, 2021, http://oeis.org/A346270.](http://oeis.org/A346270)
+
+#### Information and knowledge theory
+ * [Gatti, R. Structure and Constraints for a Knowledge Architecture. Preprints 2024, 2024031719. https://doi.org/10.20944/preprints202403.1719.v2](https://www.preprints.org/manuscript/202403.1719/v2)
+
+#### Algebra
  * [Gatti, R. "DeBruijnNewmanH." From MathWorld--A Wolfram Web Resource. https://resources.wolframcloud.com/FunctionRepository/resources/DeBruijnNewmanH/](https://resources.wolframcloud.com/FunctionRepository/resources/DeBruijnNewmanH/)
  * [Gatti, R. "HyperDet." From MathWorld--A Wolfram Web Resource. https://resources.wolframcloud.com/FunctionRepository/resources/HyperDet/](https://resources.wolframcloud.com/FunctionRepository/resources/HyperDet/)
  * [Gatti, R. "HyperTr." From MathWorld--A Wolfram Web Resource. https://resources.wolframcloud.com/FunctionRepository/resources/HyperTr/](https://resources.wolframcloud.com/FunctionRepository/resources/HyperTr/)
  * [Gatti, R. "IdentityHypermatrix." From MathWorld--A Wolfram Web Resource. https://resources.wolframcloud.com/FunctionRepository/resources/IdentityHypermatrix/](https://resources.wolframcloud.com/FunctionRepository/resources/IdentityHypermatrix/)
-
-#### Number theory and discrete mathematics
-* [Gatti, R. Gilbreath Equation, Gilbreath Polynomials, and Upper and Lower Bounds for Gilbreath Conjecture. Mathematics 2023, 11, 4006. https://doi.org/10.3390/math11184006](https://doi.org/10.3390/math11184006)
-* [OEIS Foundation Inc. (2022), Triangle read by rows where row m is the m-th Gilbreath polynomial and column n is the numerator of the coefficient of the n-th degree term., Entry A347924 in The On-Line Encyclopedia of Integer Sequences, http://oeis.org/A347924.](http://oeis.org/A347924)
-* [OEIS Foundation Inc. (2022), a(n) is the lowest common denominator of n-th Gilbreath polynomial., Entry A347925 in The On-Line Encyclopedia of Integer Sequences, http://oeis.org/A347925.](http://oeis.org/A347925)
-
-#### Knowledge theory
-* [Gatti, R. Structure and Constraints for a Knowledge Architecture. Preprints 2024, 2024031719. https://doi.org/10.20944/preprints202403.1719.v1](https://www.preprints.org/manuscript/202403.1719/v1)
 
 #### Other issues
 * [Riccardo Gatti. DIY Time Machine. ScienceOpen Preprints. 2023. DOI: 10.14293/PR2199.000233.v1](https://www.scienceopen.com/hosted-document?doi=10.14293/PR2199.000233.v1)
