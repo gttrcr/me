@@ -33,7 +33,7 @@ This sentence from Kant was my starting point from which I discovered the greatn
 * [Gatti, R. and OEIS Foundation Inc. (2022), Number of distinct solutions for the maximum value of the Gilbreath equation of an ordered sequence of n integers., Entry A346270 in The On-Line Encyclopedia of Integer Sequences, 2021, http://oeis.org/A346270.](http://oeis.org/A346270)
 
 #### Information and knowledge theory
- * [Gatti, R. Structure and Constraints for a Knowledge Architecture. Preprints 2024, 2024031719. https://doi.org/10.20944/preprints202403.1719.v2](https://www.preprints.org/manuscript/202403.1719/v2)
+ * [Gatti, R. Structure and Constraints for a Knowledge Architecture. Preprints 2024, 2024031719. https://doi.org/10.20944/preprints202403.1719.v3](https://www.preprints.org/manuscript/202403.1719/v3)
 
 #### Algebra
  * [Gatti, R. "DeBruijnNewmanH." From MathWorld--A Wolfram Web Resource. https://resources.wolframcloud.com/FunctionRepository/resources/DeBruijnNewmanH/](https://resources.wolframcloud.com/FunctionRepository/resources/DeBruijnNewmanH/)
@@ -43,6 +43,8 @@ This sentence from Kant was my starting point from which I discovered the greatn
 
 #### Other issues
 * [Riccardo Gatti. DIY Time Machine. ScienceOpen Preprints. 2023. DOI: 10.14293/PR2199.000233.v1](https://www.scienceopen.com/hosted-document?doi=10.14293/PR2199.000233.v1)
+* [Gatti, Riccardo. "From Doppler effect to black hole." 2024.](https://hal.science/hal-04699724v1)
+* [Gatti, Riccardo. "Launch proposals for a space projectile." (2024).](https://hal.science/hal-04699926v1)
 
 #### Public conferences
 * [Il peso dell'universo, pesi e misure del nostro mondo (ita)](https://www.youtube.com/watch?v=nFTdi6EMYgg)
