@@ -28,6 +28,7 @@ title: Documents
 
 #### Public conferences
 
+* [Proposta AAM](https://docs.google.com/presentation/d/1aNEN-CZV2UoK-SivjiTlQtg7XrRhwbZ3DlNDpeOAmxw)
 * **Il peso dell'universo, pesi e misure del nostro mondo (ita)**
 >
 > * [YouTube](https://www.youtube.com/watch?v=nFTdi6EMYgg)
@@ -37,8 +38,6 @@ title: Documents
 >
 > * [YouTube](https://www.youtube.com/watch?v=_kMhOes90vw)
 > * [Presentation](https://docs.google.com/presentation/d/12HSDGetR3llGfHYdqqxO6pUvUdKpFKod3iBk2cpR0Tg)
-
-* [Proposta AAM](https://docs.google.com/presentation/d/1aNEN-CZV2UoK-SivjiTlQtg7XrRhwbZ3DlNDpeOAmxw)
 
 ##### OneBeWhole events
 
