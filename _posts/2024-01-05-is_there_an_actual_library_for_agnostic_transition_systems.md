@@ -8,8 +8,10 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
 ## Graph libraries by programming languages
+
 ### Python
-1. NetworkX: 
+
+1. NetworkX:
    - NetworkX is one of the most popular libraries for creating, manipulating, and studying the structure, dynamics, and functions of complex networks.
    - Easy to use, extensive documentation, supports both directed and undirected graphs, many built-in algorithms (e.g., shortest path, clustering, etc.), visualization capabilities (when combined with Matplotlib or other visualization tools).
    - [NetworkX](https://networkx.github.io/documentation/stable/)
@@ -25,6 +27,7 @@ feature_image: "https://picsum.photos/2560/600?image=872"
    - [PyVis](https://pyvis.readthedocs.io/)
 
 ### JavaScript
+
 1. D3.js:
    - D3.js is a powerful library for creating dynamic and interactive data visualizations in web browsers.
    - Extensive capabilities for data visualization, integrates well with web technologies, highly customizable.
@@ -36,6 +39,7 @@ feature_image: "https://picsum.photos/2560/600?image=872"
    - [vis.js](http://visjs.org/)
 
 ### Java
+
 1. JGraphT:
    - JGraphT is a free Java graph library that provides mathematical graph-theory objects and algorithms.
    - Comprehensive set of algorithms, supports various types of graphs (directed, undirected, weighted, etc.), good performance.
@@ -47,6 +51,7 @@ feature_image: "https://picsum.photos/2560/600?image=872"
    - [JUNG](https://github.com/jrtom/jung)
 
 ### R
+
 1. igraph:
    - Similar to its Python counterpart, igraph for R is used for network analysis and visualization.
    - Efficient graph manipulation, comprehensive algorithms, visualization capabilities.
@@ -58,6 +63,7 @@ feature_image: "https://picsum.photos/2560/600?image=872"
    - [networkD3](https://christophergandrud.github.io/networkD3/)
 
 ### C++
+
 1. Boost Graph Library (BGL):
    - BGL is a powerful, flexible, and efficient library for graph data structures and algorithms.
    - Extensive range of algorithms, highly efficient, part of the larger Boost C++ Libraries collection.
@@ -89,6 +95,7 @@ feature_image: "https://picsum.photos/2560/600?image=872"
    - *Preferred for dynamic graph scenarios, especially where real-time updates and high throughput are critical.*
 
 ### Wolfram Language
+
 1. Wolfram Language
    - Numeric and symbolic computation: The Wolfram Language excels at symbolic mathematics, enabling manipulation of algebraic expressions, solving equations symbolically, and performing calculus operations like differentiation and integration. It supports high-precision arithmetic, numerical solving of equations, optimization, and extensive support for linear algebra and other numerical methods.
    - Built-in Algorithms: the language provides comprehensive tools for creating both static and interactive visualizations, including 2D and 3D plots, charts, graphs, and custom graphics. Built-in functions for data import, cleaning, analysis, and visualization. Machine learning capabilities include supervised and unsupervised learning, neural networks, and natural language processing.
@@ -96,6 +103,7 @@ feature_image: "https://picsum.photos/2560/600?image=872"
    - Integration and Connectivity: Seamless integration with external systems, databases, and APIs. It also supports a wide range of file formats for import and export.
 
 ## Modeling tools
+
 1. Z Notation:
     - A formal language for specifying computer systems. It uses a set of mathematical symbols to describe the states and transitions of a system.
     - Particularly used for the specification of critical systems where a high level of accuracy is essential.
@@ -159,16 +167,18 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 16. BPMN (Business Process Model and Notation): Used for business process modeling, BPMN offers a standard notation that is understandable by both technical and non-technical users, making it easy to analyze and optimize business workflows.
 17. C4 Model: A modeling approach to software architecture that provides a series of diagrams to represent different levels of detail in a software system. It is appreciated for its simplicity and ease of understanding, making it accessible to different stakeholders.
 18. Alloy: lightweight formal modeling notation and analysis tool used primarily in software engineering to specify and analyze software systems.
-   - Provides a formal modeling language for describing abstract software structures and behaviors. It allows to specify the structure of a system, its properties, and constraints in a concise and precise manner.
-   - Declarative syntax that emphasizes what needs to be modeled rather than how it should be implemented. This makes models more concise and easier to understand, promoting better communication among stakeholders.
-   - Include a model analyzer that can automatically check the consistency of models and verify properties specified in Alloy. This helps in detecting design flaws, inconsistencies, and potential errors early in the development process.
-   - Allows to specify the scope and bounds of the model, which helps in controlling the complexity of analysis.
-   - Can generate counterexamples that illustrate why the property does not hold. This helps developers understand the causes of design flaws and refine their models accordingly.
-   - Come with integrations for popular Integrated Development Environments (IDEs) such as Eclipse and IntelliJ IDEA.
-   - Widely used in academia as an educational tool for teaching formal methods and software engineering concepts. Its simple yet powerful syntax makes it suitable for introducing students to formal modeling and analysis techniques.
-   - Active community of users and researchers contributing to the development and improvement of Alloy. This community provides resources, tutorials, and case studies that help newcomers learn and apply Alloy effectively.
+
+- Provides a formal modeling language for describing abstract software structures and behaviors. It allows to specify the structure of a system, its properties, and constraints in a concise and precise manner.
+- Declarative syntax that emphasizes what needs to be modeled rather than how it should be implemented. This makes models more concise and easier to understand, promoting better communication among stakeholders.
+- Include a model analyzer that can automatically check the consistency of models and verify properties specified in Alloy. This helps in detecting design flaws, inconsistencies, and potential errors early in the development process.
+- Allows to specify the scope and bounds of the model, which helps in controlling the complexity of analysis.
+- Can generate counterexamples that illustrate why the property does not hold. This helps developers understand the causes of design flaws and refine their models accordingly.
+- Come with integrations for popular Integrated Development Environments (IDEs) such as Eclipse and IntelliJ IDEA.
+- Widely used in academia as an educational tool for teaching formal methods and software engineering concepts. Its simple yet powerful syntax makes it suitable for introducing students to formal modeling and analysis techniques.
+- Active community of users and researchers contributing to the development and improvement of Alloy. This community provides resources, tutorials, and case studies that help newcomers learn and apply Alloy effectively.
 
 ## UMLs and representation software
+
 UML tools are software applications that aid in the creation, analysis, and management of UML diagrams and models, which are crucial for visualizing the design of software systems. These tools offer graphical interfaces for drawing various UML diagrams such as class diagrams, sequence diagrams, use case diagrams, and activity diagrams, among others. These diagrams are essential for representing both the static structure and dynamic behavior of a system. UML tools also support model management by providing features such as version control, model comparison, and merging, ensuring consistency and coherence across different parts of a model. In addition, many of these tools include code generation capabilities, enabling the automatic creation of source code from UML diagrams in various programming languages. This feature is particularly useful for bridging the gap between design and implementation. Moreover, some UML tools offer reverse engineering capabilities, allowing users to generate UML diagrams from existing source code. This is beneficial for understanding and documenting legacy systems. Modern UML tools often facilitate collaboration by allowing multiple users to work on the same model simultaneously. They also provide robust documentation generation features, making it easier to communicate design details to stakeholders. Advanced UML tools come equipped with validation features to check the correctness and consistency of models. Some also support simulation, which helps in testing the behavior of the system as depicted by the UML diagrams. These comprehensive functionalities make UML tools indispensable for system architects, designers, and developers, enhancing the clarity, consistency, and communication of system designs.
 
 ls include IBM Rational Rose, Sparx Systems Enterprise Architect, Microsoft Visio, Lucidchart, Visual Paradigm, and ArgoUML. Each of these tools has its own set of features and strengths, tailored to different aspects of UML modeling and various stages of the software development lifecycle. Consider the following list about [Unified Modeling Language tools](https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools) and the following table (sublist of the previous list filtered by tools whose last release occurred after 2020).
@@ -199,6 +209,7 @@ ls include IBM Rational Rose, Sparx Systems Enterprise Architect, Microsoft Visi
 |          CaseComplete           |                Serlio Software                 |                               Windows                               |         2004         |          2020 (v15)           |     No      |                                 Commercial                                 |              C#              |
 
 ## Source
-- Consider the following [Overview of Standard Graph File Formats](https://intranet.icar.cnr.it/wp-content/uploads/2018/12/RT-ICAR-PA-2018-06.pdf) from Consiglio Nazionale delle Ricerche Istituto di Calcolo e Reti ad Alte Prestazioni 
+
+- Consider the following [Overview of Standard Graph File Formats](https://intranet.icar.cnr.it/wp-content/uploads/2018/12/RT-ICAR-PA-2018-06.pdf) from Consiglio Nazionale delle Ricerche Istituto di Calcolo e Reti ad Alte Prestazioni
 
 Updates coming soon...

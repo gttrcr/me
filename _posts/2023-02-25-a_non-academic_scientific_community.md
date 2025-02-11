@@ -7,6 +7,7 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
 The majority of scientific researches and publications are produced by people who belong to the academic world (especially universities or public or private research centres) and who carry out research works on the basis of projects research approved and funded. As scientific director, I conduct research for private companies but at the end of the day the work doesn't end because curiosity keeps asking new questions. So it seemed natural to me to start looking for other people who carried out quality research activities driven by curiosity and the desire for knowledge. I've found a huge amount of articles dealing with this and other similar issues:
+
 1. [Doing research outside of academia, without a Phd?](https://academia.stackexchange.com/questions/531/doing-research-outside-of-academia-without-a-phd)
 2. [Do journals in general have any kind of policy regarding papers submitted by someone without a research affiliation?](https://academia.stackexchange.com/questions/385/do-journals-in-general-have-any-kind-of-policy-regarding-papers-submitted-by-som)
 3. [Is it possible to conduct research if I'm not associated with a university or scientific institution?](https://www.quora.com/Is-it-possible-to-conduct-research-if-Im-not-associated-with-a-university-or-scientific-institution)
