@@ -35,8 +35,8 @@ title: Documents
 
 * **Dall'effetto doppler ai buchi neri**
 >
-> * [youtube](https://www.youtube.com/watch?v=_kMhOes90vw)
-> * [presentation](https://docs.google.com/presentation/d/12HSDGetR3llGfHYdqqxO6pUvUdKpFKod3iBk2cpR0Tg)
+> * [YouTube](https://www.youtube.com/watch?v=_kMhOes90vw)
+> * [Presentation](https://docs.google.com/presentation/d/12HSDGetR3llGfHYdqqxO6pUvUdKpFKod3iBk2cpR0Tg)
 
 ##### OneBeWhole events
 
