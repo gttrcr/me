@@ -38,6 +38,8 @@ title: Documents
 > * [YouTube](https://www.youtube.com/watch?v=_kMhOes90vw)
 > * [Presentation](https://docs.google.com/presentation/d/12HSDGetR3llGfHYdqqxO6pUvUdKpFKod3iBk2cpR0Tg)
 
+* [Proposta AAM](https://docs.google.com/presentation/d/1aNEN-CZV2UoK-SivjiTlQtg7XrRhwbZ3DlNDpeOAmxw)
+
 ##### OneBeWhole events
 
 * [Episodio 1](https://docs.google.com/presentation/d/1bMjseEkjzre_c-XUUk6Deoa7AOylIqJSKk8gjcWrOWg)
