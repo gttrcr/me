@@ -1,8 +1,6 @@
 ---
 title: Documents
-layout: default
 excerpt: "My documents"
-aside: true
 ---
 
 ## OneBeWhole events
