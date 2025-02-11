@@ -125,14 +125,14 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 4. SMV (Symbolic Model Verifier):
     - A specification language and model checking tool for checking logical properties in systems.
     - Mainly used for verifying hardware models and protocols.
-5.B Method:
+5. B Method:
     - A formal method for specifying, designing, and coding reliable software.
     - Used in environments where formal correctness is crucial, such as aerospace and railway systems.
     - Atelier B, a suite of tools to support development based on the B method.
 6. Promela (Process Meta Language):
     - A specification language used with the SPIN formal verification tool.
     - Used to describe and analyze concurrent and communication systems.
-7.Coq:
+7. Coq:
     - A formal proof assistant that allows you to specify programs and verify their correctness.
     - Used in mathematics and computer science to verify complex theorems and programs.
     - The Coq IDE development environment provides an interface for interacting with the Coq language.
