@@ -29,20 +29,21 @@ title: Documents
 #### Public conferences
 
 * [Proposta AAM](https://docs.google.com/presentation/d/1aNEN-CZV2UoK-SivjiTlQtg7XrRhwbZ3DlNDpeOAmxw)
-* **Il peso dell'universo, pesi e misure del nostro mondo (ita)**
+* [Il peso dell'universo, pesi e misure del nostro mondo](https://docs.google.com/presentation/d/1lZmbKXsS2sEuHSSA7Ct0fx59Nta2N1AEejtJeXnxaR8)
 >
 > * [YouTube](https://www.youtube.com/watch?v=nFTdi6EMYgg)
-> * [Presentation](https://docs.google.com/presentation/d/1lZmbKXsS2sEuHSSA7Ct0fx59Nta2N1AEejtJeXnxaR8)
 
-* **Dall'effetto doppler ai buchi neri**
+* [Dall'effetto doppler ai buchi neri](https://docs.google.com/presentation/d/12HSDGetR3llGfHYdqqxO6pUvUdKpFKod3iBk2cpR0Tg)
 >
 > * [YouTube](https://www.youtube.com/watch?v=_kMhOes90vw)
-> * [Presentation](https://docs.google.com/presentation/d/12HSDGetR3llGfHYdqqxO6pUvUdKpFKod3iBk2cpR0Tg)
 
-##### OneBeWhole events
+* [Cosa cercano i ricercatori](https://docs.google.com/presentation/d/1VojKFfiyP4n0zEsuGLv5mulMSDL07ZCslnsJGmsTHEI)
 
-* [Episodio 1](https://docs.google.com/presentation/d/1bMjseEkjzre_c-XUUk6Deoa7AOylIqJSKk8gjcWrOWg)
-* [Episodio 2](https://docs.google.com/presentation/d/1xYdcakCqig7M2fdCikabc7WD7MlXGYmqg2KAEF6TeKs)
+##### OneBeWhole episodes
+
+1. [Coerenza e logica a fondamento dell'universo](https://docs.google.com/presentation/d/1bMjseEkjzre_c-XUUk6Deoa7AOylIqJSKk8gjcWrOWg)
+2. [Conoscenza e principio di realtà](https://docs.google.com/presentation/d/1xYdcakCqig7M2fdCikabc7WD7MlXGYmqg2KAEF6TeKs)
+3. [Onde e suono](https://docs.google.com/presentation/d/1v1UrMeibYaoGh-MX4iE8BswV2iop7n1lRZ1wWPwn3Sg)
 
 ##### Edulife ETS
 
