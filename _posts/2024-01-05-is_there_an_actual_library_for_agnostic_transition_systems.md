@@ -211,5 +211,3 @@ ls include IBM Rational Rose, Sparx Systems Enterprise Architect, Microsoft Visi
 ## Source
 
 - Consider the following [Overview of Standard Graph File Formats](https://intranet.icar.cnr.it/wp-content/uploads/2018/12/RT-ICAR-PA-2018-06.pdf) from Consiglio Nazionale delle Ricerche Istituto di Calcolo e Reti ad Alte Prestazioni
-
-Updates coming soon...

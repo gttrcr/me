@@ -14,7 +14,6 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 - [Information](#information)
 - [Research line](#research-line)
 - [Videos, docs, links](#videos-docs-links)
-  - [Google meet permalink](#google-meet-permalink)
   - [Dirac equation video](#dirac-equation-video)
   - [QFT playlist](#qft-playlist)
 - [Bibliograpy](#bibliograpy)
@@ -29,8 +28,8 @@ In the context of quantum mechanics (QM), non-locality has taken on a particular
 QM is a non-local theory [[berkovitz](#berkovitz-joseph-action-at-a-distance-in-quantum-mechanics-the-stanford-encyclopedia-of-philosophy-spring-2016-edition-edward-n-zalta-ed-httpsplatostanfordeduarchivesspr2016entriesqm-action-distance)]. BUT this in no way violates the fundamental principles of physics since when non-local phenomena occur, no information has traveled from one element to another: a non-local connection is not-informational. Since there is no information involved in the connection, its speed is not required to be less or equal that $c$. Since there is no information involved in the connection, it is not required that the principle of locality be respected and therefore the constraint that the signal must travel at the maximum speed of light is dropped. At this point the locality/non-locality problem has become an informational/non-informational type problem on which we will dwell at length.
 Consider the following table:
 
-|    Principle    |  Property   |           Justification            |
-| :-------------: | :---------: | :--------------------------------: |
+|    Principle    | Property  |           Justification            |
+| :-------------: | :-------: | :--------------------------------: |
 |    Locality     | $v\leq c$ |       Definition of locality       |
 |   Information   | $v\leq c$ |                 GR                 |
 |  Non-locality   |   $v>c$   | Negation of definition of locality |
@@ -38,8 +37,8 @@ Consider the following table:
 
 Hence,
 
-| Locality status |  Property   | Informative status |
-| :-------------: | :---------: | :----------------: |
+| Locality status | Property  | Informative status |
+| :-------------: | :-------: | :----------------: |
 |    Locality     | $v\leq c$ |    Information     |
 |  Non-locality   |   $v>c$   |  Non-information   |
 
@@ -90,10 +89,6 @@ The following table (updated at 24 january 2023) can be found, always updated, a
 CS: computer science
 
 ## Videos, docs, links
-
-### Google meet permalink
-
-[https://meet.google.com/jau-dhck-aeo](https://meet.google.com/jau-dhck-aeo)
 
 ### Dirac equation video
 
