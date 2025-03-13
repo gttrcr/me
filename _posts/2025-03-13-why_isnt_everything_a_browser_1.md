@@ -79,3 +79,7 @@ It would also be possible to study the interesting relationships between the cha
 
 **References:**  
 For historical and technical challenges in web and software development, see insights on browser compatibility and early internet speed issues on [MDN Web Docs](https://developer.mozilla.org). For trends in modern challenges like decentralization and AI in software distribution, see analyses from industry sources such as [Wired](https://www.wired.com) and [Smashing Magazine](https://www.smashingmagazine.com).
+
+| **Previous** |                                       **Next**                                        |
+| :----------: | :-----------------------------------------------------------------------------------: |
+|              | [Why isn't everything a browser? II](./2025-03-13-why_isnt_everything_a_browser_2.md) |
