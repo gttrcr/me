@@ -2,9 +2,9 @@
 title: gttrcr
 feature_text: |
   ## gttrcr
-  ## My experience, my business, my life
+  experience, business, life
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: gttrcr
+# excerpt: gttrcr
 ---
 
 **Senior Researcher**: My research in mathematics spans from number theory to Riemannian manifolds, particularly in statistical manifolds and information theory. While I have a deep passion for physics and computer science, I see mathematics as the art of ideas, an exploration of the logic of thought that enables us to describe, understand, and communicate human knowledge.
