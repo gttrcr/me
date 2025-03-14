@@ -2,20 +2,24 @@
 title: gttrcr
 feature_text: |
   ## gttrcr
-  My experience, my business, my life
+  ## My experience, my business, my life
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: gttrcr
 ---
 
-* As a senior researcher
-  * my research activity in mathematics ranges from number theory to Riemannian manifolds. I have a great passion for physics and computer science but I have always thought that mathematics is the art of ideas, the study of the logic of thought under which it was possible to describe what the human intellect knows and communicates.
-* As a co-founder
-  * I am the technical director at the company I co-founded that deals with the integration of technologies and the simplification of technological processes by moving the complexity from use to development. The future of technology is TRUE process simplification and the shifting of complexity into the development process.
-* As a human
-  * I let it be, the one be the whole, the Universe act and the higher will be done. She knows the right way.
+**Senior Researcher**: My research in mathematics spans from number theory to Riemannian manifolds, particularly in statistical manifolds and information theory. While I have a deep passion for physics and computer science, I see mathematics as the art of ideas, an exploration of the logic of thought that enables us to describe, understand, and communicate human knowledge.
 
-*All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.*
-Immanuel Kant.
+**Co-Founder & Technical Director**: As the technical director of the company I co-founded, I focus on integrating technologies and simplifying technological processes by shifting complexity from the user experience to the development phase. True technological progress lies in genuine process simplification, ensuring that complexity serves development rather than obstructing usability.
+
+**Philosophy**: Let the one be the whole, the Universe act, and the higher will be done. She knows the right way.
+
+<div style="text-align: right">
+  All our knowledge begins with the
+  <br>senses, proceeds then to the 
+  <br>understanding, and ends with reason.
+  <br> There is nothing higher than reason.
+  <br><br>Immanuel Kant, Critique of Pure Reason
+</div>
 
 This sentence from Kant was my starting point from which I discovered the greatness of the human region and the existence of what transcends it: the spirit that tends to the supersensible to which man can approach through awareness: the intimate and deep knowledge of the whole. These are not the object of interest of mathematics, but perhaps in the future they will become. The research continues...
 
