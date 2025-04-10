@@ -7,11 +7,26 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 <div style="width: 100%; display: flex; justify-content: center;">
-  <a title="My GitHub profile" href="https://github.com/gttrcr" style="border-radiu: 10%; margin: 10px">
-    <img width="50px" alt="My GitHub profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/512px-Octicons-mark-github.svg.png?20180806170715">
+  <a title="My GitHub profile" href="https://github.com/gttrcr">
+    <img style="border-radius: 100%; margin: 10px; height: 50px" alt="My GitHub profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/512px-Octicons-mark-github.svg.png?20180806170715">
   </a>
-  <a title="My LinkedIn profile" href="https://www.linkedin.com/in/gttrcr" style="border-radiu: 10%; margin: 10px">
-    <img width="50px" alt="My LinkedIn profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/64px-LinkedIn_icon.svg.png?20210220164014">
+  <a title="My LinkedIn profile" href="https://www.linkedin.com/in/gttrcr">
+    <img style="border-radius: 100%; margin: 10px; height: 50px" alt="My LinkedIn profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/64px-LinkedIn_icon.svg.png?20210220164014">
+  </a>
+  <a title="My Mathematica profile" href="https://resources.wolframcloud.com/publishers/resources?PublisherID=riccardogatti">
+    <img style="border-radius: 100%; margin: 10px; height: 50px" alt="My Mathematica profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/128px-Mathematica_Logo.svg.png?20220205063042">
+  </a>
+  <a title="My OEIS profile" href="https://oeis.org/search?q=author:_riccardo+gatti_">
+    <img style="border-radius: 100%; margin: 10px; height: 50px" alt="My OEIS profile" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/OEIS_icon.png?20161112023315">
+  </a>
+  <a title="My scienceopen profile" href="https://www.scienceopen.com/search#author/281f0b5f-5c02-4ec3-97c3-81c8a8a3be57">
+    <img style="border-radius: 100%; margin: 10px; height: 50px" alt="My scienceopen profile" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Science_Open.jpg?20220923142801">
+  </a>
+  <a title="My ORCID profile" href="https://orcid.org/0000-0002-3554-4126">
+    <img style="border-radius: 100%; margin: 10px; height: 50px" alt="My ORCID profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/512px-ORCID_-_SuperTinyIcons.svg.png?20201124184043">
+  </a>
+  <a title="My sciprofiles profile" href="https://sciprofiles.com/profile/974059">
+    <img style="border-radius: 100%; margin: 10px; height: 50px" alt="My sciprofiles profile" src="https://sciprofiles.com/images/sciprofiles-primary-logo.svg">
   </a>
 </div>
 <img src="assets/crop.jpeg" alt="Me in the observatory" style="height: 200px; border-radius: 10%; float: left; margin: 10px">
