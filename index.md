@@ -6,6 +6,14 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 # excerpt: gttrcr
 ---
 
+<div style="width: 100%; display: flex; justify-content: center;">
+  <a title="My GitHub profile" href="https://github.com/gttrcr" style="border-radiu: 10%; margin: 10px">
+    <img width="50px" alt="My GitHub profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/512px-Octicons-mark-github.svg.png?20180806170715">
+  </a>
+  <a title="My LinkedIn profile" href="https://www.linkedin.com/in/gttrcr" style="border-radiu: 10%; margin: 10px">
+    <img width="50px" alt="My LinkedIn profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/64px-LinkedIn_icon.svg.png?20210220164014">
+  </a>
+</div>
 <img src="assets/crop.jpeg" alt="Me in the observatory" style="height: 200px; border-radius: 10%; float: left; margin: 10px">
 Good evening, I am Riccardo Gatti. From a young age, I have nurtured a deep passion for science, entrepreneurship, and knowledge dissemination, convinced that knowledge is the driving force behind positive change in society. During my years at Liceo Scientifico Belfiore, I began dedicating myself to research and the spread of ideas, exchanging correspondence and studying in depth alongside great minds such as Bruno Bertotti—experiences that profoundly shaped me.  
 
