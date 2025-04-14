@@ -22,16 +22,18 @@ title: Documents
 
 #### Other issues
 
-* [Riccardo Gatti. DIY Time Machine. ScienceOpen Preprints. 2023. DOI: 10.14293/PR2199.000233.v1](https://www.scienceopen.com/hosted-document?doi=10.14293/PR2199.000233.v1)
+* [Proposte UGIC](https://docs.google.com/presentation/d/1cEOFR3RM2WPedrCCym83LUMk68P4wdOmr82p1ZFvhE0)
+* [Proposte AAM](https://docs.google.com/presentation/d/1aNEN-CZV2UoK-SivjiTlQtg7XrRhwbZ3DlNDpeOAmxw)
+* [Lettera aperta all'Accademia Nazionale Virgiliana](https://drive.google.com/file/d/15znsJGUHQZ_2Lm1N0Oxo0Ib1uc5Q3yeH)
 * [Gatti, Riccardo. "From Doppler effect to black hole." 2024.](https://hal.science/hal-04699724v1)
 * [Gatti, Riccardo. "Launch proposals for a space projectile." (2024).](https://hal.science/hal-04699926v1)
+* [Riccardo Gatti. DIY Time Machine. ScienceOpen Preprints. 2023. DOI: 10.14293/PR2199.000233.v1](https://www.scienceopen.com/hosted-document?doi=10.14293/PR2199.000233.v1)
 
 #### Public conferences
 
 * [Cosa cercano i ricercatori](https://docs.google.com/presentation/d/1VojKFfiyP4n0zEsuGLv5mulMSDL07ZCslnsJGmsTHEI)
 >
 > * [YouTube](https://www.youtube.com/watch?v=UGolZAA2E-c)
-* [Proposta AAM](https://docs.google.com/presentation/d/1aNEN-CZV2UoK-SivjiTlQtg7XrRhwbZ3DlNDpeOAmxw)
 * [Il peso dell'universo, pesi e misure del nostro mondo](https://docs.google.com/presentation/d/1lZmbKXsS2sEuHSSA7Ct0fx59Nta2N1AEejtJeXnxaR8)
 >
 > * [YouTube](https://www.youtube.com/watch?v=nFTdi6EMYgg)
@@ -41,9 +43,9 @@ title: Documents
 
 ##### OneBeWhole episodes
 
-1. [Coerenza e logica a fondamento dell'universo](https://docs.google.com/presentation/d/1bMjseEkjzre_c-XUUk6Deoa7AOylIqJSKk8gjcWrOWg)
-2. [Conoscenza e principio di realtà](https://docs.google.com/presentation/d/1xYdcakCqig7M2fdCikabc7WD7MlXGYmqg2KAEF6TeKs)
-3. [Onde e suono](https://docs.google.com/presentation/d/1v1UrMeibYaoGh-MX4iE8BswV2iop7n1lRZ1wWPwn3Sg)
+* [Coerenza e logica a fondamento dell'universo](https://docs.google.com/presentation/d/1bMjseEkjzre_c-XUUk6Deoa7AOylIqJSKk8gjcWrOWg)
+* [Conoscenza e principio di realtà](https://docs.google.com/presentation/d/1xYdcakCqig7M2fdCikabc7WD7MlXGYmqg2KAEF6TeKs)
+* [Onde e suono](https://docs.google.com/presentation/d/1v1UrMeibYaoGh-MX4iE8BswV2iop7n1lRZ1wWPwn3Sg)
 
 ##### Edulife ETS
 
