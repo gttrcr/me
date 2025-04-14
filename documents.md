@@ -31,15 +31,9 @@ title: Documents
 
 #### Public conferences
 
-* [Cosa cercano i ricercatori](https://docs.google.com/presentation/d/1VojKFfiyP4n0zEsuGLv5mulMSDL07ZCslnsJGmsTHEI)
->
-> * [YouTube](https://www.youtube.com/watch?v=UGolZAA2E-c)
-* [Il peso dell'universo, pesi e misure del nostro mondo](https://docs.google.com/presentation/d/1lZmbKXsS2sEuHSSA7Ct0fx59Nta2N1AEejtJeXnxaR8)
->
-> * [YouTube](https://www.youtube.com/watch?v=nFTdi6EMYgg)
-* [Dall'effetto doppler ai buchi neri](https://docs.google.com/presentation/d/12HSDGetR3llGfHYdqqxO6pUvUdKpFKod3iBk2cpR0Tg)
->
-> * [YouTube](https://www.youtube.com/watch?v=_kMhOes90vw)
+* Cosa cercano i ricercatori. [SLIDE](https://docs.google.com/presentation/d/1VojKFfiyP4n0zEsuGLv5mulMSDL07ZCslnsJGmsTHEI), [YouTube](https://www.youtube.com/watch?v=UGolZAA2E-c)
+* Il peso dell'universo, pesi e misure del nostro mondo. [SLIDE](https://docs.google.com/presentation/d/1lZmbKXsS2sEuHSSA7Ct0fx59Nta2N1AEejtJeXnxaR8), [YouTube](https://www.youtube.com/watch?v=nFTdi6EMYgg)
+* Dall'effetto doppler ai buchi neri. [SLIDE](https://docs.google.com/presentation/d/12HSDGetR3llGfHYdqqxO6pUvUdKpFKod3iBk2cpR0Tg), [YouTube](https://www.youtube.com/watch?v=_kMhOes90vw)
 
 #### OneBeWhole episodes
 
