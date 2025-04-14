@@ -41,16 +41,21 @@ title: Documents
 >
 > * [YouTube](https://www.youtube.com/watch?v=_kMhOes90vw)
 
-##### OneBeWhole episodes
+#### OneBeWhole episodes
 
 * [Coerenza e logica a fondamento dell'universo](https://docs.google.com/presentation/d/1bMjseEkjzre_c-XUUk6Deoa7AOylIqJSKk8gjcWrOWg)
 * [Conoscenza e principio di realtà](https://docs.google.com/presentation/d/1xYdcakCqig7M2fdCikabc7WD7MlXGYmqg2KAEF6TeKs)
 * [Onde e suono](https://docs.google.com/presentation/d/1v1UrMeibYaoGh-MX4iE8BswV2iop7n1lRZ1wWPwn3Sg)
 
-##### Edulife ETS
+#### Edulife ETS
 
 * [Cryptography, offensive security](https://docs.google.com/presentation/d/1CzB422ObjMSnv7UCtEw0OiZ1nbefUbdEWy_PuXatvI8)
 
-##### Template
+#### Newspaper articles 
 
-* [Template](https://docs.google.com/presentation/d/1fjZnhQu3gGFyMfYQ6sPxOxDp2RTu-tpCVNcV-UAU4WM)
+* [Un telescopio che ascolta le stelle: il progetto dell’astrofilo mantovano Gatti](https://www.gazzettadimantova.it/ricerca-azienda-studio-astrofilo-mantovano-1.12624582)
+* [Dal 28 marzo a San Benedetto Po con il naso all’insù: ecco gli appuntamenti degli astrofili](https://www.gazzettadimantova.it/argomenti/cultura/cultura/mantova-san-benedetto-po-astronomia-astrofisica-1.12625992)
+
+<!-- #### Template
+
+* [Template](https://docs.google.com/presentation/d/1fjZnhQu3gGFyMfYQ6sPxOxDp2RTu-tpCVNcV-UAU4WM) -->
