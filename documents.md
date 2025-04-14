@@ -22,7 +22,7 @@ title: Documents
 
 #### Other issues
 
-* [Proposte UGIC](https://docs.google.com/presentation/d/1cEOFR3RM2WPedrCCym83LUMk68P4wdOmr82p1ZFvhE0)
+* [Proposte UGIS](https://docs.google.com/presentation/d/1cEOFR3RM2WPedrCCym83LUMk68P4wdOmr82p1ZFvhE0)
 * [Proposte AAM](https://docs.google.com/presentation/d/1aNEN-CZV2UoK-SivjiTlQtg7XrRhwbZ3DlNDpeOAmxw)
 * [Lettera aperta all'Accademia Nazionale Virgiliana](https://drive.google.com/file/d/15znsJGUHQZ_2Lm1N0Oxo0Ib1uc5Q3yeH)
 * [Gatti, Riccardo. "From Doppler effect to black hole." 2024.](https://hal.science/hal-04699724v1)
